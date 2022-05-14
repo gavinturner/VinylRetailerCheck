@@ -1,4 +1,4 @@
-package main
+package retailers
 
 import "github.com/pkg/errors"
 

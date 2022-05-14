@@ -1,4 +1,4 @@
-package main
+package retailers
 
 type SKU struct {
 	Url    string

@@ -12,6 +12,7 @@ import (
 	"strings"
 	"time"
 
+	"github.com/gavinturner/VinylRetailChecker/files"
 	gomail "gopkg.in/mail.v2"
 )
 
@@ -26,8 +27,8 @@ const (
 func main() {
 
 	fmt.Println("Vinyl checker")
-	data := PricesStore{}
-	err := data.LoadFromFile(OUT_FILE)
+	data := files.PricesStore{}
+	err := data.LoadFromFile(files.OUT_FILE)
 	if err != nil {
 		panic(err)
 	}
