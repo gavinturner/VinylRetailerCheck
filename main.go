@@ -2,7 +2,6 @@
 package main
 
 import (
-	"bufio"
 	"crypto/tls"
 	"fmt"
 	"io/ioutil"
@@ -50,7 +49,7 @@ func main() {
 
 	for {
 		// read the supplied list of artists (one per line, first CLP)
-		artists := ArtistsList
+		artists := files.ArtistsList{}
 		err = artists.Read(fileName)
 		if err != nil {
 			panic(err)

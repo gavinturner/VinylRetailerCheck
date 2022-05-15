@@ -1,14 +1,11 @@
 package retailers
 
-type SKU struct {
-	Url    string
-	Artist string
-	Image  string
-	Name   string
-	Price  string
-}
+import (
+	"github.com/gavinturner/VinylRetailChecker/db"
+	"github.com/gavinturner/VinylRetailChecker/files"
+)
 
 type VinylRetailer interface {
 	GetArtistQueryURL(artist string) string
-	ScrapeArtistReleases(artist string, prices *KnownPrices) (findings []SKU, found bool)
+	ScrapeArtistReleases(artist string, prices *files.PricesStore) (findings []db.SKU, found bool)
 }
