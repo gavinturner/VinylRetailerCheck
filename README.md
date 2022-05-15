@@ -1,5 +1,6 @@
 # VinylRetailerCheck
-Checks selected vinyl retailers for new listings or prices
+Checks selected vinyl retailers for new listings or prices. Keeps a running list of previous prices found
+for artists of interest.
 
-# setup for the project git repo root for imports:
-go mod init github.com/gavinturner/VinylRetailChecker
+* setup required so that the project recognises its root git repo for imports:
+  - go mod init github.com/gavinturner/VinylRetailChecker

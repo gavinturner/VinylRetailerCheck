@@ -28,11 +28,12 @@ func main() {
 
 	fmt.Println("Vinyl checker")
 	data := files.PricesStore{}
-	err := data.LoadFromFile(files.OUT_FILE)
+	err := data.LoadFromFile(files.PRICES_STORE)
 	if err != nil {
 		panic(err)
 	}
 
+	// get the artists file path as cmd line param
 	argsWithoutProg := os.Args[1:]
 	fileName := ""
 	if len(argsWithoutProg) >= 1 {
@@ -81,7 +82,7 @@ func main() {
 		}
 
 		// write the data file back out for next pass..
-		err = data.DumpToFile(OUT_FILE)
+		err = data.DumpToFile(files.PRICES_STORE)
 		if err != nil {
 			panic(err)
 		}
@@ -160,69 +161,6 @@ func processArtistsFirst(artist string, data map[string]map[string]string) (find
 			}
 			// store new price
 			data[artist][name] = price
-		}
-	}
-	fmt.Printf("done\n")
-	return findings, found
-}
-
-func processCitadelHardons(data map[string]map[string]string) (string, bool) {
-	fmt.Printf("Checking Citadel: hard-ons...")
-	findings := ""
-	found := false
-	query := CITADEL_URL
-	resp, err := http.Get(query)
-	if err != nil {
-		fmt.Printf("[FAILED: %s]..", err.Error())
-		return "", false
-	}
-	body, err := ioutil.ReadAll(resp.Body)
-	if err != nil {
-		fmt.Printf("[FAILED: %s]..", err.Error())
-		return "", false
-	}
-	toks := strings.Split(string(body), ">")
-
-	for idx, t := range toks {
-		if strings.Index(t, "class=\"titlename\"") >= 0 {
-			t = strings.TrimSpace(toks[idx+1])
-			name := strings.TrimSuffix(t, "<br /")
-
-			image := ""
-			price := ""
-			for x := idx + 1; x < len(toks); x++ {
-				if strings.Index(toks[x], "<img") >= 0 {
-					image = toks[x]
-					break
-				}
-			}
-			for x := idx + 1; x < len(toks); x++ {
-				if strings.Index(toks[x], "Price") >= 0 {
-					price = toks[x]
-					break
-				}
-			}
-			price = strings.TrimSuffix(price, "<br /")
-			price = strings.TrimSuffix(price, "<br/")
-			price = strings.TrimSpace(price)
-			price = strings.TrimPrefix(price, "Price:")
-			price = strings.TrimSpace(price)
-
-			image += "/>"
-			image = strings.Replace(image, "img SRC=\"", fmt.Sprintf("img height=\"100px\" width=\"100px\" SRC=\"%s", CITADEL_PREFIX), -1)
-
-			// grab the existing price
-			if _, ok := data["hard-ons-citadel"]; !ok {
-				data["hard-ons-citadel"] = map[string]string{}
-			}
-			existingPrice := data["hard-ons-citadel"][name]
-			if existingPrice != price {
-				findings += renderResultRow(true, image, "Hard-ons", fmt.Sprintf("<a href=\"%s\">", CITADEL_URL), name, price, existingPrice)
-				found = true
-			}
-
-			// store new price
-			data["hard-ons-citadel"][name] = price
 		}
 	}
 	fmt.Printf("done\n")

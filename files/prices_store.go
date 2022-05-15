@@ -3,7 +3,7 @@ package files
 import "github.com/pkg/errors"
 
 const (
-	OUT_FILE = "./af_known.txt"
+	PRICES_STORE = "./data/af_known.txt"
 )
 
 // map of artist, map of release, price
