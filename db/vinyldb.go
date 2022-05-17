@@ -2,11 +2,10 @@ package db
 
 import "github.com/gavinturner/vinylretailers/util/postgres"
 
-// generate an interface from our persistor implementation
+// generate an interface and mock from our persistor implementation
 //go:generate ifacemaker --sort=true -f "*.go" -s VinylDB -i VinylDS -p db -o vinylds.go
 //go:generate goimports -w vinylds.go
 //go:generate sed -i -e  /null.\"gopkg\.in\/guregu\/null\.v3\"/d vinylds.go
-// Generate a mock for our new interface
 //go:generate rm -f vinylds_mock.go
 //go:generate moq -out vinylds_mock.go . VinylDS
 
