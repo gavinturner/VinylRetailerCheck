@@ -1,0 +1,8 @@
+{
+    "DB_HOST": "localhost",
+    "DB_PORT": "5432",
+    "DB_DATABASE": "vinylretailers",
+    "DB_DRIVER": "postgres",
+    "DB_USER": "vinylretailers",
+    "DB_PASSWORD": "vinylretailers_Cure667"
+}

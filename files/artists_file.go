@@ -1,13 +1,13 @@
 package files
 
 import (
-        "bufio"
-        "os"
-        "github.com/pkg/errors"
+	"bufio"
+	"github.com/pkg/errors"
+	"os"
 )
 
 const (
-	ARTISTS_FILE_DEFAULT = "./data/artists.txt"
+	ARTISTS_FILE_DEFAULT = "./cfg/artists.txt"
 )
 
 type ArtistsList []string
@@ -24,7 +24,7 @@ func (a *ArtistsList) Read(filename string) error {
 	}
 	if err := scanner.Err(); err != nil {
 		artistsFile.Close()
-		return errors.Wrapf(err,"failed to read artists file %s", filename)
+		return errors.Wrapf(err, "failed to read artists file %s", filename)
 	}
 	if err := artistsFile.Close(); err != nil {
 		return errors.Wrapf(err, "failed to close artists file %s", filename)
