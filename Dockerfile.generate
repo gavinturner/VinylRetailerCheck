@@ -1,0 +1,13 @@
+FROM golang:1.18
+
+RUN apt-get update && apt-get install -y --no-install-recommends unzip wget
+
+RUN apt install gnupg ca-certificates
+RUN go install github.com/go-bindata/go-bindata/go-bindata@latest
+RUN go install github.com/matryer/moq@latest
+RUN go install github.com/rjeczalik/interfaces/cmd/interfacer@latest
+RUN go install github.com/christiankiely/ifacemaker@master
+RUN go install golang.org/x/tools/cmd/goimports@latest
+RUN curl -o /usr/local/bin/swagger -L'#' https://github.com/go-swagger/go-swagger/releases/download/v0.27.0/swagger_linux_amd64
+RUN chmod +x /usr/local/bin/swagger
+RUN curl -L -o /usr/bin/jq https://github.com/stedolan/jq/releases/download/jq-1.6/jq-linux64 && chmod +x /usr/bin/jq
