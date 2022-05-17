@@ -2,7 +2,7 @@ package retailers
 
 import (
 	"fmt"
-	"github.com/gavinturner/VinylRetailChecker/db"
+	"github.com/gavinturner/vinylretailers/db"
 	"github.com/pkg/errors"
 	"io/ioutil"
 	"net/http"

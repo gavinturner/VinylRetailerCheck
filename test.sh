@@ -5,7 +5,7 @@ set -e
 # interpretation is only here for the time being until I can properly set up integration tests for it
 VR_PACKAGES=`go list ./... | grep -v interpretation | grep -v recog | grep -v response | grep -v view`
 
-REPO_ROOT="$GOPATH/src/github.com/gavinturner/VinylRetailCheck"
+REPO_ROOT="$GOPATH/src/github.com/gavinturner/vinylretails"
 TEST_COACH_PATH="$REPO_ROOT/util/test-coach.rb"
 
 print_help() {
@@ -67,7 +67,7 @@ header() {
 run_specific_test() {
     PACKAGE=$1
     TEST=$2
-    go test -v --tags="unit_test integration_test" github.com/gavinturner/VinylRetailCheck/$PACKAGE -run $TEST
+    go test -v --tags="unit_test integration_test" github.com/gavinturner/vinylretailers/$PACKAGE -run $TEST
 }
 
 run_suite() {
@@ -111,14 +111,14 @@ run_suite_pack() {
     make b
 
     header "2. Formatting package $1 ..."
-    echo "go fmt github.com/gavinturner/VinylRetailCheck/$1"
-    go fmt github.com/gavinturner/VinylRetailCheck/$1
+    echo "go fmt github.com/gavinturner/vinylretailers/$1"
+    go fmt github.com/gavinturner/vinylretailers/$1
 
     header "3. Vetting package $1 ..."
-    run_go_vet github.com/gavinturner/VinylRetailCheck/$1
+    run_go_vet github.com/gavinturner/vinylretailers/$1
 
     header "4. Linting package $1 ..."
-    run_golint github.com/gavinturner/VinylRetailCheck/$1
+    run_golint github.com/gavinturner/vinylretailers/$1
 
     if [ -x $TEST_COACH_PATH ]; then
 	header "5. checking over test files in package $1 ..."
@@ -138,15 +138,15 @@ run_suite_pack() {
 }
 
 run_pack() {
-    go test -v -tags="unit_test integration_test" "github.com/gavinturner/VinylRetailCheck/$1"
+    go test -v -tags="unit_test integration_test" "github.com/gavinturner/vinylretailers/$1"
 }
 
 run_unit_pack() {
-	go test -short -tags=unit_test -v "github.com/gavinturner/VinylRetailCheck/$1"
+	go test -short -tags=unit_test -v "github.com/gavinturner/vinylretailers/$1"
 }
 
 run_integration_pack() {
-	go test -tags=integration_test -v "github.com/gavinturner/VinylRetailCheck/$1"
+	go test -tags=integration_test -v "github.com/gavinturner/vinylretailers/$1"
 }
 
 case "$1" in
@@ -201,7 +201,7 @@ case "$1" in
 		;;
 	    *)
 		echo "Vetting package $2"
-		run_go_vet "github.com/gavinturner/VinylRetailCheck/$2"
+		run_go_vet "github.com/gavinturner/vinylretailers/$2"
 		;;
 	esac
 	;;

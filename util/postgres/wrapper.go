@@ -11,7 +11,7 @@ import (
 	"github.com/jmoiron/sqlx"
 	"github.com/sirupsen/logrus"
 
-	"github.com/gavinturner/VinylRetailChecker/util/log"
+	"github.com/gavinturner/vinylretailers/util/log"
 )
 
 const (

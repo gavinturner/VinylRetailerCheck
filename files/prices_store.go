@@ -3,7 +3,7 @@ package files
 import (
 	"bufio"
 	"fmt"
-	"github.com/gavinturner/VinylRetailChecker/db"
+	"github.com/gavinturner/vinylretailers/db"
 	"github.com/pkg/errors"
 	"os"
 	"strings"

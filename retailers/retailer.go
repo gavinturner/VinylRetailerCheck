@@ -1,7 +1,7 @@
 package retailers
 
 import (
-	"github.com/gavinturner/VinylRetailChecker/db"
+	"github.com/gavinturner/vinylretailers/db"
 )
 
 type VinylRetailer interface {

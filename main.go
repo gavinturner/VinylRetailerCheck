@@ -3,9 +3,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/gavinturner/VinylRetailChecker/util/cfg"
-	"github.com/gavinturner/VinylRetailChecker/util/log"
-	"github.com/gavinturner/VinylRetailChecker/util/postgres"
+	"github.com/gavinturner/vinylretailers/util/cfg"
+	"github.com/gavinturner/vinylretailers/util/log"
+	"github.com/gavinturner/vinylretailers/util/postgres"
 	_ "github.com/lib/pq"
 	"os"
 )

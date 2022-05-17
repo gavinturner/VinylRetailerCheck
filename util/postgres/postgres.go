@@ -4,7 +4,7 @@ import (
 	"context"
 	"database/sql"
 	"fmt"
-	"github.com/gavinturner/VinylRetailChecker/util/cfg"
+	"github.com/gavinturner/vinylretailers/util/cfg"
 	"github.com/jmoiron/sqlx"
 	"strings"
 	"time"
