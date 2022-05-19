@@ -6,6 +6,7 @@ CREATE TABLE users (
     created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
 );
+GRANT ALL PRIVILEGES ON TABLE users TO vinylretailers;
 
 CREATE TABLE artists (
     id BIGSERIAL PRIMARY KEY,
@@ -15,6 +16,7 @@ CREATE TABLE artists (
     created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
 );
+GRANT ALL PRIVILEGES ON TABLE artists TO vinylretailers;
 
 CREATE TABLE users_following_artists (
     id BIGSERIAL PRIMARY KEY,
@@ -23,6 +25,7 @@ CREATE TABLE users_following_artists (
     created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
 );
+GRANT ALL PRIVILEGES ON TABLE users_following_artists TO vinylretailers;
 
 CREATE TABLE retailers (
     id BIGSERIAL PRIMARY KEY,
@@ -31,6 +34,7 @@ CREATE TABLE retailers (
     created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
 );
+GRANT ALL PRIVILEGES ON TABLE retailers TO vinylretailers;
 
 CREATE TABLE releases (
     id BIGSERIAL PRIMARY KEY,
@@ -40,15 +44,19 @@ CREATE TABLE releases (
     created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
 );
+GRANT ALL PRIVILEGES ON TABLE releases TO vinylretailers;
 
-CREATE TABLE sku (
-     id BIGSERIAL PRIMARY KEY,
-     retailer_id BIGINT NOT NULL REFERENCES retailers(id),
-     release_id BIGINT NOT NULL REFERENCES releases(id),
-     artist_id BIGINT NOT NULL REFERENCES artists(id),
-     item_url TEXT NOT NULL,
-     image_url TEXT,
-     price  TEXT NOT NULL,
-     created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+CREATE TABLE skus (
+    id BIGSERIAL PRIMARY KEY,
+    retailer_id BIGINT NOT NULL REFERENCES retailers(id),
+    release_id BIGINT NOT NULL REFERENCES releases(id),
+    artist_id BIGINT NOT NULL REFERENCES artists(id),
+    item_url TEXT NOT NULL,
+    image_url TEXT,
+    price  TEXT NOT NULL,
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+    UNIQUE(release_id, retailer_id, created_at)
 );
+GRANT ALL PRIVILEGES ON TABLE skus TO vinylretailers;
+
 

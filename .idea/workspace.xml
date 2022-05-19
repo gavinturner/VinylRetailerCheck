@@ -5,23 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e473d14-c29b-4290-a298-48b102eea47c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cmd/scanner/Dockerfile.scanner" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/scanner/application.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/scanner/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrations/20221805103000_create_initial_tables.down.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrations/setup.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/redis/payload.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/redis/redis_wrapper.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/redis/scanrequest.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/infra.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/artists.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/releases.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/retailers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/email/email.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfg/af_known.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfg/application.json" beforeDir="false" afterPath="$PROJECT_DIR$/cfg/application.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrations/20221805103000_create_initial_tables.up.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/scanner/application.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/scanner/application.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/scanner/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/scanner/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/domain.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/skus.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/migrations/20221805103000_create_initial_tables.down.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrations/20221805103000_create_initial_tables.down.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/migrations/20221805103000_create_initial_tables.up.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrations/20221805103000_create_initial_tables.up.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/migrations/setup.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrations/setup.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/vinyldb.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/db.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/artistfirst.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/artistfirst.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/poisoncity.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/poisoncity.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/retailer.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/retailer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/redis/scanrequest.go" beforeDir="false" afterPath="$PROJECT_DIR$/util/redis/scan_request.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

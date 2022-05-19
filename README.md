@@ -2,9 +2,21 @@
 Checks selected vinyl retailers for new listings or prices. Keeps a running list of previous prices found
 for artists of interest.
 
+### postgres tweaks
+* to get local postgres to accept connections from Docker containers, i had to enable postges to accept connections for outside the local host.
+to achieve this, i had to:
+  - edit **pg_hba.conf** and add the line: (where 192.168.0.201 is the ip of my laptop)
+  > host    all    all  192.168.0.201/16        trust
+
+  - I also had to edit **postgresql.conf** and set:
+  > listen_addresses = '*'
+
 ### initial project setup (go mod)
 * setup required so that the project recognises its root git repo for imports (using go.mod):
   > go mod init github.com/gavinturner/vinylretailers
+
+* allow postgres to accept 'remote' connections (so Docker containers can access it)
+  > https://blog.jsinh.in/how-to-enable-remote-access-to-postgresql-database-server/#.YoXL6pNByqC
 
 ### building for docker
 * encapsulated in the Makefile:

@@ -1,4 +1,4 @@
-DROP TABLE sku;
+DROP TABLE skus;
 DROP TABLE releases;
 DROP TABLE retailers;
 DROP TABLE users_following_artists;

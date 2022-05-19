@@ -2,7 +2,6 @@ package retailers
 
 import (
 	"fmt"
-	"github.com/gavinturner/vinylretailers/db"
 	"github.com/pkg/errors"
 	"io/ioutil"
 	"net/http"
@@ -22,9 +21,9 @@ func (a *PoisonCity) GetArtistQueryURL(artist string) string {
 	return query
 }
 
-func (a *PoisonCity) ScrapeArtistReleases(artist string) (findings []db.SKU, err error) {
+func (a *PoisonCity) ScrapeArtistReleases(artist string) (findings []SKU, err error) {
 
-	findings = []db.SKU{}
+	findings = []SKU{}
 	query := a.GetArtistQueryURL(artist)
 	resp, err := http.Get(query)
 	if err != nil {
@@ -38,7 +37,7 @@ func (a *PoisonCity) ScrapeArtistReleases(artist string) (findings []db.SKU, err
 
 	for idx, t := range toks {
 		if strings.Index(t, "row results") >= 0 {
-			sku := db.SKU{}
+			sku := SKU{}
 			subUrl := strings.TrimPrefix(strings.TrimSpace(toks[idx+3]), "<a href=\"")
 			subUrl = PC_URL_PREFIX + strings.TrimSuffix(subUrl, "\"")
 

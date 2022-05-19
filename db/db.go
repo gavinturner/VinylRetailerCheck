@@ -19,6 +19,10 @@ func NewDB(db *postgres.DB) VinylDB {
 	}
 }
 
-func (v *VinylDB) RetrieveArtists() error {
-	return nil
+func (v *VinylDB) Q(tx *postgres.Tx) postgres.Querier {
+	var querier postgres.Querier = v.db
+	if tx != nil {
+		querier = tx
+	}
+	return querier
 }
