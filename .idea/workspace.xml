@@ -5,13 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e473d14-c29b-4290-a298-48b102eea47c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cmd/scanner/Dockerfile.scanner" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/scanner/application.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/scanner/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrations/20221805103000_create_initial_tables.down.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrations/setup.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/redis/payload.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/redis/redis_wrapper.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/redis/scanrequest.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/vinyldb.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/vinyldb.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cfg/af_known.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cfg/application.json" beforeDir="false" afterPath="$PROJECT_DIR$/cfg/application.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/create.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrations/20221805103000_create_initial_tables.up.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" url="file:///usr/local/Cellar/go/1.18.2/libexec" />
   <component name="Git.Settings">
@@ -31,6 +53,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultGoTemplateProperty": "Go File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
@@ -41,18 +64,21 @@
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/Users/gavin"
+    "last_opened_file_path": "/Users/gavin/Workspace/vinylretailers/cmd/scanner"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmd/scanner" />
+      <recent name="$PROJECT_DIR$/db/migrations" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmd/scanner" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/db/migration" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="vinylretailers" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build github.com/gavinturner/vinylretailers" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
       <module name="vinylretailers" />
       <working_directory value="$PROJECT_DIR$" />
@@ -61,15 +87,6 @@
       <package value="github.com/gavinturner/vinylretailers" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="vinylretailers" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="DIRECTORY" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
       <method v="2" />
     </configuration>
   </component>

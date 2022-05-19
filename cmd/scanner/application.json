@@ -5,5 +5,5 @@
     "DB_DRIVER": "postgres",
     "DB_USER": "vinylretailers",
     "DB_PASSWORD": "vinylretailers_Cure667",
-    "REDIS_SERVER": "localhost:6379"
+    "REDIS_SERVER": "vinylretailers-redis:6379"
 }

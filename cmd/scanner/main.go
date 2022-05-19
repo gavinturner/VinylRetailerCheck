@@ -1,4 +1,3 @@
-// artist_first project main.go
 package main
 
 import (
@@ -8,14 +7,11 @@ import (
 	"github.com/gavinturner/vinylretailers/util/redis"
 	_ "github.com/lib/pq"
 	"github.com/pkg/errors"
+	"time"
 )
 
 const (
-	CITADEL_PREFIX = "https://www.citadelmailorder.com"
-	CITADEL_URL    = "https://www.citadelmailorder.com/jsp/cmos/merch/hard_ons_merch_page.jsp?source=hard_ons_merch_page_new"
-	PC_PREFIX      = "https://poisoncityestore.com"
-	PC_URL         = "https://poisoncityestore.com/search?q=%s+vinyl"
-	PERIOD_MINS    = 15
+	PERIOD_MINS = 15
 )
 
 const (
@@ -61,19 +57,44 @@ func main() {
 	}
 	defer psqlDB.Close()
 
+	// use the redis config and initialise a connection to the redis queue
 	scanningQueue, err := initialiseRedisScanningQueue()
 	if err != nil {
 		panic(err)
 	}
 	defer scanningQueue.Close()
-
 	_, err = scanningQueue.PingRedis()
 	if err != nil {
 		panic(err)
 	}
 
-	for i := 0; i < 100; i++ {
-		err = scanningQueue.Enqueue(fmt.Sprintf("payload_%v", i))
-	}
+	scanningQueue.Enqueue("payload_1")
+	scanningQueue.Enqueue("payload_2")
+	scanningQueue.Enqueue("payload_3")
 
+	for {
+		len, err := scanningQueue.QueueLength()
+		if err != nil {
+			fmt.Printf("Error getting queue length: %s\n", err.Error())
+		}
+		if len > 0 {
+			fmt.Printf("There are %v requests pending\n", len)
+			for {
+				// check for requests on the scan queue and action until there are none
+				payload := ""
+				found, err := scanningQueue.Dequeue(&payload)
+				if err != nil {
+					fmt.Printf("Error dequeuing request: %s\n", err.Error())
+					break
+				} else if !found {
+					break
+				}
+				// process payload here...
+				fmt.Printf("REQUEST PAYLOAD: %s\n", payload)
+			}
+			fmt.Printf("Done\n")
+		}
+		// sleep 10 seconds
+		time.Sleep(10000 * time.Millisecond)
+	}
 }

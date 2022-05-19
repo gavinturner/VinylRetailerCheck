@@ -1,0 +1,16 @@
+FROM golang:1.18
+
+WORKDIR /code
+COPY . /code
+COPY go.mod ./go.mod
+COPY go.sum ./go.sum
+RUN go mod download
+
+RUN mkdir -p /bin/cfg
+COPY cmd/scanner/application.json /bin/cfg
+RUN go build cmd/scanner/main.go
+RUN mv main /bin/vinyl-retailers-scanner
+RUN rm -r /code
+
+WORKDIR /bin
+CMD [ "/bin/vinyl-retailers-scanner" ]
