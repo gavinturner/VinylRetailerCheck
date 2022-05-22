@@ -78,6 +78,7 @@ func (a *PoisonCity) ScrapeArtistReleases(artist string) (findings []SKU, err er
 			}
 
 			sku.Image = fmt.Sprintf("<img width=\"150px\" height=\"150px\" src=\"%s\">", sku.Image)
+			sku.Url = subUrl
 
 			// store new price
 			findings = append(findings, sku)

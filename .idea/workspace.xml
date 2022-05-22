@@ -5,27 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e473d14-c29b-4290-a298-48b102eea47c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cmd/infra.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/artists.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/releases.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/retailers.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/email/email.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/scanner/application.localdb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/scheduler/Dockerfile.scheduler" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/scheduler/application.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmd/scheduler/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrations/20220518100000_create_initial_tables.up.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrations/20220522111900_add_batch_table.down.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrations/20220522111900_add_batch_table.up.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/reports.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/postgres/pgadmin_servers.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cfg/application.json" beforeDir="false" afterPath="$PROJECT_DIR$/cfg/application.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/infra.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/infra.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmd/scanner/application.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/scanner/application.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmd/scanner/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/scanner/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/domain.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/skus.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/migrations/20221805103000_create_initial_tables.down.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrations/20221805103000_create_initial_tables.down.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/migrations/20221805103000_create_initial_tables.up.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrations/20221805103000_create_initial_tables.up.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/migrations/setup.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrations/setup.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/vinyldb.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/db.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/artists.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/artists.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/db.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/db.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/migrations/20221805103000_create_initial_tables.down.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrations/20220518100000_create_initial_tables.down.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/migrations/20221805103000_create_initial_tables.up.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/migrations/setup.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/setup.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/vinylds.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/vinylds.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/vinylds_mock.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/vinylds_mock.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/artistfirst.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/artistfirst.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/retailers/poisoncity.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/poisoncity.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/retailer.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/retailer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/redis/scanrequest.go" beforeDir="false" afterPath="$PROJECT_DIR$/util/redis/scan_request.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/redis/scan_request.go" beforeDir="false" afterPath="$PROJECT_DIR$/util/redis/scan_request.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,31 +75,44 @@
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/Users/gavin/Workspace/vinylretailers/cmd/scanner"
+    "last_opened_file_path": "/Users/gavin/Workspace/vinylretailers/db"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/cmd/scanner" />
+      <recent name="$PROJECT_DIR$/db" />
       <recent name="$PROJECT_DIR$/db/migrations" />
+      <recent name="$PROJECT_DIR$/cmd/scheduler" />
+      <recent name="$PROJECT_DIR$/cmd/scanner" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/cmd/scanner" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/db" />
+      <recent name="$PROJECT_DIR$/cmd/scanner" />
       <recent name="$PROJECT_DIR$/db/migration" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="go build github.com/gavinturner/vinylretailers" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.scanner">
+    <configuration name="scanner" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="vinylretailers" />
       <working_directory value="$PROJECT_DIR$" />
-      <go_parameters value="-race" />
-      <kind value="PACKAGE" />
-      <package value="github.com/gavinturner/vinylretailers" />
+      <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/cmd/scanner/main.go" />
       <method v="2" />
     </configuration>
+    <configuration name="scheduler" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="vinylretailers" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/cmd/scheduler/main.go" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.scheduler" />
+      <item itemvalue="Go Build.scanner" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,5 +134,51 @@
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/scheduler/main.go</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/scheduler/main.go</url>
+          <line>77</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/db/reports.go</url>
+          <line>35</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/db/reports.go</url>
+          <line>48</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/db/reports.go</url>
+          <line>52</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/scheduler/main.go</url>
+          <line>100</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/scanner/main.go</url>
+          <line>26</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/cmd/scanner/main.go</url>
+          <line>53</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

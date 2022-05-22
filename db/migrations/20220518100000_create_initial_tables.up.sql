@@ -1,9 +1,64 @@
--- CREATE DATABASE vinylretailers;
--- connect to this new database
--- \c vinylretailers
 
-CREATE USER vinylretailers WITH NOCREATEDB  ENCRYPTED PASSWORD 'vinylretailers_Cure667';
-GRANT pg_write_all_data TO vinylretailers;
+CREATE TABLE IF NOT EXISTS  users (
+    id BIGSERIAL PRIMARY KEY,
+    email TEXT NOT NULL UNIQUE,
+    name TEXT NOT NULL UNIQUE,
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+);
+GRANT ALL PRIVILEGES ON TABLE users TO vinylretailers;
+
+CREATE TABLE IF NOT EXISTS artists (
+    id BIGSERIAL PRIMARY KEY,
+    name TEXT NOT NULL UNIQUE,
+    image_url TEXT,
+    website_url TEXT,
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+);
+GRANT ALL PRIVILEGES ON TABLE artists TO vinylretailers;
+
+CREATE TABLE IF NOT EXISTS users_following_artists (
+    id BIGSERIAL PRIMARY KEY,
+    user_id BIGINT NOT NULL REFERENCES users(id),
+    artist_id BIGINT NOT NULL REFERENCES artists(id),
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+);
+GRANT ALL PRIVILEGES ON TABLE users_following_artists TO vinylretailers;
+
+CREATE TABLE IF NOT EXISTS retailers (
+    id BIGSERIAL PRIMARY KEY,
+    name TEXT NOT NULL UNIQUE,
+    url TEXT NOT NULL,
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+);
+GRANT ALL PRIVILEGES ON TABLE retailers TO vinylretailers;
+
+CREATE TABLE IF NOT EXISTS releases (
+    id BIGSERIAL PRIMARY KEY,
+    title TEXT NOT NULL,
+    artist_id BIGINT NOT NULL REFERENCES artists(id),
+    UNIQUE (artist_id, title),
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+);
+GRANT ALL PRIVILEGES ON TABLE releases TO vinylretailers;
+
+CREATE TABLE IF NOT EXISTS skus (
+    id BIGSERIAL PRIMARY KEY,
+    retailer_id BIGINT NOT NULL REFERENCES retailers(id),
+    release_id BIGINT NOT NULL REFERENCES releases(id),
+    artist_id BIGINT NOT NULL REFERENCES artists(id),
+    item_url TEXT NOT NULL,
+    image_url TEXT,
+    price  TEXT NOT NULL,
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+    UNIQUE(release_id, retailer_id, created_at)
+);
+GRANT ALL PRIVILEGES ON TABLE skus TO vinylretailers;
+
 
 DELETE FROM retailers;
 INSERT INTO retailers (id, name, url) VALUES
@@ -39,3 +94,4 @@ INSERT INTO artists (name, image_url,website_url) VALUES
     ('Turbonegro', '', ''),
     ('The Good The Bad and The Zugly', '', '')
 ;
+

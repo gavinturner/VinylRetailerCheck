@@ -1,6 +1,7 @@
 package main
 
 import (
+	"encoding/json"
 	"fmt"
 	"github.com/gavinturner/vinylretailers/cmd"
 	"github.com/gavinturner/vinylretailers/db"
@@ -12,7 +13,15 @@ import (
 	"time"
 )
 
+const (
+	STARTUP_DELAY_SECS = 10
+	SOLD_OUT           = "sold out"
+)
+
 func main() {
+
+	// sleep on startup to let the infra pods get started up
+	time.Sleep(time.Duration(STARTUP_DELAY_SECS) * time.Second)
 
 	// use the database config and initialise a postgres connection (will panic if incomplete)
 	psqlDB, err := cmd.InitialiseDbConnection()
@@ -33,14 +42,21 @@ func main() {
 		panic(err)
 	}
 
-	fmt.Printf("Retail vinyl scanner starts..\n")
+	log.Debugf("Retail vinyl scanner starts..")
+
+	err = vinylDS.VerifySchema()
+	if err != nil {
+		log.Error(err, "Database is not valid?")
+	}
+	log.Debugf("Database looks ok..\n")
+
 	for {
 		num, err := scanningQueue.QueueLength()
 		if err != nil {
 			log.Error(err, "Failed to get queue length")
 		}
 		if num > 0 {
-			fmt.Printf("There are %v requests pending\n", num)
+			log.Debugf("There are %v requests pending..", num)
 			for {
 				// check for requests on the scan queue and action until there are none
 				payload := redis.ScanRequest{}
@@ -62,6 +78,10 @@ func main() {
 					log.Error(err, "Failed to scrape '%s' for '%s'", payload.RetailerName, payload.ArtistName)
 				}
 				for _, release := range releases {
+
+					json, _ := json.Marshal(release)
+					fmt.Printf("FOUND SKU: %s\n\n", json)
+
 					releaseID, err := vinylDS.UpsertRelease(nil, payload.ArtistID, release.Name)
 					if err != nil {
 						log.Error(err, "Failed to create new release '%s' for artist '%s'", release.Name, payload.ArtistName)
@@ -75,24 +95,36 @@ func main() {
 						ImageUrl:   release.Image,
 						Price:      release.Price,
 					}
+					err = vinylDS.IncrementBatchSearchCompletedCount(nil, payload.BatchID)
+					if err != nil {
+						log.Error(err, "Failed to increment search count for batch %v", payload.BatchID)
+						continue
+					}
 					same, err := vinylDS.UpsertSKU(nil, &sku)
 					if err != nil {
 						log.Error(err, "Failed to upsert new price for '%s' ", release.Name)
 						continue
 					}
-					if !same {
-						fmt.Printf("%s@%s: Found new release state: %s = %s (%v)\n", payload.ArtistName, payload.RetailerName, release.Name, sku.Price, sku.ID)
-						// TODO: add this finding to a report for any interested users
+					if !same && sku.Price != SOLD_OUT {
+						log.Debugf("%s@%s: Found new release state: %s = %s (%v)", payload.ArtistName, payload.RetailerName, release.Name, sku.Price, sku.ID)
+						err = vinylDS.AddSKUToReportsForBatch(nil, payload.BatchID, &sku)
+						if err != nil {
+							log.Error(err, "Failed to upsert new price for '%s' ", release.Name)
+							continue
+						}
 					} else {
-						fmt.Printf("%s@%s: releases [%v, %s] has not changed.\n", payload.ArtistName, payload.RetailerName, releaseID, release.Name)
+						log.Debugf("%s@%s: releases [%v, %s] has not changed", payload.ArtistName, payload.RetailerName, releaseID, release.Name)
 					}
-
+				}
+				err = vinylDS.IncrementBatchSearchCompletedCount(nil, payload.BatchID)
+				if err != nil {
+					log.Error(err, "Failed to increment search count for batch %v ", payload.BatchID)
 				}
 			}
-			fmt.Printf("Done\n")
+			log.Debugf("No more pending requests")
 		}
 		// sleep 10 seconds
 		time.Sleep(1000 * time.Millisecond)
 	}
-	fmt.Printf("Retail Scanner terminating..\n")
+	log.Debugf("Retail Scanner terminating..")
 }

@@ -1,0 +1,61 @@
+
+version: "3.9"
+services:
+  vinylretailers-redis:
+    image: "redis"
+    ports:
+      - "127.0.0.1:6379:6379"
+    networks:
+      - "vinylretailers"
+
+  vinylretailers-postgres:
+    image: "postgres"
+    ports:
+      - "5400:5432"
+    networks:
+      - "vinylretailers"
+    environment:
+      POSTGRES_USER: "vinylretailers"
+      POSTGRES_PASSWORD: "vinylretailers"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  vinylretailers-pgadmin:
+    image: "dpage/pgadmin4:latest"
+    ports:
+      - "80:80"
+    networks:
+      - "vinylretailers"
+    environment:
+      PGADMIN_DEFAULT_EMAIL: "gturner.au@gmail.com"
+      PGADMIN_DEFAULT_PASSWORD: "vinylretailers"
+      PGADMIN_SERVER_JSON_FILE: "./util/postgres/pgadmin_servers.json"
+
+  scanner:
+    build:
+      context: .
+      dockerfile: cmd/scanner/Dockerfile.scanner
+    networks:
+      - "vinylretailers"
+
+  scheduler:
+    build:
+      context: .
+      dockerfile: cmd/scheduler/Dockerfile.scheduler
+    networks:
+      - "vinylretailers"
+
+volumes:
+  pgdata:
+    driver_opts:
+      type: none
+      device: /Users/gavin/vinylretailers_data
+      o: bind
+
+networks:
+  vinylretailers:
+    driver: "bridge"
+    driver_opts:
+      com.docker.network.bridge.host_binding_ipv4: "0.0.0.0"
+      com.docker.network.bridge.enable_ip_masquerade: "true"
+      com.docker.network.bridge.enable_icc: "true"

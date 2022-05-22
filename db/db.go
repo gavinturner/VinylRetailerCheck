@@ -1,6 +1,10 @@
 package db
 
-import "github.com/gavinturner/vinylretailers/util/postgres"
+import (
+	"fmt"
+	"github.com/gavinturner/vinylretailers/util/postgres"
+	"github.com/pkg/errors"
+)
 
 // generate an interface and mock from our persistor implementation
 //go:generate ifacemaker --sort=true -f "*.go" -s VinylDB -i VinylDS -p db -o vinylds.go
@@ -25,4 +29,16 @@ func (v *VinylDB) Q(tx *postgres.Tx) postgres.Querier {
 		querier = tx
 	}
 	return querier
+}
+
+func (v *VinylDB) VerifySchema() error {
+	var versions []int64
+	err := v.db.Select(&versions, `SELECT version from schema_migrations`)
+	if err != nil {
+		return errors.Wrapf(err, "Failed to retrieve current scheme version")
+	}
+	if len(versions) == 0 {
+		return fmt.Errorf("Schema migration has not been run")
+	}
+	return nil
 }

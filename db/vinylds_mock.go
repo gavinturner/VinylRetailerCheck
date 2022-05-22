@@ -4,6 +4,7 @@
 package db
 
 import (
+	"github.com/gavinturner/vinylretailers/util/postgres"
 	"sync"
 )
 
@@ -17,8 +18,26 @@ var _ VinylDS = &VinylDSMock{}
 //
 // 		// make and configure a mocked VinylDS
 // 		mockedVinylDS := &VinylDSMock{
-// 			RetrieveArtistsFunc: func() error {
-// 				panic("mock out the RetrieveArtists method")
+// 			GetAllArtistsFunc: func(tx *postgres.Tx) ([]Artist, error) {
+// 				panic("mock out the GetAllArtists method")
+// 			},
+// 			GetAllRetailersFunc: func(tx *postgres.Tx) ([]Retailer, error) {
+// 				panic("mock out the GetAllRetailers method")
+// 			},
+// 			GetCurrentSKUForReleaseFunc: func(tx *postgres.Tx, releaseID int64, retailerID int64) (*SKU, error) {
+// 				panic("mock out the GetCurrentSKUForRelease method")
+// 			},
+// 			QFunc: func(tx *postgres.Tx) postgres.Querier {
+// 				panic("mock out the Q method")
+// 			},
+// 			UpsertReleaseFunc: func(tx *postgres.Tx, artistId int64, title string) (int64, error) {
+// 				panic("mock out the UpsertRelease method")
+// 			},
+// 			UpsertSKUFunc: func(tx *postgres.Tx, sku *SKU) (bool, error) {
+// 				panic("mock out the UpsertSKU method")
+// 			},
+// 			VerifySchemaFunc: func() error {
+// 				panic("mock out the VerifySchema method")
 // 			},
 // 		}
 //
@@ -27,40 +46,310 @@ var _ VinylDS = &VinylDSMock{}
 //
 // 	}
 type VinylDSMock struct {
-	// RetrieveArtistsFunc mocks the RetrieveArtists method.
-	RetrieveArtistsFunc func() error
+	// GetAllArtistsFunc mocks the GetAllArtists method.
+	GetAllArtistsFunc func(tx *postgres.Tx) ([]Artist, error)
+
+	// GetAllRetailersFunc mocks the GetAllRetailers method.
+	GetAllRetailersFunc func(tx *postgres.Tx) ([]Retailer, error)
+
+	// GetCurrentSKUForReleaseFunc mocks the GetCurrentSKUForRelease method.
+	GetCurrentSKUForReleaseFunc func(tx *postgres.Tx, releaseID int64, retailerID int64) (*SKU, error)
+
+	// QFunc mocks the Q method.
+	QFunc func(tx *postgres.Tx) postgres.Querier
+
+	// UpsertReleaseFunc mocks the UpsertRelease method.
+	UpsertReleaseFunc func(tx *postgres.Tx, artistId int64, title string) (int64, error)
+
+	// UpsertSKUFunc mocks the UpsertSKU method.
+	UpsertSKUFunc func(tx *postgres.Tx, sku *SKU) (bool, error)
+
+	// VerifySchemaFunc mocks the VerifySchema method.
+	VerifySchemaFunc func() error
 
 	// calls tracks calls to the methods.
 	calls struct {
-		// RetrieveArtists holds details about calls to the RetrieveArtists method.
-		RetrieveArtists []struct {
+		// GetAllArtists holds details about calls to the GetAllArtists method.
+		GetAllArtists []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+		}
+		// GetAllRetailers holds details about calls to the GetAllRetailers method.
+		GetAllRetailers []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+		}
+		// GetCurrentSKUForRelease holds details about calls to the GetCurrentSKUForRelease method.
+		GetCurrentSKUForRelease []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+			// ReleaseID is the releaseID argument value.
+			ReleaseID int64
+			// RetailerID is the retailerID argument value.
+			RetailerID int64
+		}
+		// Q holds details about calls to the Q method.
+		Q []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+		}
+		// UpsertRelease holds details about calls to the UpsertRelease method.
+		UpsertRelease []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+			// ArtistId is the artistId argument value.
+			ArtistId int64
+			// Title is the title argument value.
+			Title string
+		}
+		// UpsertSKU holds details about calls to the UpsertSKU method.
+		UpsertSKU []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+			// Sku is the sku argument value.
+			Sku *SKU
+		}
+		// VerifySchema holds details about calls to the VerifySchema method.
+		VerifySchema []struct {
 		}
 	}
-	lockRetrieveArtists sync.RWMutex
+	lockGetAllArtists           sync.RWMutex
+	lockGetAllRetailers         sync.RWMutex
+	lockGetCurrentSKUForRelease sync.RWMutex
+	lockQ                       sync.RWMutex
+	lockUpsertRelease           sync.RWMutex
+	lockUpsertSKU               sync.RWMutex
+	lockVerifySchema            sync.RWMutex
 }
 
-// RetrieveArtists calls RetrieveArtistsFunc.
-func (mock *VinylDSMock) RetrieveArtists() error {
-	if mock.RetrieveArtistsFunc == nil {
-		panic("VinylDSMock.RetrieveArtistsFunc: method is nil but VinylDS.RetrieveArtists was just called")
+// GetAllArtists calls GetAllArtistsFunc.
+func (mock *VinylDSMock) GetAllArtists(tx *postgres.Tx) ([]Artist, error) {
+	if mock.GetAllArtistsFunc == nil {
+		panic("VinylDSMock.GetAllArtistsFunc: method is nil but VinylDS.GetAllArtists was just called")
+	}
+	callInfo := struct {
+		Tx *postgres.Tx
+	}{
+		Tx: tx,
+	}
+	mock.lockGetAllArtists.Lock()
+	mock.calls.GetAllArtists = append(mock.calls.GetAllArtists, callInfo)
+	mock.lockGetAllArtists.Unlock()
+	return mock.GetAllArtistsFunc(tx)
+}
+
+// GetAllArtistsCalls gets all the calls that were made to GetAllArtists.
+// Check the length with:
+//     len(mockedVinylDS.GetAllArtistsCalls())
+func (mock *VinylDSMock) GetAllArtistsCalls() []struct {
+	Tx *postgres.Tx
+} {
+	var calls []struct {
+		Tx *postgres.Tx
+	}
+	mock.lockGetAllArtists.RLock()
+	calls = mock.calls.GetAllArtists
+	mock.lockGetAllArtists.RUnlock()
+	return calls
+}
+
+// GetAllRetailers calls GetAllRetailersFunc.
+func (mock *VinylDSMock) GetAllRetailers(tx *postgres.Tx) ([]Retailer, error) {
+	if mock.GetAllRetailersFunc == nil {
+		panic("VinylDSMock.GetAllRetailersFunc: method is nil but VinylDS.GetAllRetailers was just called")
+	}
+	callInfo := struct {
+		Tx *postgres.Tx
+	}{
+		Tx: tx,
+	}
+	mock.lockGetAllRetailers.Lock()
+	mock.calls.GetAllRetailers = append(mock.calls.GetAllRetailers, callInfo)
+	mock.lockGetAllRetailers.Unlock()
+	return mock.GetAllRetailersFunc(tx)
+}
+
+// GetAllRetailersCalls gets all the calls that were made to GetAllRetailers.
+// Check the length with:
+//     len(mockedVinylDS.GetAllRetailersCalls())
+func (mock *VinylDSMock) GetAllRetailersCalls() []struct {
+	Tx *postgres.Tx
+} {
+	var calls []struct {
+		Tx *postgres.Tx
+	}
+	mock.lockGetAllRetailers.RLock()
+	calls = mock.calls.GetAllRetailers
+	mock.lockGetAllRetailers.RUnlock()
+	return calls
+}
+
+// GetCurrentSKUForRelease calls GetCurrentSKUForReleaseFunc.
+func (mock *VinylDSMock) GetCurrentSKUForRelease(tx *postgres.Tx, releaseID int64, retailerID int64) (*SKU, error) {
+	if mock.GetCurrentSKUForReleaseFunc == nil {
+		panic("VinylDSMock.GetCurrentSKUForReleaseFunc: method is nil but VinylDS.GetCurrentSKUForRelease was just called")
+	}
+	callInfo := struct {
+		Tx         *postgres.Tx
+		ReleaseID  int64
+		RetailerID int64
+	}{
+		Tx:         tx,
+		ReleaseID:  releaseID,
+		RetailerID: retailerID,
+	}
+	mock.lockGetCurrentSKUForRelease.Lock()
+	mock.calls.GetCurrentSKUForRelease = append(mock.calls.GetCurrentSKUForRelease, callInfo)
+	mock.lockGetCurrentSKUForRelease.Unlock()
+	return mock.GetCurrentSKUForReleaseFunc(tx, releaseID, retailerID)
+}
+
+// GetCurrentSKUForReleaseCalls gets all the calls that were made to GetCurrentSKUForRelease.
+// Check the length with:
+//     len(mockedVinylDS.GetCurrentSKUForReleaseCalls())
+func (mock *VinylDSMock) GetCurrentSKUForReleaseCalls() []struct {
+	Tx         *postgres.Tx
+	ReleaseID  int64
+	RetailerID int64
+} {
+	var calls []struct {
+		Tx         *postgres.Tx
+		ReleaseID  int64
+		RetailerID int64
+	}
+	mock.lockGetCurrentSKUForRelease.RLock()
+	calls = mock.calls.GetCurrentSKUForRelease
+	mock.lockGetCurrentSKUForRelease.RUnlock()
+	return calls
+}
+
+// Q calls QFunc.
+func (mock *VinylDSMock) Q(tx *postgres.Tx) postgres.Querier {
+	if mock.QFunc == nil {
+		panic("VinylDSMock.QFunc: method is nil but VinylDS.Q was just called")
+	}
+	callInfo := struct {
+		Tx *postgres.Tx
+	}{
+		Tx: tx,
+	}
+	mock.lockQ.Lock()
+	mock.calls.Q = append(mock.calls.Q, callInfo)
+	mock.lockQ.Unlock()
+	return mock.QFunc(tx)
+}
+
+// QCalls gets all the calls that were made to Q.
+// Check the length with:
+//     len(mockedVinylDS.QCalls())
+func (mock *VinylDSMock) QCalls() []struct {
+	Tx *postgres.Tx
+} {
+	var calls []struct {
+		Tx *postgres.Tx
+	}
+	mock.lockQ.RLock()
+	calls = mock.calls.Q
+	mock.lockQ.RUnlock()
+	return calls
+}
+
+// UpsertRelease calls UpsertReleaseFunc.
+func (mock *VinylDSMock) UpsertRelease(tx *postgres.Tx, artistId int64, title string) (int64, error) {
+	if mock.UpsertReleaseFunc == nil {
+		panic("VinylDSMock.UpsertReleaseFunc: method is nil but VinylDS.UpsertRelease was just called")
+	}
+	callInfo := struct {
+		Tx       *postgres.Tx
+		ArtistId int64
+		Title    string
+	}{
+		Tx:       tx,
+		ArtistId: artistId,
+		Title:    title,
+	}
+	mock.lockUpsertRelease.Lock()
+	mock.calls.UpsertRelease = append(mock.calls.UpsertRelease, callInfo)
+	mock.lockUpsertRelease.Unlock()
+	return mock.UpsertReleaseFunc(tx, artistId, title)
+}
+
+// UpsertReleaseCalls gets all the calls that were made to UpsertRelease.
+// Check the length with:
+//     len(mockedVinylDS.UpsertReleaseCalls())
+func (mock *VinylDSMock) UpsertReleaseCalls() []struct {
+	Tx       *postgres.Tx
+	ArtistId int64
+	Title    string
+} {
+	var calls []struct {
+		Tx       *postgres.Tx
+		ArtistId int64
+		Title    string
+	}
+	mock.lockUpsertRelease.RLock()
+	calls = mock.calls.UpsertRelease
+	mock.lockUpsertRelease.RUnlock()
+	return calls
+}
+
+// UpsertSKU calls UpsertSKUFunc.
+func (mock *VinylDSMock) UpsertSKU(tx *postgres.Tx, sku *SKU) (bool, error) {
+	if mock.UpsertSKUFunc == nil {
+		panic("VinylDSMock.UpsertSKUFunc: method is nil but VinylDS.UpsertSKU was just called")
+	}
+	callInfo := struct {
+		Tx  *postgres.Tx
+		Sku *SKU
+	}{
+		Tx:  tx,
+		Sku: sku,
+	}
+	mock.lockUpsertSKU.Lock()
+	mock.calls.UpsertSKU = append(mock.calls.UpsertSKU, callInfo)
+	mock.lockUpsertSKU.Unlock()
+	return mock.UpsertSKUFunc(tx, sku)
+}
+
+// UpsertSKUCalls gets all the calls that were made to UpsertSKU.
+// Check the length with:
+//     len(mockedVinylDS.UpsertSKUCalls())
+func (mock *VinylDSMock) UpsertSKUCalls() []struct {
+	Tx  *postgres.Tx
+	Sku *SKU
+} {
+	var calls []struct {
+		Tx  *postgres.Tx
+		Sku *SKU
+	}
+	mock.lockUpsertSKU.RLock()
+	calls = mock.calls.UpsertSKU
+	mock.lockUpsertSKU.RUnlock()
+	return calls
+}
+
+// VerifySchema calls VerifySchemaFunc.
+func (mock *VinylDSMock) VerifySchema() error {
+	if mock.VerifySchemaFunc == nil {
+		panic("VinylDSMock.VerifySchemaFunc: method is nil but VinylDS.VerifySchema was just called")
 	}
 	callInfo := struct {
 	}{}
-	mock.lockRetrieveArtists.Lock()
-	mock.calls.RetrieveArtists = append(mock.calls.RetrieveArtists, callInfo)
-	mock.lockRetrieveArtists.Unlock()
-	return mock.RetrieveArtistsFunc()
+	mock.lockVerifySchema.Lock()
+	mock.calls.VerifySchema = append(mock.calls.VerifySchema, callInfo)
+	mock.lockVerifySchema.Unlock()
+	return mock.VerifySchemaFunc()
 }
 
-// RetrieveArtistsCalls gets all the calls that were made to RetrieveArtists.
+// VerifySchemaCalls gets all the calls that were made to VerifySchema.
 // Check the length with:
-//     len(mockedVinylDS.RetrieveArtistsCalls())
-func (mock *VinylDSMock) RetrieveArtistsCalls() []struct {
+//     len(mockedVinylDS.VerifySchemaCalls())
+func (mock *VinylDSMock) VerifySchemaCalls() []struct {
 } {
 	var calls []struct {
 	}
-	mock.lockRetrieveArtists.RLock()
-	calls = mock.calls.RetrieveArtists
-	mock.lockRetrieveArtists.RUnlock()
+	mock.lockVerifySchema.RLock()
+	calls = mock.calls.VerifySchema
+	mock.lockVerifySchema.RUnlock()
 	return calls
 }

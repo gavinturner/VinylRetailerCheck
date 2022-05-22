@@ -8,9 +8,9 @@ import (
 )
 
 const (
-	DEFAULT_MAX_IDLE_CONNS = 2
-	DEFAULT_MAX_CONNS      = 10
-	REDIS_QUEUE_NAME       = "retailer_scanning_queue"
+	DEFAULT_MAX_IDLE_CONNS    = 2
+	DEFAULT_MAX_CONNS         = 10
+	REDIS_SCANNING_QUEUE_NAME = "scanning_queue"
 )
 
 func init() {
@@ -40,5 +40,5 @@ func InitialiseRedisScanningQueue() (*redis.RedisQueue, error) {
 		redisServer = "localhost:6379"
 	}
 	redisPassword, _ := cfg.StringSetting("REDIS_PASSWORD")
-	return redis.ConnectToQueue(redisServer, redisPassword, REDIS_QUEUE_NAME, true)
+	return redis.ConnectToQueue(redisServer, redisPassword, REDIS_SCANNING_QUEUE_NAME, true)
 }

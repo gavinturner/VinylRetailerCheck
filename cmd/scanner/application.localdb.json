@@ -1,0 +1,9 @@
+{
+  "DB_HOST": "192.168.0.201",
+  "DB_PORT": "5432",
+  "DB_DATABASE": "vinylretailers",
+  "DB_DRIVER": "postgres",
+  "DB_USER": "vinylretailers",
+  "DB_PASSWORD": "vinylretailers",
+  "REDIS_SERVER": "vinylretailers-redis:6379"
+}

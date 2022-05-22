@@ -1,0 +1,42 @@
+
+CREATE TABLE IF NOT EXISTS batches (
+    id BIGSERIAL PRIMARY KEY,
+    req_searches INT DEFAULT 0,
+    completed_searches INT DEFAULT 0,
+    created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+);
+GRANT ALL PRIVILEGES ON TABLE batches TO vinylretailers;
+
+CREATE TABLE IF NOT EXISTS reports (
+     id BIGSERIAL PRIMARY KEY,
+     user_id BIGINT REFERENCES users(id) NOT NULL,
+     batch_id BIGINT REFERENCES batches(id) NOT NULL,
+     created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+     updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+     completed_at TIMESTAMP WITH TIME ZONE,
+     sent_at TIMESTAMP WITH TIME ZONE
+);
+GRANT ALL PRIVILEGES ON TABLE reports TO vinylretailers;
+
+CREATE TABLE IF NOT EXISTS report_artists (
+     id BIGSERIAL PRIMARY KEY,
+     batch_id BIGINT REFERENCES batches(id) NOT NULL,
+     report_id BIGINT REFERENCES reports(id) NOT NULL,
+     artist_id BIGINT REFERENCES artists(id) NOT NULL,
+     created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+     updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+);
+GRANT ALL PRIVILEGES ON TABLE report_artists TO vinylretailers;
+
+CREATE TABLE IF NOT EXISTS report_skus (
+     id BIGSERIAL PRIMARY KEY,
+     report_id BIGINT REFERENCES reports(id) NOT NULL,
+     sku_id BIGINT REFERENCES skus(id) NOT NULL,
+     created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP,
+     updated_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+);
+GRANT ALL PRIVILEGES ON TABLE report_skus TO vinylretailers;
+
+-- clean up existing skus so that we start fresh with report support
+DELETE FROM skus;

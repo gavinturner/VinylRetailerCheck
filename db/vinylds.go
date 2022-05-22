@@ -2,7 +2,17 @@
 
 package db
 
+import (
+	"github.com/gavinturner/vinylretailers/util/postgres"
+)
+
 // VinylDS ...
 type VinylDS interface {
-	RetrieveArtists() error
+	GetAllArtists(tx *postgres.Tx) ([]Artist, error)
+	GetAllRetailers(tx *postgres.Tx) ([]Retailer, error)
+	GetCurrentSKUForRelease(tx *postgres.Tx, releaseID int64, retailerID int64) (*SKU, error)
+	Q(tx *postgres.Tx) postgres.Querier
+	UpsertRelease(tx *postgres.Tx, artistId int64, title string) (id int64, err error)
+	UpsertSKU(tx *postgres.Tx, sku *SKU) (same bool, err error)
+	VerifySchema() error
 }
