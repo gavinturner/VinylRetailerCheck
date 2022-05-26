@@ -2,8 +2,14 @@ package db
 
 import (
 	"fmt"
+	"github.com/gavinturner/vinylretailers/util/log"
 	"github.com/gavinturner/vinylretailers/util/postgres"
 	"github.com/pkg/errors"
+	"time"
+)
+
+const (
+	DB_WAIT_DELAY_MSECS = 500
 )
 
 // generate an interface and mock from our persistor implementation
@@ -40,5 +46,23 @@ func (v *VinylDB) VerifySchema() error {
 	if len(versions) == 0 {
 		return fmt.Errorf("Schema migration has not been run")
 	}
+	return nil
+}
+
+func (v *VinylDB) WaitForDbUp(timeoutSecs int64) error {
+	var delay int64
+	var err error
+	for {
+		err = v.VerifySchema()
+		if err == nil {
+			break
+		}
+		time.Sleep(DB_WAIT_DELAY_MSECS * time.Millisecond)
+		delay += DB_WAIT_DELAY_MSECS
+		if delay > timeoutSecs*1000 {
+			return fmt.Errorf("Timeout waiting for db to come up")
+		}
+	}
+	log.Debugf("Database looks ok..\n")
 	return nil
 }

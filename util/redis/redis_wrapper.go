@@ -9,7 +9,8 @@ import (
 )
 
 const (
-	MASTER_QUEUE_KEY = "vinylretailers::queue"
+	BLOCKING_DELAY_MSECS = 500
+	MASTER_QUEUE_KEY     = "vinylretailers::queue"
 )
 
 type RedisQueue struct {
@@ -67,13 +68,22 @@ func (r *RedisQueue) Enqueue(payload any) error {
 	return lpush.Err()
 }
 
-func (r *RedisQueue) Dequeue(payload any) (bool, error) {
-	data, err := r.client.LPop(r.queueName()).Result()
-	if err != nil {
-		if err.Error() == "redis: nil" {
-			return false, nil
+func (r *RedisQueue) Dequeue(payload any, blocking bool) (bool, error) {
+	var data string
+	var err error
+	for {
+		data, err = r.client.LPop(r.queueName()).Result()
+		if err != nil {
+			if err.Error() == "redis: nil" {
+				if !blocking {
+					return false, nil
+				}
+				time.Sleep(time.Duration(BLOCKING_DELAY_MSECS) * time.Millisecond)
+				continue
+			}
+			return false, errors.Wrapf(err, "failed to pop queue entry")
 		}
-		return false, errors.Wrapf(err, "failed to pop queue entry")
+		break
 	}
 	entry := QueuePayload{}
 	err = entry.Unmarshal(data)
