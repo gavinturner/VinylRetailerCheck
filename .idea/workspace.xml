@@ -5,34 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e473d14-c29b-4290-a298-48b102eea47c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cmd/scanner/application.localdb.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/scheduler/Dockerfile.scheduler" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/scheduler/application.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/scheduler/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrations/20220518100000_create_initial_tables.up.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrations/20220522111900_add_batch_table.down.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrations/20220522111900_add_batch_table.up.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/reports.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/postgres/pgadmin_servers.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfg/application.json" beforeDir="false" afterPath="$PROJECT_DIR$/cfg/application.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/infra.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/infra.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/scanner/application.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/scanner/application.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmd/scanner/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/scanner/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/artists.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/artists.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/db.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/db.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/migrations/20221805103000_create_initial_tables.down.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrations/20220518100000_create_initial_tables.down.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/migrations/20221805103000_create_initial_tables.up.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/migrations/setup.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/setup.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/vinylds.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/vinylds.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/vinylds_mock.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/vinylds_mock.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/poisoncity.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/poisoncity.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/redis/scan_request.go" beforeDir="false" afterPath="$PROJECT_DIR$/util/redis/scan_request.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/scheduler/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/scheduler/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,12 +115,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/cmd/scheduler/main.go</url>
-          <line>25</line>
+          <line>24</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/cmd/scheduler/main.go</url>
-          <line>77</line>
+          <line>74</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
@@ -165,17 +140,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/cmd/scheduler/main.go</url>
-          <line>100</line>
+          <line>97</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/cmd/scanner/main.go</url>
-          <line>26</line>
+          <line>24</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/cmd/scanner/main.go</url>
-          <line>53</line>
+          <line>51</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>

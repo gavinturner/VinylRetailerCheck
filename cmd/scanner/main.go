@@ -1,8 +1,6 @@
 package main
 
 import (
-	"encoding/json"
-	"fmt"
 	"github.com/gavinturner/vinylretailers/cmd"
 	"github.com/gavinturner/vinylretailers/db"
 	"github.com/gavinturner/vinylretailers/retailers"
@@ -78,10 +76,7 @@ func main() {
 					log.Error(err, "Failed to scrape '%s' for '%s'", payload.RetailerName, payload.ArtistName)
 				}
 				for _, release := range releases {
-
-					json, _ := json.Marshal(release)
-					fmt.Printf("FOUND SKU: %s\n\n", json)
-
+					
 					releaseID, err := vinylDS.UpsertRelease(nil, payload.ArtistID, release.Name)
 					if err != nil {
 						log.Error(err, "Failed to create new release '%s' for artist '%s'", release.Name, payload.ArtistName)

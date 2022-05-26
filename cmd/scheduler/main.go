@@ -2,7 +2,6 @@
 package main
 
 import (
-	"fmt"
 	"github.com/gavinturner/vinylretailers/cmd"
 	"github.com/gavinturner/vinylretailers/db"
 	"github.com/gavinturner/vinylretailers/util/log"
@@ -71,8 +70,6 @@ func main() {
 				artists[watch.ArtistID] = watch.ArtistName
 			}
 		}
-
-		fmt.Printf("Watched Artists: %v\n", watchedArtists)
 
 		var batchID int64
 		if len(artists) > 0 && len(retailers) > 0 {
