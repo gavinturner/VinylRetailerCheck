@@ -13,11 +13,12 @@ const (
 )
 
 type SKU struct {
-	Name   string `json:"name"`
-	Artist string `json:"artist"`
-	Url    string `db:"item_url" json:"itemUrl"`
-	Image  string `db:"image_url" json:"imageUrl"`
-	Price  string `db:"price" json:"price"`
+	Name     string `db:"name" json:"name"`
+	Artist   string `db:"artist" json:"artist"`
+	Url      string `db:"item_url" json:"itemUrl"`
+	Image    string `db:"image_url" json:"imageUrl"`
+	Price    string `db:"price" json:"price"`
+	Retailer string `db:"retailer" json:"retailer"`
 }
 
 type VinylRetailer interface {

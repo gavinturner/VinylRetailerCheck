@@ -2,6 +2,7 @@ package db
 
 import (
 	"fmt"
+	"github.com/gavinturner/vinylretailers/retailers"
 	"github.com/gavinturner/vinylretailers/util/postgres"
 	"github.com/pkg/errors"
 	"gopkg.in/guregu/null.v3"
@@ -14,6 +15,7 @@ type Batch struct {
 	NumCompletedSearches int       `db:"completed_searches" json:"numCompletedSearches"`
 	CreatedAt            time.Time `db:"created_at"`
 	UpdatedAt            time.Time `db:"updated_at"`
+	ReportedAt           time.Time `db:"reported_at" json:"reportedAt"`
 }
 type Report struct {
 	ID          int64     `db:"id" json:"id"`
@@ -23,6 +25,14 @@ type Report struct {
 	UpdatedAt   time.Time `db:"updated_at"`
 	CompletedAt null.Time `db:"completed_at" json:"completedAt"`
 	SentAt      null.Time `db:"sent_at" json:"sentAt"`
+}
+
+type BatchedReport struct {
+	ReportID  int64  `db:"report_id" json:"reportId"`
+	UserID    int64  `db:"user_id" json:"userId"`
+	UserName  string `db:"user_name" json:"userName"`
+	UserEmail string `db:"user_email" json:"userEmail"`
+	BatchID   int64  `db:"batch_id" json:"batchId"`
 }
 
 //
@@ -160,4 +170,109 @@ func (v *VinylDB) AddSKUToReportsForBatch(tx *postgres.Tx, batchId int64, sku *S
 		return errors.Wrapf(err, "failed to insert sku into batch reports")
 	}
 	return nil
+}
+
+func (v *VinylDB) GetAllCompletedUnsetReports(tx *postgres.Tx) ([]BatchedReport, error) {
+	querier := v.Q(tx)
+	batches := []BatchedReport{}
+	err := querier.Select(&batches, `
+		SELECT 
+			b.id as batch_id,
+			r.id as report_id,
+			u.id as user_id,
+			u.name as user_name,
+			u.email as user_email
+		FROM 
+			batches b
+			JOIN reports r ON r.batch_id = b.id
+			JOIN users u ON r.user_id = u.id
+		WHERE 
+			b.reported_at IS NULL 
+			AND b.req_searches = b.completed_searches
+			AND r.completed_at IS NULL
+	`)
+	if err != nil {
+		return nil, errors.Wrapf(err, "failed to get reports for batch artist")
+	}
+	return batches, nil
+}
+
+func (v *VinylDB) MarkBatchReported(tx *postgres.Tx, batchId int64) error {
+	querier := v.Q(tx)
+	rows, err := querier.Exec(querier.Rebind(`
+		UPDATE batches SET reported_at = CURRENT_TIMESTAMP WHERE id = ?
+	`), batchId)
+	if err != nil {
+		return errors.Wrapf(err, "failed to update batch reported_at")
+	}
+	affected, err := rows.RowsAffected()
+	if err != nil {
+		return errors.Wrapf(err, "failed to get rows affected")
+	}
+	if affected == 0 {
+		return fmt.Errorf("batch %v was not set as reported does it exist?")
+	}
+	return nil
+}
+
+func (v *VinylDB) MarkReportSent(tx *postgres.Tx, reportId int64) error {
+	querier := v.Q(tx)
+	rows, err := querier.Exec(querier.Rebind(`
+		UPDATE reports SET sent_at = CURRENT_TIMESTAMP, completed_at = CURRENT_TIMESTAMP WHERE id = ?
+	`), reportId)
+	if err != nil {
+		return errors.Wrapf(err, "failed to update report sent_at")
+	}
+	affected, err := rows.RowsAffected()
+	if err != nil {
+		return errors.Wrapf(err, "failed to get rows affected")
+	}
+	if affected == 0 {
+		return fmt.Errorf("report %v was not set as sent. does it exist?")
+	}
+	return nil
+}
+
+func (v *VinylDB) DeleteReport(tx *postgres.Tx, reportId int64) error {
+	querier := v.Q(tx)
+	rows, err := querier.Exec(querier.Rebind(`
+		DELETE FROM reports WHERE id = ?
+	`), reportId)
+	if err != nil {
+		return errors.Wrapf(err, "failed to delete report %v", reportId)
+	}
+	affected, err := rows.RowsAffected()
+	if err != nil {
+		return errors.Wrapf(err, "failed to get rows affected")
+	}
+	if affected == 0 {
+		return fmt.Errorf("report %v was not deleted? does it exist?")
+	}
+	return nil
+}
+
+func (v *VinylDB) GetSkusForReport(tx *postgres.Tx, reportId int64) ([]retailers.SKU, error) {
+	querier := v.Q(tx)
+	skus := []retailers.SKU{}
+	err := querier.Select(&skus, querier.Rebind(`
+		SELECT
+			rt.name as retailer,
+			a.name as artist,
+			r.name as name,
+    		s.item_url,
+    		s.image_url,
+    		s.price
+		FROM 
+			report_skus rs 
+			JOIN skus s ON rs.sku_id = s.id
+			JOIN artists a ON s.artist_id = a.id
+			JOIN releases r ON s.release_id = r.id
+			JOIN retailers rt ON s.retailer_id = rt.id
+		WHERE 
+			rs.report_id = ?
+	`), reportId)
+	if err != nil {
+		return nil, errors.Wrapf(err, "failed to get skus for report %v", reportId)
+	}
+	return skus, nil
 }

@@ -1,0 +1,2 @@
+
+ALTER TABLE batches ADD COLUMN reported_at TIMESTAMP WITH TIME ZONE;

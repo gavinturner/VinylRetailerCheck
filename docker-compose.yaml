@@ -45,6 +45,13 @@ services:
     networks:
       - "vinylretailers"
 
+  reporter:
+    build:
+      context: .
+      dockerfile: cmd/reporter/Dockerfile.reporter
+    networks:
+      - "vinylretailers"
+
 volumes:
   pgdata:
     driver_opts:

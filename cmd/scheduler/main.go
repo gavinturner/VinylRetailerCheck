@@ -1,4 +1,3 @@
-// artist_first project main.go
 package main
 
 import (
@@ -50,10 +49,8 @@ func main() {
 		panic(err)
 	}
 
-	log.Debugf("Retail vinyl scheduler starts..\n")
-
 	// make sure that the db is up. keep trying every second until it is
-	log.Debugf("Retail vinyl scanner starts..")
+	log.Debugf("Retail vinyl scheduler starts..\n")
 	err = vinylDS.WaitForDbUp(DBSTARTUP_TIMEOUT_SECS)
 	if err != nil {
 		panic(err)
