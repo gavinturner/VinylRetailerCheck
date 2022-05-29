@@ -80,6 +80,14 @@ func (a *PoisonCity) ScrapeArtistReleases(artist string) (findings []SKU, err er
 			sku.Image = fmt.Sprintf("<img width=\"150px\" height=\"150px\" src=\"%s\">", sku.Image)
 			sku.Url = subUrl
 
+			if strings.Index(strings.ToLower(sku.Name), strings.ToLower(artist+" ")) == 0 {
+				sku.Name = sku.Name[len(artist)+1:]
+			}
+			if (sku.Name[0] == '\'' && sku.Name[len(sku.Name)-1] == '\'') ||
+				(sku.Name[0] == '"' && sku.Name[len(sku.Name)-1] == '"') {
+				sku.Name = sku.Name[1 : len(sku.Name)-1]
+			}
+
 			// store new price
 			findings = append(findings, sku)
 		}

@@ -5,17 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e473d14-c29b-4290-a298-48b102eea47c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cmd/reporter/Dockerfile.reporter" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/reporter/application.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmd/reporter/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrations/20220527161200_add_reported_at_to_batch.down.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrations/20220527161200_add_reported_at_to_batch.up.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/reporter/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/reporter/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmd/scheduler/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/scheduler/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/reports.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/reports.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/retailer.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/retailer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/artistfirst.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/artistfirst.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/poisoncity.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/poisoncity.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

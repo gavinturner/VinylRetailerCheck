@@ -258,7 +258,7 @@ func (v *VinylDB) GetSkusForReport(tx *postgres.Tx, reportId int64) ([]retailers
 		SELECT
 			rt.name as retailer,
 			a.name as artist,
-			r.name as name,
+			r.title as name,
     		s.item_url,
     		s.image_url,
     		s.price

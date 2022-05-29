@@ -13,7 +13,7 @@ const (
 	// delay for ten minutes between attepts to produce reports
 	STARTUP_DELAY_SECS         = 10
 	DBSTARTUP_TIMEOUT_SECS     = 30
-	DELAY_BETWEEN_REPORTS_SECS = 60 * 60 // one hour
+	DELAY_BETWEEN_REPORTS_SECS = 60 * 15 // 15 minutes
 )
 
 //

@@ -38,12 +38,13 @@ func (a *ArtistFirst) ScrapeArtistReleases(artist string) (findings []SKU, err e
 	for idx, t := range toks {
 		if strings.Index(t, "product-list-item-title") >= 0 {
 			sku := SKU{
-				Url:    strings.Replace(toks[idx+1]+">", "<a href=\"", fmt.Sprintf("<a href=\"%s", AF_URL_PREFIX), -1),
+				Url:    strings.Replace(toks[idx+1], "<a href=\"", AF_URL_PREFIX, -1),
 				Artist: strings.ToLower(strings.TrimSpace(strings.TrimSuffix(toks[idx-1], "</p"))),
 				Image:  strings.TrimSpace(toks[idx-10]) + ">",
 				Name:   strings.TrimSpace(strings.TrimSuffix(toks[idx+2], "</a")),
 				Price:  toks[idx+5], // sold out
 			}
+
 			sku.Image = strings.Replace(sku.Image, "<img src=\"", fmt.Sprintf("<img width=\"150px\" height=\"150px\" src=\"https:"), -1)
 			if strings.Index(strings.ToLower(sku.Price), "sold out") < 0 {
 				// ok we didnt find the sold out price
