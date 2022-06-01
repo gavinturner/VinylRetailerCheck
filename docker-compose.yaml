@@ -30,13 +30,18 @@ services:
       PGADMIN_DEFAULT_EMAIL: "gturner.au@gmail.com"
       PGADMIN_DEFAULT_PASSWORD: "vinylretailers"
       PGADMIN_SERVER_JSON_FILE: "./util/postgres/pgadmin_servers.json"
-
+    depends_on:
+      - vinylretailers-postgres
+      
   scanner:
     build:
       context: .
       dockerfile: cmd/scanner/Dockerfile.scanner
     networks:
       - "vinylretailers"
+    depends_on:
+        - vinylretailers-postgres
+        - vinylretailers-redis
 
   scheduler:
     build:
@@ -44,6 +49,9 @@ services:
       dockerfile: cmd/scheduler/Dockerfile.scheduler
     networks:
       - "vinylretailers"
+    depends_on:
+      - vinylretailers-postgres
+      - vinylretailers-redis
 
   reporter:
     build:
@@ -51,6 +59,9 @@ services:
       dockerfile: cmd/reporter/Dockerfile.reporter
     networks:
       - "vinylretailers"
+    depends_on:
+      - vinylretailers-postgres
+      - vinylretailers-redis
 
 volumes:
   pgdata:
