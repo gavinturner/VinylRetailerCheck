@@ -99,3 +99,10 @@ https://docs.docker.com/engine/reference/commandline/run
 ### golang initial project setup (go mod)
 * setup required so that the golang project recognises its root git repo for imports (ie using go.mod):
   > go mod init github.com/gavinturner/vinylretailers
+
+
+### logging into the postgres pgAdmin web interface
+* use username/password "vinylretailers"
+* use the hostname "vinylretailers-postgres"
+* the port is the default 5432
+* 

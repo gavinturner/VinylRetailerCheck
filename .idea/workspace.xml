@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e473d14-c29b-4290-a298-48b102eea47c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/db/migrations/20220603173100_add_new_retailers.up.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrations/20220605184300_add_new_retailers.up.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/_template.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/damaged.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/data/damaged.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/data/damaged_nofx.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/data/egg.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/data/repressedrecords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/data/resistrecords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/repressedrecords.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/resistrecords.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/test/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfg/artists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cfg/artists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/reporter/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/reporter/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/migrations/20220518100000_create_initial_tables.up.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrations/20220518100000_create_initial_tables.up.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/setup.sql" beforeDir="false" afterPath="$PROJECT_DIR$/db/setup.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/artistfirst.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/artistfirst.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/poisoncity.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/poisoncity.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/retailer.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/retailer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/data/egg.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
