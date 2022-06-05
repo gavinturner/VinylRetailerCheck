@@ -46,7 +46,7 @@ func (a *ArtistFirst) ScrapeArtistReleases(artist string) (findings []SKU, err e
 			}
 
 			sku.Image = strings.Replace(sku.Image, "<img src=\"", fmt.Sprintf("<img width=\"150px\" height=\"150px\" src=\"https:"), -1)
-			if strings.Index(strings.ToLower(sku.Price), "sold out") < 0 {
+			if strings.Index(strings.ToLower(sku.Price), SOLD_OUT) < 0 {
 				// ok we didnt find the sold out price
 				sku.Price = toks[idx+6] // price?
 
@@ -61,7 +61,7 @@ func (a *ArtistFirst) ScrapeArtistReleases(artist string) (findings []SKU, err e
 				sku.Image = strings.Replace(sku.Image, "<img src=\"", fmt.Sprintf("<img width=\"150px\" height=\"150px\" src=\"https:"), -1)
 				sku.Price = strings.TrimSuffix(sku.Price, "</span")
 			} else {
-				sku.Price = "sold out"
+				sku.Price = SOLD_OUT
 			}
 			sku.Price = strings.TrimSpace(sku.Price)
 

@@ -1,0 +1,34 @@
+POST: https://api-client.common-ground.io/graphql
+{
+  "data": {
+    "search": {
+      "items": [
+        {
+          "path": "/release/10740255/Radiohead-In-Rainbows",
+          "data": {
+            "images": [
+              {
+                "uri": "https://static.common-ground.io/shops/114/items/10740255/img-d-dXVjxPHFg.jpeg",
+                "__typename": "Image"
+              }
+            ],
+            "formats": [
+              {
+                "qty": "1",
+                "name": "CD",
+                "__typename": "ReleaseFormat"
+              }
+            ],
+            "__typename": "ItemData"
+          },
+          "descriptions": {
+            "main": "Radiohead - In Rainbows | XL Recordings (XLCD 324)",
+            "__typename": "Descriptions"
+          },
+          "__typename": "Item"
+        }
+      ],
+      "__typename": "SearchResponse"
+    }
+  }
+}

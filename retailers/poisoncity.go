@@ -69,7 +69,7 @@ func (a *PoisonCity) ScrapeArtistReleases(artist string) (findings []SKU, err er
 					sku.Price = strings.TrimSuffix(sku.Price, "</span")
 				}
 				if strings.Index(tok, "\"Sold Out\"") >= 0 {
-					sku.Price = "sold out"
+					sku.Price = SOLD_OUT
 				}
 			}
 

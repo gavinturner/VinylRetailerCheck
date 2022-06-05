@@ -121,7 +121,7 @@ func buildAndSendEmail(skus []retailers.SKU, userEmail string, userName string) 
 	subject := "New vinyl releases found by new engine"
 	message := "<table>\n"
 	for _, sku := range skus {
-		log.Debug("Processing SKU %v for report to %v", sku.Name, userEmail)
+		log.Debugf("Processing SKU %v for report to %v", sku.Name, userEmail)
 		row, err := renderResultsRow(sku.Image, sku.Artist, sku.Url, sku.Name, sku.Price)
 		if err != nil {
 			return errors.Wrapf(err, "Failed to construct report email message")

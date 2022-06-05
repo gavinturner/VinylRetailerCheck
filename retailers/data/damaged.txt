@@ -1,0 +1,886 @@
+<!doctype html>
+<html lang="en-AU" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" /><meta name='robots' content='noindex, follow' />
+<script>window._wca = window._wca || [];</script>
+
+	<!-- This site is optimized with the Yoast SEO plugin v18.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>You searched for clowns vinyl - Damaged Record Co and Agency</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="You searched for clowns vinyl - Damaged Record Co and Agency" />
+	<meta property="og:url" content="https://damagedmusic.com.au/search/clowns vinyl/" />
+	<meta property="og:site_name" content="Damaged Record Co and Agency" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="You searched for clowns vinyl - Damaged Record Co and Agency" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://damagedmusic.com.au/#organization","name":"Damaged Music","url":"https://damagedmusic.com.au/","sameAs":[],"logo":{"@type":"ImageObject","inLanguage":"en-AU","@id":"https://damagedmusic.com.au/#/schema/logo/image/","url":"https://damagedmusic.com.au/wp-content/uploads/2017/10/damagedmusic-1.png","contentUrl":"https://damagedmusic.com.au/wp-content/uploads/2017/10/damagedmusic-1.png","width":1654,"height":322,"caption":"Damaged Music"},"image":{"@id":"https://damagedmusic.com.au/#/schema/logo/image/"}},{"@type":"WebSite","@id":"https://damagedmusic.com.au/#website","url":"https://damagedmusic.com.au/","name":"Damaged Record Co and Agency","description":"","publisher":{"@id":"https://damagedmusic.com.au/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://damagedmusic.com.au/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-AU"},{"@type":["CollectionPage","SearchResultsPage"],"@id":"#webpage","url":"https://damagedmusic.com.au/?s=clowns vinyl","name":"You searched for clowns vinyl - Damaged Record Co and Agency","isPartOf":{"@id":"https://damagedmusic.com.au/#website"},"breadcrumb":{"@id":"#breadcrumb"},"inLanguage":"en-AU","potentialAction":[{"@type":"ReadAction","target":["https://damagedmusic.com.au/?s=clowns vinyl"]}]},{"@type":"BreadcrumbList","@id":"#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://damagedmusic.com.au/"},{"@type":"ListItem","position":2,"name":"You searched for clowns vinyl"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Damaged Record Co and Agency &raquo; Feed" href="https://damagedmusic.com.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Damaged Record Co and Agency &raquo; Products Feed" href="https://damagedmusic.com.au/shop/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://damagedmusic.com.au/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='https://damagedmusic.com.au/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://damagedmusic.com.au/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+<style id='wp-mediaelement-inline-css' type='text/css'>
+body .mejs-container .mejs-controls >.mejs-horizontal-volume-slider{height:26px;width:56px;position:relative;display:block;float:left;}.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total{background:rgba(255,255,255,.33)}.mejs-controls .mejs-button button:focus{outline:none}body[data-button-style*="_rounded"] .mejs-button>button,body[data-button-style^="rounded"] .mejs-controls .mejs-pause button,body .mejs-controls .mejs-pause{border-radius:0!important;}video,audio{visibility:hidden}.mejs-controls .mejs-time-rail .mejs-time-loaded{background-color:rgba(255,255,255,0.3)!important}.mejs-video .mejs-controls .mejs-time-rail{padding-top:12px}.mejs-audio .mejs-controls .mejs-time-rail{padding-top:11px}.mejs-video .mejs-controls .mejs-time-rail .mejs-time-current,.mejs-video .mejs-controls .mejs-time-rail span,.mejs-video .mejs-controls .mejs-time-rail a,.mejs-video .mejs-controls .mejs-time-rail .mejs-time-loaded{height:8px}.mejs-audio .mejs-controls .mejs-time-rail .mejs-time-current,.mejs-audio .mejs-controls .mejs-time-rail span,.mejs-audio .mejs-controls .mejs-time-rail a,.mejs-audio .mejs-controls .mejs-time-rail .mejs-time-loaded{height:8px}#ajax-content-wrap .mejs-container{background-color:transparent;background-image:none!important}.wp-video{margin-bottom:20px;}.wp-video,.mejs-container .mejs-poster img{max-width:none!important;width:100%!important}.wp-video-shortcode.mejs-container .mejs-poster img{visibility:hidden;display:block;margin-bottom:0;}.mejs-container-fullscreen .mejs-poster img{height:100%!important}body .mejs-poster{background-size:cover}body .mejs-container .mejs-controls .mejs-time{opacity:0.8;}body .mejs-controls button{transition:opacity 0.15s ease}body .mejs-controls button:hover,.mejs-controls .mejs-fullscreen-button:hover button{opacity:0.8}#ajax-content-wrap .mejs-controls .mejs-time-rail .mejs-time-total{background-color:rgba(255,255,255,0.25)}.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current{background:transparent!important}body .mejs-controls .mejs-button button{font-size:18px;color:#fff;width:auto;position:relative;display:inline-block;}body .mejs-controls .mejs-button:not(.mejs-replay) button{background-image:none}body .mejs-controls .mejs-button.mejs-replay button{width:20px;}body .mejs-controls button:before{text-decoration:inherit;display:inline-block;speak:none}body .mejs-controls .mejs-play button:before{content:"\e052"}body .mejs-controls .mejs-mute button:before{content:"\e098"}body .mejs-controls .mejs-unmute button:before{content:"\e099"}body .mejs-controls .mejs-fullscreen-button button:before{content:"\e110";font-size:17px}body .mejs-controls .mejs-fullscreen-button.mejs-unfullscreen button:before{content:"\e111"}body .mejs-button.mejs-volume-button{margin-left:5px}body .mejs-controls .mejs-pause{top:2px;left:2px;position:relative;}body .mejs-controls .mejs-pause button{border-left:3px solid #fff;border-right:3px solid #fff;width:9px;height:12px;right:3px;top:2px}#ajax-content-wrap .mejs-container.mejs-audio{height:44px!important;background-color:rgba(0,0,0,1)}#ajax-content-wrap .mejs-container.mejs-audio .mejs-playpause-button{margin-left:0;}body .mejs-container.mejs-audio .mejs-controls{height:42px}body .mejs-container:not(.mejs-audio) .mejs-controls:before{background:linear-gradient(rgba(255,255,255,0) -2%,rgba(0,0,0,0) 35%,rgba(0,0,0,0.04) 44%,rgba(0,0,0,0.8) 100%,rgba(0,0,0,0.6) 100%);position:absolute;bottom:0;left:0;width:100%;height:400%;z-index:11;border-radius:4px;content:" "}body .mfp-wrap .mfp-content .mejs-container:not(.mejs-audio) .mejs-controls:before{border-radius:0;}body .mejs-container .mejs-controls >*{z-index:100;position:relative}body .mejs-container .mejs-controls{background:none!important;height:50px}#ajax-content-wrap .mejs-playpause-button{margin-left:20px}#ajax-content-wrap .mejs-fullscreen-button{margin-right:20px}body .mejs-video .mejs-controls .mejs-time-rail .mejs-time-float{color:#fff;border:none;background-color:transparent}body .mejs-controls .mejs-time-rail .mejs-time-float-corner{border-color:transparent transparent}body .mejs-audio .mejs-controls .mejs-time-rail .mejs-time-float{border:none;background-color:#fff;height:15px;box-shadow:0 2px 12px rgba(0,0,0,0.25)}
+</style>
+<link rel='stylesheet' id='wc-blocks-vendors-style-css'  href='https://damagedmusic.com.au/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css'  href='https://damagedmusic.com.au/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://damagedmusic.com.au/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css' type='text/css' media='all' />
+<style id='woocommerce-layout-inline-css' type='text/css'>
+
+	.infinite-scroll .woocommerce-pagination {
+		display: none;
+	}
+</style>
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://damagedmusic.com.au/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://damagedmusic.com.au/wp-content/plugins/woocommerce/assets/css/woocommerce.css' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='font-awesome-css'  href='https://damagedmusic.com.au/wp-content/themes/salient/css/font-awesome-legacy.min.css' type='text/css' media='all' />
+<style id='font-awesome-inline-css' type='text/css'>
+[data-font="FontAwesome"]:before {font-family: 'FontAwesome' !important;content: attr(data-icon) !important;speak: none !important;font-weight: normal !important;font-variant: normal !important;text-transform: none !important;line-height: 1 !important;font-style: normal !important;-webkit-font-smoothing: antialiased !important;-moz-osx-font-smoothing: grayscale !important;}
+</style>
+<link rel='stylesheet' id='salient-grid-system-css'  href='https://damagedmusic.com.au/wp-content/themes/salient/css/build/grid-system.css' type='text/css' media='all' />
+<link rel='stylesheet' id='main-styles-css'  href='https://damagedmusic.com.au/wp-content/themes/salient/css/build/style.css' type='text/css' media='all' />
+<style id='main-styles-inline-css' type='text/css'>
+
+		body:not(.archive) #page-header-bg {
+			background-color: #f4f4f4;
+		}
+		body:not(.archive) #page-header-bg h1, #page-header-bg .result-num {
+			color: #000000;
+		}
+		
+html:not(.page-trans-loaded) { background-color: #ffffff; }
+</style>
+<link rel='stylesheet' id='nectar-header-layout-centered-menu-css'  href='https://damagedmusic.com.au/wp-content/themes/salient/css/build/header/header-layout-centered-menu.css' type='text/css' media='all' />
+<link rel='stylesheet' id='nectar_default_font_open_sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='nectar-blog-auto-masonry-meta-overlaid-spaced-css'  href='https://damagedmusic.com.au/wp-content/themes/salient/css/build/blog/auto-masonry-meta-overlaid-spaced.css' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='https://damagedmusic.com.au/wp-content/themes/salient/css/build/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='nectar-product-style-minimal-css'  href='https://damagedmusic.com.au/wp-content/themes/salient/css/build/third-party/woocommerce/product-style-minimal.css' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-css'  href='https://damagedmusic.com.au/wp-content/themes/salient/css/build/woocommerce.css' type='text/css' media='all' />
+<link rel='stylesheet' id='nectar-search-results-css'  href='https://damagedmusic.com.au/wp-content/themes/salient/css/build/search.css' type='text/css' media='all' />
+<link rel='stylesheet' id='skin-ascend-css'  href='https://damagedmusic.com.au/wp-content/themes/salient/css/build/ascend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='salient-wp-menu-dynamic-css'  href='https://damagedmusic.com.au/wp-content/uploads/salient/menu-dynamic.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://damagedmusic.com.au/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<style id='dashicons-inline-css' type='text/css'>
+[data-font="Dashicons"]:before {font-family: 'Dashicons' !important;content: attr(data-icon) !important;speak: none !important;font-weight: normal !important;font-variant: normal !important;text-transform: none !important;line-height: 1 !important;font-style: normal !important;-webkit-font-smoothing: antialiased !important;-moz-osx-font-smoothing: grayscale !important;}
+</style>
+<link rel='stylesheet' id='wp-jquery-ui-dialog-css'  href='https://damagedmusic.com.au/wp-includes/css/jquery-ui-dialog.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='optin-ninja-frontend-css'  href='https://damagedmusic.com.au/wp-content/plugins/optin-ninja/css/optin-ninja-frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dynamic-css-css'  href='https://damagedmusic.com.au/wp-content/themes/salient/css/salient-dynamic-styles.css' type='text/css' media='all' />
+<style id='dynamic-css-inline-css' type='text/css'>
+@media only screen and (min-width:1000px){body #ajax-content-wrap.no-scroll{min-height:calc(100vh - 86px);height:calc(100vh - 86px)!important;}}@media only screen and (min-width:1000px){#page-header-wrap.fullscreen-header,#page-header-wrap.fullscreen-header #page-header-bg,html:not(.nectar-box-roll-loaded) .nectar-box-roll > #page-header-bg.fullscreen-header,.nectar_fullscreen_zoom_recent_projects,#nectar_fullscreen_rows:not(.afterLoaded) > div{height:calc(100vh - 85px);}.wpb_row.vc_row-o-full-height.top-level,.wpb_row.vc_row-o-full-height.top-level > .col.span_12{min-height:calc(100vh - 85px);}html:not(.nectar-box-roll-loaded) .nectar-box-roll > #page-header-bg.fullscreen-header{top:86px;}.nectar-slider-wrap[data-fullscreen="true"]:not(.loaded),.nectar-slider-wrap[data-fullscreen="true"]:not(.loaded) .swiper-container{height:calc(100vh - 84px)!important;}.admin-bar .nectar-slider-wrap[data-fullscreen="true"]:not(.loaded),.admin-bar .nectar-slider-wrap[data-fullscreen="true"]:not(.loaded) .swiper-container{height:calc(100vh - 84px - 32px)!important;}}@media only screen and (max-width:999px){.using-mobile-browser #nectar_fullscreen_rows:not(.afterLoaded):not([data-mobile-disable="on"]) > div{height:calc(100vh - 100px);}.using-mobile-browser .wpb_row.vc_row-o-full-height.top-level,.using-mobile-browser .wpb_row.vc_row-o-full-height.top-level > .col.span_12,[data-permanent-transparent="1"].using-mobile-browser .wpb_row.vc_row-o-full-height.top-level,[data-permanent-transparent="1"].using-mobile-browser .wpb_row.vc_row-o-full-height.top-level > .col.span_12{min-height:calc(100vh - 100px);}html:not(.nectar-box-roll-loaded) .nectar-box-roll > #page-header-bg.fullscreen-header,.nectar_fullscreen_zoom_recent_projects,.nectar-slider-wrap[data-fullscreen="true"]:not(.loaded),.nectar-slider-wrap[data-fullscreen="true"]:not(.loaded) .swiper-container,#nectar_fullscreen_rows:not(.afterLoaded):not([data-mobile-disable="on"]) > div{height:calc(100vh - 47px);}.wpb_row.vc_row-o-full-height.top-level,.wpb_row.vc_row-o-full-height.top-level > .col.span_12{min-height:calc(100vh - 47px);}body[data-transparent-header="false"] #ajax-content-wrap.no-scroll{min-height:calc(100vh - 47px);height:calc(100vh - 47px);}}.post-type-archive-product.woocommerce .container-wrap,.tax-product_cat.woocommerce .container-wrap{background-color:#ffffff;}.woocommerce.single-product #single-meta{position:relative!important;top:0!important;margin:0;left:8px;height:auto;}.woocommerce.single-product #single-meta:after{display:block;content:" ";clear:both;height:1px;}.woocommerce ul.products li.product.material,.woocommerce-page ul.products li.product.material{background-color:#ffffff;}.woocommerce ul.products li.product.minimal .product-wrap,.woocommerce ul.products li.product.minimal .background-color-expand,.woocommerce-page ul.products li.product.minimal .product-wrap,.woocommerce-page ul.products li.product.minimal .background-color-expand{background-color:#ffffff;}.screen-reader-text,.nectar-skip-to-content:not(:focus){border:0;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute!important;width:1px;word-wrap:normal!important;}
+</style>
+<link rel='stylesheet' id='redux-google-fonts-salient_redux-css'  href='https://fonts.googleapis.com/css?family=B612%3A400%2C700%7CAlegreya+Sans+SC%3A700%7CAmatic+SC%3A400&#038;subset=latin&#038;ver=1644819596' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://damagedmusic.com.au/wp-content/plugins/jetpack/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/damagedmusic.com.au\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/plugins/js_composer_salient/assets/js/vendors/woocommerce-add-to-cart.js' id='vc_woocommerce-add-to-cart-js-js'></script>
+<script defer type='text/javascript' src='https://stats.wp.com/s-202222.js' id='woocommerce-analytics-js'></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-104661769-11' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["damagedmusic.com.au"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-104661769-11", {"anonymize_ip":true});
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://damagedmusic.com.au/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://damagedmusic.com.au/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://damagedmusic.com.au/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9.3" />
+<meta name="generator" content="WooCommerce 6.4.1" />
+<meta name="generator" content="Site Kit by Google 1.73.0" /><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MXRF7VM');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '130045568973783');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=130045568973783&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --><style type='text/css'>img#wpstats{display:none}</style>
+	<script type="text/javascript"> var root = document.getElementsByTagName( "html" )[0]; root.setAttribute( "class", "js" ); </script>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+				<script  type="text/javascript">
+				!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+					n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+					n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+					t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+					document,'script','https://connect.facebook.net/en_US/fbevents.js');
+			</script>
+			<!-- WooCommerce Facebook Integration Begin -->
+			<script  type="text/javascript">
+
+				fbq('init', '130045568973783', {}, {
+    "agent": "woocommerce-6.4.1-2.6.13"
+});
+
+				fbq( 'track', 'PageView', {
+    "source": "woocommerce",
+    "version": "6.4.1",
+    "pluginVersion": "2.6.13"
+} );
+
+				document.addEventListener( 'DOMContentLoaded', function() {
+					jQuery && jQuery( function( $ ) {
+						// Insert placeholder for events injected when a product is added to the cart through AJAX.
+						$( document.body ).append( '<div class=\"wc-facebook-pixel-event-placeholder\"></div>' );
+					} );
+				}, false );
+
+			</script>
+			<!-- WooCommerce Facebook Integration End -->
+			<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+		<style type="text/css" id="wp-custom-css">
+			p.order_note{
+  background-color:yellow!important;
+}		</style>
+		<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><!-- WooCommerce Google Analytics Integration -->
+		<script type='text/javascript'>
+			var gaProperty = 'UA-104661769-11';
+			var disableStr = 'ga-disable-' + gaProperty;
+			if ( document.cookie.indexOf( disableStr + '=true' ) > -1 ) {
+				window[disableStr] = true;
+			}
+			function gaOptout() {
+				document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+				window[disableStr] = true;
+			}
+		</script><script type='text/javascript'>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script', '//www.google-analytics.com/analytics.js','ga');ga( 'create', 'UA-104661769-11', 'damagedmusic.com.au' );(window.gaDevIds=window.gaDevIds||[]).push('dOGY3NW');ga( 'set', 'anonymizeIp', true );
+		ga( 'set', 'dimension1', 'no' );
+ga( 'require', 'ec' );</script>
+		<!-- /WooCommerce Google Analytics Integration --></head><body data-rsssl=1 class="archive search search-results post-type-archive post-type-archive-product theme-salient woocommerce-shop woocommerce woocommerce-page woocommerce-no-js ascend wpb-js-composer js-comp-ver-6.7.1 vc_responsive" data-footer-reveal="false" data-footer-reveal-shadow="none" data-header-format="centered-menu" data-body-border="off" data-boxed-style="" data-header-breakpoint="1000" data-dropdown-style="minimal" data-cae="easeOutCubic" data-cad="750" data-megamenu-width="contained" data-aie="none" data-ls="fancybox" data-apte="horizontal_swipe_basic" data-hhun="0" data-fancy-form-rcs="default" data-form-style="default" data-form-submit="regular" data-is="minimal" data-button-style="slightly_rounded_shadow" data-user-account-button="true" data-flex-cols="true" data-col-gap="default" data-header-inherit-rc="false" data-header-search="true" data-animated-anchors="true" data-ajax-transitions="true" data-full-width-header="false" data-slide-out-widget-area="true" data-slide-out-widget-area-style="fullscreen-alt" data-user-set-ocm="off" data-loading-animation="none" data-bg-header="false" data-responsive="1" data-ext-responsive="true" data-ext-padding="90" data-header-resize="1" data-header-color="custom" data-transparent-header="false" data-cart="true" data-remove-m-parallax="" data-remove-m-video-bgs="" data-m-animate="0" data-force-header-trans-color="light" data-smooth-scrolling="0" data-permanent-transparent="false" >
+	
+	<script type="text/javascript">
+	 (function(window, document) {
+
+		 if(navigator.userAgent.match(/(Android|iPod|iPhone|iPad|BlackBerry|IEMobile|Opera Mini)/)) {
+			 document.body.className += " using-mobile-browser mobile ";
+		 }
+
+		 if( !("ontouchstart" in window) ) {
+
+			 var body = document.querySelector("body");
+			 var winW = window.innerWidth;
+			 var bodyW = body.clientWidth;
+
+			 if (winW > bodyW + 4) {
+				 body.setAttribute("style", "--scroll-bar-w: " + (winW - bodyW - 4) + "px");
+			 } else {
+				 body.setAttribute("style", "--scroll-bar-w: 0px");
+			 }
+		 }
+
+	 })(window, document);
+   </script><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MXRF7VM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><a href="#ajax-content-wrap" class="nectar-skip-to-content">Skip to main content</a><div id="ajax-loading-screen" data-disable-mobile="1" data-disable-fade-on-click="0" data-effect="horizontal_swipe_basic" data-method="standard"><div class="reveal-1"></div><div class="reveal-2"></div></div>	
+	<div id="header-space"  data-header-mobile-fixed='1'></div> 
+	
+		<div id="header-outer" data-has-menu="true" data-has-buttons="yes" data-header-button_style="default" data-using-pr-menu="false" data-mobile-fixed="1" data-ptnm="false" data-lhe="animated_underline" data-user-set-bg="#ffffff" data-format="centered-menu" data-permanent-transparent="false" data-megamenu-rt="0" data-remove-fixed="0" data-header-resize="1" data-cart="true" data-transparency-option="0" data-box-shadow="none" data-shrink-num="6" data-using-secondary="0" data-using-logo="1" data-logo-height="30" data-m-logo-height="24" data-padding="28" data-full-width="false" data-condense="false" >
+		
+<header id="top">
+	<div class="container">
+		<div class="row">
+			<div class="col span_3">
+								<a id="logo" href="https://damagedmusic.com.au" data-supplied-ml-starting-dark="false" data-supplied-ml-starting="false" data-supplied-ml="false" >
+					<img class="stnd skip-lazy default-logo dark-version" width="1654" height="322" alt="Damaged Record Co and Agency" src="https://damagedmusic.com.au/wp-content/uploads/2020/05/damagedmusic-1-1.png" srcset="https://damagedmusic.com.au/wp-content/uploads/2020/05/damagedmusic-1-1.png 1x, https://damagedmusic.com.au/wp-content/uploads/2020/05/damagedmusic-1-1.png 2x" />				</a>
+							</div><!--/span_3-->
+
+			<div class="col span_9 col_last">
+									<div class="nectar-mobile-only mobile-header"><div class="inner"></div></div>
+									<a class="mobile-search" href="#searchbox"><span class="nectar-icon icon-salient-search" aria-hidden="true"></span><span class="screen-reader-text">search</span></a>
+										<a class="mobile-user-account" href="https://damagedmusic.com.au/my-account"><span class="normal icon-salient-m-user" aria-hidden="true"></span><span class="screen-reader-text">account</span></a>
+					
+						<a id="mobile-cart-link" data-cart-style="dropdown" href="https://damagedmusic.com.au/cart/"><i class="icon-salient-cart"></i><div class="cart-wrap"><span>0 </span></div></a>
+															<div class="slide-out-widget-area-toggle mobile-icon fullscreen-alt" data-custom-color="false" data-icon-animation="simple-transform">
+						<div> <a href="#sidewidgetarea" aria-label="Navigation Menu" aria-expanded="false" class="closed using-label">
+							<i class="label">Menu</i><span aria-hidden="true"> <i class="lines-button x2"> <i class="lines"></i> </i> </span>
+						</a></div>
+					</div>
+				
+									<nav>
+													<ul class="sf-menu">
+								<li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nectar-regular-menu-item menu-item-10"><a href="https://damagedmusic.com.au/record-label"><span class="menu-title-text">Record Label</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-838" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-838"><a href="https://damagedmusic.com.au/clowns/"><span class="menu-title-text">Clowns</span></a></li>
+	<li id="menu-item-983" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-983"><a href="https://damagedmusic.com.au/private-function/"><span class="menu-title-text">Private Function</span></a></li>
+	<li id="menu-item-3932" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-3932"><a href="https://damagedmusic.com.au/these-new-south-whales/"><span class="menu-title-text">These New South Whales</span></a></li>
+	<li id="menu-item-3154" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-3154"><a href="https://damagedmusic.com.au/voiid/"><span class="menu-title-text">VOIID</span></a></li>
+</ul>
+</li>
+<li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children nectar-regular-menu-item menu-item-11"><a href="https://damagedmusic.com.au/booking-agency"><span class="menu-title-text">Booking Agency</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-2013" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-2013"><a href="https://damagedmusic.com.au/batpiss/"><span class="menu-title-text">Batpiss</span></a></li>
+	<li id="menu-item-835" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-835"><a href="https://damagedmusic.com.au/clowns/"><span class="menu-title-text">Clowns</span></a></li>
+	<li id="menu-item-987" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-987"><a href="https://damagedmusic.com.au/c-o-f-f-i-n/"><span class="menu-title-text">C.O.F.F.I.N</span></a></li>
+	<li id="menu-item-986" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-986"><a href="https://damagedmusic.com.au/drunk-mums/"><span class="menu-title-text">Drunk Mums</span></a></li>
+	<li id="menu-item-2004" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-2004"><a href="https://damagedmusic.com.au/dumbpunts/"><span class="menu-title-text">Dumb Punts</span></a></li>
+	<li id="menu-item-985" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-985"><a href="https://damagedmusic.com.au/hanny-j/"><span class="menu-title-text">Hanny J</span></a></li>
+</ul>
+</li>
+<li id="menu-item-836" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-836"><a href="https://damagedmusic.com.au/news/"><span class="menu-title-text">News</span></a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom nectar-regular-menu-item menu-item-24"><a href="https://damagedmusic.com.au/tickets/"><span class="menu-title-text">Tickets</span></a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom nectar-regular-menu-item menu-item-25"><a href="https://damagedmusic.com.au/contact/"><span class="menu-title-text">Contact</span></a></li>
+<li id="menu-item-4980" class="menu-item menu-item-type-post_type menu-item-object-page nectar-regular-menu-item menu-item-4980"><a href="https://damagedmusic.com.au/store/"><span class="menu-title-text">Store</span></a></li>
+							</ul>
+													<ul class="buttons sf-menu" data-user-set-ocm="off">
+
+								<li id="search-btn"><div><a href="#searchbox"><span class="icon-salient-search" aria-hidden="true"></span><span class="screen-reader-text">search</span></a></div> </li><li id="nectar-user-account"><div><a href="https://damagedmusic.com.au/my-account"><span class="icon-salient-m-user" aria-hidden="true"></span><span class="screen-reader-text">account</span></a></div> </li><li class="nectar-woo-cart">
+			<div class="cart-outer" data-user-set-ocm="off" data-cart-style="dropdown">
+				<div class="cart-menu-wrap">
+					<div class="cart-menu">
+						<a class="cart-contents" href="https://damagedmusic.com.au/cart/"><div class="cart-icon-wrap"><i class="icon-salient-cart" aria-hidden="true"></i> <div class="cart-wrap"><span>0 </span></div> </div></a>
+					</div>
+				</div>
+
+									<div class="cart-notification">
+						<span class="item-name"></span> was successfully added to your cart.					</div>
+				
+				<div class="widget woocommerce widget_shopping_cart"><h2 class="widgettitle">Cart</h2><div class="widget_shopping_cart_content"></div></div>
+			</div>
+
+			</li>
+							</ul>
+						
+					</nav>
+
+					<div class="logo-spacing" data-using-image="true"><img class="hidden-logo" alt="Damaged Record Co and Agency" width="1654" height="322" src="https://damagedmusic.com.au/wp-content/uploads/2020/05/damagedmusic-1-1.png" /></div>
+				</div><!--/span_9-->
+
+				
+			</div><!--/row-->
+					</div><!--/container-->
+	</header>		
+	</div>
+	
+<div id="search-outer" class="nectar">
+	<div id="search">
+		<div class="container">
+			 <div id="search-box">
+				 <div class="inner-wrap">
+					 <div class="col span_12">
+						  <form role="search" action="https://damagedmusic.com.au/" method="GET">
+															<input type="text" name="s"  value="Start Typing..." aria-label="Search" data-placeholder="Start Typing..." />
+							
+						<span><i>Press enter to begin your search</i></span>
+												</form>
+					</div><!--/span_12-->
+				</div><!--/inner-wrap-->
+			 </div><!--/search-box-->
+			 <div id="close"><a href="#"><span class="screen-reader-text">Close Search</span>
+				<span class="icon-salient-x" aria-hidden="true"></span>				 </a></div>
+		 </div><!--/container-->
+	</div><!--/search-->
+</div><!--/search-outer-->
+	<div id="ajax-content-wrap">
+<div class="container-wrap" data-midnight="dark"><div class="container main-content"><div class="nectar-shop-header"><h1 class="page-title">Search results: &ldquo;clowns vinyl&rdquo;</h1><form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Shop order">
+					<option value="relevance"  selected='selected'>Relevance</option>
+					<option value="popularity" >Sort by popularity</option>
+					<option value="date" >Sort by latest</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	<input type="hidden" name="s" value="clowns vinyl" /><input type="hidden" name="post_type" value="product" /></form>
+<p class="woocommerce-result-count">
+	Showing all 4 results</p>
+<nav class="woocommerce-breadcrumb" itemprop="breadcrumb"><span><a href="https://damagedmusic.com.au">Home</a></span> <i class="fa fa-angle-right"></i> <span><a href="https://damagedmusic.com.au/shop/">Shop</a></span> <i class="fa fa-angle-right"></i> <span>Search results for &ldquo;clowns vinyl&rdquo;</span></nav></div><div class="row"><div id="sidebar" class="col span_3 col"><div class="inner"><div id="woocommerce_product_search-2" class="widget woocommerce widget_product_search"><form role="search" method="get" class="woocommerce-product-search" action="https://damagedmusic.com.au/">
+	<label class="screen-reader-text" for="woocommerce-product-search-field-0">Search for:</label>
+	<input type="search" id="woocommerce-product-search-field-0" class="search-field" placeholder="Search products&hellip;" value="clowns vinyl" name="s" />
+	<button type="submit" value="Search">Search</button>
+	<input type="hidden" name="post_type" value="product" />
+</form>
+</div><div id="nav_menu-4" class="widget widget_nav_menu"><h4>Merch</h4><div class="menu-shop-container"><ul id="menu-shop" class="menu"><li id="menu-item-1582" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1582"><a href="https://damagedmusic.com.au/product-category/clowns/">Clowns</a></li>
+<li id="menu-item-1583" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1583"><a href="https://damagedmusic.com.au/product-category/hanny-j/">Hanny J</a></li>
+<li id="menu-item-1689" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1689"><a href="https://damagedmusic.com.au/product-category/batpiss/">Batpiss</a></li>
+<li id="menu-item-1804" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1804"><a href="https://damagedmusic.com.au/product-category/bec-stevens/">Bec Stevens</a></li>
+<li id="menu-item-4100" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-4100"><a href="https://damagedmusic.com.au/product-category/c-o-f-f-i-n/">C.O.F.F.I.N</a></li>
+<li id="menu-item-1803" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1803"><a href="https://damagedmusic.com.au/product-category/drunk-mums/">Drunk Mums</a></li>
+<li id="menu-item-3801" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-3801"><a href="https://damagedmusic.com.au/product-category/voiid/">VOIID</a></li>
+<li id="menu-item-1584" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1584"><a href="https://damagedmusic.com.au/product-category/damaged-music-merch/">Damaged Music</a></li>
+<li id="menu-item-1586" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item current_page_item menu-item-1586"><a href="https://damagedmusic.com.au/shop/" aria-current="page">Other</a></li>
+</ul></div></div><div id="media_image-4" class="widget widget_media_image"><a href="https://www.patreon.com/damagedmusic/posts"><img width="750" height="1000" src="https://damagedmusic.com.au/wp-content/uploads/2022/05/AD1.jpg" class="image wp-image-4994  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://damagedmusic.com.au/wp-content/uploads/2022/05/AD1.jpg 750w, https://damagedmusic.com.au/wp-content/uploads/2022/05/AD1-225x300.jpg 225w, https://damagedmusic.com.au/wp-content/uploads/2022/05/AD1-600x800.jpg 600w" sizes="(max-width: 750px) 100vw, 750px" /></a></div><div id="woocommerce_product_tag_cloud-2" class="widget woocommerce widget_product_tag_cloud"><h4>Product tags</h4><div class="tagcloud"><a href="https://damagedmusic.com.au/product-tag/cassette/" class="tag-cloud-link tag-link-114 tag-link-position-1" style="font-size: 8pt;" aria-label="Cassette (3 products)">Cassette</a>
+<a href="https://damagedmusic.com.au/product-tag/cd/" class="tag-cloud-link tag-link-112 tag-link-position-2" style="font-size: 8.7954545454545pt;" aria-label="CD (4 products)">CD</a>
+<a href="https://damagedmusic.com.au/product-tag/clothing/" class="tag-cloud-link tag-link-117 tag-link-position-3" style="font-size: 9.4318181818182pt;" aria-label="Clothing (5 products)">Clothing</a>
+<a href="https://damagedmusic.com.au/product-tag/merch/" class="tag-cloud-link tag-link-135 tag-link-position-4" style="font-size: 17.068181818182pt;" aria-label="Merch (54 products)">Merch</a>
+<a href="https://damagedmusic.com.au/product-tag/vinyl/" class="tag-cloud-link tag-link-110 tag-link-position-5" style="font-size: 22pt;" aria-label="Vinyl (230 products)">Vinyl</a></div></div></div></div><div class="post-area col span_9 col_last"><header class="woocommerce-products-header">
+	
+	</header>
+<div class="woocommerce-notices-wrapper"></div>
+  <ul class="products columns-3" data-n-lazy="off" data-rm-m-hover="off" data-n-desktop-columns="default" data-n-desktop-small-columns="default" data-n-tablet-columns="default" data-n-phone-columns="default" data-product-style="minimal">
+
+
+
+	<li class="minimal product type-product post-3788 status-publish first instock product_cat-clowns product_tag-vinyl has-post-thumbnail shipping-taxable purchasable product-type-simple" >
+
+
+	
+
+				 <div class="background-color-expand"></div>
+	   <div class="product-wrap">
+			<a href="https://damagedmusic.com.au/product/clowns-lucid-again-lp-black-vinyl/" aria-label="Clowns - Lucid Again LP (Black Vinyl)"><img width="300" height="300" src="https://damagedmusic.com.au/wp-content/uploads/2021/11/LucidAgain-BlackVinyl-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://damagedmusic.com.au/wp-content/uploads/2021/11/LucidAgain-BlackVinyl-300x300.jpg 300w, https://damagedmusic.com.au/wp-content/uploads/2021/11/LucidAgain-BlackVinyl-150x150.jpg 150w, https://damagedmusic.com.au/wp-content/uploads/2021/11/LucidAgain-BlackVinyl-600x600.jpg 600w, https://damagedmusic.com.au/wp-content/uploads/2021/11/LucidAgain-BlackVinyl-768x768.jpg 768w, https://damagedmusic.com.au/wp-content/uploads/2021/11/LucidAgain-BlackVinyl-100x100.jpg 100w, https://damagedmusic.com.au/wp-content/uploads/2021/11/LucidAgain-BlackVinyl-140x140.jpg 140w, https://damagedmusic.com.au/wp-content/uploads/2021/11/LucidAgain-BlackVinyl-500x500.jpg 500w, https://damagedmusic.com.au/wp-content/uploads/2021/11/LucidAgain-BlackVinyl-350x350.jpg 350w, https://damagedmusic.com.au/wp-content/uploads/2021/11/LucidAgain-BlackVinyl-800x800.jpg 800w, https://damagedmusic.com.au/wp-content/uploads/2021/11/LucidAgain-BlackVinyl.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="product-meta"><a href="https://damagedmusic.com.au/product/clowns-lucid-again-lp-black-vinyl/"><h2 class="woocommerce-loop-product__title">Clowns &#8211; Lucid Again LP (Black Vinyl)</h2></a><div class="price-hover-wrap">
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>40.00</bdi></span></span>
+<div class="product-add-to-cart" data-nectar-quickview="false"><a href="?add-to-cart=3788" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3788" data-product_sku="PCR135LP" aria-label="Add &ldquo;Clowns - Lucid Again LP (Black Vinyl)&rdquo; to your cart" rel="nofollow"><i class="normal icon-salient-cart"></i><span>Add to cart</span></a></div>
+				</div>
+			</div></div>		
+	  
+
+		
+	
+
+	
+</li>
+	<li class="minimal product type-product post-3253 status-publish instock product_cat-clowns product_tag-vinyl has-post-thumbnail shipping-taxable purchasable product-type-simple" >
+
+
+	
+
+				 <div class="background-color-expand"></div>
+	   <div class="product-wrap">
+			<a href="https://damagedmusic.com.au/product/clowns-nature-nurture-lp-blood-in-coke-bottle-vinyl/" aria-label="Clowns - Nature/Nurture LP (Blood In Coke Bottle Vinyl)"><img width="300" height="300" src="https://damagedmusic.com.au/wp-content/uploads/2021/09/NatureNurture-CocaColaBlood-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://damagedmusic.com.au/wp-content/uploads/2021/09/NatureNurture-CocaColaBlood-300x300.jpg 300w, https://damagedmusic.com.au/wp-content/uploads/2021/09/NatureNurture-CocaColaBlood-150x150.jpg 150w, https://damagedmusic.com.au/wp-content/uploads/2021/09/NatureNurture-CocaColaBlood-600x600.jpg 600w, https://damagedmusic.com.au/wp-content/uploads/2021/09/NatureNurture-CocaColaBlood-768x768.jpg 768w, https://damagedmusic.com.au/wp-content/uploads/2021/09/NatureNurture-CocaColaBlood-100x100.jpg 100w, https://damagedmusic.com.au/wp-content/uploads/2021/09/NatureNurture-CocaColaBlood-140x140.jpg 140w, https://damagedmusic.com.au/wp-content/uploads/2021/09/NatureNurture-CocaColaBlood-500x500.jpg 500w, https://damagedmusic.com.au/wp-content/uploads/2021/09/NatureNurture-CocaColaBlood-350x350.jpg 350w, https://damagedmusic.com.au/wp-content/uploads/2021/09/NatureNurture-CocaColaBlood-800x800.jpg 800w, https://damagedmusic.com.au/wp-content/uploads/2021/09/NatureNurture-CocaColaBlood.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="product-meta"><a href="https://damagedmusic.com.au/product/clowns-nature-nurture-lp-blood-in-coke-bottle-vinyl/"><h2 class="woocommerce-loop-product__title">Clowns &#8211; Nature/Nurture LP (Blood In Coke Bottle Vinyl)</h2></a><div class="price-hover-wrap">
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>42.00</bdi></span></span>
+<div class="product-add-to-cart" data-nectar-quickview="false"><a href="?add-to-cart=3253" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3253" data-product_sku="DRCLP001BCB" aria-label="Add &ldquo;Clowns - Nature/Nurture LP (Blood In Coke Bottle Vinyl)&rdquo; to your cart" rel="nofollow"><i class="normal icon-salient-cart"></i><span>Add to cart</span></a></div>
+				</div>
+			</div></div>		
+	  
+
+		
+	
+
+	
+</li>
+	<li class="minimal product type-product post-1242 status-publish last instock product_cat-clowns product_tag-vinyl has-post-thumbnail shipping-taxable purchasable product-type-simple" >
+
+
+	
+
+				 <div class="background-color-expand"></div>
+	   <div class="product-wrap">
+			<a href="https://damagedmusic.com.au/product/clowns-nature-nurture-lp-black-vinyl-fat-wreck-chords-edition/" aria-label="Clowns - Nature/Nurture LP (Black Vinyl, Fat Wreck Chords Edition)"><img width="300" height="300" src="https://damagedmusic.com.au/wp-content/uploads/2020/09/clowns-black-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="https://damagedmusic.com.au/wp-content/uploads/2020/09/clowns-black-300x300.jpg 300w, https://damagedmusic.com.au/wp-content/uploads/2020/09/clowns-black-150x150.jpg 150w, https://damagedmusic.com.au/wp-content/uploads/2020/09/clowns-black-600x600.jpg 600w, https://damagedmusic.com.au/wp-content/uploads/2020/09/clowns-black-768x768.jpg 768w, https://damagedmusic.com.au/wp-content/uploads/2020/09/clowns-black-100x100.jpg 100w, https://damagedmusic.com.au/wp-content/uploads/2020/09/clowns-black-140x140.jpg 140w, https://damagedmusic.com.au/wp-content/uploads/2020/09/clowns-black-500x500.jpg 500w, https://damagedmusic.com.au/wp-content/uploads/2020/09/clowns-black-350x350.jpg 350w, https://damagedmusic.com.au/wp-content/uploads/2020/09/clowns-black-800x800.jpg 800w, https://damagedmusic.com.au/wp-content/uploads/2020/09/clowns-black.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="product-meta"><a href="https://damagedmusic.com.au/product/clowns-nature-nurture-lp-black-vinyl-fat-wreck-chords-edition/"><h2 class="woocommerce-loop-product__title">Clowns &#8211; Nature/Nurture LP (Black Vinyl, Fat Wreck Chords Edition)</h2></a><div class="price-hover-wrap">
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>35.00</bdi></span></span>
+<div class="product-add-to-cart" data-nectar-quickview="false"><a href="?add-to-cart=1242" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1242" data-product_sku="FAT115-1" aria-label="Add &ldquo;Clowns - Nature/Nurture LP (Black Vinyl, Fat Wreck Chords Edition)&rdquo; to your cart" rel="nofollow"><i class="normal icon-salient-cart"></i><span>Add to cart</span></a></div>
+				</div>
+			</div></div>		
+	  
+
+		
+	
+
+	
+</li>
+	<li class="minimal product type-product post-1215 status-publish first instock product_cat-clowns product_tag-vinyl has-post-thumbnail shipping-taxable purchasable product-type-simple" >
+
+
+	
+
+				 <div class="background-color-expand"></div>
+	   <div class="product-wrap">
+			<a href="https://damagedmusic.com.au/product/clowns-bad-blood-lp-wine-vinyl/" aria-label="Clowns - Bad Blood LP (Wine Vinyl)"><img width="300" height="300" src="https://damagedmusic.com.au/wp-content/uploads/2020/10/DamagedProducts-1-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Clowns Bad Blood" loading="lazy" srcset="https://damagedmusic.com.au/wp-content/uploads/2020/10/DamagedProducts-1-300x300.jpg 300w, https://damagedmusic.com.au/wp-content/uploads/2020/10/DamagedProducts-1-150x150.jpg 150w, https://damagedmusic.com.au/wp-content/uploads/2020/10/DamagedProducts-1-600x600.jpg 600w, https://damagedmusic.com.au/wp-content/uploads/2020/10/DamagedProducts-1-768x768.jpg 768w, https://damagedmusic.com.au/wp-content/uploads/2020/10/DamagedProducts-1-100x100.jpg 100w, https://damagedmusic.com.au/wp-content/uploads/2020/10/DamagedProducts-1-140x140.jpg 140w, https://damagedmusic.com.au/wp-content/uploads/2020/10/DamagedProducts-1-500x500.jpg 500w, https://damagedmusic.com.au/wp-content/uploads/2020/10/DamagedProducts-1-350x350.jpg 350w, https://damagedmusic.com.au/wp-content/uploads/2020/10/DamagedProducts-1-800x800.jpg 800w, https://damagedmusic.com.au/wp-content/uploads/2020/10/DamagedProducts-1.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a><div class="product-meta"><a href="https://damagedmusic.com.au/product/clowns-bad-blood-lp-wine-vinyl/"><h2 class="woocommerce-loop-product__title">Clowns &#8211; Bad Blood LP (Wine Vinyl)</h2></a><div class="price-hover-wrap">
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>42.00</bdi></span></span>
+<div class="product-add-to-cart" data-nectar-quickview="false"><a href="?add-to-cart=1215" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1215" data-product_sku="PCR102LP" aria-label="Add &ldquo;Clowns - Bad Blood LP (Wine Vinyl)&rdquo; to your cart" rel="nofollow"><i class="normal icon-salient-cart"></i><span>Add to cart</span></a></div>
+				</div>
+			</div></div>		
+	  
+
+		
+	
+
+	
+</li></ul>
+</div></div></div></div>
+<div id="footer-outer" data-midnight="light" data-cols="4" data-custom-color="true" data-disable-copyright="false" data-matching-section-color="true" data-copyright-line="false" data-using-bg-img="false" data-bg-img-overlay="1.0" data-full-width="false" data-using-widget-area="true" data-link-hover="default">
+	
+		
+	<div id="footer-widgets" data-has-widgets="true" data-cols="4">
+		
+		<div class="container">
+			
+						
+			<div class="row">
+				
+								
+				<div class="col span_3">
+					<div id="media_image-3" class="widget widget_media_image"><a href="https://damagedmusic.com.au"><img width="150" height="150" src="https://damagedmusic.com.au/wp-content/uploads/2022/02/166145950_807451443198262_8924739177308703168_n-150x150.jpg" class="image wp-image-4231  attachment-thumbnail size-thumbnail" alt="DAMAGED" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://damagedmusic.com.au/wp-content/uploads/2022/02/166145950_807451443198262_8924739177308703168_n-150x150.jpg 150w, https://damagedmusic.com.au/wp-content/uploads/2022/02/166145950_807451443198262_8924739177308703168_n-300x300.jpg 300w, https://damagedmusic.com.au/wp-content/uploads/2022/02/166145950_807451443198262_8924739177308703168_n-600x600.jpg 600w, https://damagedmusic.com.au/wp-content/uploads/2022/02/166145950_807451443198262_8924739177308703168_n-768x768.jpg 768w, https://damagedmusic.com.au/wp-content/uploads/2022/02/166145950_807451443198262_8924739177308703168_n-100x100.jpg 100w, https://damagedmusic.com.au/wp-content/uploads/2022/02/166145950_807451443198262_8924739177308703168_n-140x140.jpg 140w, https://damagedmusic.com.au/wp-content/uploads/2022/02/166145950_807451443198262_8924739177308703168_n-500x500.jpg 500w, https://damagedmusic.com.au/wp-content/uploads/2022/02/166145950_807451443198262_8924739177308703168_n-350x350.jpg 350w, https://damagedmusic.com.au/wp-content/uploads/2022/02/166145950_807451443198262_8924739177308703168_n-800x800.jpg 800w, https://damagedmusic.com.au/wp-content/uploads/2022/02/166145950_807451443198262_8924739177308703168_n.jpg 837w" sizes="(max-width: 150px) 100vw, 150px" /></a></div>					</div>
+					
+											
+						<div class="col span_3">
+							<div id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-footer-1-container"><ul id="menu-footer-1" class="menu"><li id="menu-item-2011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2011"><a href="https://damagedmusic.com.au/batpiss/">Batpiss</a></li>
+<li id="menu-item-990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-990"><a href="https://damagedmusic.com.au/c-o-f-f-i-n/">C.O.F.F.I.N</a></li>
+<li id="menu-item-991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-991"><a href="https://damagedmusic.com.au/clowns/">Clowns</a></li>
+<li id="menu-item-3156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3156"><a href="https://damagedmusic.com.au/drunk-mums/">Drunk Mums</a></li>
+</ul></div></div>								
+							</div>
+							
+												
+						
+													<div class="col span_3">
+								<div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-footer-2-container"><ul id="menu-footer-2" class="menu"><li id="menu-item-2005" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2005"><a href="https://damagedmusic.com.au/dumbpunts/">Dumb Punts</a></li>
+<li id="menu-item-994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-994"><a href="https://damagedmusic.com.au/hanny-j/">Hanny J</a></li>
+<li id="menu-item-3931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3931"><a href="https://damagedmusic.com.au/these-new-south-whales/">These New South Whales</a></li>
+<li id="menu-item-3155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3155"><a href="https://damagedmusic.com.au/voiid/">VOIID</a></li>
+<li id="menu-item-993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-993"><a href="https://damagedmusic.com.au/contact/">Contact</a></li>
+</ul></div></div>									
+								</div>
+														
+															<div class="col span_3">
+									<div id="yikes_easy_mc_widget-2" class="widget widget_yikes_easy_mc_widget">
+	<section id="yikes-mailchimp-container-1" class="yikes-mailchimp-container yikes-mailchimp-container-1 ">
+				<form id="footer-1" class="yikes-easy-mc-form yikes-easy-mc-form-1  " method="POST" data-attr-form-id="1">
+
+													<label for="yikes-easy-mc-form-1-FNAME"  class="FNAME-label yikes-mailchimp-field-required ">
+
+										<!-- dictate label visibility -->
+										
+										<!-- Description Above -->
+										
+										<input id="yikes-easy-mc-form-1-FNAME"  name="FNAME"  placeholder="Your first name "  class="yikes-easy-mc-text field-no-label"  required="required" type="text"  value="">
+
+										<!-- Description Below -->
+										
+									</label>
+																		<label for="yikes-easy-mc-form-1-EMAIL"  class="EMAIL-label yikes-mailchimp-field-required ">
+
+										<!-- dictate label visibility -->
+										
+										<!-- Description Above -->
+										
+										<input id="yikes-easy-mc-form-1-EMAIL"  name="EMAIL"  placeholder="Your email"  class="yikes-easy-mc-email field-no-label"  required="required" type="email"  value="">
+
+										<!-- Description Below -->
+										
+									</label>
+									
+				<!-- Honeypot Trap -->
+				<input type="hidden" name="yikes-mailchimp-honeypot" id="yikes-mailchimp-honeypot-1" value="">
+
+				<!-- List ID -->
+				<input type="hidden" name="yikes-mailchimp-associated-list-id" id="yikes-mailchimp-associated-list-id-1" value="ee9e5773a6">
+
+				<!-- The form that is being submitted! Used to display error/success messages above the correct form -->
+				<input type="hidden" name="yikes-mailchimp-submitted-form" id="yikes-mailchimp-submitted-form-1" value="1">
+
+				<!-- Submit Button -->
+				<button type="submit" class="yikes-easy-mc-submit-button yikes-easy-mc-submit-button-1 btn btn-primary "> <span class="yikes-mailchimp-submit-button-span-text">Keep me updated</span></button>				<!-- Nonce Security Check -->
+				<input type="hidden" id="yikes_easy_mc_new_subscriber_1" name="yikes_easy_mc_new_subscriber" value="c4f2788c40">
+				<input type="hidden" name="_wp_http_referer" value="/?s=clowns+vinyl&amp;post_type=product" />				
+			</form>
+			<!-- Mailchimp Form generated by Easy Forms for Mailchimp v6.8.6 (https://wordpress.org/plugins/yikes-inc-easy-mailchimp-extender/) -->
+
+			</section>
+	</div>										
+									</div>
+																
+							</div>
+													</div><!--/container-->
+					</div><!--/footer-widgets-->
+					
+					
+  <div class="row" id="copyright" data-layout="default">
+	
+	<div class="container">
+	   
+				<div class="col span_5">
+		   
+			<p>&copy; 2022 Damaged Record Co and Agency. Site design by <a href="https://mattsimplified.com">Matt, Simplified</a>. </p>
+		</div><!--/span_5-->
+			   
+	  <div class="col span_7 col_last">
+      <ul class="social">
+        <li><a target="_blank" rel="noopener" href="https://www.facebook.com/damagedagency/"><span class="screen-reader-text">facebook</span><i class="fa fa-facebook" aria-hidden="true"></i></a></li><li><a target="_blank" rel="noopener" href="https://www.instagram.com/damaged.music/"><span class="screen-reader-text">instagram</span><i class="fa fa-instagram" aria-hidden="true"></i></a></li>      </ul>
+	  </div><!--/span_7-->
+    
+	  	
+	</div><!--/container-->
+  </div><!--/row-->
+		
+</div><!--/footer-outer-->
+
+
+	<div id="slide-out-widget-area-bg" class="fullscreen-alt dark">
+		<div class="bg-inner"></div>		</div>
+
+		<div id="slide-out-widget-area" class="fullscreen-alt" data-dropdown-func="default" data-back-txt="Back">
+
+			<div class="inner-wrap">
+			<div class="inner" data-prepend-menu-mobile="false">
+
+				<a class="slide_out_area_close" href="#"><span class="screen-reader-text">Close Menu</span>
+					<span class="icon-salient-x icon-default-style"></span>				</a>
+
+
+									<div class="off-canvas-menu-container mobile-only" role="navigation">
+
+						
+						<ul class="menu">
+							<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10"><a href="https://damagedmusic.com.au/record-label">Record Label</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-838"><a href="https://damagedmusic.com.au/clowns/">Clowns</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-983"><a href="https://damagedmusic.com.au/private-function/">Private Function</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3932"><a href="https://damagedmusic.com.au/these-new-south-whales/">These New South Whales</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3154"><a href="https://damagedmusic.com.au/voiid/">VOIID</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11"><a href="https://damagedmusic.com.au/booking-agency">Booking Agency</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2013"><a href="https://damagedmusic.com.au/batpiss/">Batpiss</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-835"><a href="https://damagedmusic.com.au/clowns/">Clowns</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-987"><a href="https://damagedmusic.com.au/c-o-f-f-i-n/">C.O.F.F.I.N</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-986"><a href="https://damagedmusic.com.au/drunk-mums/">Drunk Mums</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2004"><a href="https://damagedmusic.com.au/dumbpunts/">Dumb Punts</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-985"><a href="https://damagedmusic.com.au/hanny-j/">Hanny J</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-836"><a href="https://damagedmusic.com.au/news/">News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a href="https://damagedmusic.com.au/tickets/">Tickets</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="https://damagedmusic.com.au/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4980"><a href="https://damagedmusic.com.au/store/">Store</a></li>
+
+						</ul>
+
+						<ul class="menu secondary-header-items">
+													</ul>
+					</div>
+					
+				</div>
+
+				<div class="bottom-meta-wrap"><p class="bottom-text" data-has-desktop-social="true">Copyright Damaged Music, 2020</p></div><!--/bottom-meta-wrap--></div> <!--/inner-wrap-->
+				</div>
+		
+</div> <!--/ajax-content-wrap-->
+
+	<a id="to-top" href="#" class="
+		"><i class="fa fa-angle-up"></i></a>
+	<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https:\/\/damagedmusic.com.au"}},{"@type":"ListItem","position":2,"item":{"name":"Shop","@id":"https:\/\/damagedmusic.com.au\/shop\/"}},{"@type":"ListItem","position":3,"item":{"name":"Search results for &amp;ldquo;clowns vinyl&amp;rdquo;","@id":"\/?s=clowns+vinyl&amp;post_type=product"}}]}</script>			<!-- Facebook Pixel Code -->
+			<noscript>
+				<img
+					height="1"
+					width="1"
+					style="display:none"
+					alt="fbpx"
+					src="https://www.facebook.com/tr?id=130045568973783&ev=PageView&noscript=1"
+				/>
+			</noscript>
+			<!-- End Facebook Pixel Code -->
+			
+<div id="yith-ywgc" >
+    <div class="yith-ywgc-overlay close-on-click"></div>
+    <div class="yith-ywgc-popup-wrapper">
+        <div class="yith-ywgc-popup-wrapper-region">
+            <div class="yith-ywgc-popup" data-animation-in="fadeIn" data-animation-out="fadeOut">
+                <div class="yith-ywgc-popup-inner">
+                    <div class="yith-ywgc-popup-close">
+                    </div>
+                    <div class="yith-ywgc-popup-content-wrapper"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='yikes-inc-easy-mailchimp-public-styles-css'  href='https://damagedmusic.com.au/wp-content/plugins/yikes-inc-easy-mailchimp-extender/public/css/yikes-inc-easy-mailchimp-extender-public.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='nectar-woocommerce-non-critical-css'  href='https://damagedmusic.com.au/wp-content/themes/salient/css/build/third-party/woocommerce/woocommerce-non-critical.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fancyBox-css'  href='https://damagedmusic.com.au/wp-content/themes/salient/css/build/plugins/jquery.fancybox.css' type='text/css' media='all' />
+<link rel='stylesheet' id='nectar-ocm-core-css'  href='https://damagedmusic.com.au/wp-content/themes/salient/css/build/off-canvas/core.css' type='text/css' media='all' />
+<link rel='stylesheet' id='nectar-ocm-fullscreen-legacy-css'  href='https://damagedmusic.com.au/wp-content/themes/salient/css/build/off-canvas/fullscreen-legacy.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_cd9a591152741f381cd87054eddadd3c","fragment_name":"wc_fragments_cd9a591152741f381cd87054eddadd3c","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-after'>
+		jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
+			var jetpackLazyImagesLoadEvent;
+			try {
+				jetpackLazyImagesLoadEvent = new Event( 'jetpack-lazy-images-load', {
+					bubbles: true,
+					cancelable: true
+				} );
+			} catch ( e ) {
+				jetpackLazyImagesLoadEvent = document.createEvent( 'Event' )
+				jetpackLazyImagesLoadEvent.initEvent( 'jetpack-lazy-images-load', true, true );
+			}
+			jQuery( 'body' ).get( 0 ).dispatchEvent( jetpackLazyImagesLoadEvent );
+		} );
+		
+</script>
+<script type='text/javascript' id='mailchimp-woocommerce-js-extra'>
+/* <![CDATA[ */
+var mailchimp_public_data = {"site_url":"https:\/\/damagedmusic.com.au","ajax_url":"https:\/\/damagedmusic.com.au\/wp-admin\/admin-ajax.php","disable_carts":"","subscribers_only":"","language":"en","allowed_to_set_cookies":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js' id='mailchimp-woocommerce-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/themes/salient/js/build/third-party/jquery.easing.min.js' id='jquery-easing-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/themes/salient/js/build/third-party/jquery.mousewheel.min.js' id='jquery-mousewheel-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/themes/salient/js/build/priority.js' id='nectar_priority-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/themes/salient/js/build/third-party/transit.min.js' id='nectar-transit-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/themes/salient/js/build/third-party/waypoints.js' id='nectar-waypoints-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/plugins/salient-portfolio/js/third-party/imagesLoaded.min.js' id='imagesLoaded-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/themes/salient/js/build/third-party/hoverintent.min.js' id='hoverintent-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/themes/salient/js/build/third-party/jquery.fancybox.min.js' id='fancyBox-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/plugins/salient-portfolio/js/third-party/isotope.min.js' id='isotope-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/themes/salient/js/build/third-party/anime.min.js' id='anime-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/themes/salient/js/build/third-party/superfish.js' id='superfish-js'></script>
+<script type='text/javascript' id='nectar-frontend-js-extra'>
+/* <![CDATA[ */
+var nectarLove = {"ajaxurl":"https:\/\/damagedmusic.com.au\/wp-admin\/admin-ajax.php","postID":"3788","rooturl":"https:\/\/damagedmusic.com.au","disqusComments":"false","loveNonce":"d6ca644de1","mapApiKey":""};
+var nectarOptions = {"quick_search":"false","header_entrance":"false","mobile_header_format":"default","ocm_btn_position":"default","left_header_dropdown_func":"default","ajax_add_to_cart":"0","ocm_remove_ext_menu_items":"remove_images","woo_product_filter_toggle":"0","woo_sidebar_toggles":"true","woo_sticky_sidebar":"0","woo_minimal_product_hover":"default","woo_minimal_product_effect":"default","woo_related_upsell_carousel":"false","woo_product_variable_select":"default"};
+var nectar_front_i18n = {"next":"Next","previous":"Previous"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/themes/salient/js/build/init.js' id='nectar-frontend-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/plugins/salient-core/js/third-party/touchswipe.min.js' id='touchswipe-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-includes/js/jquery/ui/core.min.js' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-includes/js/jquery/ui/mouse.min.js' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-includes/js/jquery/ui/resizable.min.js' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-includes/js/jquery/ui/draggable.min.js' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-includes/js/jquery/ui/controlgroup.min.js' id='jquery-ui-controlgroup-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-includes/js/jquery/ui/checkboxradio.min.js' id='jquery-ui-checkboxradio-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-includes/js/jquery/ui/button.min.js' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-includes/js/jquery/ui/dialog.min.js' id='jquery-ui-dialog-js'></script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/plugins/optin-ninja/js/optin-ninja-frontend.js' id='optin-ninja-frontend-js'></script>
+<script type='text/javascript' id='cbr-pro-front-js-js-extra'>
+/* <![CDATA[ */
+var ajax_object = {"cbr_ajax_url":"https:\/\/damagedmusic.com.au\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/plugins/woo-product-country-base-restrictions/assets/js/front.js' id='cbr-pro-front-js-js'></script>
+<script type='text/javascript' id='yikes-easy-mc-ajax-js-extra'>
+/* <![CDATA[ */
+var yikes_mailchimp_ajax = {"ajax_url":"https:\/\/damagedmusic.com.au\/wp-admin\/admin-ajax.php","page_data":"1215","interest_group_checkbox_error":"This field is required.","preloader_url":"https:\/\/damagedmusic.com.au\/wp-content\/plugins\/yikes-inc-easy-mailchimp-extender\/includes\/images\/ripple.svg","loading_dots":"https:\/\/damagedmusic.com.au\/wp-content\/plugins\/yikes-inc-easy-mailchimp-extender\/includes\/images\/bars.svg","ajax_security_nonce":"b7ace7a3da","feedback_message_placement":"before"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/plugins/yikes-inc-easy-mailchimp-extender/public/js/yikes-mc-ajax-forms.min.js' id='yikes-easy-mc-ajax-js'></script>
+<script type='text/javascript' id='form-submission-helpers-js-extra'>
+/* <![CDATA[ */
+var form_submission_helpers = {"ajax_url":"https:\/\/damagedmusic.com.au\/wp-admin\/admin-ajax.php","preloader_url":"https:\/\/damagedmusic.com.au\/wp-admin\/images\/wpspin_light.gif","countries_with_zip":{"US":"US","GB":"GB","CA":"CA","IE":"IE","CN":"CN","IN":"IN","AU":"AU","BR":"BR","MX":"MX","IT":"IT","NZ":"NZ","JP":"JP","FR":"FR","GR":"GR","DE":"DE","NL":"NL","PT":"PT","ES":"ES"},"page_data":"1215"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://damagedmusic.com.au/wp-content/plugins/yikes-inc-easy-mailchimp-extender/public/js/form-submission-helpers.min.js' id='form-submission-helpers-js'></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+/* WooCommerce Facebook Integration Event Tracking */
+fbq('set', 'agent', 'woocommerce-6.4.1-2.6.13', '130045568973783');
+fbq('track', 'Search', {
+    "source": "woocommerce",
+    "version": "6.4.1",
+    "pluginVersion": "2.6.13",
+    "content_type": "product",
+    "content_ids": "[\"PCR135LP_3788\",\"DRCLP001BCB_3253\",\"FAT115-1_1242\",\"PCR102LP_1215\"]",
+    "contents": {
+        "0": {
+            "id": "PCR135LP_3788",
+            "quantity": 1
+        },
+        "1": {
+            "id": "DRCLP001BCB_3253",
+            "quantity": 1
+        },
+        "2": {
+            "id": "FAT115-1_1242",
+            "quantity": 1
+        },
+        "3": {
+            "id": "PCR102LP_1215",
+            "quantity": 1
+        }
+    },
+    "search_string": "clowns vinyl",
+    "value": "159.00",
+    "currency": "AUD"
+}, {
+    "eventID": "a0b701e4-8284-4dd8-96bc-447899893db1"
+});
+
+
+			ga( 'ec:addImpression', {
+				'id': '3788',
+				'name': 'Clowns - Lucid Again LP (Black Vinyl)',
+				'category': 'Clowns',
+				'list': 'Search Results',
+				'position': '1'
+			} );
+		
+
+
+			$( '.products .post-3788 a' ).on( 'click', function() {
+				if ( true === $(this).hasClass( 'add_to_cart_button' ) ) {
+					return;
+				}
+
+				ga( 'ec:addProduct', {
+					'id': '3788',
+					'name': 'Clowns - Lucid Again LP (Black Vinyl)',
+					'category': 'Clowns',
+					'position': '1'
+				});
+
+				ga( 'ec:setAction', 'click', { list: 'Search Results' });
+				ga( 'send', 'event', 'UX', 'click', ' Search Results' );
+			});
+		
+
+
+			ga( 'ec:addImpression', {
+				'id': '3253',
+				'name': 'Clowns - Nature/Nurture LP (Blood In Coke Bottle Vinyl)',
+				'category': 'Clowns',
+				'list': 'Search Results',
+				'position': '2'
+			} );
+		
+
+
+			$( '.products .post-3253 a' ).on( 'click', function() {
+				if ( true === $(this).hasClass( 'add_to_cart_button' ) ) {
+					return;
+				}
+
+				ga( 'ec:addProduct', {
+					'id': '3253',
+					'name': 'Clowns - Nature/Nurture LP (Blood In Coke Bottle Vinyl)',
+					'category': 'Clowns',
+					'position': '2'
+				});
+
+				ga( 'ec:setAction', 'click', { list: 'Search Results' });
+				ga( 'send', 'event', 'UX', 'click', ' Search Results' );
+			});
+		
+
+
+			ga( 'ec:addImpression', {
+				'id': '1242',
+				'name': 'Clowns - Nature/Nurture LP (Black Vinyl, Fat Wreck Chords Edition)',
+				'category': 'Clowns',
+				'list': 'Search Results',
+				'position': '3'
+			} );
+		
+
+
+			$( '.products .post-1242 a' ).on( 'click', function() {
+				if ( true === $(this).hasClass( 'add_to_cart_button' ) ) {
+					return;
+				}
+
+				ga( 'ec:addProduct', {
+					'id': '1242',
+					'name': 'Clowns - Nature/Nurture LP (Black Vinyl, Fat Wreck Chords Edition)',
+					'category': 'Clowns',
+					'position': '3'
+				});
+
+				ga( 'ec:setAction', 'click', { list: 'Search Results' });
+				ga( 'send', 'event', 'UX', 'click', ' Search Results' );
+			});
+		
+
+
+			ga( 'ec:addImpression', {
+				'id': '1215',
+				'name': 'Clowns - Bad Blood LP (Wine Vinyl)',
+				'category': 'Clowns',
+				'list': 'Search Results',
+				'position': '4'
+			} );
+		
+
+
+			$( '.products .post-1215 a' ).on( 'click', function() {
+				if ( true === $(this).hasClass( 'add_to_cart_button' ) ) {
+					return;
+				}
+
+				ga( 'ec:addProduct', {
+					'id': '1215',
+					'name': 'Clowns - Bad Blood LP (Wine Vinyl)',
+					'category': 'Clowns',
+					'position': '4'
+				});
+
+				ga( 'ec:setAction', 'click', { list: 'Search Results' });
+				ga( 'send', 'event', 'UX', 'click', ' Search Results' );
+			});
+		
+
+
+					$( '.add_to_cart_button:not(.product_type_variable, .product_type_grouped)' ).on( 'click', function() {
+						ga( 'ec:addProduct', {'id': ($(this).data('product_sku')) ? ($(this).data('product_sku')) : ('#' + $(this).data('product_id')),'quantity': $(this).data('quantity')} );
+						ga( 'ec:setAction', 'add' );
+						ga( 'send', 'event', 'UX', 'click', 'add to cart' );
+					});
+				
+
+ga( 'send', 'pageview' ); 
+ });
+</script>
+<script src='https://stats.wp.com/e-202222.js' defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:10.9',blog:'183453140',post:'0',tz:'10',srv:'damagedmusic.com.au'} ]);
+	_stq.push([ 'clickTrackerInit', '183453140', '0' ]);
+</script>
+</body>
+</html>
+<!-- Page uncached by LiteSpeed Cache 4.6 on 2022-06-03 16:31:01 -->

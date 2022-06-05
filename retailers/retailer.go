@@ -7,9 +7,16 @@ import (
 type RetailerID int
 
 const (
+	SOLD_OUT = "sold out"
+)
+
+const (
 	// enum corresponding to retailer ids in the database
-	ArtistFirst_Retailer RetailerID = 1
-	PoisonCity_Retailer             = 2
+	ArtistFirst_Retailer      RetailerID = 1
+	PoisonCity_Retailer                  = 2
+	ResistRecords_Retailer               = 3
+	DamagedRecords_Retailer              = 4
+	RepressedRecords_Retailer            = 5
 )
 
 type SKU struct {
@@ -32,6 +39,13 @@ func VinylRetailerFactory(retailerId RetailerID) (VinylRetailer, error) {
 		return &ArtistFirst{}, nil
 	case PoisonCity_Retailer:
 		return &PoisonCity{}, nil
+	case ResistRecords_Retailer:
+		return &ResistRecords{}, nil
+	case DamagedRecords_Retailer:
+		return &DamagedRecords{}, nil
+	case RepressedRecords_Retailer:
+		return &RepressedRecords{}, nil
 	}
+
 	return nil, fmt.Errorf("there is no retailer with id %v", retailerId)
 }
