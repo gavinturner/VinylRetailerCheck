@@ -85,6 +85,7 @@ func main() {
 		var batchID int64
 		if len(artists) > 0 && len(retailers) > 0 {
 			// calculate the number of expected scans for a new batch
+			// temporary
 			requiredSearches := len(artists) * len(retailers)
 
 			// add the new batch to the db (and start a report for each watching user)
@@ -92,7 +93,7 @@ func main() {
 			if err != nil {
 				log.Error(err, "Failed to start new batch")
 			} else {
-				// euqueue all our scan requests for the batch
+				// enqueue all our scan requests for the batch
 				log.Debugf("Scheduling batch %v...", batchID)
 				for _, retailer := range retailers {
 					for artistID, artistName := range artists {

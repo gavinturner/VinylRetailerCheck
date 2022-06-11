@@ -7,7 +7,10 @@ COPY go.sum ./go.sum
 RUN go mod download
 
 RUN mkdir -p /bin/cfg
+RUN mkdir -p /bin/retailers
+RUN mkdir -p /bin/retailers/data
 COPY cmd/scanner/application.json /bin/cfg
+COPY retailers/data/* /bin/retailers/data
 RUN go build cmd/scanner/main.go
 RUN mv main /bin/vinyl-retailers-scanner
 RUN rm -r /code

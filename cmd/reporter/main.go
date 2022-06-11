@@ -109,10 +109,10 @@ func main() {
 	}
 }
 
-func renderResultsRow(image string, artist string, url string, name string, price string) (string, error) {
+func renderResultsRow(image string, artist string, url string, name string, price string, retailer string) (string, error) {
 	htmlOut := "<tr>\n"
 	htmlOut += fmt.Sprintf("<td>%s</td>\n", image)
-	htmlOut += fmt.Sprintf("<td>%s<br><a href=\"%s\">%s</a><br>%s</td>\n", artist, url, name, price)
+	htmlOut += fmt.Sprintf("<td>%s<br><a href=\"%s\">%s</a><br>%s<br>%s</td>\n", artist, url, name, retailer, price)
 	htmlOut += "</tr>\n"
 	return htmlOut, nil
 }
@@ -122,7 +122,7 @@ func buildAndSendEmail(skus []retailers.SKU, userEmail string, userName string) 
 	message := "<table>\n"
 	for _, sku := range skus {
 		log.Debugf("Processing SKU %v for report to %v", sku.Name, userEmail)
-		row, err := renderResultsRow(sku.Image, sku.Artist, sku.Url, sku.Name, sku.Price)
+		row, err := renderResultsRow(sku.Image, sku.Artist, sku.Url, sku.Name, sku.Price, sku.Retailer)
 		if err != nil {
 			return errors.Wrapf(err, "Failed to construct report email message")
 		}

@@ -10,10 +10,10 @@ import (
 
 func main() {
 	fmt.Printf("Scrape test\n")
-	scraper := retailers.RepressedRecords{}
+	scraper := retailers.BeatDiscRecords{}
 
 	// multi artist test
-	readFile, err := os.Open("./cfg/artists.txt")
+	readFile, err := os.Open("./retailers/test/artists.txt")
 	if err != nil {
 		panic(err)
 	}
@@ -37,7 +37,6 @@ func main() {
 	}
 	for _, s := range skus {
 		fmt.Printf("SKU> %s, %s, (%s)\n", s.Artist, s.Name, s.Price)
-		fmt.Printf("IMAGE> %s\n", s.Image)
 	}
 
 	// single artist test

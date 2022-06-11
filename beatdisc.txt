@@ -1,0 +1,950 @@
+<!DOCTYPE html><script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="https://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=b9f848c06fcba7eaf305d4a7cb7a1b98"></script><!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title>Beatdisc Records</title>
+	
+	<meta name="description" content="CURRENT IN-STOCK LISTS Updated 10AM 9th JUNE Click below to view lists of every piece of vinyl, CD, cassette, turntables &amp; accessories currently in-store. VINYL LIST CD, DVD, BOOK &amp; CASSETTE..." />
+	
+	<meta name="author" content="Giraffic Themes | www.girafficthemes.com">
+	<meta name="copyright" content="Amplify Theme - Copyright William Rainbird 2013. All Rights Reserved." />
+	
+	<!--
+	
+	  ------------------------------------------------------------------
+	  
+	   ___ ___ ___   _   ___ ___ ___ ___ 
+	  / __|_ _| _ \ /_\ | __| __|_ _/ __| 
+	 | (_ || ||   // _ \| _|| _| | | (__    
+	  \___|___|_|_/_/ \_|_| |_| |___\___|   		  
+	  _____ _  _ ___ __  __ ___ ___ 
+	 |_   _| || | __|  \/  | __/ __|
+	   | | | __ | _|| |\/| | _|\__ \
+	   |_| |_||_|___|_|  |_|___|___/
+	  
+	  
+	  Theme: Amplify Theme | http://amplifytheme.tumblr.com
+	  Created by: Giraffic Themes | www.girafficthemes.com
+	  
+	  ------------------------------------------------------------------
+	  
+	-->
+	<meta name="tumblr-theme" content="33176" />
+	
+	<meta name="color:Background" content="#f9f5eb"/>
+	<meta name="color:Main Section Background" content="#fff"/>
+	<meta name="color:Text" content="#414040"/>
+	<meta name="color:Link" content="#000"/>
+	<meta name="color:Link Hover" content="#0caed7"/>
+	<meta name="color:Meta" content="#000"/>
+	<meta name="color:Date" content="#000"/>
+	<meta name="color:Date Hover" content="#0caed7"/>
+	<meta name="color:Heading" content="#000"/>
+	<meta name="color:Heading Hover" content="#0caed7"/>
+	<meta name="color:Sidebar Heading" content="#000"/>
+	<meta name="color:Sidebar Link" content="#000"/>
+	<meta name="color:Sidebar Link Hover" content="#0caed7"/>
+	<meta name="color:Navigation Bar" content="#000"/>
+	<meta name="color:Navigation Text" content="#fff"/>
+	<meta name="color:Navigation Text Active" content="#CDD0D1"/>
+	
+	<meta name="color:Music Player Button Color" content="#000"/>
+	<meta name="color:Music Player Button Color Hover" content="#0caed7"/>
+	
+	<meta name="color:Date Seperator" content="#000"/>
+	<meta name="color:Sidebar Underline" content="#000"/>
+	<meta name="color:Sidebar Item Bottom Border" content="#A4A4A4"/>
+	
+	<meta name="font:Title" content="Open Sans', sans-serif"/>
+	<meta name="font:Body" content="Arial, Helvetica, sans-serif"/>
+	
+	
+	<meta name="image:Background" content="https://static.tumblr.com/qxrkgx6/m5Alvirjv/broken_noise__1_.png"/>
+	<meta name="image:Header" content=""/>
+	<meta name="image:Feature" content=""/>
+	<meta name="image:Album Artwork" content=""/>
+	<meta name="image:Album Artwork Two" content=""/>
+	<meta name="image:Album Artwork Three" content=""/>
+	
+	<meta name="if:Left Align Content" content="0"/>
+	<meta name="if:No Background Image" content="0"/>
+	<meta name="if:Non Repeating Background Image" content="0"/>
+	<meta name="if:Fixed Background Image" content="0"/>
+	<meta name="if:Align Background Image Left" content="0"/>
+	<meta name="if:Transparent Container" content="0"/>
+	<meta name="if:Hide Header" content="0"/>
+	<meta name="if:No Padding On Container" content="0"/>
+	<meta name="if:No Spacing On Feature Image" content="0"/>
+	
+	<meta name="if:Place Nav Over Feature Image" content="0"/>
+	
+	<meta name="if:Use Uppercase Titles" content="1"/>
+	<meta name="if:Use Italic Titles" content="1"/>
+	
+	<meta name="if:Use White Post Icons" content="0"/>
+	<meta name="if:Use White Meta Icons" content="0"/>
+	<meta name="if:Use Black Music Player Symbols" content="0"/>
+	<meta name="if:Use White Social Media Icons" content="0"/>
+	
+	<meta name="if:Use Texture And Pattern Overlays" content="1"/>
+	
+	<meta name="if:Show Social Bar" content="0"/>
+	<meta name="if:Show Social Bar In Sidebar" content="0"/>
+	
+	<meta name="if:Show Album Artwork In Soundcloud Widget" content="0"/>
+	<meta name="if:Show Album Artwork In iTunes Widget" content="0"/>
+	<meta name="if:Show Album Artwork In Bandcamp Widget" content="0"/>
+	
+	<meta name="if:Show Share Links" content="0"/>
+	<meta name="if:Show Share Links On Index" content="0"/>
+	<meta name="if:Show Facebook Like Box In Sidebar" content="0"/>
+	<meta name="if:Show Full Facebook Activity Feed In Sidebar" content="0"/>
+	
+	<meta name="if:Show Facebook Subscribe Button" content="0"/>
+	<meta name="if:Show Twitter Follow Button" content="0"/>
+	<meta name="if:Show Google Plus Follow Button" content="0"/>
+	
+	
+	<meta name="if:Show Latest Tweet" content="0"/>
+	<meta name="if:Facebook Comments On" content="0" />
+	
+	<meta name="if:Show Instagram Thumbnails" content="" />
+	
+	<meta name="if:Disable Infinite Scroll" content="0" />
+	<meta name="if:Show Asker Picture" content="0" />
+	<meta name="if:Hide Home Link In Navigation Bar" content="0" />
+	<meta name="if:Hide RSS Link In Navigation Bar" content="0" />
+	<meta name="if:Hide Archive Link In Navigation Bar" content="0" />
+	
+	<meta name="text:Disqus Shortname" content="" />
+	<meta name="text:Feature Image Height" content="250"/>
+	
+	<meta name="text:Google Analytics Web Property ID" content=""/>
+	<meta name="text:Facebook App ID" content=""/>
+	<meta name="text:Flickr ID" content="" />
+	<meta name="text:Flickr Photoset ID" content="" />
+	<meta name="text:Typekit ID" content="" />
+	<meta name="text:Soundcloud Username" content="" />
+	<meta name="text:Upcoming Shows Page URL" content="" />
+	<meta name="text:Songkick Artist ID" content="" />
+	<meta name="text:Bands In Town Artist Name" content="" />
+	<meta name="text:Bandcamp Embed Code" content="" />
+	<meta name="text:Big Cartel Username" content="" />
+	<meta name="text:iTunes Store Album Link" content="" />
+	<meta name="text:iTunes Store Album Link Two" content="" />
+	<meta name="text:iTunes Store Album Link Three" content="" />
+	<meta name="text:Custom Widget Code" content="" />
+	<meta name="text:Custom Widget Code Two" content="" />
+	<meta name="text:Custom Widget Code Three" content="" />
+	<meta name="text:Instagram Access Token" content="" />
+	<meta name="text:Mailchimp Sign Up Embed Code" content="" />
+	<meta name="text:Twitter Widget Code" content="" />
+	
+	<meta name="text:Copyright Text" content="" />
+	
+	<meta name="text:Custom Title Font" content="" />
+	
+	
+	<meta name="text:Facebook URL" content="" />
+	<meta name="text:Twitter Username" content="" />
+	<meta name="text:Bandcamp URL" content="" />
+	<meta name="text:YouTube Channel URL" content="" />
+	<meta name="text:Vimeo URL" content="" /> 
+	<meta name="text:Myspace URL" content="" />
+	<meta name="text:LastFM URL" content="" />
+	<meta name="text:LinkedIn URL" content="" />
+	<meta name="text:Flickr URL" content="" />
+	<meta name="text:Linked In URL" content="" />
+	<meta name="text:Foursquare URL" content="" />
+	<meta name="text:Hype Machine URL" content="" />
+	<meta name="text:Spotify URL" content="" />
+	<meta name="text:Google Plus URL" content="" />
+	
+	<meta name="text:Description Title" content="About" />
+	<meta name="text:Bandcamp Title" content="Bandcamp Player" />
+	<meta name="text:Facebook Title" content="Facebook" />
+	<meta name="text:Twitter Title" content="Latest from Twitter" />
+	<meta name="text:Flickr Title" content="Latest Photos" />
+	<meta name="text:iTunes Title" content="Album Out Now" />
+	<meta name="text:Soundcloud Title" content="Music Player" />
+	<meta name="text:Songkick Title" content="Upcoming Shows" />
+	<meta name="text:Bands In Town Title" content="Upcoming Shows" />
+	<meta name="text:Number of Bands In Town Shows on Sidebar" content="5" />
+	<meta name="text:Instagram Title" content="Instagram" />
+	<meta name="text:Big Cartel Title" content="Merchandise" />
+	<meta name="text:Mailchimp Title" content="Sign up to Mailing List" />
+	<meta name="text:Social Bar Sidebar Title" content="Elsewhere" />
+	
+	<meta name="text:Custom Widget Title" content="" />
+	<meta name="text:Custom Widget Title Two" content="" />
+	<meta name="text:Custom Widget Title Three" content="" />
+	
+	
+	
+	
+	<meta property="og:title" content="Beatdisc Records"/>
+
+	
+	
+
+	<style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}</style><link rel="stylesheet" media="screen" href="https://assets.tumblr.com/client/prod/standalone/blog-network-npf/index.build.css?_v=b84ed2eb31f8e1bbdb3e7a53afa67dd4"><link rel="stylesheet" href="https://static.tumblr.com/qxrkgx6/WxFmppw5j/styles.css">
+	
+	<link href="https://static.tumblr.com/qxrkgx6/QJqlvpk00/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css" />
+	
+	<link rel="shortcut icon" href="https://64.media.tumblr.com/avatar_fb8c2ea7be1e_128.pnj">
+	        <link rel="alternate" type="application/rss+xml" href="https://beatdisc.com.au/rss">
+	
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+	<script src="https://static.tumblr.com/qxrkgx6/t52lw5t6p/modernizr-2.0.6.min.js"></script>
+	
+	<style type="text/css">
+	body {
+	background:  #f9f5eb url('https://static.tumblr.com/qxrkgx6/m5Alvirjv/broken_noise__1_.png');
+	
+	
+	
+	
+	
+	
+	color: #414040;
+	
+	font-family:Arial, Helvetica, sans-serif;
+	
+	}
+	
+
+	
+	
+	
+	#container {
+		background-color: #fff;
+		
+		
+	}
+	
+	.nav {
+		background-color: #d72b2b;
+	}
+	
+	.nav ul li a {
+		color: #fff;
+	}
+	
+	.nav ul li a.active {
+		color: #CDD0D1;
+	}
+	
+	
+	a, a:visited { color: #000; }
+	a:hover {
+		color: #0caed7;
+	}
+	
+	a.leftMeta, .songkickLarge .dateLink {
+		color: #000;
+	}
+	
+	a.leftMeta:hover, .songkickLarge .dateLink :hover {
+		color: #0caed7;
+	}
+	
+	.post p, div.jp-type-playlist div.jp-playlist a, .aside ul.linksSidebar li a, .aside ul.linksSidebar li  { color: #414040; }
+	
+	.post .postMain a {
+		color: ;
+		
+		text-decoration: underline;
+	}
+	
+	.post .postMain a:hover {
+		color: ;
+	}
+	
+	.post .meta a { color: #000; text-decoration:none; }
+	
+	.postMain h3.title a, h1, h2, h3, h4, .text blockquote, .quoteText, .quote .source, .post.chat ul.chat, .askerDiv, .audio .artist, .post.chat ul.chat .label  {
+		color: #000;
+	}
+	
+	.postMain h3.title a:hover {
+		color: #0caed7;
+	}
+	
+	.widget h3.widgetTitle {
+		color: #000;
+	}
+	
+	.aside a, .widget a.external, div.jp-type-playlist div.jp-playlist a.jp-playlist-current, .songkickGigs ul li a {
+		color: #000;
+	}
+	
+	.aside a:hover, .widget a.external:hover {
+		color: #0caed7;
+	}
+	
+	.leftMeta .seperator {
+	background-color: #df4848;
+	}
+	
+	.widget .seperator {
+	background-color: #000;
+	}
+	
+	div.jp-playlist li, .songkickGigs ul li, #bigCartel ul li, .songkickLarge ul li  {
+		border-color: ;
+	}
+
+	
+	h1, h2, h3, h4, .text blockquote, .quoteText, .quote .source, .post.chat ul.chat, .askerDiv, .audio .artist, .tweet_text, .nextPrev a, .loadMoreGrams, .nav ul li a {
+	
+	font-family: Open Sans', sans-serif;
+	
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	.jp-controls a {
+		background-color: #000;
+	}
+	
+	.jp-controls a:hover {
+		background-color: #0caed7;
+	}
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+	</style>
+	
+	<style type="text/css">
+	
+	.ie7 .soundCloudLink, .ie7 .powerCloud, .i8 .soundCloudLink, .ie8 .powerCloud, .ie7 .meta a, .ie8 .meta a {
+		background-color: #fff !important;
+	}
+	
+	
+	
+	
+	.featureImage { 
+		height: 500px;
+		
+			margin: 0 auto !important;
+		
+	}
+	
+	
+	
+	
+	.fbShare {
+		margin-right: 15px;
+		width: 100px;
+	}
+	
+	.audioPlayer.new span {
+		display: none;
+	}
+	
+	
+	
+	</style>
+	
+	
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=beatdisc%26postID=" /><link rel="alternate" href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=beatdisc&postID=" /><script src="https://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=a8fadfa499d8cb7c3f8eefdf0b1adfdd"></script><link rel="stylesheet" type="text/css" href="https://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3"><!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:site" content="tumblr" /><meta name="twitter:card" content="summary" /><meta name="twitter:description" content="beatdisc" /><meta name="twitter:title" content="beatdisc" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=beatdisc&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=beatdisc&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=beatdisc&amp;referrer=twitter-cards" /><link rel="canonical" href="https://beatdisc.com.au/stock" /></head>
+<body class="permalink">
+
+<!-- Tumblr Theme #33176 -->
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+
+
+<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+<div id="containerOuter">
+<div id="container">
+	
+	
+	<header>
+			
+			
+			
+			<div id="socialBar">
+				
+				
+				
+				
+				
+				<a href="https://foursquare.com/beatdisc" class="socialLink" id="foursquare" target="_blank" title="View Foursquare"></a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<a href="http://www.last.fm/user/Beatdisc" class="socialLink" id="lastfm" target="_blank"></a>
+				
+				
+				
+				
+							
+				
+				
+				<a href="https://www.youtube.com/user/beatdisc" class="socialLink" id="youtube" target="_blank" title="View YouTube Channel"></a>
+				
+				
+				
+				
+				
+				
+				
+				<a href="http://twitter.com/beatdisc" class="socialLink" id="twitter" target="_blank" title="Follow on Twitter"></a>
+				
+				
+				
+				<a href="http://facebook.com/beatdisc" class="socialLink" id="facebook" target="_blank" title="View Facebook Page"></a>
+				
+			
+
+				
+			</div>
+			
+			
+			
+						
+			
+			
+			<div class="logo header">
+			
+				<a href="/"><img src="https://static.tumblr.com/c91bc800ad361289bb73256cbf77b707/q7v4vle/FAto6w5ot/tumblr_static_9zpxqjsrtag4c4kwscwg0o4sw.jpg" /></a>
+				        
+			</div>
+			
+			
+			
+			
+			
+
+		
+		
+	</header>
+	
+	
+	
+	<div class="featureImage  ">
+		<img src="https://64.media.tumblr.com/ab9fa84babf4e5c0aeb88aedfe299eff/6bcda89fd5bd0837-2d/s2048x3072/9a5fd61a48be32f7a6a6ab93409e9f8e72cb716f.jpg"/>
+		
+		
+		
+		
+	</div>
+	
+	
+	
+	<div class="nav">
+	
+			<ul class="pages">
+			
+			<li><a href="/" class="archive">Home</a></li>
+			
+			 
+			
+				<li><a href="/about">ABOUT</a><li><a href="/contact">CONTACT</a><li><a href="/stock">IN-STOCK LIST</a><li><a href="/turntables">Turntables & Accessories</a><li><a href="/events">EVENTS</a>
+				
+			
+				
+				
+				
+				
+				
+				
+					
+		
+			</ul>
+			
+	</div>
+	
+	
+	
+	
+	<div id="main" role="main">
+	
+	
+	<div class="left">
+
+        	<div id="posts">
+	            
+	                
+	                
+	                	
+	                    <div class="post text">
+	                    
+	                    	
+	                    	
+	                    	<div class="postMain">
+		                        
+		
+		                        <h2 style="font-family: 'Open Sans', sans-serif; font-style: italic; text-transform: uppercase; color: #000000;"><strong>CURRENT IN-STOCK LISTS<br>Updated 10AM 9th JUNE</strong></h2><p>Click below to view lists of every piece of vinyl, CD, cassette, turntables &amp; accessories currently in-store.</p><p><a href="https://href.li/?https://1drv.ms/x/s!AhdSSHiAOZaHivsvKhxJAFU6ixn_kw?e=ddzd1D">VINYL LIST</a></p><p><a href="https://href.li/?https://1drv.ms/x/s!AhdSSHiAOZaHivsuiFlTqqSE9tEylg?e=gUbbCi">CD, DVD, BOOK &amp; CASSETTE LIST</a></p><p><a href="https://href.li/?https://1drv.ms/x/s!AhdSSHiAOZaHivsVvozIawOkcWyqpA?e=DeZaFu">TURNTABLES, MERCH &amp; ACCESSORIES LIST</a><br><br></p><p>*PLEASE NOTE: Stock lists are subject to change immediately after the files are made.</p><p>We do not currently have a webstore. If you find anything you&rsquo;d like to purchase on these lists please get in touch - details below.<br><br></p><p>If you would like to be added to the list to get the new vinyl or CD catalogue emailed to you directly, please get in touch at info@beatdisc.com.au &#128522;</p><hr><p style="line-height: 18px; color: #414040; font-family: Arial, Helvetica, sans-serif; font-size: 13px;"><strong>Contact</strong> - Please call (0298919330) or email&nbsp;(info@beatdisc.com.au)&nbsp;for postage costs or pay to reserve stock.</p><p><strong style="line-height: 1.4;">Postage rates</strong> - LPs - Pricing varies but is generally between $10-15 and&nbsp;determined&nbsp;by the weight of the parcel. Postage costs are capped at $15&nbsp;Australia wide (buy as much vinyl as you want and only pay $15 to post).&nbsp;&nbsp;</p><p><strong>Payments accepted</strong> - Bank deposit or Credit/Debit card (call us).</p>
+	
+	                
+	
+	                
+	
+	                
+	
+	                
+	
+	                 	 	 	   
+	
+	                
+	
+	                
+	
+	                
+	                
+	                
+	                
+                    
+	                	
+	                	<!-- META DATA -->
+	                	
+	                            
+	                            
+	                        </div><!-- END POST MAIN -->
+	                    </div><!-- END POST -->
+	                    	
+	                    	
+	                  
+	                    	
+	                		
+	                     	 	 	   
+	                    
+	                    
+	                    
+	                   
+	                
+	            
+	        </div> <!-- end POSTS -->
+	        
+	        <div class="pagination">
+	        	
+	        	
+	        	
+	                
+	        
+	                
+	        </div>
+
+	</div> <!-- end LEFT -->
+	
+	<div class="aside">
+	
+	
+		<!-- DESCRIPTION WIDGET -->
+		
+		<div class="widget">
+			
+			<h3 class="widgetTitle">BEATDISC RECORDS</h3>
+			<div class="seperator"></div>
+			
+			
+			    <p>Established in 1995, Beatdisc Records stocks new, used and rare LPs, CDs & Cassettes, as well as turntables and accessories. We have a dedicated focus on vinyl across a wide range of genres (both import and local), with over 7000 titles in-stock and always growing. We also offer customer orders, mail order and host in-store performances. Vinyl stock arriving and processed daily.</p>
+	
+		</div>
+		
+		<!-- END DESCRIPTION WIDGET -->
+		
+		<!-- SOCIAL BAR WIDGET -->
+			
+		<!-- END SOCIAL BAR WIDGET -->
+		
+		
+		<!-- SOUNDCLOUD WIDGET -->
+		
+		<!--END SOUNDCLOUD WIDGET -->
+		
+		<!-- iTUNES WIDGET -->
+		
+		<!-- END iTUNES WIDGET -->
+		
+		<!-- BANDCAMP WIDGET -->
+		
+		<!-- END BANDCAMP WIDGET -->
+		
+		<!-- SONGKICK WIDGET -->
+		
+		<!-- END SONGKICK WIDGET -->
+		
+		<!-- START BANDS IN TOWN WIDGET -->
+		
+		
+		<!-- END BANDS IN TOWN WIDGET -->
+		
+		
+		
+		
+		<!-- TWITTER WIDGET -->
+		
+		<!-- END TWITTER WIDGET -->
+		
+		<!-- MAILCHIMP SIGN UP FORM -->
+		
+	
+			<div class="widget">
+					
+					<h3 class="widgetTitle">Sign up to Mailing List</h3>
+					<div class="seperator"></div>
+					
+					<!-- Begin MailChimp Signup Form --><link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css"><style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style><div id="mc_embed_signup"><form action="http://beatdisc.us2.list-manage.com/subscribe/post?u=2f94987e5788578560535cf53&amp;id=832f1fdbce" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate><h2></h2><div class="indicates-required"><span class="asterisk">*</span> indicates required</div><div class="mc-field-group"><label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label><input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"></div><div id="mce-responses" class="clear"><div class="response" id="mce-error-response" style="display:none"></div><div class="response" id="mce-success-response" style="display:none"></div></div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div style="position: absolute; left: -5000px;"><input type="text" name="b_2f94987e5788578560535cf53_832f1fdbce" tabindex="-1" value=""></div><div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div></form></div><!--End mc_embed_signup-->
+					
+					<style type="text/css">
+					
+					#mc_embed_signup form {
+					display: block;
+					position: relative;
+					text-align: left;
+					padding: 2px 0 10px 0;
+					}
+					
+					#mc_embed_signup label {
+					display: none;
+					}
+					
+					#mc_embed_signup input.email {
+					display: block;
+					padding: 8px 0;
+					margin: 0 4% 10px 0;
+					text-indent: 5px;
+					width: 99%;
+					min-width: 130px;
+					}
+					
+					#mc_embed_signup input.email {
+					display: block;
+					padding: 6px 0;
+					margin: 0 4% 10px 0;
+					text-indent: 5px;
+					width: 99%;
+					min-width: 130px;
+					background-color: #fff;
+					}
+					
+					#mc_embed_signup input {
+					border: 1px solid #A4A4A4;
+					-webkit-appearance: none;
+					}
+					
+					#mc_embed_signup {
+					font: inherit !important;
+					}
+					
+					#mc_embed_signup .button { 
+					font-family: font-family: Open Sans', sans-serif !important;
+					background:none;
+					background-color:none;
+					font-weight:bold;
+					font-size:13px;
+					
+					text-transform:uppercase;
+					color: #000;
+						
+						
+						
+					}
+					
+					#mc_embed_signup input.button {
+						width:auto !important;
+						min-width: 0px !important;
+					
+					}
+					
+					#mc_embed_signup .button:hover { 
+						background-color: #fff !important;
+						color: #0caed7;
+					}
+					
+					</style>
+			
+			</div>
+
+		
+		<!-- MAILCHIMP SIGN UP FORM -->
+
+		
+		<!-- FACEBOOK WIDGET -->
+		
+		
+	
+			<div class="widget">	
+				<h3 class="widgetTitle">Facebook</h3>
+				<div class="seperator"></div>	
+				
+				<div class="fb-like" data-href="http://facebook.com/beatdisc" data-send="true" data-width="305" data-show-faces="true"></div>
+				
+				
+				
+			</div>
+		
+		
+		<!-- END FACEBOOK WIDGET -->
+		
+		<!-- BIG CARTEL WIDGET -->
+		
+		<!-- END BIG CARTEL WIDGET -->
+		
+		<!-- INSTAGRAM WIDGET -->
+		
+		<div class="widget">
+				
+				<h3 class="widgetTitle">Instagram</h3>
+				<div class="seperator"></div>
+						
+				
+				<ul id="gramImages"></ul>
+				
+				
+				
+		
+		</div>
+		
+		<!-- END INSTAGRAM WIDGET -->
+		
+		<!-- FLICKR WIDGET -->
+		
+		<!-- END FLICKR WIDGET -->
+		
+		<!-- CUSTOM WIDGET -->
+		
+		<!-- END CUSTOM WIDGET -->
+		
+		<!-- CUSTOM WIDGET -->
+		
+		<!-- END CUSTOM WIDGET -->
+		
+		<!-- CUSTOM WIDGET -->
+		
+		<!-- END CUSTOM WIDGET -->
+		
+		
+		
+		
+		<div class="fb-subscribe" data-href="http://facebook.com/beatdisc" data-layout="button_count" data-show-faces="false" data-width="200"></div>
+		
+		
+		
+		
+		
+		<a href="https://twitter.com/beatdisc" class="twitter-follow-button" data-show-count="true">Follow @beatdisc</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		
+		
+		
+		
+		
+		
+		
+		<ul class="linksSidebar">
+		
+			
+			<li class="copyright">&copy; <span></span> Beatdisc Records </li>
+			<li><a href="/archive" class="archive">Archive</a></li>
+			<li><a href="https://beatdisc.com.au/rss" class="rss">RSS</a></li>
+			
+		</ul>
+	
+	</div>
+	
+		
+	</div>
+	
+	
+	<footer>
+		
+
+		
+		
+	</footer>
+</div> <!--! end of #container -->
+</div> <!--! end of #containerOuter -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/libs/jquery-1.6.2.min.js"><\/script>')</script>
+
+<script type="text/javascript" src="https://static.tumblr.com/qxrkgx6/HMAlw273k/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="https://static.tumblr.com/qxrkgx6/lQvlw5tgz/jplayer.playlist.js"></script>
+
+
+
+	
+	<script type="text/javascript" src="https://static.tumblr.com/qxrkgx6/P5pm7oap2/instagram-thumbs.js"></script>
+	
+	
+	
+	
+
+
+
+<script type="text/javascript" src="https://static.tumblr.com/qxrkgx6/XM2lw5t90/infinite-scroll.js"></script>
+<script type="text/javascript" src="https://static.tumblr.com/qxrkgx6/rtklw5t9r/livequery.js"></script>
+
+<!--
+<script type="text/javascript" src="https://static.tumblr.com/qxrkgx6/1CRlvpj8v/jquery.fancybox-1.3.4.pack.js"></script>
+-->
+
+
+<script type="text/javascript" src="https://static.tumblr.com/qxrkgx6/dmrmpo7qf/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="https://static.tumblr.com/qxrkgx6/mXXlvpja2/jquery.easing-1.3.pack.js"></script>
+
+
+
+<script type="text/javascript" src="https://static.tumblr.com/qxrkgx6/sWXmppvya/instagram-page.js"></script>
+
+<script type='text/javascript'>
+
+    $(function(){
+    
+    	
+		
+		
+			
+		
+		
+		
+    	
+    	
+
+    	
+
+    	
+    	
+    		Instagram("449969979.1677ed0.9e9b1aea355d4cd6bb433dd1ddefa446");
+    		
+    		instaPageLength = $('#instagram-page').length;
+	    	
+	    	if(instaPageLength > 0){
+	    		InstaPage("449969979.1677ed0.9e9b1aea355d4cd6bb433dd1ddefa446");
+	    	}
+    		
+    	
+
+    	
+    
+     });
+</script> 	 	 	   
+
+
+
+<script src="https://static.tumblr.com/qxrkgx6/09ompprot/functions.js"></script>
+
+
+
+
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = ''; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-51201833-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+
+<iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#" +
+                              "https://beatdisc.com.au";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/stock?route=custom_page'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+    })();
+</script><script type="text/javascript" nonce="itmDyr7P4avDkgSCjItkybCFFnQ">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1654849545&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2JlYXRkaXNjLmNvbS5hdS9zdG9jayIsInJlcXR5cGUiOjAsInJvdXRlIjoiY3VzdG9tX3BhZ2UifQ==&U=IPNAOGDDPI&K=4aa9e10c6fe08b7e60719af06cadefc885a7d3c5dfba54d16ddd1c1dcf6d50a6&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1654849545&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2JlYXRkaXNjLmNvbS5hdS9zdG9jayIsInJlcXR5cGUiOjAsInJvdXRlIjoiY3VzdG9tX3BhZ2UiLCJub3NjcmlwdCI6MX0=&U=IPNAOGDDPI&K=028860791d7c91e7c1781479893ba55f21a71cd01c0b4b044e62f8f880d02259&R="></noscript><noscript id="bootloader" data-bootstrap="{&quot;Components&quot;:{&quot;PostActivity&quot;:[],&quot;NotificationPoller&quot;:{&quot;messaging_keys&quot;:[],&quot;token&quot;:&quot;c86f8a500596474a7ef5034081f694bd&quot;,&quot;inbox_unread&quot;:0},&quot;DesktopDashboardLogo&quot;:{&quot;animations&quot;:[[&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1.png?_v=161861acded461bb6e995593a3bae835&quot;,&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1@2x.png?_v=496a774637302a598c851381d00009b0&quot;]]},&quot;TumblelogIframe&quot;:{&quot;unified&quot;:true,&quot;variant&quot;:null,&quot;isCompact&quot;:true,&quot;tumblelogBundleSrc&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.build.js?_v=bffd096aaaf9a6f0caa302a310faf6f1&quot;,&quot;tumblelogName&quot;:&quot;beatdisc&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;canSubscribe&quot;:false,&quot;isSubscribed&quot;:false,&quot;tumblelogTitle&quot;:&quot;Beatdisc Records&quot;,&quot;tumblelogAvatar&quot;:&quot;https:\/\/64.media.tumblr.com\/avatar_fb8c2ea7be1e_64.pnj&quot;,&quot;tumblelogAvatar128&quot;:&quot;https:\/\/64.media.tumblr.com\/avatar_fb8c2ea7be1e_128.pnj&quot;,&quot;tumblelogHost&quot;:&quot;https:\/\/beatdisc.com.au&quot;,&quot;isOptica&quot;:false,&quot;isCustomTheme&quot;:false,&quot;themeHeaderImage&quot;:&quot;https:\/\/64.media.tumblr.com\/ab9fa84babf4e5c0aeb88aedfe299eff\/6bcda89fd5bd0837-2d\/s2048x3072_c1364,1306,98531,98507\/80041fd7d55048ed5384965db1448c77dc9d31a8.jpg&quot;,&quot;themeBackgroundColor&quot;:&quot;#FAFAFA&quot;,&quot;themeTitleColor&quot;:&quot;#444444&quot;,&quot;themeAccentColor&quot;:&quot;#97c5e0&quot;,&quot;brag&quot;:true,&quot;adsEnabled&quot;:false,&quot;canShowAd&quot;:true,&quot;isPremium&quot;:false,&quot;showLrecAds&quot;:false,&quot;showStickyLrecBackfill&quot;:false,&quot;showGeminiAds&quot;:false,&quot;geminiSectionCodeDesktop&quot;:&quot;a10bca9c-0c5d-4a02-ab13-14ab8513d81d&quot;,&quot;geminiSectionCodeMobile&quot;:&quot;ced63809-b609-4aca-96a0-abc099acba6b&quot;,&quot;currentPageType&quot;:null,&quot;currentPage&quot;:false,&quot;searchQuery&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;,&quot;query&quot;:&quot;&quot;,&quot;chrono&quot;:false,&quot;postId&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/beatdisc.com.au\/stock&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;https:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=3de94a184d600617102ddd5b48fb36e9&quot;,&quot;appInstallUrls&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dbn_continue_or_install_cta&quot;,&quot;ios&quot;:&quot;https:\/\/apps.apple.com\/app\/apple-store\/id305343404?pt=212308\u0026ct=bn_continue_or_install_cta\u0026mt=8&quot;},&quot;appOpenReferrer&quot;:&quot;bn_header_open_btn&quot;,&quot;isShowSearch&quot;:true,&quot;supplyLogging&quot;:[],&quot;secondsSinceLastActivity&quot;:-1,&quot;installUrlOpenFailed&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dbn_header_app_open_failed&quot;,&quot;ios&quot;:&quot;https:\/\/apps.apple.com\/app\/apple-store\/id305343404?pt=212308\u0026ct=bn_header_app_open_failed\u0026mt=8&quot;},&quot;loginWallVariant&quot;:&quot;small_center&quot;}},&quot;Flags&quot;:{&quot;features&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwibW9iaWxlX3dlYl9nYXRlIjp0cnVlLCJzYWZlX21vZGUiOnRydWUsInNhZmVfbW9kZV9lbmFibGVkIjp0cnVlLCJrZXljb21tYW5kX2F1dG9fcGFnaW5hdGUiOnRydWUsImxvZ2dlZF9vdXRfc2VhcmNoIjp0cnVlLCJrcmFrZW5fd2ViX2xvZ2dpbmdfbGlicmFyeSI6dHJ1ZSwibGl2ZXBob3Rvc193ZWIiOnRydWUsInVzZXJfdGFnX2ZpbHRlcmluZyI6dHJ1ZSwic2FmZV9tb2RlX293bl9wb3N0Ijp0cnVlLCJwcm9qZWN0X3hfYXBwZWFsIjp0cnVlLCJtb2JpbGVfd2ViX3Bob3Rvc2V0cyI6dHJ1ZSwiaGlkZV9kZWZhdWx0X2hlYWRlcnNfYmxvZ19jYXJkcyI6dHJ1ZSwibm90aWZpY2F0aW9uX3JlcGx5X2xpbmtfdG9fbm90ZXMiOnRydWUsInR5cGluZ19pbmRpY2F0b3Jfd3JpdGUiOnRydWUsInR1bWJscl92aWRlb19zcG9uc29yZWRfZGF5Ijp0cnVlLCJjYXB0Y2hhOnVzZV9yZWNhcHRjaGEyIjp0cnVlLCJsaXR0bGVfc2lzdGVyIjp0cnVlLCJsb2dfbGFkeSI6dHJ1ZSwicmVkcG9wX3Bvc3RfZm9ybV9tb2JpbGVfY3JlYXRlIjp0cnVlLCJsZWdhY3lfcG9zdF9mb3JtX2J1dHRvbnNfbGlua190b19yZWRwb3AiOnRydWUsInNob3dfdHNwX2NsaWNrX3Rocm91Z2hfdG9nZ2xlIjp0cnVlLCJkYXJsYV9hZF9mZWVkYmFjayI6dHJ1ZSwic3RhdHVzX2luZGljYXRvciI6dHJ1ZSwiY29udmVyc2F0aW9uYWxfbm90aWZpY2F0aW9ucyI6dHJ1ZSwiZGlzYWJsZV95YWhvb19iX2Nvb2tpZSI6dHJ1ZSwibGl2ZXBob3RvcyI6dHJ1ZX0=&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1654849545000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;https:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;https:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;en_US&quot;,&quot;language_simple&quot;:&quot;en&quot;,&quot;assets&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/&quot;},&quot;Translations&quot;:{&quot;%1$sReport %2$s&#039;s post?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sReport %2$s&#039;s reply?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sDelete your tip??%2$s&quot;:&quot;%1$sDelete your tip?%2$s&quot;,&quot;Deleting your tip&quot;:&quot;Deleting your tip will only remove it from the replies tab and notes. %1$sYou won&#039;t receive a refund of your tip.%2$s For further help contact %3$sTumblr Support%4$s.&quot;}}"></noscript><script src="https://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=bffd096aaaf9a6f0caa302a310faf6f1"></script></body>
+</html>

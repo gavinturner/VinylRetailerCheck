@@ -1,0 +1,3153 @@
+<!doctype html>
+<html class="no-js supports-cookies" lang="en">
+	<head>
+		<meta charset="utf-8">
+  		<!-- Google Tag Manager -->
+<script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":
+    new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!="dataLayer"?"&l="+l:"";j.async=true;j.src=
+    "https://www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,"script","dataLayer","GTM-NZZD47K");
+</script>
+<!-- End Google Tag Manager -->
+<script>
+    window.dataLayer = window.dataLayer || [];
+</script>
+
+      	<meta name="google-site-verification" content="fpcWk0PGstuCAV7asHe8bxVdOk3mT4uzCz1vMubzPDo" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0,user-scalable=0"/>
+		<meta name="theme-color" content="#c4cdd5">
+		<link rel="canonical" href="https://utopia.com.au/search?q=nofx+vinyl">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+		
+		<link rel="stylesheet" href="https://use.typekit.net/jcq1ogl.css">
+		
+
+		
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		
+
+		
+		<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+		
+
+		
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+		
+<link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0342/1044/7497/files/favicon_32x32.jpg?v=1587902135" type="image/png"><title>Search: 3 results found for &quot;nofx vinyl&quot;
+&ndash; Utopia Records</title><meta name="description" content="Utopia Records is Australia’s largest heavy metal and hard rock specialty independent record store. The store has existed since 1978 supplying Sydney and Australia with all things metal, hard rock, punk, alternative and anything in between.">
+
+
+<meta property="og:site_name" content="Utopia Records">
+<meta property="og:url" content="https://utopia.com.au/search?q=nofx+vinyl">
+<meta property="og:title" content="Search: 3 results found for &quot;nofx vinyl&quot;">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Utopia Records is Australia’s largest heavy metal and hard rock specialty independent record store. The store has existed since 1978 supplying Sydney and Australia with all things metal, hard rock, punk, alternative and anything in between.">
+
+<meta name="twitter:site" content="@">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Search: 3 results found for &quot;nofx vinyl&quot;">
+<meta name="twitter:description" content="Utopia Records is Australia’s largest heavy metal and hard rock specialty independent record store. The store has existed since 1978 supplying Sydney and Australia with all things metal, hard rock, punk, alternative and anything in between.">
+
+		
+<link type="text/css" href="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/layout.theme.css?v=2084408498066020601652316154" rel="stylesheet"><link type="text/css" href="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/layout.theme.styleLiquid.scss.css?v=75789508706063305271649800097" rel="stylesheet">
+		<style>
+  Liquid error: font_face can only be used with a font drop
+  Liquid error: font_face can only be used with a font drop
+
+  
+
+  :root {
+    --color-accent: #c4cdd5;
+    --color-body-text: #161d25;
+    --color-main-background: #fff;
+    --color-border: #849bb6;
+
+    --font-heading: , ;
+    --font-body: , ;
+    --font-body-weight: ;
+    --font-body-style: ;
+    --font-body-bold-weight: bold;
+  }
+</style>
+
+		
+
+		<script>
+			document.documentElement.className = document.documentElement.className.replace('no-js', '');
+
+			window.theme = {
+			strings: {
+				addToCart: "Add to Cart",
+				soldOut: "Sold Out",
+				unavailable: "Unavailable"
+			},
+			moneyFormat: "${{amount}}"
+			};
+
+			
+		</script>
+
+		
+<script type="text/javascript" src="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/vendors@layout.theme.js?v=39596151687328556541649800077" defer="defer"></script><script type="text/javascript" src="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/layout.theme.js?v=97989989547200182281652316153" defer="defer"></script><link rel="prefetch" href="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/vendors@template.gift_card.js?v=154277944903779959491649800078" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/template.gift_card.js?v=117650346818978299081649800071" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/vendors@template.index@template.product.js?v=53678141890531509781649800079" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/template.index.js?v=154946669978455869841649800072" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/template.product.js?v=60080764732267582181649800074" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/template.addresses.js?v=82543420801477437371649800070" as="script"><link rel="prefetch" href="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/template.login.js?v=92389458219186823001649800073" as="script">
+
+		<script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><link rel="stylesheet" media="all" href="//cdn.shopify.com/s/global/search.css">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/34210447497/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="ced4b31ddfec2688b4a5cd5f108c7441">
+<meta id="in-context-paypal-metadata" data-shop-id="34210447497" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="AUD">
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":34210447497,"countryCode":"AU","currencyCode":"AUD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/34210447497","merchantName":"Utopia Records","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","jcb"],"total":{"type":"pending","label":"Utopia Records","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"ced4b31ddfec2688b4a5cd5f108c7441","betas":["rich-media-storefront-analytics"],"domain":"utopia.com.au","predictiveSearch":true,"shopId":34210447497,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "utopia-records-au.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"AUD","rate":"1.0"};
+Shopify.country = "AU";
+Shopify.theme = {"name":"LIVE | UTOPIA | 05-12-22","id":132039278817,"theme_store_id":796,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/shy.elfsight.com\/p\/platform.js?shop=utopia-records-au.myshopify.com","\/\/swymprod.azureedge.net\/code\/swym-shopify.js?shop=utopia-records-au.myshopify.com","https:\/\/load.csell.co\/assets\/js\/cross-sell.js?shop=utopia-records-au.myshopify.com","https:\/\/load.csell.co\/assets\/v2\/js\/core\/xsell.js?shop=utopia-records-au.myshopify.com","https:\/\/live.dev.apps-market.cm\/shopifyApp\/js-front-end\/signupForm_cmdev.js?shop=utopia-records-au.myshopify.com","https:\/\/instafeed.nfcube.com\/cdn\/715cfff8fc36ea9025a64aadf9493bac.js?shop=utopia-records-au.myshopify.com","https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=WA9Yhn\u0026shop=utopia-records-au.myshopify.com","https:\/\/shopifyorderlimits.s3.amazonaws.com\/limits\/load.js?shop=utopia-records-au.myshopify.com","\/\/app.backinstock.org\/bis\/widget\/23343_1652154777.js?v=6\u0026shop=utopia-records-au.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":34210447497,"offset":36000,"reqid":"c31c86fb-60b0-4f53-a01e-9f1c17208e0f","pageurl":"utopia.com.au\/search?q=nofx+vinyl\u0026_=pf\u0026pf_st_currently_in_stock=true\u0026pf_pt_product_type=New+Vinyl+-+12%20Inch","u":"d16e4cf75319","p":"searchresults"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-N6F6ZjvOAMPhcD0kfZWNQQgx6eXaxFfh6aqfN0geLrU=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-37a17a663bce00c3e1703d247d958d410831e9e5dac457e1e9aa9f37481e2eb5.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/shopify_pay/storefront-b61f50798075db890698930c4405673937fe89353f7fea7be88b5ce16a9c0af8.js?v=20210208"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 180px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+    <style>
+        
+
+        
+    </style>
+
+
+<link rel="dns-prefetch" href="https://store.swymrelay.com" crossorigin>
+<link rel="dns-prefetch" href="//swymprod.azureedge.net/code/swym-shopify.js">
+<link rel="preconnect" href="//swymprod.azureedge.net/code/swym-shopify.js">
+<script id="swym-snippet">
+  window.swymLandingURL = document.URL;
+  (function loadSwymFaster(){
+    var elScripts = document.querySelectorAll("script:not([src]):not([class]):not([id])"), scriptLoadScript, scriptLoadScriptText;
+    for(var i = 0; i < elScripts.length; i++){
+      var elScript = elScripts[i];
+      // TODO change swym- check to script metafield
+      if(elScript.innerText.indexOf('swym-shopify.js') > -1){
+        scriptLoadScriptText = elScript.innerText;
+        break;
+      }
+    }
+    if(scriptLoadScriptText) {
+      var startStr = 'var urls =';
+      var startIdx = scriptLoadScriptText.indexOf(startStr);
+      var endStr = '"];';
+      var endIdx = scriptLoadScriptText.indexOf(endStr,startIdx);
+      var listOfUrlsText = scriptLoadScriptText.slice(startIdx + startStr.length, endIdx + endStr.length);
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.src = ("\/\/swymprod.azureedge.net\/code\/swym-shopify.js" || "//swymprod.azureedge.net/code/swym-shopify.js") + "?shop=utopia-records-au.myshopify.com";
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  })();
+  window.swymCart = {"note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"AUD","items_subtotal_price":0,"cart_level_discount_applications":[]};
+  window.swymPageLoad = function(){
+    window.SwymProductVariants = window.SwymProductVariants || {};
+    window.SwymHasCartItems = 0 > 0;
+    window.SwymPageData = {}, window.SwymProductInfo = {};
+    var unknown = {et: 0};
+    window.SwymPageData = unknown;
+    
+    window.SwymPageData.uri = window.swymLandingURL;
+  };
+
+  if(window.selectCallback){
+    (function(){
+      // Variant select override
+      var originalSelectCallback = window.selectCallback;
+      window.selectCallback = function(variant){
+        originalSelectCallback.apply(this, arguments);
+        try{
+          if(window.triggerSwymVariantEvent){
+            window.triggerSwymVariantEvent(variant.id);
+          }
+        }catch(err){
+          console.warn("Swym selectCallback", err);
+        }
+      };
+    })();
+  }
+  window.swymCustomerId = null;
+  var swappName = ("Wishlist" || "Wishlist");
+  var swymJSObject = {
+    pid: "DdDuXqSZ6yY59JodTb4bQkXRdTreIthlEhrbHO93oug=" || "DdDuXqSZ6yY59JodTb4bQkXRdTreIthlEhrbHO93oug=",
+    interface: "/apps/swym" + swappName + "/interfaces/interfaceStore.php?appname=" + swappName
+  };
+  window.swymJSShopifyLoad = function(){
+    if(window.swymPageLoad) swymPageLoad();
+    if(!window._swat) {
+      (function (s, w, r, e, l, a, y) {
+        r['SwymRetailerConfig'] = s;
+        r[s] = r[s] || function (k, v) {
+          r[s][k] = v;
+        };
+      })('_swrc', '', window);
+      _swrc('RetailerId', swymJSObject.pid);
+      _swrc('Callback', function(){initSwymShopify();});
+    }else if(window._swat.postLoader){
+      _swrc = window._swat.postLoader;
+      _swrc('RetailerId', swymJSObject.pid);
+      _swrc('Callback', function(){initSwymShopify();});
+    }else{
+      initSwymShopify();
+    }
+  }
+  if(!window._SwymPreventAutoLoad) {
+    swymJSShopifyLoad();
+  }
+  window.swymGetCartCookies = function(){
+    var RequiredCookies = ["cart", "swym-session-id", "swym-swymRegid", "swym-email"];
+    var reqdCookies = {};
+    RequiredCookies.forEach(function(k){
+      reqdCookies[k] = _swat.storage.getRaw(k);
+    });
+    var cart_token = window.swymCart.token;
+    var data = {
+        action:'cart',
+        token:cart_token,
+        cookies:reqdCookies
+    };
+    return data;
+  }
+
+  window.swymGetCustomerData = function(){
+    
+    return {status:1};
+    
+  }
+</script>
+<style id="safari-flasher-pre"></style>
+<script>
+  if (navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1) {
+    document.getElementById("safari-flasher-pre").innerHTML = ''
+      + '#swym-plugin,#swym-hosted-plugin{display: none;}'
+      + '.swym-button.swym-add-to-wishlist{display: none;}'
+      + '.swym-button.swym-add-to-watchlist{display: none;}'
+      + '#swym-plugin  #swym-notepad, #swym-hosted-plugin  #swym-notepad{opacity: 0; visibility: hidden;}'
+      + '#swym-plugin  #swym-notepad, #swym-plugin  #swym-overlay, #swym-plugin  #swym-notification,'
+      + '#swym-hosted-plugin  #swym-notepad, #swym-hosted-plugin  #swym-overlay, #swym-hosted-plugin  #swym-notification'
+      + '{-webkit-transition: none; transition: none;}'
+      + '';
+    window.SwymCallbacks = window.SwymCallbacks || [];
+    window.SwymCallbacks.push(function(tracker){
+      tracker.evtLayer.addEventListener(tracker.JSEvents.configLoaded, function(){
+        // flash-preventer
+        var x = function(){
+          SwymUtils.onDOMReady(function() {
+            var d = document.createElement("div");
+            d.innerHTML = "<style id='safari-flasher-post'>"
+              + "#swym-plugin:not(.swym-ready),#swym-hosted-plugin:not(.swym-ready){display: none;}"
+              + ".swym-button.swym-add-to-wishlist:not(.swym-loaded){display: none;}"
+              + ".swym-button.swym-add-to-watchlist:not(.swym-loaded){display: none;}"
+              + "#swym-plugin.swym-ready  #swym-notepad, #swym-plugin.swym-ready  #swym-overlay, #swym-plugin.swym-ready  #swym-notification,"
+              + "#swym-hosted-plugin.swym-ready  #swym-notepad, #swym-hosted-plugin.swym-ready  #swym-overlay, #swym-hosted-plugin.swym-ready  #swym-notification"
+              + "{-webkit-transition: opacity 0.3s, visibility 0.3ms, -webkit-transform 0.3ms !important;-moz-transition: opacity 0.3s, visibility 0.3ms, -moz-transform 0.3ms !important;-ms-transition: opacity 0.3s, visibility 0.3ms, -ms-transform 0.3ms !important;-o-transition: opacity 0.3s, visibility 0.3ms, -o-transform 0.3ms !important;transition: opacity 0.3s, visibility 0.3ms, transform 0.3ms !important;}"
+              + "</style>";
+            document.head.appendChild(d);
+          });
+        };
+        setTimeout(x, 10);
+      });
+    });
+  }
+</script>
+<style id="swym-product-view-defaults">
+  /* Hide when not loaded */
+  .swym-button.swym-add-to-wishlist-view-product:not(.swym-loaded){
+    display: none;
+  }
+</style>
+
+
+
+
+
+
+<!--begin-bc-sf-filter-css-->
+  <style data-id="bc-sf-filter-style" type="text/css">
+      #bc-sf-filter-options-wrapper .bc-sf-filter-option-block .bc-sf-filter-block-title h3,
+      #bc-sf-filter-tree-h .bc-sf-filter-option-block .bc-sf-filter-block-title a {}
+    
+     .bc-sf-filter-option-block .bc-sf-filter-block-title h3>span:before {}
+      .bc-sf-filter-option-block .bc-sf-filter-block-title h3>span.up:before {}
+    
+      #bc-sf-filter-options-wrapper .bc-sf-filter-option-block .bc-sf-filter-block-content ul li a,
+      #bc-sf-filter-tree-h .bc-sf-filter-option-block .bc-sf-filter-block-content ul li a,
+      .bc-sf-filter-option-block-sub_category .bc-sf-filter-block-content ul li h3 a,
+      .bc-sf-filter-selection-wrapper .bc-sf-filter-selected-items .selected-item>a,
+      .bc-sf-filter-selection-wrapper .bc-sf-filter-block-title h3,
+      .bc-sf-filter-clear, 
+      .bc-sf-filter-clear-all{}
+    
+      .bc-sf-filter-option-block-sub_category .bc-sf-filter-option-single-list li span.sub-icon:before {}
+      .bc-sf-filter-option-block-sub_category .bc-sf-filter-option-single-list li span.sub-icon.sub-up:before {}
+
+      #bc-sf-filter-tree-mobile button {}
+    </style><link href="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/bc-sf-filter.scss.css?v=88378844241921475151653885422" rel="stylesheet" type="text/css" media="all" /><!--start-bc-al-css--><!--end-bc-al-css-->
+    <!--start-bc-widget-css--><!--end-bc-widget-css-->
+
+<!--end-bc-sf-filter-css-->
+
+
+
+
+
+<script src="https://shopifyorderlimits.s3.amazonaws.com/limits/utopia-records-au.myshopify.com?v=89c&r=20220408232935&shop=utopia-records-au.myshopify.com"></script>
+
+
+
+<meta property="og:image" content="https://cdn.shopify.com/s/files/1/0342/1044/7497/files/utopia.png?height=628&pad_color=ffffff&v=1586936907&width=1200" />
+<meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/0342/1044/7497/files/utopia.png?height=628&pad_color=ffffff&v=1586936907&width=1200" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="628" />
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 34210447497,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "search"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'AUD';
+var meta = {"page":{"pageType":"searchresults"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var hasLoggedConversion = function(token) {
+    if (token) {
+      return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+    }
+    return false;
+  }
+
+  var setCookieIfConversion = function(token) {
+    if (token) {
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config || {};
+    trekkie.config.initialDocumentCookie = document.cookie;
+    var first = document.getElementsByTagName('script')[0];
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      var scriptFallback = document.createElement('script');
+      scriptFallback.type = 'text/javascript';
+      scriptFallback.onerror = function(error) {
+              var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+    
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+    
+        } // XHR beacon   
+    
+        var xhr = new XMLHttpRequest();
+    
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+    
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 34210447497,
+      theme_id: 132039278817,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.9808f461ba330c75be6d9f9a258d7e208b18f128.min.js"});
+
+      };
+      scriptFallback.async = true;
+      scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.9808f461ba330c75be6d9f9a258d7e208b18f128.min.js';
+      first.parentNode.insertBefore(scriptFallback, first);
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/trekkie.storefront.9808f461ba330c75be6d9f9a258d7e208b18f128.min.js';
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":34210447497,"isMerchantRequest":null,"themeId":132039278817,"themeCityHash":"7838556815239267761","contentLanguage":"en","currency":"AUD"},"isServerSideCookieWritingEnabled":true},"Google Analytics":{"trackingId":"UA-33406014-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["269999680638555"],"agent":"plshopify1.2"},"Session Attribution":{},"S2S":{"emitV4CheckoutEvent":true,"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"searchresults"});
+
+    var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+    var token = match? match[1]: undefined;
+    if (!hasLoggedConversion(token)) {
+      setCookieIfConversion(token);
+      window.ShopifyAnalytics.lib.track("Performed Search",{"query":"nofx vinyl"});
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-fa61fd11817b231631d2fe43dc869d0b1d14a06332792d42f1a1d94bda5aa31e.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "ER Boiler Theme";
+  window.BOOMR.themeVersion = "1.0.0";
+  window.BOOMR.shopId = 34210447497;
+  window.BOOMR.themeId = 132039278817;
+  window.BOOMR.url =
+    "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+</head>
+
+	<body id="search-3-results-found-for-quot-nofx-vinyl-quot" class="template-search value empty-cart">
+	
+
+		
+		<a class="in-page-link visually-hidden skip-link" href="#MainContent">Skip to content</a>
+
+		<div id="shopify-section-header" class="shopify-section"><section data-section-id="header" data-section-type="header">
+    <header class="header-head">
+        <div class="container content-max">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-md-6"><div><span class="header-span"><a href="/pages/shipping-delivery">
+                                    FREE SHIPPING! Australia-Wide for orders of 4 or more  items
+                                </a></span></div></div>
+                <div class="col-md-6 text-right store_desc">
+                    
+                      <a href="/pages/about-us#offsetMap"  class="store-locator">Store Finder
+                        
+                          <img src="//cdn.shopify.com/s/files/1/0342/1044/7497/files/Store_Locator___Icon_small_33a0bb56-9d59-4a9f-b65f-aac703af2cfe_small.png?v=1642388084"  alt="Store Finder" style="margin-left: 12px;"/>
+                        
+                      </a>
+                    
+                    <span>(02) 9571 6662</span>
+                    <span>Mon - Sat 10am - 5pm | Sunday 12 - 4pm</span>
+                </div>  
+            </div>
+        </div>
+    </header>
+    <header role="banner" class="banner-role">
+        <div class="container content-max">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-auto col-lg-4">
+                    <div class="header-left-col">
+                        <div class="menu-hamburger">
+                            <span class="bar"></span>
+                            <span class="bar"></span>
+                            <span class="bar"></span>
+                            <span class="bar"></span>
+                        </div>
+
+                        <div class="d-none d-lg-inline-block">
+                            
+    <div class="h1 header-logo-wrapper">
+        <a href="/" class="logo-image">
+    
+        
+        <img src="//cdn.shopify.com/s/files/1/0342/1044/7497/files/utopia_550x.png?v=1586936907"  
+            alt="Utopia Records" />
+    
+</a>
+    </div>
+
+
+                        </div>
+
+                        
+                    </div>
+                </div>
+                <div class="col d-lg-none">
+                    
+    <div class="h1 header-logo-wrapper">
+        <a href="/" class="logo-image">
+    
+        
+        <img src="//cdn.shopify.com/s/files/1/0342/1044/7497/files/utopia_550x.png?v=1586936907"  
+            alt="Utopia Records" />
+    
+</a>
+    </div>
+
+
+                </div>
+                <div class="col search-col header-nav-col d-none d-lg-block">
+                    <div class="m-menu">
+                        <form class="search-form" action="/search" method="get" role="search">
+    <label for="Search-header" class="label-hidden">
+        Search CDs, Vinyl.....
+    </label>
+
+    <input type="search"
+        name="q"
+        id="Search-header"
+        value="nofx vinyl"
+        placeholder="Search CDs, Vinyl.....">
+
+    <button type="submit" class="button icon-search">
+        <svg width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M18.6185 16.3548L14.5743 12.336C15.4391 11.0388 15.8969 9.51272 15.8969 7.96118C15.8969 3.56091 12.336 0 7.93574 0C3.53548 0 0 3.56091 0 7.93574C0 12.3106 3.56091 15.8715 7.93574 15.8715C9.48728 15.8715 11.0134 15.4137 12.3106 14.5489L16.3548 18.5676C17.0161 19.1272 18.0335 19.0509 18.593 18.3896C19.1272 17.83 19.1272 16.9652 18.6185 16.3548ZM3.17938 7.93574C3.17938 5.2905 5.31593 3.15395 7.96118 3.15395C10.6064 3.15395 12.7175 5.31593 12.7175 7.93574C12.7175 10.5556 10.581 12.7175 7.93574 12.7175C5.2905 12.7175 3.17938 10.581 3.17938 7.93574Z" fill="white"/></svg>
+        <span class="icon-fallback-text">Search</span>
+    </button>
+</form>
+                    </div>
+                </div>
+                <div class="col-3 col-lg-4 d-none d-lg-block">
+                    <div class="header-right-col">
+                        <a href="/pages/wishlist" class="wish">
+                            <img src="https://cdn.shopify.com/s/files/1/0342/1044/7497/files/wishlist.png?v=1587268056"/>
+                            <br>
+                            <label>Wishlist</label>
+                        </a>
+                        <a href="/account" class="account">
+                            <img src="https://cdn.shopify.com/s/files/1/0342/1044/7497/files/account.png?v=1587268056"><br>
+                            <label>Account</label>
+                        </a>
+                        <a href="/cart" class="cart-toggle">
+                            <span class="cart-item-count">0</span>
+                            <img src="https://cdn.shopify.com/s/files/1/0342/1044/7497/files/cart-icon.png?v=1587281961"><br>
+                            <label>Cart</label>
+                        </a>
+                        
+                            <ul style="display: none;">
+                                
+                                    <li>
+                                        <a href="/account/login" id="customer_login_link">SIGN IN</a>
+                                    </li>
+                                    <li>
+                                        <a href="/account/register" id="customer_register_link">Create account</a>
+                                    </li>
+                                
+                            </ul>
+                        
+                    </div>
+                </div>
+                <div class="col-auto d-lg-none">
+                    <a href="/cart" class="cart-toggle" title="Cart">
+                        <span class="cart-item-count">0</span>
+                        <img src="https://cdn.shopify.com/s/files/1/0342/1044/7497/files/cart-icon.png?v=1587281961"><br>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <header class="menu hide-mobile header-nav-col">
+        <div class="header-menu-wrapper">
+    <div class="container content-max">
+        <div class="row align-items-center justify-content-between">
+            <div class="col-md-12">
+                <nav role="navigation">
+                    <ul>
+                    
+                        
+                        <li class="pre-orders ">
+                            <a href="/collections/all-pre-orders">
+                            PRE ORDERS
+                            
+                            </a>
+                            <div class="fullwidth">
+                                <div class="container content-max">
+                                    <div class="row align-items-center justify-content-between">
+                                        <div class="col-md-12">
+                                            
+                                            <ul class="ul1">
+                                                
+
+                                                    <li class="haslink">
+                                                        <a href="#">
+                                                            A - Z
+                                                        </a>
+                                                        <hr/>
+                                                        <ul class="ul2 a-z">
+                                                              
+                                                            <li><a href= "/collections/pre-order-a">A</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-b">B</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-c">C</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-d">D</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-e">E</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-f">F</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-g">G</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-h">H</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-i">I</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-j">J</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-k">K</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-l">L</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-m">M</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-n">N</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-o">O</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-p">P</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-q">Q</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-r">R</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-s">S</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-t">T</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-u">U</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-v">V</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-w">W</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-x">X</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-y">Y</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-z">Z</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-1-2-3">#</a></li>
+                                                        
+                                                        </ul>
+                                                    </li>
+ 
+                                                
+
+                                                    <li class="haslink">
+                                                        <a href="#">
+                                                            PRE ORDER CATEGORIES
+                                                        </a>
+                                                        <hr/>
+                                                        <ul class="ul2 pre-order-categories">
+                                                              
+                                                            <li><a href= "/collections/pre-order-cds">PRE ORDER CDs</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-vinyl">PRE ORDER VINYLS</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-merch">PRE ORDER MERCH</a></li>
+                                                          
+                                                            <li><a href= "/collections/pre-order-box-set">PRE ORDER BOX SETS</a></li>
+                                                        
+                                                        </ul>
+                                                    </li>
+ 
+                                                
+                                            </ul>
+                                            
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        
+                    
+                        
+                        <li class="cds ">
+                            <a href="/collections/all-cds">
+                            CDs
+                            
+                            </a>
+                            <div class="fullwidth">
+                                <div class="container content-max">
+                                    <div class="row align-items-center justify-content-between">
+                                        <div class="col-md-12">
+                                            
+                                            <ul class="ul1">
+                                                
+
+                                                    <li class="haslink">
+                                                        <a href="#">
+                                                            A - Z
+                                                        </a>
+                                                        <hr/>
+                                                        <ul class="ul2 a-z">
+                                                              
+                                                            <li><a href= "/collections/cds-a">A</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-b">B</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-c">C</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-d">D</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-e">E</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-f">F</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-g">G</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-h">H</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-i">I</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-j">J</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-k">K</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-l">L</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-m">M</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-n">N</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-o">O</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-p">P</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-q">Q</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-r">R</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-s">S</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-t">T</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-u">U</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-v">V</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-w">W</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-x">X</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-y">Y</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds-z">Z</a></li>
+                                                          
+                                                            <li><a href= "/collections/cds">#</a></li>
+                                                        
+                                                        </ul>
+                                                    </li>
+ 
+                                                
+
+                                                    <li class="haslink">
+                                                        <a href="#">
+                                                            CD CATEGORIES
+                                                        </a>
+                                                        <hr/>
+                                                        <ul class="ul2 cd-categories">
+                                                              
+                                                            <li><a href= "/collections/brand-new-cds">BRAND NEW CDs</a></li>
+                                                          
+                                                            <li><a href= "/collections/rock-candy-deluxe-reissues">ROCK CANDY REISSUES</a></li>
+                                                          
+                                                            <li><a href= "/collections/2nd-hand-cds">2ND HAND CDs</a></li>
+                                                          
+                                                            <li><a href= "/collections/cd-box-sets">CD BOX SETS</a></li>
+                                                        
+                                                        </ul>
+                                                    </li>
+ 
+                                                
+
+                                                    <li class="haslink">
+                                                        <a href="#">
+                                                            TOP ARTISTS
+                                                        </a>
+                                                        <hr/>
+                                                        <ul class="ul2 top-artists">
+                                                              
+                                                            <li><a href= "/collections/behemoth">BEHEMOTH</a></li>
+                                                          
+                                                            <li><a href= "/collections/black-sabbath-cds">BLACK SABBATH</a></li>
+                                                          
+                                                            <li><a href= "/collections/death-cds">DEATH</a></li>
+                                                          
+                                                            <li><a href= "/collections/ghost">GHOST</a></li>
+                                                          
+                                                            <li><a href= "/collections/iron-maiden-cds">IRON MAIDEN</a></li>
+                                                          
+                                                            <li><a href= "/collections/kiss-cds">KISS</a></li>
+                                                        
+                                                        </ul>
+                                                    </li>
+ 
+                                                
+
+                                                    <li class="haslink">
+                                                        <a href="#">
+                                                            TOP ARTISTS
+                                                        </a>
+                                                        <hr/>
+                                                        <ul class="ul2 top-artists">
+                                                              
+                                                            <li><a href= "/collections/metallica-cds">METALLICA</a></li>
+                                                          
+                                                            <li><a href= "/collections/motorhead-cds">MOTORHEAD</a></li>
+                                                          
+                                                            <li><a href= "/collections/opeth-cds">OPETH</a></li>
+                                                          
+                                                            <li><a href= "/collections/slayer-cds">SLAYER</a></li>
+                                                          
+                                                            <li><a href= "/collections/slipknot-cds">SLIPKNOT</a></li>
+                                                          
+                                                            <li><a href= "/collections/devin-townsend-cds">DEVIN TOWNSEND</a></li>
+                                                        
+                                                        </ul>
+                                                    </li>
+ 
+                                                
+                                            </ul>
+                                            
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        
+                    
+                        
+                        <li class="vinyl ">
+                            <a href="/collections/all-vinyl">
+                            VINYL
+                            
+                            </a>
+                            <div class="fullwidth">
+                                <div class="container content-max">
+                                    <div class="row align-items-center justify-content-between">
+                                        <div class="col-md-12">
+                                            
+                                            <ul class="ul1">
+                                                
+
+                                                    <li class="haslink">
+                                                        <a href="#">
+                                                            A - Z
+                                                        </a>
+                                                        <hr/>
+                                                        <ul class="ul2 a-z">
+                                                              
+                                                            <li><a href= "/collections/vinyl-a">A</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-b">B</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-c">C</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-d">D</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-e">E</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-f">F</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-g">G</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-h">H</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-i">I</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-j">J</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-k">K</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-l">L</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-m">M</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-n">N</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-o">O</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-p">P</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-q">Q</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-r">R</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-s">S</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-t">T</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-u">U</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-v">V</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-w">W</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-x">X</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-y">Y</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-z">Z</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl">#</a></li>
+                                                        
+                                                        </ul>
+                                                    </li>
+ 
+                                                
+
+                                                    <li class="haslink">
+                                                        <a href="#">
+                                                            VINYL CATEGORIES
+                                                        </a>
+                                                        <hr/>
+                                                        <ul class="ul2 vinyl-categories">
+                                                              
+                                                            <li><a href= "/collections/new-vinyl-12-inch">NEW VINYL - 12 INCH</a></li>
+                                                          
+                                                            <li><a href= "/collections/new-vinyl-7-inch">NEW VINYL - 7 INCH</a></li>
+                                                          
+                                                            <li><a href= "/collections/2nd-hand-vinyl-12-inch">2ND HAND VINYL - 12 INCH</a></li>
+                                                          
+                                                            <li><a href= "/collections/2nd-hand-vinyl-7-inch">2ND HAND VINYL - 7 INCH</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-box-sets">VINYL BOX SETS</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-accessories">VINYL ACCESSORIES</a></li>
+                                                        
+                                                        </ul>
+                                                    </li>
+ 
+                                                
+
+                                                    <li class="haslink">
+                                                        <a href="#">
+                                                            TOP ARTISTS
+                                                        </a>
+                                                        <hr/>
+                                                        <ul class="ul2 top-artists">
+                                                              
+                                                            <li><a href= "/collections/acdc-vinyl">ACDC</a></li>
+                                                          
+                                                            <li><a href= "/collections/alice-in-chains-vinyl">ALICE IN CHAINS</a></li>
+                                                          
+                                                            <li><a href= "/collections/black-sabbath-vinyl">BLACK SABBATH</a></li>
+                                                          
+                                                            <li><a href= "/collections/death-vinyl">DEATH</a></li>
+                                                          
+                                                            <li><a href= "/collections/ghost-vinyl">GHOST</a></li>
+                                                          
+                                                            <li><a href= "/collections/iron-maiden-vinyl">IRON MAIDEN</a></li>
+                                                        
+                                                        </ul>
+                                                    </li>
+ 
+                                                
+
+                                                    <li class="haslink">
+                                                        <a href="#">
+                                                            TOP ARTISTS
+                                                        </a>
+                                                        <hr/>
+                                                        <ul class="ul2 top-artists">
+                                                              
+                                                            <li><a href= "/collections/king-gizzard-and-the-lizard-wizard">KING GIZZARD AND THE LIZARD WIZARD</a></li>
+                                                          
+                                                            <li><a href= "/collections/kiss-vinyl">KISS</a></li>
+                                                          
+                                                            <li><a href= "/collections/metallica-vinyl">METALLICA</a></li>
+                                                          
+                                                            <li><a href= "/collections/motorhead-vinyl">MOTORHEAD</a></li>
+                                                          
+                                                            <li><a href= "/collections/opeth-vinyl">OPETH</a></li>
+                                                          
+                                                            <li><a href= "/collections/slayer-vinyl">SLAYER</a></li>
+                                                        
+                                                        </ul>
+                                                    </li>
+ 
+                                                
+
+                                                    <li class="haslink">
+                                                        <a href="/collections/record-store-day-2021">
+                                                            Record Store Day 2021
+                                                        </a>
+                                                        <hr/>
+                                                        <ul class="ul2 record-store-day-2021">
+                                                            
+                                                        </ul>
+                                                    </li>
+ 
+                                                
+                                            </ul>
+                                            
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        
+                    
+                        
+                        <li class="dvds-blu-rays ">
+                            <a href="/collections/all-dvds">
+                            DVDs & BLU RAYS
+                            
+                            </a>
+                            <div class="fullwidth">
+                                <div class="container content-max">
+                                    <div class="row align-items-center justify-content-between">
+                                        <div class="col-md-12">
+                                            
+                                            <ul class="ul1">
+                                                
+
+                                                    <li class="haslink">
+                                                        <a href="#">
+                                                            A - Z
+                                                        </a>
+                                                        <hr/>
+                                                        <ul class="ul2 a-z">
+                                                              
+                                                            <li><a href= "/collections/dvds-a">A</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-b">B</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-c">C</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-d">D</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-e">E</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-f">F</a></li>
+                                                          
+                                                            <li><a href= "/collections/vinyl-g">G</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-h">H</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-i">I</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-j">J</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-k">K</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-l">L</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-m">M</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-n">N</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-o">O</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-p">P</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-q">Q</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-r">R</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-s">S</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-t">T</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-u">U</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-v">V</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-w">W</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-x">X</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-y">Y</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds-z">Z</a></li>
+                                                          
+                                                            <li><a href= "/collections/dvds">#</a></li>
+                                                        
+                                                        </ul>
+                                                    </li>
+ 
+                                                
+
+                                                    <li class="haslink">
+                                                        <a href="#">
+                                                            DVD & BLU-RAY CATEGORIES
+                                                        </a>
+                                                        <hr/>
+                                                        <ul class="ul2 dvd-blu-ray-categories">
+                                                              
+                                                            <li><a href= "/collections/music-dvds-blu-rays">MUSIC DVDs & BLU-RAYs</a></li>
+                                                          
+                                                            <li><a href= "/collections/horror-cult-movies">HORROR & CULT FILMS</a></li>
+                                                          
+                                                            <li><a href= "/collections/2nd-hand-dvds-blu-rays">2ND HAND DVDs & BLU-RAYS</a></li>
+                                                        
+                                                        </ul>
+                                                    </li>
+ 
+                                                
+                                            </ul>
+                                            
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        
+                    
+                        
+                        <li class="merch ">
+                            <a href="/collections/all-merch">
+                            MERCH
+                            
+                            </a>
+                            <div class="fullwidth">
+                                <div class="container content-max">
+                                    <div class="row align-items-center justify-content-between">
+                                        <div class="col-md-12">
+                                            
+                                            <ul class="ul1">
+                                                
+
+                                                
+                                                    <li class="haslink clothing">
+                                                        <a href="/collections/clothing">
+                                                            CLOTHING
+                                                        </a>
+                                                        <hr/>
+                                                        <ul class="ul2 clothing">
+                                                              
+                                                            <li><a href= "/collections/unisex-shirts">UNISEX SHIRTS</a></li>
+                                                          
+                                                            <li><a href= "/collections/long-sleeve-shirts">LONG SLEEVES</a></li>
+                                                          
+                                                            <li><a href= "/collections/womens-fitted-shirts">WOMENS FITTED SHIRTS</a></li>
+                                                          
+                                                            <li><a href= "/collections/singlet-tanks">SINGLET TANKS</a></li>
+                                                          
+                                                            <li><a href= "/collections/baby-clothing">BABY CLOTHING</a></li>
+                                                          
+                                                            <li><a href= "/collections/kids-clothing">KIDS</a></li>
+                                                          
+                                                            <li><a href= "/collections/work-shirts">WORK SHIRTS</a></li>
+                                                          
+                                                            <li><a href= "/collections/hoodies-sweat-shirts">HOODIES & SWEAT SHIRTS</a></li>
+                                                          
+                                                            <li><a href= "/collections/bathrobes-jackets">BATHROBES & JACKETS</a></li>
+                                                          
+                                                            <li><a href= "/collections/gloves-socks">GLOVES & SOCKS</a></li>
+                                                        
+                                                        </ul>
+                                                    </li>
+                                                
+
+                                                
+
+                                                
+                                                    <li class="haslink headwear">
+                                                        <a href="/collections/headwear">
+                                                            HEADWEAR
+                                                        </a>
+                                                        <hr/>
+                                                        <ul class="ul2 headwear">
+                                                              
+                                                            <li><a href= "/collections/caps">CAPS</a></li>
+                                                          
+                                                            <li><a href= "/collections/beanies">BEANIES</a></li>
+                                                          
+                                                            <li><a href= "/collections/bandanas">BANDANAS</a></li>
+                                                        
+                                                        </ul>
+                                                    </li>
+                                                
+
+                                                
+
+                                                
+                                                    <li class="haslink patches">
+                                                        <a href="/collections/patches">
+                                                            PATCHES
+                                                        </a>
+                                                        <hr/>
+                                                        <ul class="ul2 patches">
+                                                              
+                                                            <li><a href= "/collections/standard-patches">STANDARD PATCHES</a></li>
+                                                          
+                                                            <li><a href= "/collections/back-patches">BACK PATCHES</a></li>
+                                                        
+                                                        </ul>
+                                                    </li>
+                                                
+
+                                                
+
+                                                
+                                                    <li class="haslink toys-collectables">
+                                                        <a href="/collections/toys-collectables-1">
+                                                            TOYS & COLLECTABLES
+                                                        </a>
+                                                        <hr/>
+                                                        <ul class="ul2 toys-collectables">
+                                                              
+                                                            <li><a href= "/collections/pop-vinyl">POP! VINYL</a></li>
+                                                          
+                                                            <li><a href= "/collections/super7-reaction-figures">SUPER7 REACTION FIGURES</a></li>
+                                                          
+                                                            <li><a href= "/collections/masks-costumes">MASKS & COSTUMES</a></li>
+                                                          
+                                                            <li><a href= "/collections/puzzles-games">PUZZLES & GAMES</a></li>
+                                                          
+                                                            <li><a href= "/collections/figurines-dolls">FIGURINES & DOLLS</a></li>
+                                                        
+                                                        </ul>
+                                                    </li>
+                                                
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+
+                                                
+                                                <ul class="merch-link">
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    <li class="nolink">
+                                                        <a href="/collections/books">
+                                                            BOOKS
+                                                        </a>
+                                                    </li>
+                                                    
+                                                    
+                                                    
+                                                    <li class="nolink">
+                                                        <a href="/collections/buttons-badges-enamel-pins">
+                                                            BUTTONS, BADGES & ENAMEL PINS
+                                                        </a>
+                                                    </li>
+                                                    
+                                                    
+                                                    
+                                                    <li class="nolink">
+                                                        <a href="/collections/flags">
+                                                            FLAGS
+                                                        </a>
+                                                    </li>
+                                                    
+                                                    
+                                                    
+                                                    <li class="nolink">
+                                                        <a href="/collections/drinkware">
+                                                            DRINKWARE
+                                                        </a>
+                                                    </li>
+                                                    
+                                                    
+                                                    
+                                                    <li class="nolink">
+                                                        <a href="/collections/keyrings">
+                                                            KEYRINGS
+                                                        </a>
+                                                    </li>
+                                                    
+                                                    
+                                                    
+                                                    <li class="nolink">
+                                                        <a href="/collections/wallets-purses">
+                                                            WALLETS & PURSES
+                                                        </a>
+                                                    </li>
+                                                    
+                                                    
+                                                    
+                                                    <li class="nolink">
+                                                        <a href="/collections/pikcards-guitar-picks">
+                                                            PIKCARDS & GUITAR PICKS
+                                                        </a>
+                                                    </li>
+                                                    
+                                                    
+                                                    
+                                                    <li class="nolink">
+                                                        <a href="/collections/jewellery">
+                                                            JEWELLERY
+                                                        </a>
+                                                    </li>
+                                                    
+                                                    
+                                                    
+                                                    <li class="nolink">
+                                                        <a href="/collections/bags">
+                                                            BAGS
+                                                        </a>
+                                                    </li>
+                                                    
+                                                    
+                                                    
+                                                    <li class="nolink">
+                                                        <a href="/collections/wristbands-sweatbands">
+                                                            WRISTBANDS & SWEATBANDS
+                                                        </a>
+                                                    </li>
+                                                    
+                                                    
+
+                                                </ul>
+                                            </ul>
+                                            
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        
+                    
+                        
+                        <li>
+                            <a href="/products/utopia-records-online-gift-voucher">
+                            VOUCHERS
+                            </a>
+                            
+                            
+                            
+                            
+                            
+                        </li>
+                        
+                    
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+    </header>
+    <header class="menu show-mobile hide-desktop header-nav-col">
+        <form class="search-form" action="/search" method="get" role="search">
+    <label for="Search-header" class="label-hidden">
+        Search CDs, Vinyl.....
+    </label>
+
+    <input type="search"
+        name="q"
+        id="Search-header"
+        value="nofx vinyl"
+        placeholder="Search CDs, Vinyl.....">
+
+    <button type="submit" class="button icon-search">
+        <svg width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M18.6185 16.3548L14.5743 12.336C15.4391 11.0388 15.8969 9.51272 15.8969 7.96118C15.8969 3.56091 12.336 0 7.93574 0C3.53548 0 0 3.56091 0 7.93574C0 12.3106 3.56091 15.8715 7.93574 15.8715C9.48728 15.8715 11.0134 15.4137 12.3106 14.5489L16.3548 18.5676C17.0161 19.1272 18.0335 19.0509 18.593 18.3896C19.1272 17.83 19.1272 16.9652 18.6185 16.3548ZM3.17938 7.93574C3.17938 5.2905 5.31593 3.15395 7.96118 3.15395C10.6064 3.15395 12.7175 5.31593 12.7175 7.93574C12.7175 10.5556 10.581 12.7175 7.93574 12.7175C5.2905 12.7175 3.17938 10.581 3.17938 7.93574Z" fill="white"/></svg>
+        <span class="icon-fallback-text">Search</span>
+    </button>
+</form>
+
+        <div class="mobile-nav-drawer">
+            <div class="d-flex justify-content-between align-items-center">
+                <a href="/cart" class="cart-toggle mobile-cart-toggle">
+                    <img src="https://cdn.shopify.com/s/files/1/0342/1044/7497/files/cart-icon.png?v=1587281961">        
+                </a>
+
+                <a class="menu-hamburger" title="Close Menu">
+                    <img src="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/icon-times.svg?v=99786198581839062931649800060" alt="Close Icon">
+                </a>
+            </div>
+
+            <div class="m-menu">
+                <form class="search-form" action="/search" method="get" role="search">
+    <label for="Search-header" class="label-hidden">
+        Search CDs, Vinyl.....
+    </label>
+
+    <input type="search"
+        name="q"
+        id="Search-header"
+        value="nofx vinyl"
+        placeholder="Search CDs, Vinyl.....">
+
+    <button type="submit" class="button icon-search">
+        <svg width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M18.6185 16.3548L14.5743 12.336C15.4391 11.0388 15.8969 9.51272 15.8969 7.96118C15.8969 3.56091 12.336 0 7.93574 0C3.53548 0 0 3.56091 0 7.93574C0 12.3106 3.56091 15.8715 7.93574 15.8715C9.48728 15.8715 11.0134 15.4137 12.3106 14.5489L16.3548 18.5676C17.0161 19.1272 18.0335 19.0509 18.593 18.3896C19.1272 17.83 19.1272 16.9652 18.6185 16.3548ZM3.17938 7.93574C3.17938 5.2905 5.31593 3.15395 7.96118 3.15395C10.6064 3.15395 12.7175 5.31593 12.7175 7.93574C12.7175 10.5556 10.581 12.7175 7.93574 12.7175C5.2905 12.7175 3.17938 10.581 3.17938 7.93574Z" fill="white"/></svg>
+        <span class="icon-fallback-text">Search</span>
+    </button>
+</form>
+            </div>
+
+            <a href="/account" class="account btn red-button">
+                <img src="https://cdn.shopify.com/s/files/1/0342/1044/7497/files/account.png?v=1587268056">
+                <label>My Account</label>
+            </a>
+            <div class="buttons-sections">
+                <div class="left-sec">
+                    <a href="/pages/wishlist" class="wishlist-link">
+                        <img src="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/fet-icon.svg?v=15776604945438501171649800055" aria-hidden="true">
+                        Wishlist
+                    </a>
+                </div>
+                <div class="right-sec"><ul class="social_accounts">
+                        
+
+                            
+                    
+                            
+                            <li>
+                                <a href="https://www.instagram.com/utopiarecords/" title="Utopia Records on Instagram">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 512 512" class="icon"><path d="M256 49.5c67.3 0 75.2.3 101.8 1.5 24.6 1.1 37.9 5.2 46.8 8.7 11.8 4.6 20.2 10 29 18.8s14.3 17.2 18.8 29c3.4 8.9 7.6 22.2 8.7 46.8 1.2 26.6 1.5 34.5 1.5 101.8s-.3 75.2-1.5 101.8c-1.1 24.6-5.2 37.9-8.7 46.8-4.6 11.8-10 20.2-18.8 29s-17.2 14.3-29 18.8c-8.9 3.4-22.2 7.6-46.8 8.7-26.6 1.2-34.5 1.5-101.8 1.5s-75.2-.3-101.8-1.5c-24.6-1.1-37.9-5.2-46.8-8.7-11.8-4.6-20.2-10-29-18.8s-14.3-17.2-18.8-29c-3.4-8.9-7.6-22.2-8.7-46.8-1.2-26.6-1.5-34.5-1.5-101.8s.3-75.2 1.5-101.8c1.1-24.6 5.2-37.9 8.7-46.8 4.6-11.8 10-20.2 18.8-29s17.2-14.3 29-18.8c8.9-3.4 22.2-7.6 46.8-8.7 26.6-1.3 34.5-1.5 101.8-1.5m0-45.4c-68.4 0-77 .3-103.9 1.5C125.3 6.8 107 11.1 91 17.3c-16.6 6.4-30.6 15.1-44.6 29.1-14 14-22.6 28.1-29.1 44.6-6.2 16-10.5 34.3-11.7 61.2C4.4 179 4.1 187.6 4.1 256s.3 77 1.5 103.9c1.2 26.8 5.5 45.1 11.7 61.2 6.4 16.6 15.1 30.6 29.1 44.6 14 14 28.1 22.6 44.6 29.1 16 6.2 34.3 10.5 61.2 11.7 26.9 1.2 35.4 1.5 103.9 1.5s77-.3 103.9-1.5c26.8-1.2 45.1-5.5 61.2-11.7 16.6-6.4 30.6-15.1 44.6-29.1 14-14 22.6-28.1 29.1-44.6 6.2-16 10.5-34.3 11.7-61.2 1.2-26.9 1.5-35.4 1.5-103.9s-.3-77-1.5-103.9c-1.2-26.8-5.5-45.1-11.7-61.2-6.4-16.6-15.1-30.6-29.1-44.6-14-14-28.1-22.6-44.6-29.1-16-6.2-34.3-10.5-61.2-11.7-27-1.1-35.6-1.4-104-1.4z"/><path d="M256 126.6c-71.4 0-129.4 57.9-129.4 129.4s58 129.4 129.4 129.4 129.4-58 129.4-129.4-58-129.4-129.4-129.4zm0 213.4c-46.4 0-84-37.6-84-84s37.6-84 84-84 84 37.6 84 84-37.6 84-84 84z"/><circle cx="390.5" cy="121.5" r="30.2"/></svg>
+
+                                    <span class="icon-fallback-text">Instagram</span>
+                                </a>
+                            </li>
+                            
+                        
+
+                            
+                    
+                            
+                            <li>
+                                <a href="https://www.facebook.com/utopiarecordsstore" title="Utopia Records on Facebook">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" class="icon" viewBox="0 0 20 20"><path d="M18.05.811q.439 0 .744.305t.305.744v16.637q0 .439-.305.744t-.744.305h-4.732v-7.221h2.415l.342-2.854h-2.757v-1.83q0-.659.293-1t1.073-.342h1.488V3.762q-.976-.098-2.171-.098-1.634 0-2.635.964t-1 2.72V9.47H7.951v2.854h2.415v7.221H1.413q-.439 0-.744-.305t-.305-.744V1.859q0-.439.305-.744T1.413.81H18.05z"/></svg>
+
+                                    <span class="icon-fallback-text">Facebook</span>
+                                </a>
+                            </li>
+                            
+                        
+
+                            
+                    
+                            
+                        
+
+                            
+                    
+                            
+                        
+
+                            
+                    
+                            
+                        
+
+                            
+                    
+                            
+                        
+
+                            
+                    
+                            
+                        
+
+                            
+                    
+                            
+                        
+                    </ul>
+                </div>
+            </div>
+            <!-- social icons -->
+            <div class="header-menu-wrapper">
+    <div class="container content-max">
+        <div class="row align-items-center justify-content-between">
+            <div class="col-md-12">
+                <nav role="navigation">
+                    <ul class="nav-mobile">
+                    
+                        
+                        <li>
+                            <a href="#"> Shop by Product Category</a>
+                            <input type="checkbox" id="shop-by-product-category" class="submenu-toggle">        
+                            <label class="submenu-label" for="shop-by-product-category">
+                                <i class="fa fa-chevron-down"></i>
+                            </label>
+                            <ul class="mobile-ul1 menu-sub">
+                                
+                                    <li class="haslink">
+                                    <a href="/collections/all-pre-orders">
+                                        Pre Order
+                                    </a>
+                                    
+                                    
+                                    <input type="checkbox" id="pre-order" class="submenu-toggle">        
+                                    <label class="submenu-label" for="pre-order">
+                                        <i class="fa fa-chevron-down"></i>
+                                    </label>
+                                    <ul class="mobile-ul2 menu-sub pre-order">
+                                          
+                                        <li><a href= "/collections/pre-order-cds"> - Pre Order CDs</a></li>
+                                        
+                                        <li><a href= "/collections/pre-order-vinyl"> - Pre Order Vinyls</a></li>
+                                        
+                                        <li><a href= "/collections/pre-order-merch"> - Pre Order Merch</a></li>
+                                        
+                                        <li><a href= "/collections/pre-order-box-set"> - Pre Order Box Sets</a></li>
+                                      
+                                    </ul>
+                                    
+                                    </li>
+                                
+                                    <li class="haslink">
+                                    <a href="/collections/all-cds">
+                                        CDs
+                                    </a>
+                                    
+                                    
+                                    <input type="checkbox" id="cds" class="submenu-toggle">        
+                                    <label class="submenu-label" for="cds">
+                                        <i class="fa fa-chevron-down"></i>
+                                    </label>
+                                    <ul class="mobile-ul2 menu-sub cds">
+                                          
+                                        <li><a href= "/collections/brand-new-cds"> - Brand New CDs</a></li>
+                                        
+                                        <li><a href= "/collections/rock-candy-deluxe-reissues"> - Rock Candy Reissues</a></li>
+                                        
+                                        <li><a href= "/collections/2nd-hand-cds"> - 2nd Hand CDs</a></li>
+                                        
+                                        <li><a href= "/collections/cd-box-sets"> - CD Box Sets</a></li>
+                                      
+                                    </ul>
+                                    
+                                    </li>
+                                
+                                    <li class="haslink">
+                                    <a href="/collections/all-vinyl">
+                                        Vinyl
+                                    </a>
+                                    
+                                    
+                                    <input type="checkbox" id="vinyl" class="submenu-toggle">        
+                                    <label class="submenu-label" for="vinyl">
+                                        <i class="fa fa-chevron-down"></i>
+                                    </label>
+                                    <ul class="mobile-ul2 menu-sub vinyl">
+                                          
+                                        <li><a href= "/collections/new-vinyl-12-inch"> - New 12 Inch</a></li>
+                                        
+                                        <li><a href= "/collections/new-vinyl-7-inch"> - New 7 Inch</a></li>
+                                        
+                                        <li><a href= "/collections/2nd-hand-vinyl-12-inch"> - 2nd Hand  12 Inch</a></li>
+                                        
+                                        <li><a href= "/collections/2nd-hand-vinyl-7-inch"> - 2nd Hand 7 Inch</a></li>
+                                        
+                                        <li><a href= "/collections/vinyl-box-sets"> - Vinyl Box Sets</a></li>
+                                        
+                                        <li><a href= "/collections/vinyl-accessories"> - Accessories</a></li>
+                                      
+                                    </ul>
+                                    
+                                    </li>
+                                
+                                    <li class="haslink">
+                                    <a href="/collections/all-dvds">
+                                        DVDs & Blu-Rays
+                                    </a>
+                                    
+                                    
+                                    <input type="checkbox" id="dvds-blu-rays" class="submenu-toggle">        
+                                    <label class="submenu-label" for="dvds-blu-rays">
+                                        <i class="fa fa-chevron-down"></i>
+                                    </label>
+                                    <ul class="mobile-ul2 menu-sub dvds-blu-rays">
+                                          
+                                        <li><a href= "/collections/music-dvds-blu-rays"> - Music DVDs & Blu-Rays</a></li>
+                                        
+                                        <li><a href= "/collections/horror-cult-movies"> - Horror & Cult Films</a></li>
+                                        
+                                        <li><a href= "/collections/2nd-hand-dvds-blu-rays"> - 2nd Hand DVDs & Blu-Rays</a></li>
+                                      
+                                    </ul>
+                                    
+                                    </li>
+                                
+                                    <li class="haslink">
+                                    <a href="/collections/all-merch">
+                                        Merch
+                                    </a>
+                                    
+                                    
+                                    <input type="checkbox" id="merch" class="submenu-toggle">        
+                                    <label class="submenu-label" for="merch">
+                                        <i class="fa fa-chevron-down"></i>
+                                    </label>
+                                    <ul class="mobile-ul2 menu-sub merch">
+                                          
+                                        <li><a href= "/collections/clothing"> - Clothing</a></li>
+                                        
+                                        <li><a href= "/collections/headwear"> - Headwear</a></li>
+                                        
+                                        <li><a href= "/collections/patches"> - Patches</a></li>
+                                        
+                                        <li><a href= "/collections/books"> - Books</a></li>
+                                        
+                                        <li><a href= "/collections/buttons-badges-enamel-pins"> - Buttons, Badges & Enamel Pins</a></li>
+                                        
+                                        <li><a href= "/collections/flags"> - Flags</a></li>
+                                        
+                                        <li><a href= "/collections/drinkware"> - Drinkware</a></li>
+                                        
+                                        <li><a href= "/collections/keyrings"> - Keyrings</a></li>
+                                        
+                                        <li><a href= "/collections/wallets-purses"> - Wallets & Purses</a></li>
+                                        
+                                        <li><a href= "/collections/pikcards-guitar-picks"> - Pikcards & Guitar Picks</a></li>
+                                        
+                                        <li><a href= "/collections/jewellery"> - Jewellery</a></li>
+                                        
+                                        <li><a href= "/collections/bags"> - Bags</a></li>
+                                        
+                                        <li><a href= "/collections/wristbands-sweatbands"> - Wristbands & Sweatbands</a></li>
+                                      
+                                    </ul>
+                                    
+                                    </li>
+                                
+                                </ul>
+                        </li>
+                        
+                    
+                        
+                        <li>
+                            <a href="/pages/about-us">
+                            About
+                            </a>
+                            
+                            
+                            
+                            
+                            
+                        </li>
+                        
+                    
+                        
+                        <li>
+                            <a href="/pages/contact-us">
+                            Contact
+                            </a>
+                            
+                            
+                            
+                            
+                            
+                        </li>
+                        
+                    
+                        
+                        <li>
+                            <a href="/pages/shipping-delivery">
+                            Shipping & Delivery
+                            </a>
+                            
+                            
+                            
+                            
+                            
+                        </li>
+                        
+                    
+                        
+                        <li>
+                            <a href="/pages/returns-policy">
+                            Returns
+                            </a>
+                            
+                            
+                            
+                            
+                            
+                        </li>
+                        
+                    
+                        
+                        <li>
+                            <a href="/pages/privacy-policy">
+                            Privacy Policy
+                            </a>
+                            
+                            
+                            
+                            
+                            
+                        </li>
+                        
+                    
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+
+    </header>
+</section>
+
+
+  <style>
+    .logo-image {
+      max-width: 550px;
+    }
+  </style>
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "Utopia Records",
+  
+    
+    "logo": "https://cdn.shopify.com/s/files/1/0342/1044/7497/files/utopia_370x.png?v=1586936907",
+  
+  "sameAs": [
+    "",
+    "https://www.facebook.com/utopiarecordsstore",
+    "",
+    "https://www.instagram.com/utopiarecords/",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "url": "https://utopia.com.au"
+}
+</script>
+
+
+
+</div>
+		
+		<main role="main" id="MainContent">
+			<div data-results-total >
+    <div class="container content-max" >
+        <div class="hide-mobile show-desktop">
+            <div class="row-no-margin  align-items-center justify-content-center">
+                <div class="col-md-12">
+                    <!-- /snippets/breadcrumb.liquid -->
+<div class="page-width"><nav class="breadcrumb-con light-theme" role="navigation" aria-label="breadcrumbs">
+        <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a itemprop="item" href="/" title="translation missing: en.general.breadcrumbs.home_link_title">
+                <span itemprop="name">
+                Home
+                </span>
+            </a>
+            <meta itemprop="position" content="1" />
+        </li>
+    
+        
+
+ 
+
+
+
+
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span aria-hidden="true">&rsaquo;</span>
+                <span itemprop="name">
+                    Search: 3 results found for &quot;nofx vinyl&quot;  <!-- page title default -->
+                </span>
+            
+                <meta itemprop="position" content="2" />
+            </li>
+        </ol>
+    </nav>
+</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row align-items-center justify-content-center">
+            <div class="col-lg-9 col-md-12">
+                <div class="bc-sf-search-container">
+                    <h1 class="bc-sf-search-result-header page-heading"></h1>
+                    <p class="bc-sf-search-result-number"></p>
+                </div>
+                
+                <div class="show-mobile hide-desktop mobile-bread">
+                    <!-- /snippets/breadcrumb.liquid -->
+<div class="page-width"><nav class="breadcrumb-con light-theme" role="navigation" aria-label="breadcrumbs">
+        <ol itemscope itemtype="http://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+            <a itemprop="item" href="/" title="translation missing: en.general.breadcrumbs.home_link_title">
+                <span itemprop="name">
+                Home
+                </span>
+            </a>
+            <meta itemprop="position" content="1" />
+        </li>
+    
+        
+
+ 
+
+
+
+
+            <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span aria-hidden="true">&rsaquo;</span>
+                <span itemprop="name">
+                    Search: 3 results found for &quot;nofx vinyl&quot;  <!-- page title default -->
+                </span>
+            
+                <meta itemprop="position" content="2" />
+            </li>
+        </ol>
+    </nav>
+</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row align-items-center justify-content-center">
+            <div class="col-lg-12 col-md-12">
+            <div id="shopify-section-search-template-bc-sf-filter" class="shopify-section">
+<div class="bc-sf-filter-wrapper-page">
+  
+  <div id="bc-sf-filter-default-toolbar">
+      <div class="bc-sf-filter-default-toolbar-inner">
+        <div class="bc-sf-filter-toolbar-item">
+          <div id="bc-sf-filter-top-display-type">
+
+
+  
+      <span class="bc-sf-filter-skeleton-text bc-sf-filter-skeleton-width2"></span>
+  
+</div>
+        </div>
+        <div class="bc-sf-filter-toolbar-item bc-sf-filter-toolbar-count">
+          <span id="bc-sf-filter-total-product">
+
+
+  
+      <span class="bc-sf-filter-skeleton-text bc-sf-filter-skeleton-width1"></span>
+  
+</span>
+        </div>
+        <div class="collection-custom-top-sorting">
+          <div class="collection-item-per-page"><label for="items_per_page" class="collection-sort__label">Items per page</label><select id="items_per_page" class="collection-item_per_page" onchange="selectLimit()">
+  
+    
+    
+    <option value="24" data-pagelimit="24 - 24">24</option>
+  
+    
+    
+    <option value="48" data-pagelimit="48 - 24">48</option>
+  
+</select>
+
+<script>
+function selectLimit() {
+  var new_limit = document.getElementById("items_per_page").value;
+  //it sets limit if more than 48
+  // if(new_limit > 70){
+  //   new_limit = 70;
+  // }
+  $.ajax({
+    type: "POST",
+    url: '/cart.js',
+    data: {"attributes[pagination]": parseInt(new_limit)},
+    success: function(d){
+      window.location.reload();
+    },
+    dataType: 'json'
+  });
+}
+</script></div>
+          <div class="bc-sf-filter-toolbar-item text-right bc-sf-filter-custom-sorting" id="bc-sf-filter-top-sorting">
+
+
+  
+      <span class="bc-sf-filter-skeleton-text bc-sf-filter-skeleton-width1"></span>
+  
+</div>
+        </div>
+      </div>
+  </div>
+  
+  <div id="bc-sf-filter-wrapper">
+    <div id="bc-sf-filter-tree-mobile">
+
+
+  
+      <button class="bc-sf-filter-skeleton-button"><span></span></button>
+    
+</div>
+    <div id="bc-sf-filter-top-sorting-mobile" class="bc-sf-filter-custom-sorting">
+
+
+  
+      <button class="bc-sf-filter-skeleton-button"><span></span></button>
+    
+</div>
+    <div class="bc-sf-filter-left-col">
+      <div id="bc-sf-filter-tree">
+
+
+  
+  <div class="bc-sf-filter-option-block bc-sf-filter-option-skeleton">
+    <div class="bc-sf-filter-block-title">
+      <h3><span></span></h3>
+    </div>
+    <div class="bc-sf-filter-block-content">
+      <span class="bc-sf-filter-skeleton-text bc-sf-filter-skeleton-width3"></span>
+      <span class="bc-sf-filter-skeleton-text bc-sf-filter-skeleton-width4"></span>
+      <span class="bc-sf-filter-skeleton-text bc-sf-filter-skeleton-width2"></span>
+      <span class="bc-sf-filter-skeleton-text bc-sf-filter-skeleton-width1"></span>
+    </div>
+  </div>
+  
+  <div class="bc-sf-filter-option-block bc-sf-filter-option-skeleton">
+    <div class="bc-sf-filter-block-title">
+      <h3><span></span></h3>
+    </div>
+    <div class="bc-sf-filter-block-content">
+      <span class="bc-sf-filter-skeleton-text bc-sf-filter-skeleton-width3"></span>
+      <span class="bc-sf-filter-skeleton-text bc-sf-filter-skeleton-width4"></span>
+      <span class="bc-sf-filter-skeleton-text bc-sf-filter-skeleton-width2"></span>
+      <span class="bc-sf-filter-skeleton-text bc-sf-filter-skeleton-width1"></span>
+    </div>
+  </div>
+  
+  <div class="bc-sf-filter-option-block bc-sf-filter-option-skeleton">
+    <div class="bc-sf-filter-block-title">
+      <h3><span></span></h3>
+    </div>
+    <div class="bc-sf-filter-block-content">
+      <span class="bc-sf-filter-skeleton-text bc-sf-filter-skeleton-width3"></span>
+      <span class="bc-sf-filter-skeleton-text bc-sf-filter-skeleton-width4"></span>
+      <span class="bc-sf-filter-skeleton-text bc-sf-filter-skeleton-width2"></span>
+      <span class="bc-sf-filter-skeleton-text bc-sf-filter-skeleton-width1"></span>
+    </div>
+  </div>
+  
+</div>
+    </div>
+    <div class="bc-sf-filter-right-col">
+      <div id="bc-sf-filter-products" >
+        
+
+<div class="col-6 col-lg-4">
+    <div class="product-grid  ">
+        <script class="bc-sf-filter-product-script" data-id="bc-product-json-[[itemId]]" type="application/json">[[itemJson]]</script> 
+        <div class="hover"><button class="wishlist-toggle-btn"
+                    data-swym-epi="39692083462339"
+                    data-swym-empi="6656048365763"
+                    data-swym-du="https://utopia.com.au/products/nofx-single-album-w-download-vinyl-new?_pos=1&_sid=1a646d8a8&_ss=r"
+                    data-swym-dt="NOFX - Single Album (w. download) - Vinyl - New"
+                    data-swym-iu="//cdn.shopify.com/s/files/1/0342/1044/7497/products/304519_700x.jpg?v=1619766212"
+                    data-swym-pr="39.99" >
+                </button><a href="/products/nofx-single-album-w-download-vinyl-new?_pos=1&_sid=1a646d8a8&_ss=r"> <div class="grid-image-block-wrapper ">
+	<div class="grid-image-bg" 
+    
+    style="background: url('//cdn.shopify.com/s/files/1/0342/1044/7497/products/304519_285x.jpg?v=1619766212') no-repeat center / cover"
+     ></div><img class="responsive-image__image lazyload"
+        src="//cdn.shopify.com/s/files/1/0342/1044/7497/products/304519_285x.jpg?v=1619766212"
+        data-src="//cdn.shopify.com/s/files/1/0342/1044/7497/products/304519_{width}x.jpg?v=1619766212"
+        data-widths="[180,360,540,720,900,1000]"
+        data-sizes="auto"
+        tabindex="-1"
+        alt="NOFX - Single Album (w. download) - Vinyl - New"
+         ></div>
+
+<noscript>
+<img class="" src="//cdn.shopify.com/s/files/1/0342/1044/7497/products/304519_2048x2048.jpg?v=1619766212" alt="NOFX - Single Album (w. download) - Vinyl - New">
+</noscript>
+
+            </a>
+            <form class="product-form" action="/cart/add" data-productid="6656048365763"  method="post"> 
+                <input type="hidden" name="id" data-productid="6656048365763" class="product-select" value="39692083462339" data-variant-title="Default Title" />
+                <a href="#" class="btn btn-default red-button add-cart addToCartFeatured" data-prodid="6656048365763" data-varid="39692083462339">Add to Cart</a>
+                
+                <br/>
+                
+                <br/>
+                <a href="/products/nofx-single-album-w-download-vinyl-new?_pos=1&_sid=1a646d8a8&_ss=r" class="btn more-info">MORE INFO</a>
+            </form>
+        </div>
+        <p><a href="/products/nofx-single-album-w-download-vinyl-new?_pos=1&_sid=1a646d8a8&_ss=r">NOFX - Single Album (w. download) - Vinyl - New</a></p>
+
+        <span class="product-grid__price">$39.99</span>
+    </div>
+</div>
+
+
+<div class="col-6 col-lg-4">
+    <div class="product-grid not-avail ">
+        <script class="bc-sf-filter-product-script" data-id="bc-product-json-[[itemId]]" type="application/json">[[itemJson]]</script> 
+        <div class="hover"><button class="wishlist-toggle-btn"
+                    data-swym-epi="33626998603913"
+                    data-swym-empi="4970591977609"
+                    data-swym-du="https://utopia.com.au/products/nofx-ribbed-vinyl-new?_pos=2&_sid=1a646d8a8&_ss=r"
+                    data-swym-dt="NOFX - Ribbed - Vinyl - New"
+                    data-swym-iu="//cdn.shopify.com/s/files/1/0342/1044/7497/products/045778641017_700x.jpg?v=1588289646"
+                    data-swym-pr="54.99" >
+                </button><a href="/products/nofx-ribbed-vinyl-new?_pos=2&_sid=1a646d8a8&_ss=r"> <div class="grid-image-block-wrapper ">
+	<div class="grid-image-bg" 
+    
+    style="background: url('//cdn.shopify.com/s/files/1/0342/1044/7497/products/045778641017_285x.jpg?v=1588289646') no-repeat center / cover"
+     ></div><img class="responsive-image__image lazyload"
+        src="//cdn.shopify.com/s/files/1/0342/1044/7497/products/045778641017_285x.jpg?v=1588289646"
+        data-src="//cdn.shopify.com/s/files/1/0342/1044/7497/products/045778641017_{width}x.jpg?v=1588289646"
+        data-widths="[180,360,487]"
+        data-sizes="auto"
+        tabindex="-1"
+        alt="NOFX - Ribbed - Vinyl - New"
+         ></div>
+
+<noscript>
+<img class="" src="//cdn.shopify.com/s/files/1/0342/1044/7497/products/045778641017_2048x2048.jpg?v=1588289646" alt="NOFX - Ribbed - Vinyl - New">
+</noscript>
+
+            </a>
+            <form class="product-form" action="/cart/add" data-productid="4970591977609"  method="post"> 
+                <input type="hidden" name="id" data-productid="4970591977609" class="product-select" value="33626998603913" data-variant-title="Default Title" />
+                <a href="#" class="btn btn-default red-button add-cart addToCartFeatured" data-prodid="4970591977609" data-varid="33626998603913">Add to Cart</a>
+                
+                <br/>
+                
+                <br/>
+                <a href="/products/nofx-ribbed-vinyl-new?_pos=2&_sid=1a646d8a8&_ss=r" class="btn more-info">MORE INFO</a>
+            </form>
+        </div>
+        <p><a href="/products/nofx-ribbed-vinyl-new?_pos=2&_sid=1a646d8a8&_ss=r">NOFX - Ribbed - Vinyl - New</a></p>
+
+        <span class="product-grid__price">$54.99</span>
+    </div>
+</div>
+
+
+<div class="col-6 col-lg-4">
+    <div class="product-grid not-avail ">
+        <script class="bc-sf-filter-product-script" data-id="bc-product-json-[[itemId]]" type="application/json">[[itemJson]]</script> 
+        <div class="hover"><button class="wishlist-toggle-btn"
+                    data-swym-epi="40878816002243"
+                    data-swym-empi="6979114729667"
+                    data-swym-du="https://utopia.com.au/products/nofx-never-a-trust-a-hippy-2020-10-ep-reissue-vinyl-new?_pos=3&_sid=1a646d8a8&_ss=r"
+                    data-swym-dt="NOFX - Never A Trust A Hippy (2020 10" EP reissue) - Vinyl - New"
+                    data-swym-iu="//cdn.shopify.com/s/files/1/0342/1044/7497/products/307222_700x.jpg?v=1633830803"
+                    data-swym-pr="36.99" >
+                </button><a href="/products/nofx-never-a-trust-a-hippy-2020-10-ep-reissue-vinyl-new?_pos=3&_sid=1a646d8a8&_ss=r"> <div class="grid-image-block-wrapper ">
+	<div class="grid-image-bg" 
+    
+    style="background: url('//cdn.shopify.com/s/files/1/0342/1044/7497/products/307222_285x.jpg?v=1633830803') no-repeat center / cover"
+     ></div><img class="responsive-image__image lazyload"
+        src="//cdn.shopify.com/s/files/1/0342/1044/7497/products/307222_285x.jpg?v=1633830803"
+        data-src="//cdn.shopify.com/s/files/1/0342/1044/7497/products/307222_{width}x.jpg?v=1633830803"
+        data-widths="[180,360,540,700]"
+        data-sizes="auto"
+        tabindex="-1"
+        alt="NOFX - Never A Trust A Hippy (2020 10&quot; EP reissue) - Vinyl - New"
+         ></div>
+
+<noscript>
+<img class="" src="//cdn.shopify.com/s/files/1/0342/1044/7497/products/307222_2048x2048.jpg?v=1633830803" alt="NOFX - Never A Trust A Hippy (2020 10&quot; EP reissue) - Vinyl - New">
+</noscript>
+
+            </a>
+            <form class="product-form" action="/cart/add" data-productid="6979114729667"  method="post"> 
+                <input type="hidden" name="id" data-productid="6979114729667" class="product-select" value="40878816002243" data-variant-title="Default Title" />
+                <a href="#" class="btn btn-default red-button add-cart addToCartFeatured" data-prodid="6979114729667" data-varid="40878816002243">Add to Cart</a>
+                
+                <br/>
+                
+                <br/>
+                <a href="/products/nofx-never-a-trust-a-hippy-2020-10-ep-reissue-vinyl-new?_pos=3&_sid=1a646d8a8&_ss=r" class="btn more-info">MORE INFO</a>
+            </form>
+        </div>
+        <p><a href="/products/nofx-never-a-trust-a-hippy-2020-10-ep-reissue-vinyl-new?_pos=3&_sid=1a646d8a8&_ss=r">NOFX - Never A Trust A Hippy (2020 10&quot; EP reissue) - Vinyl - New</a></p>
+
+        <span class="product-grid__price">$36.99</span>
+    </div>
+</div>
+
+      </div>
+      <div id="bc-sf-filter-bottom-pagination" class="bc-sf-filter-bottom-pagination-default">
+        
+      </div>
+      <div id="bc-sf-filter-load-more"></div>
+    </div>
+  </div>
+
+  
+    <div class="bc-sf-most-popular-products-wrapper bc-sf-widget-slider-wrapper">
+      <div class="bc-sf-most-popular-products bc-sf-widget-products owl-carousel"></div>
+    </div>
+  
+
+  
+    <div class="bc-sf-recent-products-wrapper bc-sf-widget-slider-wrapper">
+      <div class="bc-sf-recent-products bc-sf-widget-products owl-carousel"></div>
+    </div>
+  
+</div>
+
+<script>
+  // Declare bcSfFilterConfig variable
+  var bcSfFilterConfig = {
+    label: {
+      sorting:   "Sorting" ,
+      sorting_best_selling:   "Best Selling" ,
+      sorting_featured:   "Featured" ,
+      sorting_title_ascending:   "Alphabetically, A-Z" ,
+      sorting_title_descending:   "Alphabetically, Z-A" ,
+      sorting_price_ascending:   "Lowest Price" ,
+      sorting_price_descending:   "Highest Price" ,
+      sorting_date_ascending:   "Date, Old to New" ,
+      sorting_date_descending:   "Date, New to Old" ,
+      sorting_sale_descending:   "% Off" ,
+      sorting_relevance:   "Relevance" ,
+      toolbar_viewas: "View As",
+      items_with_count_one: "product",
+      items_with_count_other: "Products",
+
+      view: "translation missing: en.products.product.view",
+      sale: "On Sale",
+      sold_out: "Sold Out",
+      regular_price: "Regular price",
+      sale_price: "translation missing: en.products.product.sale_price",
+      from_price: "From {{ price }}",
+      sale_from_price: "On Sale from {{ price }}",      
+    },
+    label_basic: {
+      sale: "Sale",
+      sold_out: "Sold out",
+      from: "from",
+    },
+    custom: {
+      products_per_page:  24 ,
+      products_per_row:  3 ,
+      products_per_row_mobile:  2 ,
+      show_vendor:  true ,
+      show_price:  true ,
+      show_sale_label:  true ,
+      show_sold_out_label:  true ,
+      active_image_swap:  true ,
+      show_sorting:  true ,
+    }
+  };
+
+  // Declare Templates
+  var bcSfFilterTemplate = {
+        'btnSmallClass': 'btn--narrow',      
+      'soldOutClass': ' sold-out',
+      'saleClass': ' on-sale',
+      'soldOutLabelHtml': "\u003cspan class=\"soldout bc-sf-filter-label\"\u003e Sold out \u003c\/span\u003e",
+      'saleLabelHtml': "\u003cspan class=\"sale bc-sf-filter-label\"\u003e Sale \u003c\/span\u003e",
+      'tagLabelHtml': "\u003cspan class=\"tag bc-sf-filter-label {{labelTag}}\" \u003e{{labelTag}}\u003c\/span\u003e",
+      'vendorHtml': "\u003cp class=\"bc-sf-filter-product-item-vendor\"\u003e{{itemVendorLabel}}\u003c\/p\u003e",
+      // Grid Template
+      'productGridItemHtml': "\u003cdiv class=\"col-6 col-lg-4\"\u003e\n        \u003cdiv class=\"product-grid {{soldOutClass}} {{saleClass}} {{preorderClass}} {{itemActiveSwapClass}}\"\u003e \n            \u003cscript class=\"bc-sf-filter-product-script\" data-id=\"bc-product-json-{{itemId}}\" type=\"application\/json\"\u003e{{itemJson}}\u003c\/script\u003e \n            \n            \u003cdiv class=\"hover\"\u003e\n                \u003cbutton class=\"wishlist-toggle-btn\"\n                data-swym-epi=\"{{itemVariantId}}\"\n                data-swym-empi=\"{{itemId}}\"\n                data-swym-du=\"{{swymUrl}}\"\n                data-swym-dt=\"{{itemTitle}}\"\n                data-swym-iu=\"{{swymImg}}\"\n                data-swym-pr=\"{{swymPrice}}\" \u003e\n                \u003c\/button\u003e\n\n                \u003ca href=\"{{itemUrl}}\" class=\"\"\u003e{{itemImages}}\u003c\/a\u003e \n\n                \u003cform class=\"product-form\" action=\"\/cart\/add\" data-productid=\"{{itemId}}\"  method=\"post\"\u003e \n                    \u003cinput type=\"hidden\" name=\"id\"\n                    data-productid=\"{{itemId}}\"\n                    class=\"product-select\"\n                    value=\"{{itemVariantId}}\"\n                    data-variant-title=\"{{itemTitle}}\" \/\u003e\n                    {{itemCartProps}}\n                    \n                    \u003ca href=\"{{itemUrl}}\" class=\"btn btn-default red-button add-cart\"\u003eView Product\u003c\/a\u003e\n                    \n                    \u003cbr\/\u003e\n                    \u003ca href=\"{{itemUrl}}\" class=\"btn more-info\"\u003eMORE INFO\u003c\/a\u003e\n                \u003c\/form\u003e\n\n            \u003c\/div\u003e\n\n            \u003cp\u003e\n                \u003ca href=\"{{itemUrl}}\" class=\"\"\u003e{{itemTitle}}\u003c\/a\u003e \n            \u003c\/p\u003e\n            \n            \u003cspan\u003e\n                {{itemPrice}} \n            \u003c\/span\u003e\n        \u003c\/div\u003e\n    \u003c\/div\u003e",
+      // For List View
+      // List Template
+      'productListItemHtml': "",
+      // End For List View
+      // Pagination Template
+      'previousActiveHtml': "\u003cli\u003e\u003ca href=\"{{itemUrl}}\"\u003e\u0026larr;\u003c\/a\u003e\u003c\/li\u003e",
+      'previousDisabledHtml': "\u003cli class=\"disabled\"\u003e\u003cspan\u003e\u0026larr;\u003c\/span\u003e\u003c\/li\u003e",
+      'nextActiveHtml': "\u003cli\u003e\u003ca href=\"{{itemUrl}}\"\u003e\u0026rarr;\u003c\/a\u003e\u003c\/li\u003e",
+      'nextDisabledHtml': "\u003cli class=\"disabled\"\u003e\u003cspan\u003e\u0026rarr;\u003c\/span\u003e\u003c\/li\u003e",
+      'pageItemHtml': "\u003cli\u003e\u003ca href=\"{{itemUrl}}\"\u003e{{itemTitle}}\u003c\/a\u003e\u003c\/li\u003e",
+      'pageItemSelectedHtml': "\u003cli\u003e\u003cspan class=\"active\"\u003e{{itemTitle}}\u003c\/span\u003e\u003c\/li\u003e\n\n",
+      'pageItemRemainHtml': "\n\u003cli\u003e\u003cspan\u003e{{itemTitle}}\u003c\/span\u003e\u003c\/li\u003e",
+      'paginateHtml': "\u003cul\u003e{{previous}}{{pageItems}}{{next}}\u003c\/ul\u003e",
+      // Sorting Template
+      'sortingHtml': "\u003clabel for=\"bc-sf-filter-top-sorting-select\" class=\"collection-sort__label\"\u003eSort By\u003c\/label\u003e\n\u003cselect id=\"bc-sf-filter-top-sorting-select\" class=\"collection-sort__input\"\u003e{{sortingItems}}\u003c\/select\u003e",
+      // Show Limit Template
+      'showLimitHtml': "",
+      // Breadcrumb Template
+      'breadcrumbHtml': "",
+      'breadcrumbDivider': "",
+      'breadcrumbItemLink': "",
+      'breadcrumbItemSelected': "",
+  };
+</script>
+</div>
+            </div>
+        </div>
+    </div>
+
+    <div id="shopify-section-instagram-feed-section" class="shopify-section"><div class="instafeed-con">
+	<h2 class="section-title"><img src="//cdn.shopify.com/s/files/1/0342/1044/7497/files/insta_200x.png?v=1587956765" class="insta-logo">Follow us <a href="https://www.instagram.com/utopiarecords/" target="_blank">@utopiarecords</a>
+    </h2>
+  <div id="insta-feed"></div>
+</div>
+
+
+</div>
+</div>
+
+		</main>
+
+		<div id="shopify-section-footer" class="shopify-section"><footer>
+    <div class="site-footer-bg"></div>
+    <div class="pre-footer">
+        <div class="container content-max">
+            
+                <div class="newsletter-section d-lg-none">
+                    <div class="rte newsletter-heading"><p>Sign up here to keep up to date with everything that's happening at Utopia.</p></div><div class="newsletter-form-wrapper"><div class="klaviyo-form-VZSd9e"></div></div></div>
+            
+
+            <div class="row">
+            
+
+<div class="col-12 col-lg-6">
+                    <div class="row footer-nav-row">
+                        
+                            <div class="col-12 col-lg-4  ">
+                                <div class="footer-col">
+                                    <h2>Shop Online </h2>
+                                    
+                                    <input type="checkbox" id="shop-online" class="submenu-toggle">  
+                                    <label class="submenu-label show-mobile hide-desktop" for="shop-online">
+                                        <div class="arrow right">
+                                            <svg width="13" height="8" viewBox="0 0 13 8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7.35229 7.64847L12.6509 2.1518C13.1164 1.66889 13.1164 0.873502 12.6509 0.390591C12.1854 -0.092321 11.4186 -0.0923209 10.9531 0.390591L6.50342 4.99245L2.05371 0.362184C1.5882 -0.120728 0.821485 -0.120728 0.355976 0.362185C0.123222 0.60364 -3.09026e-07 0.930316 -2.95367e-07 1.24279C-2.81709e-07 1.55526 0.123222 1.88194 0.355977 2.12339L5.65455 7.64847C6.12006 8.11718 6.88678 8.11718 7.35229 7.64847Z" /></svg>
+                                        </div>
+                                    </label>
+                                    <ul>
+                                    
+                                        <li class="haslink">
+                                            <a href="/collections/all-pre-orders">
+                                                Pre Orders
+                                            </a>
+                                            
+                                        </li>
+                                    
+                                        <li class="haslink">
+                                            <a href="/collections/all-cds">
+                                                CDs
+                                            </a>
+                                            
+                                        </li>
+                                    
+                                        <li class="haslink">
+                                            <a href="/collections/all-vinyl">
+                                                Vinyl
+                                            </a>
+                                            
+                                        </li>
+                                    
+                                        <li class="haslink">
+                                            <a href="/collections/all-dvds">
+                                                DVDs & Blu-Rays
+                                            </a>
+                                            
+                                        </li>
+                                    
+                                        <li class="haslink">
+                                            <a href="/collections/all-merch">
+                                                Merch
+                                            </a>
+                                            
+                                        </li>
+                                    
+                                        <li class="haslink">
+                                            <a href="/products/utopia-records-online-gift-voucher">
+                                                Vouchers
+                                            </a>
+                                            
+                                        </li>
+                                    
+                                    </ul></div>
+                            </div>
+                            <div class="col-12 col-lg-4  flex-center">
+                                <div class="footer-col">
+                                    <h2>Shit Hot Links </h2>
+                                    
+                                    <input type="checkbox" id="shit-hot-links" class="submenu-toggle">  
+                                    <label class="submenu-label show-mobile hide-desktop" for="shit-hot-links">
+                                        <div class="arrow right">
+                                            <svg width="13" height="8" viewBox="0 0 13 8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7.35229 7.64847L12.6509 2.1518C13.1164 1.66889 13.1164 0.873502 12.6509 0.390591C12.1854 -0.092321 11.4186 -0.0923209 10.9531 0.390591L6.50342 4.99245L2.05371 0.362184C1.5882 -0.120728 0.821485 -0.120728 0.355976 0.362185C0.123222 0.60364 -3.09026e-07 0.930316 -2.95367e-07 1.24279C-2.81709e-07 1.55526 0.123222 1.88194 0.355977 2.12339L5.65455 7.64847C6.12006 8.11718 6.88678 8.11718 7.35229 7.64847Z" /></svg>
+                                        </div>
+                                    </label>
+                                    <ul>
+                                    
+                                        <li class="haslink">
+                                            <a href="/pages/about-us">
+                                                About Us
+                                            </a>
+                                            
+                                        </li>
+                                    
+                                        <li class="haslink">
+                                            <a href="/pages/shipping-delivery">
+                                                Shipping & Delivery
+                                            </a>
+                                            
+                                        </li>
+                                    
+                                        <li class="haslink">
+                                            <a href="/pages/returns-policy">
+                                                Returns Policy
+                                            </a>
+                                            
+                                        </li>
+                                    
+                                        <li class="haslink">
+                                            <a href="/pages/privacy-policy">
+                                                Privacy Policy
+                                            </a>
+                                            
+                                        </li>
+                                    
+                                        <li class="haslink">
+                                            <a href="/pages/contact-us">
+                                                Contact Us
+                                            </a>
+                                            
+                                        </li>
+                                    
+                                        <li class="haslink">
+                                            <a href="/pages/faq">
+                                                FAQ
+                                            </a>
+                                            
+                                        </li>
+                                    
+                                    </ul><div class="d-none d-lg-block">
+                                            <ul class="social_accounts">
+
+
+    
+
+    
+        <li>
+        <a href="https://www.instagram.com/utopiarecords/" title="Utopia Records on Instagram" target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 512 512" class="icon"><path d="M256 49.5c67.3 0 75.2.3 101.8 1.5 24.6 1.1 37.9 5.2 46.8 8.7 11.8 4.6 20.2 10 29 18.8s14.3 17.2 18.8 29c3.4 8.9 7.6 22.2 8.7 46.8 1.2 26.6 1.5 34.5 1.5 101.8s-.3 75.2-1.5 101.8c-1.1 24.6-5.2 37.9-8.7 46.8-4.6 11.8-10 20.2-18.8 29s-17.2 14.3-29 18.8c-8.9 3.4-22.2 7.6-46.8 8.7-26.6 1.2-34.5 1.5-101.8 1.5s-75.2-.3-101.8-1.5c-24.6-1.1-37.9-5.2-46.8-8.7-11.8-4.6-20.2-10-29-18.8s-14.3-17.2-18.8-29c-3.4-8.9-7.6-22.2-8.7-46.8-1.2-26.6-1.5-34.5-1.5-101.8s.3-75.2 1.5-101.8c1.1-24.6 5.2-37.9 8.7-46.8 4.6-11.8 10-20.2 18.8-29s17.2-14.3 29-18.8c8.9-3.4 22.2-7.6 46.8-8.7 26.6-1.3 34.5-1.5 101.8-1.5m0-45.4c-68.4 0-77 .3-103.9 1.5C125.3 6.8 107 11.1 91 17.3c-16.6 6.4-30.6 15.1-44.6 29.1-14 14-22.6 28.1-29.1 44.6-6.2 16-10.5 34.3-11.7 61.2C4.4 179 4.1 187.6 4.1 256s.3 77 1.5 103.9c1.2 26.8 5.5 45.1 11.7 61.2 6.4 16.6 15.1 30.6 29.1 44.6 14 14 28.1 22.6 44.6 29.1 16 6.2 34.3 10.5 61.2 11.7 26.9 1.2 35.4 1.5 103.9 1.5s77-.3 103.9-1.5c26.8-1.2 45.1-5.5 61.2-11.7 16.6-6.4 30.6-15.1 44.6-29.1 14-14 22.6-28.1 29.1-44.6 6.2-16 10.5-34.3 11.7-61.2 1.2-26.9 1.5-35.4 1.5-103.9s-.3-77-1.5-103.9c-1.2-26.8-5.5-45.1-11.7-61.2-6.4-16.6-15.1-30.6-29.1-44.6-14-14-28.1-22.6-44.6-29.1-16-6.2-34.3-10.5-61.2-11.7-27-1.1-35.6-1.4-104-1.4z"/><path d="M256 126.6c-71.4 0-129.4 57.9-129.4 129.4s58 129.4 129.4 129.4 129.4-58 129.4-129.4-58-129.4-129.4-129.4zm0 213.4c-46.4 0-84-37.6-84-84s37.6-84 84-84 84 37.6 84 84-37.6 84-84 84z"/><circle cx="390.5" cy="121.5" r="30.2"/></svg>
+
+            <span class="icon-fallback-text">Instagram</span>
+        </a>
+        </li>
+    
+
+
+    
+
+    
+        <li>
+        <a href="https://www.facebook.com/utopiarecordsstore" title="Utopia Records on Facebook" target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" class="icon" viewBox="0 0 20 20"><path d="M18.05.811q.439 0 .744.305t.305.744v16.637q0 .439-.305.744t-.744.305h-4.732v-7.221h2.415l.342-2.854h-2.757v-1.83q0-.659.293-1t1.073-.342h1.488V3.762q-.976-.098-2.171-.098-1.634 0-2.635.964t-1 2.72V9.47H7.951v2.854h2.415v7.221H1.413q-.439 0-.744-.305t-.305-.744V1.859q0-.439.305-.744T1.413.81H18.05z"/></svg>
+
+            <span class="icon-fallback-text">Facebook</span>
+        </a>
+        </li>
+    
+
+
+    
+
+    
+
+
+    
+
+    
+
+
+    
+
+    
+
+
+    
+
+    
+
+
+    
+
+    
+
+
+    
+
+    
+
+</ul>
+
+                                        </div></div>
+                            </div>
+                            <div class="col-12 col-lg-4  flex-center">
+                                <div class="footer-col">
+                                    <h2>My Account </h2>
+                                    
+                                    <input type="checkbox" id="my-account" class="submenu-toggle">  
+                                    <label class="submenu-label show-mobile hide-desktop" for="my-account">
+                                        <div class="arrow right">
+                                            <svg width="13" height="8" viewBox="0 0 13 8" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7.35229 7.64847L12.6509 2.1518C13.1164 1.66889 13.1164 0.873502 12.6509 0.390591C12.1854 -0.092321 11.4186 -0.0923209 10.9531 0.390591L6.50342 4.99245L2.05371 0.362184C1.5882 -0.120728 0.821485 -0.120728 0.355976 0.362185C0.123222 0.60364 -3.09026e-07 0.930316 -2.95367e-07 1.24279C-2.81709e-07 1.55526 0.123222 1.88194 0.355977 2.12339L5.65455 7.64847C6.12006 8.11718 6.88678 8.11718 7.35229 7.64847Z" /></svg>
+                                        </div>
+                                    </label>
+                                    <ul>
+                                    
+                                        <li class="haslink">
+                                            <a href="/account/login">
+                                                Login
+                                            </a>
+                                            
+                                        </li>
+                                    
+                                        <li class="haslink">
+                                            <a href="/account/register">
+                                                Sign Up
+                                            </a>
+                                            
+                                        </li>
+                                    
+                                    </ul></div>
+                            </div>
+                    </div>
+                </div>
+             
+
+
+            					 
+            <div class="col-12 col-lg-6 d-flex justify-content-end">
+                <div class="newsletter-section m-news" >
+                    
+                        <div class="d-none d-lg-block">
+                            <div class="rte newsletter-heading"><p>Sign up here to keep up to date with everything that's happening at Utopia.</p></div><div class="newsletter-form-wrapper"><div class="klaviyo-form-VZSd9e"></div></div></div>
+                    
+<div class="footer-group-1">
+                            <img class="footer-static-content__img" src="//cdn.shopify.com/s/files/1/0342/1044/7497/files/footer-truck_300x.png?v=1595268704" alt=""><div class="footer-static-content__text rte">
+                                <p>Free postage for orders with 4 or more products</p>
+                            </div>
+                        </div><div class="footer-group-2"><img class="footer-logo" src="//cdn.shopify.com/s/files/1/0342/1044/7497/files/footer-logo_847634dc-68d0-430c-9583-86f1794100a2_300x.png?v=1595271145" alt=""><div class="d-lg-none">
+                            <ul class="social_accounts">
+
+
+    
+
+    
+        <li>
+        <a href="https://www.instagram.com/utopiarecords/" title="Utopia Records on Instagram" target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 512 512" class="icon"><path d="M256 49.5c67.3 0 75.2.3 101.8 1.5 24.6 1.1 37.9 5.2 46.8 8.7 11.8 4.6 20.2 10 29 18.8s14.3 17.2 18.8 29c3.4 8.9 7.6 22.2 8.7 46.8 1.2 26.6 1.5 34.5 1.5 101.8s-.3 75.2-1.5 101.8c-1.1 24.6-5.2 37.9-8.7 46.8-4.6 11.8-10 20.2-18.8 29s-17.2 14.3-29 18.8c-8.9 3.4-22.2 7.6-46.8 8.7-26.6 1.2-34.5 1.5-101.8 1.5s-75.2-.3-101.8-1.5c-24.6-1.1-37.9-5.2-46.8-8.7-11.8-4.6-20.2-10-29-18.8s-14.3-17.2-18.8-29c-3.4-8.9-7.6-22.2-8.7-46.8-1.2-26.6-1.5-34.5-1.5-101.8s.3-75.2 1.5-101.8c1.1-24.6 5.2-37.9 8.7-46.8 4.6-11.8 10-20.2 18.8-29s17.2-14.3 29-18.8c8.9-3.4 22.2-7.6 46.8-8.7 26.6-1.3 34.5-1.5 101.8-1.5m0-45.4c-68.4 0-77 .3-103.9 1.5C125.3 6.8 107 11.1 91 17.3c-16.6 6.4-30.6 15.1-44.6 29.1-14 14-22.6 28.1-29.1 44.6-6.2 16-10.5 34.3-11.7 61.2C4.4 179 4.1 187.6 4.1 256s.3 77 1.5 103.9c1.2 26.8 5.5 45.1 11.7 61.2 6.4 16.6 15.1 30.6 29.1 44.6 14 14 28.1 22.6 44.6 29.1 16 6.2 34.3 10.5 61.2 11.7 26.9 1.2 35.4 1.5 103.9 1.5s77-.3 103.9-1.5c26.8-1.2 45.1-5.5 61.2-11.7 16.6-6.4 30.6-15.1 44.6-29.1 14-14 22.6-28.1 29.1-44.6 6.2-16 10.5-34.3 11.7-61.2 1.2-26.9 1.5-35.4 1.5-103.9s-.3-77-1.5-103.9c-1.2-26.8-5.5-45.1-11.7-61.2-6.4-16.6-15.1-30.6-29.1-44.6-14-14-28.1-22.6-44.6-29.1-16-6.2-34.3-10.5-61.2-11.7-27-1.1-35.6-1.4-104-1.4z"/><path d="M256 126.6c-71.4 0-129.4 57.9-129.4 129.4s58 129.4 129.4 129.4 129.4-58 129.4-129.4-58-129.4-129.4-129.4zm0 213.4c-46.4 0-84-37.6-84-84s37.6-84 84-84 84 37.6 84 84-37.6 84-84 84z"/><circle cx="390.5" cy="121.5" r="30.2"/></svg>
+
+            <span class="icon-fallback-text">Instagram</span>
+        </a>
+        </li>
+    
+
+
+    
+
+    
+        <li>
+        <a href="https://www.facebook.com/utopiarecordsstore" title="Utopia Records on Facebook" target="_blank">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" class="icon" viewBox="0 0 20 20"><path d="M18.05.811q.439 0 .744.305t.305.744v16.637q0 .439-.305.744t-.744.305h-4.732v-7.221h2.415l.342-2.854h-2.757v-1.83q0-.659.293-1t1.073-.342h1.488V3.762q-.976-.098-2.171-.098-1.634 0-2.635.964t-1 2.72V9.47H7.951v2.854h2.415v7.221H1.413q-.439 0-.744-.305t-.305-.744V1.859q0-.439.305-.744T1.413.81H18.05z"/></svg>
+
+            <span class="icon-fallback-text">Facebook</span>
+        </a>
+        </li>
+    
+
+
+    
+
+    
+
+
+    
+
+    
+
+
+    
+
+    
+
+
+    
+
+    
+
+
+    
+
+    
+
+
+    
+
+    
+
+</ul>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            
+<div class="col-md-12 footer-note">
+                    <hr>
+                    <span> Website designed by Elephant Room </span>
+                </div></div>
+    </div>
+ 
+    </div>  
+</footer>
+
+</div>
+<div class="cart-drawer">
+    <div class="cart-drawer-inner">
+        <h3><img src="https://cdn.shopify.com/s/files/1/0342/1044/7497/files/cart-icon.png?v=1587281961"> Shopping CART </h3>
+        <span class="close-cart">&#x2715;</span>
+        <div class="cart-empty-wrapper">
+            <p class="cart-empty-text">Your cart is empty.</p>
+        </div>
+    <div class="cart-upper-area">
+        
+            
+            <div class="cart-items">
+            </div>
+            
+            
+            
+
+        </div>
+        <div class="checkout-box" data-fs="4"><p class="free_shipping_label" style="display:none;">
+            <img src="https://cdn.shopify.com/s/files/1/0342/1044/7497/files/truck-red.png">
+            
+                <span class="freeship-text">You are <strong class="text-uppercase">4</strong> item(s) away from Free Shipping</span>
+            
+                <img src="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/bc-sf-filter-loading.gif?v=50837312686733260831649800050" alt="loader" class="loading-shipping" style="display: none;">
+                <br />
+                <span class="regualar-shipping-note" style="display: none;">Your current estimated standard shipping is <span class="regular-ship-rates">$XX</span></span><br />
+                <span class="express-shipping-note" style="display: none;">Your current estimated express shipping is <span class="express-ship-rates">$XX</span></span>
+            </p>
+            <div class="checkout-total">
+                <p class="total-label">TOTAL:</p>
+                <p class="total-amount">
+                    
+                    $0.00 AUD
+                    
+                </p>
+            </div>
+        
+            
+            <a href="/cart" class="btn btn-default red-button add-cart" data-btntext="Checkout">PROCEED TO CHECKOUT</a><a href="/collections/all" class="btn more-info">Continue shopping</a>
+        </div>
+        
+    </div>
+</div>
+<script>
+    var cart_object = [];
+</script><script>
+    var productJson = null;
+</script>
+		
+
+
+<div class="er-modal-popup">
+    <div class="modal-close"></div>
+</div>
+<div class="er-modal-library"></div>
+
+    <script defer src="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/swym-wishlist-page.js?v=14116428143813355431649800069" ></script>
+
+	
+    <script src="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/jspdf.min.js?v=35136634768173689941649800061" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/jspdf.plugin.autotable.js?v=79031284285063207791649800062" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/jsPdf_Plugins.js?v=78367939609208431381649800062" type="text/javascript"></script>
+      <script>
+
+        $(document).ready(function(){
+          $(document).on('click', '.downloadPDF a', function() {
+            const orderDetails = $(this).data('order-details')
+            const paymentDetails = $(this).data('payment-details')
+            const orders = $(this).attr('data-array-orders')
+            generatePDF(orderDetails, JSON.parse(orders), paymentDetails)
+          })
+        })
+      </script>
+
+<!--begin-bc-sf-filter-js-->
+  <script>
+  /* Declare bcSfFilterConfig variable */
+  var bcSfFilterMainConfig = {
+    api: {
+      filterUrl: 'https://services.mybcapps.com/bc-sf-filter/filter',
+      searchUrl: 'https://services.mybcapps.com/bc-sf-filter/search',
+      suggestionUrl: 'https://services.mybcapps.com/bc-sf-filter/search/suggest',
+    },
+    shop: {
+      name: 'Utopia Records',
+      url: 'https://utopia.com.au',
+      domain: 'utopia-records-au.myshopify.com',
+      currency: 'AUD',
+      money_format: '&#36;{{amount}}'
+    },
+    general: {
+      file_url: "//cdn.shopify.com/s/files/1/0342/1044/7497/files/?10139",
+      asset_url: "//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/bc-sf-filter.js?v=172110032277943089821649800051",
+      collection_id: 0,
+      collection_handle: "",
+      
+      collection_tags: null,
+      current_tags: null,
+      default_sort_by: "",
+      swatch_extension: "png",
+      no_image_url: "//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/bc-sf-filter-no-image.gif?v=45510820439899768411649800050",
+      search_term: "nofx vinyl",
+      template: "search",currencies: ["AUD"],
+      current_currency:"AUD",
+      published_locales: {"en":true},        
+      current_locale:"en",
+      isInitFilter:true},
+    
+    settings: {"general":{"productAndVariantAvailable":false,"availableAfterFiltering":false,"activeFilterScrollbar":true,"showFilterOptionCount":true,"showSingleOption":false,"showOutOfStockOption":true,"collapseOnPCByDefault":false,"collapseOnMobileByDefault":false,"keepToggleState":true,"showRefineBy":true,"capitalizeFilterOptionValues":true,"paginationType":"default","showLoading":true,"activeScrollToTop":true,"changeMobileButtonLabel":false,"sortingAvailableFirst":false,"customSortingList":"best-selling|price-descending|title-descending|title-ascending|created-ascending|created-descending|price-ascending|relevance","swatchImageVersion":2},"search":{"enableSuggestion":true,"showSuggestionProductVendor":true,"showSuggestionProductPrice":true,"showSuggestionProductSalePrice":true,"showSuggestionProductSku":true,"showSuggestionProductImage":true,"productAvailable":false,"suggestionBlocks":[{"type":"suggestions","label":"Popular suggestions","status":"active","number":3},{"type":"collections","label":"Collections","status":"active","number":3},{"type":"products","label":"Products","status":"active","number":3},{"type":"pages","label":"Pages","status":"active","number":3}]},"backSettings":{"offSensitive":false},"actionlist":{"qvBtnBackgroundColor":"rgba(255||255||255||1)","qvBtnTextColor":"rgba(61||66||70||1)","qvBtnBorderColor":"rgba(255||255||255||1)","qvBtnHoverBackgroundColor":"rgba(61||66||70||1)","qvBtnHoverTextColor":"rgba(255||255||255||1)","qvBtnHoverBorderColor":"rgba(61||66||70||1)","atcBtnBackgroundColor":"rgba(61||66||70||1)","atcBtnTextColor":"rgba(255||255||255||1)","atcBtnBorderColor":"rgba(61||66||70||1)","atcBtnHoverBackgroundColor":"rgba(255||255||255||1)","atcBtnHoverTextColor":"rgba(61||66||70||1)","atcBtnHoverBorderColor":"rgba(255||255||255||1)","alStyle":"bc-al-style6","qvEnable":false,"atcEnable":false},"labelTranslations":{"en":{"suggestion":{"searchBoxPlaceholder":"Search CDs, Vinyl.....","instantSearchSuggestionsLabel":"Popular suggestions","instantSearchCollectionsLabel":"Collections","instantSearchProductsLabel":"Products","instantSearchPagesLabel":"Pages"}}},"recentlyViewed":{"limit":8,"recentProductSliderRange":5,"recentlyViewedEnable":false},"mostPopular":{"limit":8,"popularProductSliderRange":5,"mostPopularEnable":false},"style":{"filterTitleTextColor":"","filterTitleFontSize":"","filterTitleFontWeight":"","filterTitleFontTransform":"","filterTitleFontFamily":"","filterOptionTextColor":"","filterOptionFontSize":"","filterOptionFontFamily":"","filterMobileButtonTextColor":"","filterMobileButtonFontSize":"","filterMobileButtonFontWeight":"","filterMobileButtonFontTransform":"","filterMobileButtonFontFamily":"","filterMobileButtonBackgroundColor":""},"label":{"suggestion":{"searchBoxPlaceholder":"Search CDs, Vinyl.....","instantSearchSuggestionsLabel":"Popular suggestions","instantSearchCollectionsLabel":"Collections","instantSearchProductsLabel":"Products","instantSearchPagesLabel":"Pages"}}},
+    
+  };
+  function mergeObject(obj1, obj2){
+    var obj3 = {};
+    for (var attr in obj1) { obj3[attr] = obj1[attr]; }
+    for (var attr in obj2) { obj3[attr] = obj2[attr]; }
+    return obj3;
+  }
+  if (typeof bcSfFilterConfig !== 'undefined') {
+    var bcSfFilterConfig = mergeObject(bcSfFilterConfig, bcSfFilterMainConfig);
+  } else {
+    var bcSfFilterConfig = mergeObject({}, bcSfFilterMainConfig);
+  }
+</script>
+
+<!-- Include Resources -->
+<script defer src="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/bc-sf-filter-lib.js?v=25550936016050030821649800049"></script>
+<script defer src="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/bc-sf-search.js?v=87487182149882261081649800052"></script><script defer src="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/bc-sf-filter.js?v=172110032277943089821649800051"></script><!-- Initialize App -->
+<script defer src="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/bc-sf-filter-init.js?v=142110055737041590951649800049"></script>
+<!--end-bc-sf-filter-js-->
+
+<!--start-bc-al-init-->
+  <!--start-bc-al-css-->
+<!--end-bc-al-init-->
+
+<!-- start-bc-recently-viewed-product-init -->
+  <!--start-bc-recently-viewed-init--><!--end-bc-recently-viewed-init-->
+<!-- end-bc-recently-viewed-product-init -->
+
+<!--start-bc-most-popular-product-init-->
+  <!-- start-bc-popular-product-init -->
+
+<!-- end-bc-popular-product-init -->
+<!--end-bc-most-popular-product-init-->
+
+
+<!-- Begin Shopify-Afterpay JavaScript Snippet (v1.0.8) -->
+<script type="text/javascript">
+// Overrides:
+// var afterpay_min = 0.04;            // As per your Afterpay contract.
+// var afterpay_max = 2000.00;         // As per your Afterpay contract.
+// var afterpay_cbt_enabled = false;   // As per your Afterpay contract; change to true to display Cross-Border Trade artwork (for AU/NZ).
+var afterpay_logo_theme = 'black'; // Can be 'colour', 'black' or 'white'.
+var afterpay_product_selector = '[data-product-price]';
+// var afterpay_cart_integration_enabled = true;
+// var afterpay_cart_static_selector = '#cart-subtotal-selector';
+
+// Non-editable fields:
+var afterpay_shop_currency = "AUD";
+var afterpay_cart_currency = "AUD";
+var afterpay_shop_money_format = "${{amount}}";
+var afterpay_shop_permanent_domain = "utopia-records-au.myshopify.com";
+var afterpay_theme_name = "LIVE | UTOPIA | 05-12-22";
+var afterpay_product = null;
+var afterpay_current_variant = null;
+var afterpay_cart_total_price = 0;
+var afterpay_js_snippet_version = '1.0.8';
+</script>
+<script type="text/javascript" src="https://static.afterpay.com/shopify-afterpay-javascript.js"></script>
+<!-- End Shopify-Afterpay JavaScript Snippet (v1.0.8) -->
+<div class="d-none" data-site-placeholder-image="//cdn.shopify.com/s/files/1/0342/1044/7497/t/65/assets/placeholder_300x.jpg?v=81033047764019566731649800069"></div>
+<script type="text/javascript">
+window.addEventListener('load', function(){
+
+    function getPageType() {
+    
+        return "Search Results";
+    
+}
+
+
+    window.dataLayer.push({
+        "visitorType": "Guest"
+    });
+
+
+
+    window.dataLayer.push({
+        "pageType": "searchresults"
+    });
+
+
+
+    
+
+    
+
+    
+        var query = "nofx vinyl";
+
+        window.dataLayer.push({
+            event: "SearchView",
+            SearchTerms: query
+        });
+
+        var collection = [];
+
+        
+            
+                collection.push({"id":6656048365763,"title":"NOFX - Single Album (w. download) - Vinyl - New","handle":"nofx-single-album-w-download-vinyl-new","description":"","published_at":"2021-04-30T17:04:09+10:00","created_at":"2021-04-30T16:56:29+10:00","vendor":"NOFX","type":"New Vinyl - 12 Inch","tags":["bandchar:N","DFW"],"price":3999,"price_min":3999,"price_max":3999,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":39692083462339,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"304519","requires_shipping":true,"taxable":true,"featured_image":null,"available":true,"name":"NOFX - Single Album (w. download) - Vinyl - New","public_title":null,"options":["Default Title"],"price":3999,"weight":300,"compare_at_price":null,"inventory_management":"shopify","barcode":"751097011416","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/0342\/1044\/7497\/products\/304519.jpg?v=1619766212"],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/0342\/1044\/7497\/products\/304519.jpg?v=1619766212","options":["Title"],"media":[{"alt":null,"id":20723224510659,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0342\/1044\/7497\/products\/304519.jpg?v=1619766212"},"aspect_ratio":1.0,"height":1000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0342\/1044\/7497\/products\/304519.jpg?v=1619766212","width":1000}],"requires_selling_plan":false,"selling_plan_groups":[],"content":""});
+            
+        
+            
+                collection.push({"id":4970591977609,"title":"NOFX - Ribbed - Vinyl - New","handle":"nofx-ribbed-vinyl-new","description":"","published_at":"2021-11-29T09:59:56+11:00","created_at":"2020-05-01T09:33:47+10:00","vendor":"NOFX","type":"New Vinyl - 12 Inch","tags":["bandchar:N","DFW"],"price":5499,"price_min":5499,"price_max":5499,"available":false,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":33626998603913,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"POS-169393","requires_shipping":true,"taxable":true,"featured_image":null,"available":false,"name":"NOFX - Ribbed - Vinyl - New","public_title":null,"options":["Default Title"],"price":5499,"weight":300,"compare_at_price":null,"inventory_management":"shopify","barcode":"045778641017","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/0342\/1044\/7497\/products\/045778641017.jpg?v=1588289646"],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/0342\/1044\/7497\/products\/045778641017.jpg?v=1588289646","options":["Title"],"media":[{"alt":null,"id":8216654807177,"position":1,"preview_image":{"aspect_ratio":0.974,"height":500,"width":487,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0342\/1044\/7497\/products\/045778641017.jpg?v=1588289646"},"aspect_ratio":0.974,"height":500,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0342\/1044\/7497\/products\/045778641017.jpg?v=1588289646","width":487}],"requires_selling_plan":false,"selling_plan_groups":[],"content":""});
+            
+        
+            
+                collection.push({"id":6979114729667,"title":"NOFX - Never A Trust A Hippy (2020 10\" EP reissue) - Vinyl - New","handle":"nofx-never-a-trust-a-hippy-2020-10-ep-reissue-vinyl-new","description":"","published_at":"2021-10-10T12:54:38+11:00","created_at":"2021-10-08T11:44:35+11:00","vendor":"NOFX","type":"New Vinyl - 12 Inch","tags":["bandchar:N","DFW"],"price":3699,"price_min":3699,"price_max":3699,"available":false,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":40878816002243,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"307222","requires_shipping":true,"taxable":true,"featured_image":null,"available":false,"name":"NOFX - Never A Trust A Hippy (2020 10\" EP reissue) - Vinyl - New","public_title":null,"options":["Default Title"],"price":3699,"weight":300,"compare_at_price":null,"inventory_management":"shopify","barcode":"751097070819","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/0342\/1044\/7497\/products\/307222.jpg?v=1633830803"],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/0342\/1044\/7497\/products\/307222.jpg?v=1633830803","options":["Title"],"media":[{"alt":null,"id":22297526370499,"position":1,"preview_image":{"aspect_ratio":1.0,"height":700,"width":700,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0342\/1044\/7497\/products\/307222.jpg?v=1633830803"},"aspect_ratio":1.0,"height":700,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0342\/1044\/7497\/products\/307222.jpg?v=1633830803","width":700}],"requires_selling_plan":false,"selling_plan_groups":[],"content":""});
+            
+        
+
+        if (!collection.length) collection= [];
+
+        var allProducts = collection.map(function(product, index) {
+                var variant = product.variants[0]
+                return {
+                    name: product.title.replace("'", ''),
+                    id: ((variant && variant.sku) || ""),
+                    productId: ((variant && variant.id) || ""),
+                    variantId: ((variant && variant.id) || ""),
+                    shopifyId: "shopify_US_" + product.id + "_" + ((variant && variant.id) || ""),
+                    price: product.price / 100,
+                    brand: product.vendor.replace("'", ''),
+                    position: index,
+                    list: "Search Results",
+                    handle: product.handle
+                };
+            });
+
+        var visibleProducts = [];
+        var productLimit = 36;
+
+        Array.prototype.slice.call(document.querySelectorAll('a[href*="/products/"]')).slice(0, productLimit).forEach(function(item) {
+            var arr = item.href.split('/products/');
+            var handle = arr[arr.length-1];
+
+            if (!allProducts.length) return;
+
+            var matchingProduct = allProducts.filter(function(product) {
+                return product.handle === handle;
+            });
+
+            if (!matchingProduct.length) return;
+
+            if (visibleProducts.indexOf(matchingProduct[0]) == -1) {
+                visibleProducts.push(matchingProduct[0]);
+            }
+        })
+
+        window.dataLayer.push({
+            "event": "searchResults",
+            "ecommerce": {
+                "currencyCode": "AUD",
+                "actionField": { "list": "Search Results" },
+                "impressions": visibleProducts,
+            }
+        });
+    
+
+    
+
+    Array.prototype.slice.call(document.querySelectorAll('a[href*="/products/"]'))
+        .forEach(function(select) {
+            select.addEventListener('click', handleProductClick);
+        });
+
+    function getClickedProductHandle(element) {
+        var arr = element.href.split('/products/');
+        return arr[arr.length-1];
+    }
+
+    function handleProductClick(event) {
+        if(typeof allProducts == "undefined") return;
+        var target = event.target.matches('a[href*="/products/"]')
+            ? event.target
+            : event.target.closest('a[href*="/products/"]');
+        var handle = getClickedProductHandle(target);
+        var clickedProduct = allProducts.filter(function(product) {
+            return product.handle === handle;
+        });
+        if (clickedProduct[0]) delete clickedProduct[0].list;
+        if (clickedProduct[0]) delete clickedProduct[0].handle;
+        window.dataLayer.push({
+            "event": "productClick",
+            "ecommerce": {
+                currencyCode: "AUD",
+                "click": {
+                    "actionField": {"list": getPageType()},
+                    "products": clickedProduct
+
+                }
+            },
+        });
+    }
+}, false);
+</script>
+
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZZD47K" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script>
+    window.addEventListener('DOMContentLoaded', function() {
+        (function($) {
+            localStorage.setItem('swatch_type', "radio");
+        })(jQuery);
+    });
+	
+</script>
+</body>
+</html>
+

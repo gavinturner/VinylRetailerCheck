@@ -51,7 +51,7 @@ func (a *RepressedRecords) ScrapeArtistReleases(artist string) (findings []SKU, 
 			price = strings.TrimSpace(price[0:strings.Index(price, "</span")])
 			image := toks[idx-2]
 			image = image[strings.Index(image, "src=\"")+5:]
-			image = "http:" + image[0:strings.Index(image, "\"")]
+			image = "<img width=\"150px\" height=\"150px\" src=\"http:" + image[0:strings.Index(image, "\"")] + "\" />"
 			url := toks[idx-15]
 			url = url[strings.Index(url, "href=")+6:]
 			url = RER_URL_PREFIX + url[0:strings.Index(url, "\"")]

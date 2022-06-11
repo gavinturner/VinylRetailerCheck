@@ -5,9 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e473d14-c29b-4290-a298-48b102eea47c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/beatdisc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrations/20220607134100_add_new_retailers.up.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrations/20220709123600_add_new_artists.up.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrations/20220710213600_add_new_retailers.up.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/empty-image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/beatdiscrecords.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/data/20220609_beatdisc_lp_stocklist.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/example/utopia.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/retailer_list.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/utopia.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/data/egg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cfg/artists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/test/artists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/reporter/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/reporter/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/scanner/Dockerfile.scanner" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/scanner/Dockerfile.scanner" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/scheduler/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/scheduler/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/_template.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/data/damaged.txt" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/example/damaged.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/data/damaged_nofx.txt" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/example/damaged_nofx.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/data/repressedrecords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/example/repressedrecords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/data/resistrecords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/example/resistrecords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/repressedrecords.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/repressedrecords.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/retailer.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/retailer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/test/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/test/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,10 +84,10 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/retailers/test" />
+      <recent name="$PROJECT_DIR$/retailers" />
+      <recent name="$PROJECT_DIR$/retailers/example" />
+      <recent name="$PROJECT_DIR$/retailers/data" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/db" />
-      <recent name="$PROJECT_DIR$/cmd/scanner" />
-      <recent name="$PROJECT_DIR$/db/migration" />
     </key>
   </component>
   <component name="RunManager" selected="Go Build.scrape_test">
@@ -147,7 +168,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/retailers/damaged.go</url>
-          <line>51</line>
+          <line>50</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
@@ -156,9 +177,24 @@
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/retailers/repressedrecords.go</url>
-          <line>56</line>
-          <option name="timeStamp" value="29" />
+          <url>file://$PROJECT_DIR$/retailers/utopia.go</url>
+          <line>124</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/utopia.go</url>
+          <line>149</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/utopia.go</url>
+          <line>145</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/utopia.go</url>
+          <line>140</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
