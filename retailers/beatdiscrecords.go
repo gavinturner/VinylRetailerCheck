@@ -76,6 +76,14 @@ func (a *BeatDiscRecords) ScrapeArtistReleases(artist string) (findings []SKU, e
 			}
 			sku.Price = sku.Price[2:]
 			sku.Price = "$" + strings.TrimSpace(sku.Price)
+			image, err := FindCoverURL(artist, line[1])
+			if err != nil {
+				log.Error(err, "Failed to get image for release")
+				return []SKU{}, errors.Wrapf(err, "failed to get image for release")
+			}
+			if image != "" {
+				sku.Image = fmt.Sprintf("<img width=\"150px\" height=\"150px\" src=\"%s\" />", image)
+			}
 			findings = append(findings, sku)
 		}
 	}

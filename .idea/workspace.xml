@@ -5,29 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e473d14-c29b-4290-a298-48b102eea47c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/beatdisc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrations/20220607134100_add_new_retailers.up.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrations/20220709123600_add_new_artists.up.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrations/20220710213600_add_new_retailers.up.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/empty-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/beatdiscrecords.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/data/20220609_beatdisc_lp_stocklist.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/example/utopia.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/retailer_list.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/utopia.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrations/20220711163300_add_new_artists.up.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/example/discogs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/example/poisoncity.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/find_covers.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cfg/artists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/test/artists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/reporter/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/reporter/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/scanner/Dockerfile.scanner" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/scanner/Dockerfile.scanner" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/scheduler/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/scheduler/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/_template.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/data/damaged.txt" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/example/damaged.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/data/damaged_nofx.txt" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/example/damaged_nofx.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/data/repressedrecords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/example/repressedrecords.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/data/resistrecords.txt" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/example/resistrecords.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/scanner/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/scanner/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/beatdiscrecords.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/beatdiscrecords.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/poisoncity.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/poisoncity.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/retailers/repressedrecords.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/repressedrecords.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/retailer.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/retailer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/resistrecords.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/resistrecords.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/retailers/test/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/test/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

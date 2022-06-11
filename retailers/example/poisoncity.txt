@@ -1,0 +1,1424 @@
+<!doctype html>
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie6 oldie" lang="en"><![endif]-->
+<!--[if IE 7]><html class="no-js ie7 oldie" lang="en"><![endif]-->
+<!--[if IE 8]><html class="no-js ie8 oldie" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+
+  <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0586/2689/t/2/assets/favicon.png?v=94152316443825574601449397143" type="image/png" />
+  <meta charset="utf-8">
+  <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+
+  <title>
+  CLOWNS &#39;Bad Blood&#39; LP &ndash; POISON CITY RECORDS
+  </title>
+
+  
+  <meta name="description" content="New Red Wine colour vinyl! CLOWNS embody the carefree, kick-around attitude that helped make Australian guitar music a worldwide fascination. Their rapid-fire 2013 debut album &#39;I&#39;m Not Right&#39; was labelled &#39;savage&#39;,&#39;sharp&#39; and a &#39;full on onslaught.&#39; Fast forward twelve months and Clowns have completed a tough touring ap" />
+  
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <link rel="canonical" href="https://poisoncityestore.com/products/clowns-bad-blood-lp" /> 
+
+  
+
+
+  <meta property="og:type" content="product" />
+  <meta property="og:title" content="CLOWNS &#39;Bad Blood&#39; LP" />
+  
+  <meta property="og:image" content="http://cdn.shopify.com/s/files/1/0586/2689/products/PCR102_500x500_be9bdccf-0295-43b6-9f94-8950d10ae3df_grande.jpg?v=1597115009" />
+  <meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/0586/2689/products/PCR102_500x500_be9bdccf-0295-43b6-9f94-8950d10ae3df_grande.jpg?v=1597115009" />
+  
+  <meta property="og:image" content="http://cdn.shopify.com/s/files/1/0586/2689/products/CLOWNS_BadBlood_RedWine_grande.jpg?v=1597115049" />
+  <meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/0586/2689/products/CLOWNS_BadBlood_RedWine_grande.jpg?v=1597115049" />
+  
+  <meta property="og:price:amount" content="28.00" />
+  <meta property="og:price:currency" content="AUD" />
+
+
+
+<meta property="og:description" content="New Red Wine colour vinyl! CLOWNS embody the carefree, kick-around attitude that helped make Australian guitar music a worldwide fascination. Their rapid-fire 2013 debut album &#39;I&#39;m Not Right&#39; was labelled &#39;savage&#39;,&#39;sharp&#39; and a &#39;full on onslaught.&#39; Fast forward twelve months and Clowns have completed a tough touring ap" />
+
+<meta property="og:url" content="https://poisoncityestore.com/products/clowns-bad-blood-lp" />
+<meta property="og:site_name" content="POISON CITY RECORDS" />
+  
+ 
+
+  <meta name="twitter:card" content="product" />
+  <meta name="twitter:title" content="CLOWNS &#39;Bad Blood&#39; LP" />
+  <meta name="twitter:description" content="New Red Wine colour vinyl!CLOWNS embody the carefree, kick-around attitude that helped make Australian guitar music a worldwide fascination. Their rapid-fire 2013 debut album &#39;I&#39;m Not Rig..." />
+  <meta name="twitter:image" content="http://cdn.shopify.com/s/files/1/0586/2689/products/PCR102_500x500_be9bdccf-0295-43b6-9f94-8950d10ae3df_large.jpg?v=1597115009" />
+  <meta name="twitter:label1" content="PRICE" />
+  <meta name="twitter:data1" content="$28.00 AUD" />
+  <meta name="twitter:label2" content="VENDOR" />
+  <meta name="twitter:data2" content="Poison City" />
+
+
+  <link href="//cdn.shopify.com/s/files/1/0586/2689/t/2/assets/styles.scss.css?v=136423688625636813501654135165" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/global/social/social-icons.css" rel="stylesheet" type="text/css" media="all" />
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" type="text/css" media="all" />
+  
+  <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Asap:300,400,700">
+  
+  
+  <script src="//cdn.shopify.com/s/files/1/0586/2689/t/2/assets/html5shiv.js?v=107268875627107148941405862186" type="text/javascript"></script>
+
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/5862689/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="b54126d706e104a55a56106717b80a7f">
+<meta id="in-context-paypal-metadata" data-shop-id="5862689" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="AUD">
+<link rel="alternate" type="application/json+oembed" href="https://poisoncityestore.com/products/clowns-bad-blood-lp.oembed">
+<script id="shopify-features" type="application/json">{"accessToken":"b54126d706e104a55a56106717b80a7f","betas":["rich-media-storefront-analytics"],"domain":"poisoncityestore.com","predictiveSearch":true,"shopId":5862689,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js?v=2","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js?v=2","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "poison-city-estore.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"AUD","rate":"1.0"};
+Shopify.country = "AU";
+Shopify.theme = {"name":"Poison City Estore","id":9604335,"theme_store_id":380,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/81258e012e64765899853c7fb\/9948f2f6ee583d30e05d35e12.js?shop=poison-city-estore.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":5862689,"offset":36000,"reqid":"c86bf60e-f3c2-4c16-a555-c284ead1666e","pageurl":"poisoncityestore.com\/products\/clowns-bad-blood-lp?_pos=1\u0026_sid=6542bec8d\u0026_ss=r","u":"d97bd83a1ec2","p":"product","rtyp":"product","rid":422692279};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-N6F6ZjvOAMPhcD0kfZWNQQgx6eXaxFfh6aqfN0geLrU=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-37a17a663bce00c3e1703d247d958d410831e9e5dac457e1e9aa9f37481e2eb5.js" crossorigin="anonymous"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 60px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+  
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+  
+  <script src="//cdn.shopify.com/shopifycloud/shopify/assets/themes_support/option_selection-fe6b72c2bbdd3369ac0bfefe8648e3c889efca213baefd4cfb0dd9363563831f.js" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/shopifycloud/shopify/assets/themes_support/api.jquery-e94e010e92e659b566dbc436fdfe5242764380e00398907a14955ba301a4749f.js" type="text/javascript"></script>
+
+  
+  
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 5862689,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'AUD';
+var meta = {"product":{"id":422692279,"gid":"gid:\/\/shopify\/Product\/422692279","vendor":"Poison City","type":"","variants":[{"id":35599130263713,"price":2800,"name":"CLOWNS 'Bad Blood' LP - Red Wine","public_title":"Red Wine","sku":"PCR102LP"}]},"page":{"pageType":"product","resourceType":"product","resourceId":422692279}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var hasLoggedConversion = function(token) {
+    if (token) {
+      return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+    }
+    return false;
+  }
+
+  var setCookieIfConversion = function(token) {
+    if (token) {
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config || {};
+    trekkie.config.initialDocumentCookie = document.cookie;
+    var first = document.getElementsByTagName('script')[0];
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      var scriptFallback = document.createElement('script');
+      scriptFallback.type = 'text/javascript';
+      scriptFallback.onerror = function(error) {
+              var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+    
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+    
+        } // XHR beacon   
+    
+        var xhr = new XMLHttpRequest();
+    
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+    
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 5862689,
+      theme_id: 9604335,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.9808f461ba330c75be6d9f9a258d7e208b18f128.min.js"});
+
+      };
+      scriptFallback.async = true;
+      scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.9808f461ba330c75be6d9f9a258d7e208b18f128.min.js';
+      first.parentNode.insertBefore(scriptFallback, first);
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/trekkie.storefront.9808f461ba330c75be6d9f9a258d7e208b18f128.min.js';
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":5862689,"isMerchantRequest":null,"themeId":9604335,"themeCityHash":"16278360512582268120","contentLanguage":"en","currency":"AUD"},"isServerSideCookieWritingEnabled":true},"Session Attribution":{},"S2S":{"emitV4CheckoutEvent":true,"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"product","resourceType":"product","resourceId":422692279});
+
+    var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+    var token = match? match[1]: undefined;
+    if (!hasLoggedConversion(token)) {
+      setCookieIfConversion(token);
+      window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"AUD","variantId":35599130263713,"productId":422692279,"productGid":"gid:\/\/shopify\/Product\/422692279","name":"CLOWNS 'Bad Blood' LP - Red Wine","price":"28.00","sku":"PCR102LP","brand":"Poison City","variant":"Red Wine","category":"","nonInteraction":true});
+      window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"AUD","variantId":35599130263713,"productId":422692279,"productGid":"gid:\/\/shopify\/Product\/422692279","name":"CLOWNS 'Bad Blood' LP - Red Wine","price":"28.00","sku":"PCR102LP","brand":"Poison City","variant":"Red Wine","category":"","nonInteraction":true,"referer":"https:\/\/poisoncityestore.com\/products\/clowns-bad-blood-lp?_pos=1\u0026_sid=6542bec8d\u0026_ss=r"});
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-fa61fd11817b231631d2fe43dc869d0b1d14a06332792d42f1a1d94bda5aa31e.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "";
+  window.BOOMR.themeVersion = "";
+  window.BOOMR.shopId = 5862689;
+  window.BOOMR.themeId = 9604335;
+  window.BOOMR.url =
+    "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+</head>
+
+<body>
+  
+  <!-- Begin toolbar -->
+  <div class="toolbar-wrapper">
+    <div class="toolbar clearfix">
+        <ul class="unstyled">
+          <li class="search-field fr">
+            <form class="search" action="/search">
+              <button type="submit" alt="Go" class="go"><i class="fa fa-search"></i></button>
+              <input type="text" name="q" class="search_box" placeholder="Search" value="" />
+            </form>
+          </li>
+          
+          <li class="fr"><a href="/cart" class="cart" title="Shopping Cart"><i class="fa fa-shopping-cart"></i> Cart: 0</a></li>
+          
+  
+    <li class="customer-links">
+      <a href="/account/login" id="customer_login_link">Log in</a>
+      
+      <span class="or">or</span>
+      <a href="/account/register" id="customer_register_link">Create an account</a>
+      
+    </li>
+  
+
+          
+        </ul>
+        <div id="menu-button" class="menu-icon"><i class="fa fa-bars"></i>Menu</div>
+    </div>
+  </div>
+  <!-- End toolbar -->
+  
+  <!-- Begin Mobile Nav -->
+  <div class="row mobile-wrapper">    
+    <nav class="mobile clearfix">
+      <div class="flyout">
+<ul class="clearfix">
+  
+  
+  <li>
+    <a href="/collections/poison-city-artists" class=" navlink"><span>POISON CITY</span></a>
+  </li>
+  
+  
+  
+  <li>
+    <a href="/collections/vinyl" class=" navlink"><span>VINYL</span></a>
+  </li>
+  
+  
+  
+  <li>
+    <a href="/collections/sweats" class=" navlink"><span>MERCH</span></a>
+  </li>
+  
+  
+  
+  <li>
+    <a href="/collections/cds" class=" navlink"><span>CD/ TAPE</span></a>
+  </li>
+  
+  
+  
+  <li>
+    <a href="/collections/skateboarding" class=" navlink"><span>SKATE</span></a>
+  </li>
+  
+  
+  
+  <li>
+    <a href="/collections/tickets" class=" navlink"><span>ON SALE</span></a>
+  </li>
+  
+  
+
+
+  <li><span class="account-links">Account Links</span>
+    <span class="more"><i class="fa fa-user"></i></span>
+    <ul class="sub-menu">
+    
+      <li class="customer-links"><a href="/account/login" id="customer_login_link">Log in</a></li>
+      
+      <li class="customer-links"><a href="/account/register" id="customer_register_link">Create an account</a></li>
+      
+    
+    </ul>
+  </li>
+
+
+    <li class="search-field">
+    <form class="search" action="/search">
+      <button type="submit" alt="Go" class="go"><i class="fa fa-search"></i></button>
+      <input type="text" name="q" class="search_box" placeholder="Search" value="" />
+    </form>
+  </li>
+</ul>
+</div>
+    </nav>  
+  </div>
+  <!-- End Mobile Nav -->
+
+  <!-- Begin wrapper -->
+  <div id="transparency" class="wrapper">
+    <div class="row">      
+      <!-- Begin right navigation -->
+      
+      <div class="row" id="header">
+        <div class="span12 border-bottom">
+          <div class="span4 inner-left logo-wrapper">
+            <div class="logo">
+              
+              <a href="/"><img src="//cdn.shopify.com/s/files/1/0586/2689/t/2/assets/logo.png?v=126569873912267548991595763754" alt="POISON CITY RECORDS" /></a>
+              
+              
+            </div> 
+          </div> 
+          
+          <section id="nav">
+            <div class="span8 inner-right">
+              <nav class="main">
+                <ul class="horizontal unstyled clearfix fr">
+  
+  
+  
+  
+  
+  
+  <li class="">
+    <a href="/collections/poison-city-artists" >
+      POISON CITY
+      
+    </a> 
+    
+  </li>
+  
+  
+  
+  
+  
+  
+  <li class=" dropdown">
+    <a href="/collections/vinyl" >
+      VINYL
+       <i class="fa fa-angle-down"></i>
+    </a> 
+    
+    <ul class="dropdown">
+      
+        
+        <li >
+          <a href="/collections/vinyl/10" >10"</a>
+        </li>
+        
+        <li >
+          <a href="/collections/vinyl/7" >7"</a>
+        </li>
+        
+        <li >
+          <a href="/collections/vinyl/books" >Books</a>
+        </li>
+        
+        <li >
+          <a href="/collections/vinyl/lp" >LP</a>
+        </li>
+        
+        <li >
+          <a href="/collections/vinyl/melbourne" >Melbourne</a>
+        </li>
+        
+        <li >
+          <a href="/collections/vinyl/merch" >Merch</a>
+        </li>
+        
+        <li >
+          <a href="/collections/vinyl/on-sale" >On Sale</a>
+        </li>
+        
+        <li >
+          <a href="/collections/vinyl/preorder" >Preorder</a>
+        </li>
+        
+        <li >
+          <a href="/collections/vinyl/t-shirt" >T-Shirt</a>
+        </li>
+        
+        <li >
+          <a href="/collections/vinyl/vinyl" >Vinyl</a>
+        </li>
+        
+      
+    </ul>
+    
+  </li>
+  
+  
+  
+  
+  
+  
+  <li class=" dropdown">
+    <a href="/collections/sweats" >
+      MERCH
+       <i class="fa fa-angle-down"></i>
+    </a> 
+    
+    <ul class="dropdown">
+      
+        
+        <li >
+          <a href="/collections/sweats/beanie" >Beanie</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/books" >Books</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/caps" >Caps</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/cd" >CD</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/coffee-mug" >Coffee Mug</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/crew-jumper" >Crew Jumper</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/hooded-sweat" >Hooded Sweat</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/longsleeve-tee" >Longsleeve Tee</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/lp" >LP</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/melbourne" >Melbourne</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/merch" >Merch</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/on-sale" >On Sale</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/skate" >Skate</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/slipmat" >Slipmat</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/socks" >Socks</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/stickers" >Stickers</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/t-shirt" >T-Shirt</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/tape" >Tape</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/tote-bag" >Tote Bag</a>
+        </li>
+        
+        <li >
+          <a href="/collections/sweats/vinyl" >Vinyl</a>
+        </li>
+        
+      
+    </ul>
+    
+  </li>
+  
+  
+  
+  
+  
+  
+  <li class=" dropdown">
+    <a href="/collections/cds" >
+      CD/ TAPE
+       <i class="fa fa-angle-down"></i>
+    </a> 
+    
+    <ul class="dropdown">
+      
+        
+        <li >
+          <a href="/collections/cds/cd" >CD</a>
+        </li>
+        
+        <li >
+          <a href="/collections/cds/dvd" >DVD</a>
+        </li>
+        
+        <li >
+          <a href="/collections/cds/melbourne" >Melbourne</a>
+        </li>
+        
+        <li >
+          <a href="/collections/cds/merch" >Merch</a>
+        </li>
+        
+        <li >
+          <a href="/collections/cds/on-sale" >On Sale</a>
+        </li>
+        
+        <li >
+          <a href="/collections/cds/preorder" >Preorder</a>
+        </li>
+        
+        <li >
+          <a href="/collections/cds/t-shirt" >T-Shirt</a>
+        </li>
+        
+      
+    </ul>
+    
+  </li>
+  
+  
+  
+  
+  
+  
+  <li class=" dropdown">
+    <a href="/collections/skateboarding" >
+      SKATE
+       <i class="fa fa-angle-down"></i>
+    </a> 
+    
+    <ul class="dropdown">
+      
+        
+        <li >
+          <a href="/collections/skateboarding/hooded-sweat" >Hooded Sweat</a>
+        </li>
+        
+        <li >
+          <a href="/collections/skateboarding/merch" >Merch</a>
+        </li>
+        
+        <li >
+          <a href="/collections/skateboarding/on-sale" >On Sale</a>
+        </li>
+        
+        <li >
+          <a href="/collections/skateboarding/shoes" >Shoes</a>
+        </li>
+        
+        <li >
+          <a href="/collections/skateboarding/skate" >Skate</a>
+        </li>
+        
+        <li >
+          <a href="/collections/skateboarding/t-shirt" >T-Shirt</a>
+        </li>
+        
+      
+    </ul>
+    
+  </li>
+  
+  
+  
+  
+  
+  
+  <li class=" dropdown">
+    <a href="/collections/tickets" >
+      ON SALE
+       <i class="fa fa-angle-down"></i>
+    </a> 
+    
+    <ul class="dropdown">
+      
+        
+        <li >
+          <a href="/collections/tickets/10" >10"</a>
+        </li>
+        
+        <li >
+          <a href="/collections/tickets/7" >7"</a>
+        </li>
+        
+        <li >
+          <a href="/collections/tickets/cd" >CD</a>
+        </li>
+        
+        <li >
+          <a href="/collections/tickets/crew-jumper" >Crew Jumper</a>
+        </li>
+        
+        <li >
+          <a href="/collections/tickets/dvd" >DVD</a>
+        </li>
+        
+        <li >
+          <a href="/collections/tickets/lp" >LP</a>
+        </li>
+        
+        <li >
+          <a href="/collections/tickets/melbourne" >Melbourne</a>
+        </li>
+        
+        <li >
+          <a href="/collections/tickets/merch" >Merch</a>
+        </li>
+        
+        <li >
+          <a href="/collections/tickets/on-sale" >On Sale</a>
+        </li>
+        
+        <li >
+          <a href="/collections/tickets/skate" >Skate</a>
+        </li>
+        
+        <li >
+          <a href="/collections/tickets/t-shirt" >T-Shirt</a>
+        </li>
+        
+        <li >
+          <a href="/collections/tickets/vinyl" >Vinyl</a>
+        </li>
+        
+      
+    </ul>
+    
+  </li>
+  
+</ul>
+
+              </nav> 
+            </div> 
+          </section> 
+        </div> 
+      </div> 
+      
+      <!-- End right navigation -->
+      
+      <!-- Begin below navigation -->
+      
+      <!-- End below navigation -->
+      
+      <!-- Begin content-->
+      <section id="content" class="clearfix">
+        <div id="product" class="clowns-bad-blood-lp" itemscope itemtype="http://schema.org/Product">
+  <meta itemprop="url" content="https://poisoncityestore.com/products/clowns-bad-blood-lp" />
+  <meta itemprop="image" content="//cdn.shopify.com/s/files/1/0586/2689/products/PCR102_500x500_be9bdccf-0295-43b6-9f94-8950d10ae3df_grande.jpg?v=1597115009" />
+ 
+  <div class="row clearfix">
+    
+    <!-- Begin breadcrumb -->
+    <div class="span12">
+      <div class="breadcrumb clearfix">
+        <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="https://poisoncityestore.com" title="POISON CITY RECORDS" itemprop="url"><span itemprop="title">Home</span></a></span> 
+        <span class="arrow-space">&#62;</span>
+        <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+          
+            <a href="/collections/all" title="All Products" itemprop="url">
+              <span itemprop="title">Products</span>
+            </a>
+          
+        </span>
+        <span class="arrow-space">&#62;</span>
+        <strong>CLOWNS 'Bad Blood' LP</strong>
+      </div>
+    </div>
+    <!-- End breadcrumb -->
+    <!-- Begin product photos -->
+    <div class="span5">
+      
+      <!-- Begin featured image -->
+      <div class="image featured">
+        
+        <a href="//cdn.shopify.com/s/files/1/0586/2689/products/PCR102_500x500_be9bdccf-0295-43b6-9f94-8950d10ae3df.jpg?v=1597115009" class="cloud-zoom" rel="position: 'inside', showTitle: 'false'" id="placeholder">
+          <img src="//cdn.shopify.com/s/files/1/0586/2689/products/PCR102_500x500_be9bdccf-0295-43b6-9f94-8950d10ae3df_1024x1024.jpg?v=1597115009" alt="CLOWNS &#39;Bad Blood&#39; LP" />
+        </a>
+        
+      </div>
+      <!-- End product image -->
+      
+      
+      
+    </div>
+    <!-- End product photos -->
+    
+    
+    <!-- Begin thumbnails -->
+    <div class="span1">
+      <div class="thumbs clearfix">
+        
+        
+        <div class="image">
+          <a href="//cdn.shopify.com/s/files/1/0586/2689/products/PCR102_500x500_be9bdccf-0295-43b6-9f94-8950d10ae3df.jpg?v=1597115009" class="cloud-zoom-gallery" rel="useZoom: 'placeholder', smallImage: '//cdn.shopify.com/s/files/1/0586/2689/products/PCR102_500x500_be9bdccf-0295-43b6-9f94-8950d10ae3df.jpg?v=1597115009', tint: '#ffffff'" data-image-id="18418165940385">
+            <img src="//cdn.shopify.com/s/files/1/0586/2689/products/PCR102_500x500_be9bdccf-0295-43b6-9f94-8950d10ae3df_small.jpg?v=1597115009" alt="CLOWNS &#39;Bad Blood&#39; LP" />
+          </a>
+        </div>
+        
+        
+        
+        <div class="image">
+          <a href="//cdn.shopify.com/s/files/1/0586/2689/products/CLOWNS_BadBlood_RedWine.jpg?v=1597115049" class="cloud-zoom-gallery" rel="useZoom: 'placeholder', smallImage: '//cdn.shopify.com/s/files/1/0586/2689/products/CLOWNS_BadBlood_RedWine.jpg?v=1597115049', tint: '#ffffff'" data-image-id="18418173968545">
+            <img src="//cdn.shopify.com/s/files/1/0586/2689/products/CLOWNS_BadBlood_RedWine_small.jpg?v=1597115049" alt="CLOWNS &#39;Bad Blood&#39; LP" />
+          </a>
+        </div>
+        
+        
+      </div>
+    </div>
+    <!-- End thumbnails -->
+    
+    
+    
+    <!-- Begin description -->
+    <div class="span6">
+      
+      <h1 class="title" itemprop="name">CLOWNS 'Bad Blood' LP</h1>
+      
+      <div class="purchase" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="AUD" />
+        
+        <link itemprop="availability" href="http://schema.org/InStock" />
+        
+        
+        
+        <h2 class="price" id="price-preview">
+          <span itemprop="price">$28.00</span>
+        </h2>
+      </div>
+      
+      
+      
+            
+      <form id="add-item-form" action="/cart/add" method="post" class="variants clearfix">
+        
+        <!-- Begin product options -->
+        <div class="product-options">
+        
+          <div class="select clearfix">
+            <select id="product-select" name="id" style="display:none">
+              
+              <option value="35599130263713">Red Wine - $28.00</option>
+              
+            </select>
+          </div>
+          
+          
+          
+          <div class="purchase-section">
+            <div class="purchase">
+              <input type="submit" id="add-to-cart" class="btn" name="add" value="Add to cart" />
+            </div>
+          </div>
+          
+        </div>
+        <!-- End product options -->
+        
+      </form>
+      
+      <div class="description">
+        <p><span><em><strong>New Red Wine colour vinyl!</strong></em></span></p>
+<p><span><em><strong>CLOWNS</strong></em> embody the carefree, kick-around attitude that helped make Australian guitar music a worldwide fascination. Their rapid-fire 2013 debut album </span><em>'I'm Not Right' </em><span>was labelled </span><em>'savage'</em><span>,</span><em>'sharp'</em><span> and a '</span><em>full on onslaught.' </em><span>Fast forward twelve months and Clowns have completed a tough touring apprenticeship with some of the nation's greats; <strong>Hard Ons, The Meanies, Frenzal Rhomb, Cosmic Psychos</strong> and more.</span><span> </span><br><br>'<em><strong>Bad Blood</strong></em>' is Clowns latest destructive offering, written amongst the suburban jungle of Cheltenham (where the band grew up) in a complex that houses<span size="2" style="font-size: small;"> a bakery, a cattery and a morgue, right across the road from a </span>cemetery<span size="2" style="font-size: small;">. Recorded at at St.Kilda's lauded Hot House Studios with </span>Craig Harnath and Jeremy Giddings<span size="2" style="font-size: small;"> using their famous Neve desk and a truckload of vintage and boutique gear, the production is rich, raw and dirty. Urgent but natural. Reflective of the band's can-do DIY </span>approach<span size="2" style="font-size: small;"> and go hard or go home attitude.<br></span></p>
+      </div>
+      
+      
+      <!-- Begin social buttons -->
+      <div class="social">
+        <div id="social" class="clearfix">
+  <p class="share-this">Share this item:</p>
+  <div class="google-plus"><g:plusone size="medium" annotation="none"></g:plusone></div>
+  <div class="tweet-btn">
+    <a href="//twitter.com/share" class="twitter-share-button" data-url="https://poisoncityestore.com/products/clowns-bad-blood-lp" data-count="none">Tweet</a><script src="//platform.twitter.com/widgets.js"></script>
+  </div>
+  <div class="pinterest">
+    <a href="//pinterest.com/pin/create/button/?url=https://poisoncityestore.com/products/clowns-bad-blood-lp&media=//cdn.shopify.com/s/files/1/0586/2689/products/PCR102_500x500_be9bdccf-0295-43b6-9f94-8950d10ae3df_large.jpg?v=1597115009" class="pin-it-button" count-layout="horizontal">Pin It</a>
+    <script src="//assets.pinterest.com/js/pinit.js"></script>
+  </div>
+  <div class="facebook-like"><iframe src="//www.facebook.com/plugins/like.php?href=https://poisoncityestore.com/products/clowns-bad-blood-lp&amp;send=false&amp;layout=button_count&amp;width=120&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;" allowTransparency="true"></iframe></div>
+</div>
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = '//apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+      </div>
+      <!-- End social buttons -->
+      
+    
+    </div>
+    <!-- End description -->
+   
+  </div>
+  
+  <!-- Begin related product -->
+  
+    
+
+
+  
+
+
+
+    
+<div class="row">
+  <div class="span12">
+    <h3 class="collection-title">Related products</h3>
+  </div>
+</div> 
+    
+<div class="row products">
+
+
+
+
+  
+    
+      
+
+<div class="product span3 ">
+  
+  
+    
+    <span class="circle sale">Sale</span>
+    
+  
+  
+  <div class="image">
+    <a href="/collections/poison-city-artists/products/an-horse-modern-air-cd">
+      <img src="//cdn.shopify.com/s/files/1/0586/2689/products/PCR161_AnHorseCD_large.jpg?v=1556497369" alt="AN HORSE &#39;Modern Air&#39; CD" />
+    </a>
+  </div>
+  
+  <div class="details">
+    <a href="/collections/poison-city-artists/products/an-horse-modern-air-cd" class="clearfix">
+      <h4 class="title">AN HORSE 'Modern Air' CD</h4>
+      
+      
+      <span class="price">
+      
+        
+          <del>$14.00</del>
+        
+        
+        $10.00
+      
+      </span>
+      
+    </a>
+  </div>
+  
+</div>
+
+
+
+
+    
+  
+
+  
+    
+      
+
+<div class="product span3 ">
+  
+  
+  
+  <div class="image">
+    <a href="/collections/poison-city-artists/products/an-horse-modern-air-lp">
+      <img src="//cdn.shopify.com/s/files/1/0586/2689/products/AnHorse_ModernAirLP_large.jpg?v=1552948917" alt="AN HORSE &#39;Modern Air&#39; LP" />
+    </a>
+  </div>
+  
+  <div class="details">
+    <a href="/collections/poison-city-artists/products/an-horse-modern-air-lp" class="clearfix">
+      <h4 class="title">AN HORSE 'Modern Air' LP</h4>
+      
+      
+      <span class="price">
+      
+        
+        
+        $28.00
+      
+      </span>
+      
+    </a>
+  </div>
+  
+</div>
+
+
+
+
+    
+  
+
+  
+    
+      
+
+<div class="product span3 ">
+  
+  
+  
+  <div class="image">
+    <a href="/collections/poison-city-artists/products/an-horse-shark-bite-t-shirt">
+      <img src="//cdn.shopify.com/s/files/1/0586/2689/products/AnHorse_SharkTee_large.jpg?v=1585097800" alt="AN HORSE &#39;Shark Bite&#39; T-Shirt" />
+    </a>
+  </div>
+  
+  <div class="details">
+    <a href="/collections/poison-city-artists/products/an-horse-shark-bite-t-shirt" class="clearfix">
+      <h4 class="title">AN HORSE 'Shark Bite' T-Shirt</h4>
+      
+      
+      <span class="price">
+      
+        
+        
+        $29.00
+      
+      </span>
+      
+    </a>
+  </div>
+  
+</div>
+
+
+
+
+    
+  
+
+  
+    
+      
+
+<div class="product span3 ">
+  
+  
+  
+  <div class="image">
+    <a href="/collections/poison-city-artists/products/batpiss-circles-t-shirt">
+      <img src="//cdn.shopify.com/s/files/1/0586/2689/products/Batpiss_GridTee_large.jpg?v=1586932266" alt="BATPISS &#39;Circles&#39; T-Shirt" />
+    </a>
+  </div>
+  
+  <div class="details">
+    <a href="/collections/poison-city-artists/products/batpiss-circles-t-shirt" class="clearfix">
+      <h4 class="title">BATPISS 'Circles' T-Shirt</h4>
+      
+      
+      <span class="price">
+      
+        $29.00 Sold Out
+      
+      </span>
+      
+    </a>
+  </div>
+  
+</div>
+
+
+<div style="clear:both;"></div>
+
+    
+  
+
+  
+    
+  
+
+
+</div>
+
+
+
+  
+  
+</div>
+
+<div style="display:none" id="preloading">
+
+<img src="//cdn.shopify.com/s/files/1/0586/2689/products/CLOWNS_BadBlood_RedWine_1024x1024.jpg?v=1597115049" alt="" />
+
+</div>
+      </section>
+      <!-- End content-->
+      
+    </div>
+  </div>
+  <!-- End wrapper -->
+  
+  <!-- Begin footer -->
+  <div class="footer-wrapper">
+    <footer>
+      <div class="row">
+
+        <div class="span12 full-border"></div>
+        
+        
+        
+        <!-- Begin latest blog post -->
+        
+        <!-- End latest blog post -->
+        
+        <!-- Begin footer navigation -->
+        <div class="span4 footer-menu">
+          <h4>Quick Links</h4>
+          <ul class="unstyled">
+            
+              <li><a href="/collections/poison-city-artists" title="POISON CITY">POISON CITY</a></li>
+            
+              <li><a href="/collections/vinyl" title="VINYL">VINYL</a></li>
+            
+              <li><a href="/collections/sweats" title="MERCH">MERCH</a></li>
+            
+              <li><a href="/collections/cds" title="CD/ TAPE">CD/ TAPE</a></li>
+            
+              <li><a href="/collections/skateboarding" title="SKATE">SKATE</a></li>
+            
+              <li><a href="/collections/tickets" title="ON SALE">ON SALE</a></li>
+            
+          </ul>
+        </div>
+        <!-- End footer navigation -->
+        
+        <!-- Begin newsletter/social -->
+        <div class="span4">
+          
+          
+          <div class="p30">
+            <h4>Newsletter</h4>
+            <form action="" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank">
+              <input type="email" value="" placeholder="Email Address" name="EMAIL" id="mail" /><input type="submit" class="btn newsletter" value="Subscribe" name="subscribe" id="subscribe" />
+            </form>
+          </div>
+          
+          
+          
+          
+        </div>
+        <!-- End newsletter/social -->
+        
+        
+        <div class="span4">          
+          <div class="clearfix">
+          
+            <h4>Follow us</h4>
+            <span class="social-links">
+<a href="https://www.facebook.com/pages/poison-city-records/102282099824500" title="Follow us on Facebook"><span class="shopify-social-icon-facebook-circle"></span></a>
+<a href="http://www.twitter.com/poisoncity" title="Follow us on Twitter"><span class="shopify-social-icon-twitter-circle"></span></a>
+
+
+<a href="http://instagram.com/poisoncity" title="Follow us on Instagram"><span class="shopify-social-icon-instagram-circle"></span></a>
+<a href="http://vimeo.com/user5345364" title="Follow us on Vimeo"><span class="shopify-social-icon-vimeo-circle"></span></a>
+<a href="http://www.youtube.com/channel/UCDffe1rGj1BeYtvOkDiQpwg" title="Follow us on YouTube"><span class="shopify-social-icon-youtube-circle"></span></a>
+<a href="http://poisoncityrecords.com" title="Come visit our blog"><span class="shopify-social-icon-tumblr-circle"></span></a>
+
+</span>
+          
+          </div>
+          
+        </div>
+        
+        
+        <!-- Begin copyright -->
+        <div class="span12 tc copyright">
+          <p>Copyright &copy; 2022 POISON CITY RECORDS | <a target="_blank" rel="nofollow" href="https://www.shopify.com.au/pos?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">POS</a> and <a target="_blank" rel="nofollow" href="https://www.shopify.com.au?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Ecommerce by Shopify</a>  </p>
+          
+          <ul class="credit-cards clearfix">
+            
+            <li><img width="50" src="//cdn.shopify.com/shopifycloud/shopify/assets/payment_icons/paypal-49e4c1e03244b6d2de0d270ca0d22dd15da6e92cc7266e93eb43762df5aa355d.svg" /></li>
+            
+          </ul> <!-- /.credit-cards -->
+            
+        </div>
+        <!-- End copyright -->
+
+      </div> 
+    </footer>
+  </div>
+  <!-- End footer -->
+    
+  
+    <script src="//cdn.shopify.com/s/files/1/0586/2689/t/2/assets/jquery.flexslider-min.js?v=27441391644690076551405862186" type="text/javascript"></script>
+  
+  
+    <script src="//cdn.shopify.com/s/files/1/0586/2689/t/2/assets/jquery.zoom.js?v=59982230552255613961405862186" type="text/javascript"></script>
+  
+  <script src="//cdn.shopify.com/s/files/1/0586/2689/t/2/assets/jquery.tweet.js?v=3237142640094422581405862187" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0586/2689/t/2/assets/jquery.fancybox.js?v=98388074616830255951405862186" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/0586/2689/t/2/assets/scripts.js?v=41072032570163632551449483583" type="text/javascript"></script>
+  
+  
+  
+  <script>
+
+  var selectCallback = function(variant, selector) {
+    
+    if (variant) {
+      
+      if (variant.price < variant.compare_at_price) {
+        jQuery('#price-preview').html(Shopify.formatMoney(variant.price, "${{amount}}") + " <del>" + Shopify.formatMoney(variant.compare_at_price, "${{amount}}") + "</del>");
+      } 
+      else {
+        jQuery('#price-preview').html(Shopify.formatMoney(variant.price, "${{amount}}"));
+      }
+      if (variant.available) {
+        jQuery('#add-to-cart').removeAttr('disabled').removeClass('disabled').val('Add to cart'); 
+      } 
+      else {
+        jQuery('#add-to-cart').val('Sold Out').addClass('disabled').attr('disabled', 'disabled');
+      }
+    }
+    else {
+      jQuery('#add-to-cart').val('Unavailable').addClass('disabled').attr('disabled', 'disabled');
+    }
+    
+  };
+  
+  jQuery(document).ready(function($){
+    new Shopify.OptionSelectors("product-select", { product: {"id":422692279,"title":"CLOWNS 'Bad Blood' LP","handle":"clowns-bad-blood-lp","description":"\u003cp\u003e\u003cspan\u003e\u003cem\u003e\u003cstrong\u003eNew Red Wine colour vinyl!\u003c\/strong\u003e\u003c\/em\u003e\u003c\/span\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cspan\u003e\u003cem\u003e\u003cstrong\u003eCLOWNS\u003c\/strong\u003e\u003c\/em\u003e embody the carefree, kick-around attitude that helped make Australian guitar music a worldwide fascination. Their rapid-fire 2013 debut album \u003c\/span\u003e\u003cem\u003e'I'm Not Right' \u003c\/em\u003e\u003cspan\u003ewas labelled \u003c\/span\u003e\u003cem\u003e'savage'\u003c\/em\u003e\u003cspan\u003e,\u003c\/span\u003e\u003cem\u003e'sharp'\u003c\/em\u003e\u003cspan\u003e and a '\u003c\/span\u003e\u003cem\u003efull on onslaught.' \u003c\/em\u003e\u003cspan\u003eFast forward twelve months and Clowns have completed a tough touring apprenticeship with some of the nation's greats; \u003cstrong\u003eHard Ons, The Meanies, Frenzal Rhomb, Cosmic Psychos\u003c\/strong\u003e and more.\u003c\/span\u003e\u003cspan\u003e \u003c\/span\u003e\u003cbr\u003e\u003cbr\u003e'\u003cem\u003e\u003cstrong\u003eBad Blood\u003c\/strong\u003e\u003c\/em\u003e' is Clowns latest destructive offering, written amongst the suburban jungle of Cheltenham (where the band grew up) in a complex that houses\u003cspan size=\"2\" style=\"font-size: small;\"\u003e a bakery, a cattery and a morgue, right across the road from a \u003c\/span\u003ecemetery\u003cspan size=\"2\" style=\"font-size: small;\"\u003e. Recorded at at St.Kilda's lauded Hot House Studios with \u003c\/span\u003eCraig Harnath and Jeremy Giddings\u003cspan size=\"2\" style=\"font-size: small;\"\u003e using their famous Neve desk and a truckload of vintage and boutique gear, the production is rich, raw and dirty. Urgent but natural. Reflective of the band's can-do DIY \u003c\/span\u003eapproach\u003cspan size=\"2\" style=\"font-size: small;\"\u003e and go hard or go home attitude.\u003cbr\u003e\u003c\/span\u003e\u003c\/p\u003e","published_at":"2017-12-14T13:41:12+11:00","created_at":"2014-12-19T11:12:26+11:00","vendor":"Poison City","type":"","tags":["AriaExport","LP","Melbourne","Vinyl"],"price":2800,"price_min":2800,"price_max":2800,"available":true,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":35599130263713,"title":"Red Wine","option1":"Red Wine","option2":null,"option3":null,"sku":"PCR102LP","requires_shipping":true,"taxable":true,"featured_image":{"id":18418173968545,"product_id":422692279,"position":2,"created_at":"2020-08-11T13:04:07+10:00","updated_at":"2020-08-11T13:04:09+10:00","alt":null,"width":1000,"height":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0586\/2689\/products\/CLOWNS_BadBlood_RedWine.jpg?v=1597115049","variant_ids":[35599130263713]},"available":true,"name":"CLOWNS 'Bad Blood' LP - Red Wine","public_title":"Red Wine","options":["Red Wine"],"price":2800,"weight":400,"compare_at_price":null,"inventory_quantity":74,"inventory_management":"shopify","inventory_policy":"deny","barcode":"680596876212","featured_media":{"alt":null,"id":10592621232289,"position":2,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0586\/2689\/products\/CLOWNS_BadBlood_RedWine.jpg?v=1597115049"}},"requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/0586\/2689\/products\/PCR102_500x500_be9bdccf-0295-43b6-9f94-8950d10ae3df.jpg?v=1597115009","\/\/cdn.shopify.com\/s\/files\/1\/0586\/2689\/products\/CLOWNS_BadBlood_RedWine.jpg?v=1597115049"],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/0586\/2689\/products\/PCR102_500x500_be9bdccf-0295-43b6-9f94-8950d10ae3df.jpg?v=1597115009","options":["Size"],"media":[{"alt":null,"id":10592612876449,"position":1,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0586\/2689\/products\/PCR102_500x500_be9bdccf-0295-43b6-9f94-8950d10ae3df.jpg?v=1597115009"},"aspect_ratio":1.0,"height":500,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0586\/2689\/products\/PCR102_500x500_be9bdccf-0295-43b6-9f94-8950d10ae3df.jpg?v=1597115009","width":500},{"alt":null,"id":10592621232289,"position":2,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0586\/2689\/products\/CLOWNS_BadBlood_RedWine.jpg?v=1597115049"},"aspect_ratio":1.0,"height":1000,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0586\/2689\/products\/CLOWNS_BadBlood_RedWine.jpg?v=1597115049","width":1000}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cp\u003e\u003cspan\u003e\u003cem\u003e\u003cstrong\u003eNew Red Wine colour vinyl!\u003c\/strong\u003e\u003c\/em\u003e\u003c\/span\u003e\u003c\/p\u003e\n\u003cp\u003e\u003cspan\u003e\u003cem\u003e\u003cstrong\u003eCLOWNS\u003c\/strong\u003e\u003c\/em\u003e embody the carefree, kick-around attitude that helped make Australian guitar music a worldwide fascination. Their rapid-fire 2013 debut album \u003c\/span\u003e\u003cem\u003e'I'm Not Right' \u003c\/em\u003e\u003cspan\u003ewas labelled \u003c\/span\u003e\u003cem\u003e'savage'\u003c\/em\u003e\u003cspan\u003e,\u003c\/span\u003e\u003cem\u003e'sharp'\u003c\/em\u003e\u003cspan\u003e and a '\u003c\/span\u003e\u003cem\u003efull on onslaught.' \u003c\/em\u003e\u003cspan\u003eFast forward twelve months and Clowns have completed a tough touring apprenticeship with some of the nation's greats; \u003cstrong\u003eHard Ons, The Meanies, Frenzal Rhomb, Cosmic Psychos\u003c\/strong\u003e and more.\u003c\/span\u003e\u003cspan\u003e \u003c\/span\u003e\u003cbr\u003e\u003cbr\u003e'\u003cem\u003e\u003cstrong\u003eBad Blood\u003c\/strong\u003e\u003c\/em\u003e' is Clowns latest destructive offering, written amongst the suburban jungle of Cheltenham (where the band grew up) in a complex that houses\u003cspan size=\"2\" style=\"font-size: small;\"\u003e a bakery, a cattery and a morgue, right across the road from a \u003c\/span\u003ecemetery\u003cspan size=\"2\" style=\"font-size: small;\"\u003e. Recorded at at St.Kilda's lauded Hot House Studios with \u003c\/span\u003eCraig Harnath and Jeremy Giddings\u003cspan size=\"2\" style=\"font-size: small;\"\u003e using their famous Neve desk and a truckload of vintage and boutique gear, the production is rich, raw and dirty. Urgent but natural. Reflective of the band's can-do DIY \u003c\/span\u003eapproach\u003cspan size=\"2\" style=\"font-size: small;\"\u003e and go hard or go home attitude.\u003cbr\u003e\u003c\/span\u003e\u003c\/p\u003e"}, onVariantSelected: selectCallback });
+
+    // Add label if only one product option and it isn't 'Title'.
+    
+      $('.selector-wrapper:eq(0)').prepend('<label>Size</label>');
+    
+  
+    // Auto-select first available variant on page load.
+    
+    
+      
+        
+        
+        $('.single-option-selector:eq(0)').val("Red Wine").trigger('change');
+        
+      
+    
+
+  });
+             
+  </script>
+  
+  
+  
+</body>
+</html>

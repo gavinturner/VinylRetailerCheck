@@ -1,0 +1,2403 @@
+
+
+                
+<!DOCTYPE html>
+<html
+    class="is_not_mobile needs_reduced_ui "
+    lang="en"
+    xmlns:og="http://opengraphprotocol.org/schema/"
+    xmlns:fb="http://www.facebook.com/2008/fbml"
+>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="content-language" content="en">
+        <meta http-equiv="pragma" content="no-cache" />
+        <meta http-equiv="expires" content="-1" />
+
+        <!-- OT will rewrite convert these to javascript and update our consent module accordingly -->
+        <script type="text/plain" class="optanon-category-C0002">
+            window.consent.resolveGroup(window.consent.PERFORMANCE_GROUP)
+        </script>
+        <script type="text/plain" class="optanon-category-C0003">
+            window.consent.resolveGroup(window.consent.FUNCTIONALITY_GROUP)
+        </script>
+        <script type="text/plain" class="optanon-category-C0004">
+            window.consent.resolveGroup(window.consent.TARGETING_GROUP)
+        </script>
+
+                <meta id="viewport" name="viewport" content="initial-scale=1.0,width=device-width" />
+
+        <script>
+            if (window.innerWidth <= 600) document.getElementById('viewport').setAttribute('content', 'initial-scale=1.0, minimum-scale 1.0, width="device-width"');
+                                            </script>
+        
+        <script type="text/javascript">
+            window.__start = new Date().getTime();
+        </script>
+
+        <script type="text/javascript">
+            // dataLayer additions consumed by Google Tag Manager for later submission
+            // to Google Analytics - this object is added to _every_ page.
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({
+                'event': 'dataLayer-initialized',
+                'userId': undefined,
+                'loggedIn': false,
+                'siteVersion': undefined,
+                'pageCategory': "search.query"
+            });
+        </script>
+
+                    <meta name="description" content="Discover music on Discogs, the largest online music database. Buy and sell music with collectors in the Marketplace.">
+                            <meta name="keywords" content="vinyl records, used cds, discography, database, new, used, cds, lps, vinyl record, albums, rare cds, rare records, music albums, music cds, cd single, music cd, cd singles, rare lps, hard to find music, out of print music, cheap cds, cheap music, rare vinyl records, used music">
+        <meta property="fb:app_id" content="117175028305858">    
+                            <script type="text/javascript" src="https://lngtd.com/discogs_b.js"></script>
+            
+                
+                        
+                
+        <title>nofx war on errorism vinyl music | Discogs</title>
+                    
+                                                        <link rel="alternate" hreflang="en" href="https://www.discogs.com/search/?q=nofx+war+on+errorism+vinyl&type=all" />
+                                                                                    <link rel="alternate" hreflang="de" href="https://www.discogs.com/de/search/?q=nofx+war+on+errorism+vinyl&type=all" />
+                                                                                    <link rel="alternate" hreflang="es" href="https://www.discogs.com/es/search/?q=nofx+war+on+errorism+vinyl&type=all" />
+                                                                                    <link rel="alternate" hreflang="fr" href="https://www.discogs.com/fr/search/?q=nofx+war+on+errorism+vinyl&type=all" />
+                                                                                    <link rel="alternate" hreflang="it" href="https://www.discogs.com/it/search/?q=nofx+war+on+errorism+vinyl&type=all" />
+                                                                                    <link rel="alternate" hreflang="ja" href="https://www.discogs.com/ja/search/?q=nofx+war+on+errorism+vinyl&type=all" />
+                                                                                    <link rel="alternate" hreflang="ko" href="https://www.discogs.com/ko/search/?q=nofx+war+on+errorism+vinyl&type=all" />
+                                                                                    <link rel="alternate" hreflang="pt-BR" href="https://www.discogs.com/pt_BR/search/?q=nofx+war+on+errorism+vinyl&type=all" />
+                                                                                    <link rel="alternate" hreflang="ru" href="https://www.discogs.com/ru/search/?q=nofx+war+on+errorism+vinyl&type=all" />
+                                    
+        <link rel="stylesheet" type="text/css" href="https://s.discogs.com/ba9dc00ea28dd509e0145bac1167931926479262/dst/stylesheets/discogs.css"  />
+        
+
+                                        <link rel="icon" href="https://s.discogs.com/ba9dc00ea28dd509e0145bac1167931926479262/images/favicon.ico" />
+        <link rel="icon" sizes="16x16" href="https://s.discogs.com/ba9dc00ea28dd509e0145bac1167931926479262/images/favicon-16x16.png" />
+        <link rel="icon" sizes="32x32" href="https://s.discogs.com/ba9dc00ea28dd509e0145bac1167931926479262/images/favicon-32x32.png" />
+        <link rel="icon" sizes="96x96" href="https://s.discogs.com/ba9dc00ea28dd509e0145bac1167931926479262/images/favicon-96x96.png" />
+        <link rel="apple-touch-icon" href="https://s.discogs.com/ba9dc00ea28dd509e0145bac1167931926479262/images/apple-touch-icon-precomposed.png" />
+        <link rel="mask-icon" href="https://s.discogs.com/ba9dc00ea28dd509e0145bac1167931926479262/images/discogs-record-icon.svg" color="black">
+        <script id="dsdata">
+            function dsdata (){
+                return {"activationHelpUrl": "/help/doc/activation", "apiServer": "https://api.discogs.com", "appEnv": "production", "assetBasePath": "ba9dc00ea28dd509e0145bac1167931926479262/dst/", "assetsHost": "https://s.discogs.com/", "autocompleteUrl": "/search/ac", "cookieDomain": "www.discogs.com", "countryAbbr": "au", "countryName": "Australia", "dataLayer": [], "defaultLocale": "en", "enableGoogleAnalyticsDebugging": false, "enableGoogleAnalyticsDebuggingVerbose": false, "enableGoogleAnalytics": true, "enableGoogleTagManager": true, "enableAds": true, "endpoint": "search.query", "ga_pageview_page": "/search.query", "ga_pageview_title": "search.query", "isDiscogsApp": false, "isMobile": false, "locale": "en", "loginUrl": "https://www.discogs.com/login", "mp_web": {"cart_anon": true}, "recaptchaKey": "6LdGMgITAAAAAPG6lAC5r1yck_LpHUbQs4IbnNtV", "requireCookieConsent": false, "sentryKey": "https://387a0c015e78429ca256c602993e2b92@sentry.io/51758", "sha": "ba9dc00ea28dd509e0145bac1167931926479262", "useSentry": true, "userIsAdmin": false, "userIsRegistered": false, "searchQuery": "nofx war on errorism vinyl", "pagination_limit": 50, "searchTotal": 23, "adsObject": {"genres": [], "styles": [], "query": "nofx war on errorism vinyl"}};
+            }
+        </script>
+        <script>
+            window.ds = typeof window.ds == "function" ? window.ds : function(){
+                (ds.q = ds.q || []).push(arguments);
+                return ds;
+            };
+        </script>
+
+                
+    </head>
+    <body class="">
+        <div id="main_wrapper">                            <div id="site_headers_super_wrap">
+    <div id="site_header_wrap" >
+        <header id="site_header">
+                                                    <a
+                id="header_logo"
+                href="/"
+                title="Go to Discogs.com homepage"
+            >
+                <img src="https://s.discogs.com/ba9dc00ea28dd509e0145bac1167931926479262/images/discogs-logo.svg" alt="Discogs" />
+            </a>
+            <form id="site_search" action="/search/" role="search" aria-label="Search Discogs">
+                <input
+                    id="search_q"
+                    name="q"
+                    type="text"
+                    class="autocomplete ac_type_a_m_r_13 ac_submit"
+                    value="nofx war on errorism vinyl"
+                    autocapitalize="off"
+                    autocorrect="off"
+                                            placeholder="Search artists, albums and more..."
+                        aria-label="Search artists, albums and more..."
+                                    />
+                <button
+                    type="submit"
+                    id="do_site_search"
+                    class="submit button"
+                    name=""
+                    value=""
+                    aria-label="Search"
+                >
+                <i class="icon icon-search"></i>
+                </button>
+                <input type="hidden" class="advanced_search advanced_search_type" name="type" value="all"/>
+            </form>
+            <nav aria-label="Main">
+                <ul id="site_navigation">
+                    <li id="section_nav_explore" class="site_nav_group" data-id="explore">
+                        <button class="nav_group_control" aria-expanded="false">Explore<i class="icon icon-caret-down" aria-hidden="true"></i>
+                        </button>
+                        <div class="site_nav_submenu site_nav_tray" id="site_nav_tray_explore">
+                            <div class="subnav-flex">
+    <ul>
+        <li><h2>Discover</h2></li>
+        <ul>
+            <li><a href="/search/?ev=em_rs">Explore All</a></li>
+            <li><a href="/search/?type=release&sort=hot%2Cdesc&ev=em_tr">Trending Releases</a></li>
+            <li><a href="/lists?ev=em_rl">List Explorer</a></li>
+            <li><a href="/search/advanced?ev=em_as">Advanced Search</a></li>
+            <li><a href="https://blog.discogs.com/en/tag/database-en/?utm_source=discogs&utm_medium=referral&utm_campaign=navigation_menu" target="_blank">Articles About Music</a></li>
+        </ul>
+    </ul>
+    <ul>
+        <li><h2>Contribute</h2></li>
+        <ul>
+            <li><a href="https://support.discogs.com/hc/articles/360004016474-Overview-of-Submission-Guidelines-for-Releases/?utm_source=discogs&utm_medium=referral&utm_campaign=navigation_menu" target="_blank">Submission Guidelines</a></li>
+            <li><a href="/release/add?ev=em_sr" rel="nofollow">Submit a Release</a></li>
+            <li><a href="https://support.discogs.com/hc/articles/360001567973/?utm_source=discogs&utm_medium=referral&utm_campaign=navigation_menu" target="_blank">How to Make a List</a>
+            <li><a href="/leaderboard">Monthly Leaderboard</a></li>
+            <li><a href="https://localization.discogs.com/?ev=em_bt" target="_blank">Help Translate Discogs</a></li>
+        </ul>
+    </ul>
+    <ul>
+        <div>
+            <li><h2>Genres</h2></li>
+            <ul>
+                <li><a href="/genre/rock?ev=em_rp">Rock</a></li>
+                <li><a href="/genre/electronic?ev=em_ep">Electronic</a></li>
+                <li><a href="/genre/hip+hop?ev=em_pp">Hip Hop</a></li>
+                <li><a href="/genre/folk%2C+world%2C+%26+country?ev=em_fwcp">Folk, World, & Country</a></li>
+                <li><a href="/genre/jazz?ev=em_jp">Jazz</a></li>
+            </ul>
+        </div>
+    </ul>
+    <ul>
+        <div>
+            <li><h2>Styles</h2></li>
+            <ul>
+                <li><a href="/style/house?ev=em_hp">House</a></li>
+                <li><a href="/style/punk?ev=em_pup">Punk</a></li>
+                <li><a href="/style/soul?ev=em_vp">Soul</a></li>
+                <li><a href="https://blog.discogs.com/en/genres-and-styles-list/?utm_source=discogs&utm_medium=referral&utm_campaign=navigation_menu">Explore All Styles</a></li>
+                <li><a href="https://blog.discogs.com/regional-music-styles/">Regional Style Map</a></li>
+            </ul>
+        </div>
+    </ul>
+</div>
+
+                        </div>
+                    </li>
+                    <li id="section_nav_marketplace" class="site_nav_group" data-id="marketplace" >
+                        <button class="nav_group_control" aria-expanded="false">
+                            Marketplace<i class="icon icon-caret-down" aria-hidden="true"></i>
+                        </button>
+                        <div class="site_nav_submenu site_nav_tray" id="site_nav_tray_marketplace">
+                                <div class="subnav-flex">
+        <ul class="tray_formats">
+            <li>
+                <h2>Format</h2>
+            </li>
+            <ul>
+                <li>
+                    <a href="/sell/list?format=Vinyl">
+                        Vinyl
+                    </a>
+                </li>
+                <li>
+                    <a href="/sell/list?format=CD">
+                        CD
+                    </a>
+                </li>
+                <li>
+                    <a href="/sell/list?format=Cassette">
+                        Cassette
+                    </a>
+                </li>
+                <li>
+                    <a href="/sell/list?format=DVD">
+                        DVD
+                    </a>
+                </li>
+                <li>
+                    <a href="/sell/list?format=Box+Set">
+                        Box Set
+                    </a>
+                </li>
+            </ul>
+        </ul>
+        <ul class="tray_genres">
+            <li><h2>Genre</h2></li>
+            <ul>
+                <li>
+                    <a href="/sell/list?genre=Rock">
+                        Rock
+                    </a>
+                </li>
+                <li>
+                    <a href="/sell/list?genre=Electronic">
+                        Electronic
+                    </a>
+                </li>
+                <li>
+                    <a href="/sell/list?genre=Pop">
+                        Pop
+                    </a>
+                </li>
+                <li>
+                    <a href="/sell/list?genre=Funk+%2F+Soul">
+                        Funk / Soul
+                    </a>
+                </li>
+                <li>
+                    <a href="/sell/list?genre=Jazz">
+                        Jazz
+                    </a>
+                </li>
+            </ul>
+        </ul>
+        <ul class="tray_styles">
+            <li><h2>Styles</h2></li>
+            <ul>
+                <li>
+                    <a href="/sell/list?style=Pop+Rock">
+                        Pop Rock
+                    </a>
+                </li>
+                <li>
+                    <a href="/sell/list?style=House">
+                        House
+                    </a>
+                </li>
+                <li>
+                    <a href="/sell/list?style=Disco">
+                        Disco
+                    </a>
+                </li>
+                <li>
+                    <a href="/sell/list?style=Synth-pop">
+                        Synth-pop
+                    </a>
+                </li>
+                <li>
+                    <a href="/sell/list?style=Soul">
+                        Soul
+                    </a>
+                </li>
+            </ul>
+        </ul>
+
+        <ul>
+            <li>
+                <h2>
+                    <a href="/sell/list" class="buy-music">
+                        Buy Music                    </a>
+                </h2>
+            </li>
+            <ul>
+                <li>
+                    <a href="/sell/list">
+                        All Items                    </a>
+                </li>
+                <li>
+                    <a href="/sell/mywants">
+                        Items I Want                    </a>
+                </li>
+                <li>
+                    <a href="/sell/purchases">
+                        Purchases                    </a>
+                </li>
+                <li>
+                    <a href="/sell/cart/">
+                        Cart                    </a>
+                </li>
+                <li>
+                    <a href="/record-stores/">
+                        Record Stores                    </a>
+                </li>
+            </ul>
+        </ul>
+        <ul>
+            <li>
+                <h2>Sell Music</h2>
+            </li>
+            <ul>
+                <li>
+                    <a href="/selling">
+                        Start Selling                    </a>
+                </li>
+                <li>
+                    <a href="/sell/">
+                        List Item For Sale                    </a>
+                </li>
+                <li>
+                    <a href="/sell/orders">
+                        Orders                    </a>
+                </li>
+                <li>
+                    <a href="/sell/manage">
+                        Inventory                    </a>
+                </li>
+                <li>
+                    <a href="/sell/billing">
+                        Billing                    </a>
+                </li>
+                            </ul>
+        </ul>
+    </div>
+
+                        </div>
+                    </li>
+                    <li id="section_nav_community" class="site_nav_group" data-id="community">
+                        <button class="nav_group_control" aria-expanded="false">
+                            Community<i class="icon icon-caret-down" aria-hidden="true"></i>
+                        </button>
+                        <ul class="site_nav_submenu" id="site_nav_submenu_community">
+                            <li>
+                                <a href="https://www.discogs.com/digs">
+                                    Discogs Digs
+                                </a>
+                            </li>
+                            <li>
+                                <a href="/group/">
+                                    Groups                                </a>
+                            </li>
+                            <li>
+                                <a href="/forum/">
+                                    Forum                                </a>
+                            </li>
+                            <li>
+                                <a href="https://blog.discogs.com/en/">
+                                    Blog                                </a>
+                            </li>
+                            <li>
+                                <a href="/users/friends">
+                                    Friends                                </a>
+                            </li>
+                            <li>
+                                <a href="/help/doc/forums">
+                                    Community Guidelines                                </a>
+                            </li>
+                            <li>
+                                <a href="https://support.discogs.com/hc/articles/360004016474-Overview-of-Submission-Guidelines-for-Releases">
+                                    Database Guidelines                                </a>
+                            </li>
+                            <li>
+                                <a href="https://vinylhub.discogs.com?utm_source=discogs-top-nav&utm_medium=referral" target="_blank">
+                                    Record Shops                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>            </nav>
+            <nav aria-label="Activity Menu">
+                <ul
+                    id="activity_menu"
+                                                                                                        class="activity_menu_columns_4"
+                >
+                                            <li>
+                                                                                        
+                            <a href="/login?return_to=%2Fsearch%2F%3Fq%3Dnofx%2Bwar%2Bon%2Berrorism%2Bvinyl%26type%3Dall" id="log_in_link" class="nav_group_control">
+                                Log In                            </a>
+                        </li>
+                        <li>
+                            <a class="button button-yellow register-btn" href="/users/create">
+                                Register                            </a>
+                        </li>
+                                    </ul>            </nav>
+            <button id="mobile_site_navigation_toggle" aria-label="Site Menu" class="" aria-expanded="false"><i class="icon icon-bars"></i></button>
+            <ul id="mobile_site_navigation">
+                <li id="activity_menu_placeholder"></li>
+                <li id="site_navigation_placeholder"></li>
+            </ul>
+        </header>    </div></div>
+<div class="ac_div" id="ac_search_q"></div>
+
+
+                        
+<div class="flash_messages">
+                        
+        
+            
+                        
+        
+
+            <noscript>
+                                <div class="alert-message alert-message-warning alert-message-top "
+            id="alert-message-"
+            data-alert-message-closable="false"
+            data-alert-message-auto-close="false"
+                                >
+            <div class="alert-message-content float_fix ">
+                <i class="icon icon-exclamation-triangle alert-message-icon"></i>
+                                <span class="alert-message-text">
+                                            <strong>Please enable Javascript to take full advantage of our site features.</strong>
+                                    </span>
+            </div>
+        </div>
+    
+    </noscript>
+
+    </div>                                                                                                                                                    <div id="page" class="aside_left aside_more_narrow with_tabs aside_off_canvas">
+                                                        <div class="ad_container ad_top" id='ad_top'></div>
+        
+                                                                                                                            <div id="page_aside" class="" role="complementary">
+                                            <div class="hide_mobile">
+            
+    </div>
+
+    <div>
+                    <h3 class="facets_header">Format</h3>
+            <ul class="no_vertical facets_nav">
+                                                                        <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=LP">
+            <small class="facet_count">21</small>
+            <span class="facet_name">LP</span>
+            <span class="facet-bar" style="width: 91.30434782608695%;"></span>
+        </a>
+    </li>
+
+                                        <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=Vinyl">
+            <small class="facet_count">21</small>
+            <span class="facet_name">Vinyl</span>
+            <span class="facet-bar" style="width: 91.30434782608695%;"></span>
+        </a>
+    </li>
+
+                                        <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=Album">
+            <small class="facet_count">14</small>
+            <span class="facet_name">Album</span>
+            <span class="facet-bar" style="width: 60.86956521739131%;"></span>
+        </a>
+    </li>
+
+                                        <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=Compilation">
+            <small class="facet_count">13</small>
+            <span class="facet_name">Compilation</span>
+            <span class="facet-bar" style="width: 56.52173913043478%;"></span>
+        </a>
+    </li>
+
+                                        <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=Limited+Edition">
+            <small class="facet_count">10</small>
+            <span class="facet_name">Limited Edition</span>
+            <span class="facet-bar" style="width: 43.47826086956522%;"></span>
+        </a>
+    </li>
+
+                            </ul>
+                            <a class="more_facets_link" href="#more_facets_format_exact" data-for="facets_format_exact">
+                    <span class="more_facets_text">
+                        All<i class="icon icon-caret-down"></i>
+                    </span>
+                </a>
+                    <div class="more_facets_dialog" id="facets_format_exact" data-title="Format" style="display: none;">
+        <ul class="facets_nav">
+                                <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=LP">
+            <small class="facet_count">21</small>
+            <span class="facet_name">LP</span>
+            <span class="facet-bar" style="width: 91.30434782608695%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=Vinyl">
+            <small class="facet_count">21</small>
+            <span class="facet_name">Vinyl</span>
+            <span class="facet-bar" style="width: 91.30434782608695%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=Album">
+            <small class="facet_count">14</small>
+            <span class="facet_name">Album</span>
+            <span class="facet-bar" style="width: 60.86956521739131%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=Compilation">
+            <small class="facet_count">13</small>
+            <span class="facet_name">Compilation</span>
+            <span class="facet-bar" style="width: 56.52173913043478%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=Limited+Edition">
+            <small class="facet_count">10</small>
+            <span class="facet_name">Limited Edition</span>
+            <span class="facet-bar" style="width: 43.47826086956522%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=Reissue">
+            <small class="facet_count">9</small>
+            <span class="facet_name">Reissue</span>
+            <span class="facet-bar" style="width: 39.130434782608695%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=12%22">
+            <small class="facet_count">4</small>
+            <span class="facet_name">12"</span>
+            <span class="facet-bar" style="width: 17.391304347826086%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=45+RPM">
+            <small class="facet_count">4</small>
+            <span class="facet_name">45 RPM</span>
+            <span class="facet-bar" style="width: 17.391304347826086%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=Box+Set">
+            <small class="facet_count">4</small>
+            <span class="facet_name">Box Set</span>
+            <span class="facet-bar" style="width: 17.391304347826086%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=EP">
+            <small class="facet_count">4</small>
+            <span class="facet_name">EP</span>
+            <span class="facet-bar" style="width: 17.391304347826086%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+                                            <ul class="facets_nav">
+                                                <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=Repress">
+            <small class="facet_count">3</small>
+            <span class="facet_name">Repress</span>
+            <span class="facet-bar" style="width: 13.043478260869565%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=33+%E2%85%93+RPM">
+            <small class="facet_count">2</small>
+            <span class="facet_name">33 ⅓ RPM</span>
+            <span class="facet-bar" style="width: 8.695652173913043%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=CD">
+            <small class="facet_count">2</small>
+            <span class="facet_name">CD</span>
+            <span class="facet-bar" style="width: 8.695652173913043%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=Deluxe+Edition">
+            <small class="facet_count">2</small>
+            <span class="facet_name">Deluxe Edition</span>
+            <span class="facet-bar" style="width: 8.695652173913043%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=Club+Edition">
+            <small class="facet_count">1</small>
+            <span class="facet_name">Club Edition</span>
+            <span class="facet-bar" style="width: 4.3478260869565215%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=Promo">
+            <small class="facet_count">1</small>
+            <span class="facet_name">Promo</span>
+            <span class="facet-bar" style="width: 4.3478260869565215%;"></span>
+        </a>
+    </li>
+
+                                                <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&format_exact=Test+Pressing">
+            <small class="facet_count">1</small>
+            <span class="facet_name">Test Pressing</span>
+            <span class="facet-bar" style="width: 4.3478260869565215%;"></span>
+        </a>
+    </li>
+
+                                    </ul>
+    </div>
+
+                                <h3 class="facets_header">Decade</h3>
+            <ul class="no_vertical facets_nav">
+                                                                        <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&decade=2020">
+            <small class="facet_count">2</small>
+            <span class="facet_name">2020</span>
+            <span class="facet-bar" style="width: 8.695652173913043%;"></span>
+        </a>
+    </li>
+
+                                        <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&decade=2010">
+            <small class="facet_count">17</small>
+            <span class="facet_name">2010</span>
+            <span class="facet-bar" style="width: 73.91304347826086%;"></span>
+        </a>
+    </li>
+
+                                        <li>
+        <a href="/search/?q=nofx+war+on+errorism+vinyl&type=all&decade=2000">
+            <small class="facet_count">4</small>
+            <span class="facet_name">2000</span>
+            <span class="facet-bar" style="width: 17.391304347826086%;"></span>
+        </a>
+    </li>
+
+                            </ul>
+                    
+            </div>
+
+                <div class="ad_container ad_left" id='ad_left'></div>
+        
+    <p>
+        <a href="/help/doc/browsing-and-searching"><i class="icon icon-question-circle"></i> Help on searching</a><br />
+        <a href="/search/advanced"><i class="icon icon-cog"></i> Advanced search</a>
+    </p>
+                        </div>
+                                    
+                <div id="page_content" role="main">    
+                                                                                            <div class="responsive_wrap tabs-wrap float_fix">
+                    <ul class="tab_menu">
+                        <li class="menu-item  first current">    <a href="/search/?q=nofx+war+on+errorism+vinyl"
+                >                <span class="link_text">All</span>
+    
+    </a></li>
+            <li class="menu-item ">    <a href="/search/?q=nofx+war+on+errorism+vinyl&type=release"
+        class="link_with_count"        ><span class="facet_count">20</span>                <span class="link_text">Release</span>
+    
+    </a></li>
+            <li class="menu-item ">    <a href="/search/?q=nofx+war+on+errorism+vinyl&type=master"
+        class="link_with_count"        ><span class="facet_count">3</span>                <span class="link_text">Master</span>
+    
+    </a></li>
+            <li class="menu-item ">    <a href="/search/?q=nofx+war+on+errorism+vinyl&type=artist"
+                >                <span class="link_text">Artist</span>
+    
+    </a></li>
+            <li class="menu-item  last">    <a href="/search/?q=nofx+war+on+errorism+vinyl&type=label"
+                >                <span class="link_text">Label</span>
+    
+    </a></li>
+    
+        </ul>
+    
+    </div>
+         
+
+        <div class="actions_with_tabs">
+        <ul class="inline_menu">
+            <li>
+                <a href=" /sell/list?q=nofx+war+on+errorism+vinyl " data-gtm-track="search_marketplace" class="link_with_count">
+                    <span class="link_text">Search Marketplace</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+<h1 class="explore">Exploring nofx war on errorism vinyl </h1>                <div id="pjax_container">
+            
+
+
+        
+    <div class="pagination top ">
+        <form
+            action="/search/"
+            method="get"
+            
+            data-section="search"
+        >
+                            <strong class="pagination_total">
+        1 &ndash; 23 of 23    </strong>
+
+                                    <div class="pagination_controls ">
+                                            
+    <span id="layout_buttons" class="icon_button_group" data-section="search"><a class="inset_button needs_tooltip"  data-placement="bottom" data-size="big" title="Large Covers" href="#" disabled="disabled">
+                <i class="icon icon-th-large"></i>
+            </a><a class="inset_button needs_tooltip"  data-placement="bottom" data-size="med" title="Text With Covers" href="/search/?q=nofx+war+on+errorism+vinyl&amp;type=all&amp;layout=med">
+                <i class="icon icon-list"></i>
+            </a><a class="inset_button needs_tooltip"  data-placement="bottom" data-size="sm" title="Text Only" href="/search/?q=nofx+war+on+errorism+vinyl&amp;type=all&amp;layout=sm">
+                <i class="icon icon-align-justify"></i>
+            </a></span>
+
+                
+                                        
+                    <label for="sort_top" class="sort_top">Sort</label>
+        <select name="sort" id="sort_top">
+            
+            <option value="score,desc" selected="selected">Relevance</option><option value="date_added,desc">Latest Additions</option><option value="date_changed,desc">Latest Edits</option><option value="title,asc">Title, A-Z</option><option value="title,desc">Title, Z-A</option><option value="have,desc">Most Collected</option><option value="want,desc">Most Wanted</option><option value="hot,desc">Hot</option>    
+        </select>
+        <br class="hide-desktop">
+        
+
+                                                <noscript><button type="submit">Refresh</button></noscript>
+            </div>
+                                                                                                                                                    <input type="hidden" name="q" value="nofx war on errorism vinyl" />
+                                    <input type="hidden" name="type" value="all" />
+                                    </form>
+    </div>
+
+
+            
+            <div class="cards cards_layout_large" id="search_results">
+                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                data-id="m24697"
+    data-object-id="24697"
+    data-object-type="master release"
+                                                
+    >
+                                                                                                
+        
+                <a aria-label="NOFX - The War On Errorism"        href="/master/24697-NOFX-The-War-On-Errorism"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/TzdFcjZx_jp4zdG5fR6AFOo3hM7zF1dWrPjkrkoISZs/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTU1/NC0xNDUyNzIyNjYy/LTIwNTIuanBlZw.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - The War On Errorism" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/master/24697-NOFX-The-War-On-Errorism" class="search_result_title" title="The War On Errorism" data-followable="true">The War On Errorism</a></h4>
+                            <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+                
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r1082751"
+    data-object-id="1082751"
+    data-object-type="release"
+            data-master-id="24697"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - The War On Errorism"        href="/release/1082751-NOFX-The-War-On-Errorism"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/wlKsM6D3i2PPbF_eU7AE8RXvcusx0HlTL3fn9MtJWXk/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwODI3/NTEtMTQyNzQ0OTA0/OS04MTE5LmpwZWc.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - The War On Errorism" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/1082751-NOFX-The-War-On-Errorism" class="search_result_title" title="The War On Errorism" data-followable="true">The War On Errorism</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r12270255"
+    data-object-id="12270255"
+    data-object-type="release"
+            data-master-id="24697"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - The War On Errorism"        href="/release/12270255-NOFX-The-War-On-Errorism"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/hE0dJSPAcouKPyy1S-ERTIOJl9UysSryNdoRNdIr1gk/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMjcw/MjU1LTE1MzE4NDI4/MDgtNDA4MC5wbmc.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - The War On Errorism" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/12270255-NOFX-The-War-On-Errorism" class="search_result_title" title="The War On Errorism" data-followable="true">The War On Errorism</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r381554"
+    data-object-id="381554"
+    data-object-type="release"
+            data-master-id="24697"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - The War On Errorism"        href="/release/381554-NOFX-The-War-On-Errorism"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/TzdFcjZx_jp4zdG5fR6AFOo3hM7zF1dWrPjkrkoISZs/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4MTU1/NC0xNDUyNzIyNjYy/LTIwNTIuanBlZw.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - The War On Errorism" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/381554-NOFX-The-War-On-Errorism" class="search_result_title" title="The War On Errorism" data-followable="true">The War On Errorism</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r15732280"
+    data-object-id="15732280"
+    data-object-type="release"
+            data-master-id="24697"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - The War On Errorism"        href="/release/15732280-NOFX-The-War-On-Errorism"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/px5xornSyqP-gpwiFP5e-9zpJcgywAMcWy5F7lXyrQI/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NzMy/MjgwLTE1OTY3Njkx/MjItMzUzOS5qcGVn.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - The War On Errorism" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/15732280-NOFX-The-War-On-Errorism" class="search_result_title" title="The War On Errorism" data-followable="true">The War On Errorism</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r21800068"
+    data-object-id="21800068"
+    data-object-type="release"
+            data-master-id="24697"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - The War On Errorism"        href="/release/21800068-NOFX-The-War-On-Errorism"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/rx-Yncx1zqmU0_nNY9Wx9bfLP1WaP6Lp0LtB2WOCkrM/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxODAw/MDY4LTE2NDMyMTI0/MjctMzkyMi5qcGVn.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - The War On Errorism" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/21800068-NOFX-The-War-On-Errorism" class="search_result_title" title="The War On Errorism" data-followable="true">The War On Errorism</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r21558826"
+    data-object-id="21558826"
+    data-object-type="release"
+            data-master-id="24697"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - The War On Errorism"        href="/release/21558826-NOFX-The-War-On-Errorism"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/2Ku5JCIOAEi2WLytySlN1AI3koTMpWYz-0Efev2B1jE/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNTU4/ODI2LTE2NDA5OTUy/MDYtNzM1NS5qcGVn.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - The War On Errorism" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/21558826-NOFX-The-War-On-Errorism" class="search_result_title" title="The War On Errorism" data-followable="true">The War On Errorism</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r13409033"
+    data-object-id="13409033"
+    data-object-type="release"
+            data-master-id="24587"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - Pump Up The Valuum"        href="/release/13409033-NOFX-Pump-Up-The-Valuum"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/IteWtCnl_Eo-ssAj_Z0wxvhL7-JjTxcF_S48GALmwdo/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNDA5/MDMzLTE1NTM2Mzkw/ODItMjUyMy5qcGVn.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - Pump Up The Valuum" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/13409033-NOFX-Pump-Up-The-Valuum" class="search_result_title" title="Pump Up The Valuum" data-followable="true">Pump Up The Valuum</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                data-id="m294789"
+    data-object-id="294789"
+    data-object-type="master release"
+                                                
+    >
+                                                                                                
+        
+                <a aria-label="NOFX - The Longest EP"        href="/master/294789-NOFX-The-Longest-EP"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/d8F51HuZ6BGrN7VoxQhPAHjziZS4xyTcYrUoQ4xqGrU/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIy/MzctMTI5MTU3OTg2/Mi5qcGVn.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - The Longest EP" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/master/294789-NOFX-The-Longest-EP" class="search_result_title" title="The Longest EP" data-followable="true">The Longest EP</a></h4>
+                            <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+                
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r22832621"
+    data-object-id="22832621"
+    data-object-type="release"
+            data-master-id="24697"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - The War On Errorism"        href="/release/22832621-NOFX-The-War-On-Errorism"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_portrait
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/W-CfbUSPifinpDNMXr59oSf5iMLUyScRDnUY742st74/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyODMy/NjIxLTE2NTE1MTQ3/MjYtNzg5MC5qcGVn.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - The War On Errorism" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/22832621-NOFX-The-War-On-Errorism" class="search_result_title" title="The War On Errorism" data-followable="true">The War On Errorism</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r2582237"
+    data-object-id="2582237"
+    data-object-type="release"
+            data-master-id="294789"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - The Longest EP"        href="/release/2582237-NOFX-The-Longest-EP"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/d8F51HuZ6BGrN7VoxQhPAHjziZS4xyTcYrUoQ4xqGrU/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1ODIy/MzctMTI5MTU3OTg2/Mi5qcGVn.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - The Longest EP" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/2582237-NOFX-The-Longest-EP" class="search_result_title" title="The Longest EP" data-followable="true">The Longest EP</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r5205179"
+    data-object-id="5205179"
+    data-object-type="release"
+            data-master-id="24587"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - Pump Up The Valuum"        href="/release/5205179-NOFX-Pump-Up-The-Valuum"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/AREGeEtE1fF4Ccc__DveO7xvwkvwww74IU2kciACwEk/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMDUx/NzktMTQ3ODIwNzY5/MS0zMDQ4LmpwZWc.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - Pump Up The Valuum" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/5205179-NOFX-Pump-Up-The-Valuum" class="search_result_title" title="Pump Up The Valuum" data-followable="true">Pump Up The Valuum</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r2407667"
+    data-object-id="2407667"
+    data-object-type="release"
+            data-master-id="294789"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - The Longest EP"        href="/release/2407667-NOFX-The-Longest-EP"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/TxW4l8_M2tiW4VnsPTxlmGrhrGI5ZXGyqfTTBCWazZw/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MDc2/NjctMTI4MjMzNzIx/NC5qcGVn.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - The Longest EP" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/2407667-NOFX-The-Longest-EP" class="search_result_title" title="The Longest EP" data-followable="true">The Longest EP</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                data-id="m524521"
+    data-object-id="524521"
+    data-object-type="master release"
+                                                
+    >
+                                                                                                
+        
+                <a aria-label="NOFX - 30th Anniversary Box Set"        href="/master/524521-NOFX-30th-Anniversary-Box-Set"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/vVbhrYQVSaJGRCxiSx-MTJ9sT4XJaEFztTxnSqwxyqU/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTAz/NTYtMTUxODQ4NDQ0/Mi02NzIwLmpwZWc.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - 30th Anniversary Box Set" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/master/524521-NOFX-30th-Anniversary-Box-Set" class="search_result_title" title="30th Anniversary Box Set" data-followable="true">30th Anniversary Box Set</a></h4>
+                            <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+                
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r3735248"
+    data-object-id="3735248"
+    data-object-type="release"
+            data-master-id="294789"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - The Longest EP"        href="/release/3735248-NOFX-The-Longest-EP"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/jyJk9BQlSwfM4pHW4hcBwrsmCRrey6OuPhz2I6-A6ow/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3MzUy/NDgtMTM1NjgzODcx/NC01ODQ2LmpwZWc.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - The Longest EP" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/3735248-NOFX-The-Longest-EP" class="search_result_title" title="The Longest EP" data-followable="true">The Longest EP</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r4182558"
+    data-object-id="4182558"
+    data-object-type="release"
+            data-master-id="294789"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - The Longest EP"        href="/release/4182558-NOFX-The-Longest-EP"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/G1NVmWQcD6EAMJo2CKzYaQ-CY2qbKjoDi50uE6aUGPk/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQxODI1/NTgtMTU4ODAyOTM5/MC0yMjc5LmpwZWc.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - The Longest EP" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/4182558-NOFX-The-Longest-EP" class="search_result_title" title="The Longest EP" data-followable="true">The Longest EP</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r4308152"
+    data-object-id="4308152"
+    data-object-type="release"
+            data-master-id="524521"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - 30th Anniversary Box Set"        href="/release/4308152-NOFX-30th-Anniversary-Box-Set"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/4oyBv9YbziilEKhRxF9854uiR_OkliGoUGDvrhXgAN8/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMDgx/NTItMTM2MTM2MzQx/Ni04NzMxLmpwZWc.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - 30th Anniversary Box Set" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/4308152-NOFX-30th-Anniversary-Box-Set" class="search_result_title" title="30th Anniversary Box Set" data-followable="true">30th Anniversary Box Set</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r5401871"
+    data-object-id="5401871"
+    data-object-type="release"
+            data-master-id="294789"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - The Longest EP"        href="/release/5401871-NOFX-The-Longest-EP"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/9TKDCuwqXAWSoP5RcgBrsNJG9okRdi4kKro6SEU3M1Q/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU0MDE4/NzEtMTQyODM0NDU3/OS00MzAyLmpwZWc.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - The Longest EP" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/5401871-NOFX-The-Longest-EP" class="search_result_title" title="The Longest EP" data-followable="true">The Longest EP</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r13295676"
+    data-object-id="13295676"
+    data-object-type="release"
+            data-master-id="294789"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - The Longest EP"        href="/release/13295676-NOFX-The-Longest-EP"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/o9Un7gAKSw3AknNVXzxJP82q3rCitDBCmtQhNes3O2M/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMjk1/Njc2LTE2MjY2ODU5/NDEtMTQ5NC5qcGVn.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - The Longest EP" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/13295676-NOFX-The-Longest-EP" class="search_result_title" title="The Longest EP" data-followable="true">The Longest EP</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r7824542"
+    data-object-id="7824542"
+    data-object-type="release"
+            data-master-id="294789"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - The Longest EP"        href="/release/7824542-NOFX-The-Longest-EP"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/9ZRkxB8IbS_qXK_vByKRTxlTb6e0PmVdYYCPC5vWf-U/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc4MjQ1/NDItMTQ0OTU2NjM1/NS0zNzkwLmpwZWc.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - The Longest EP" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/7824542-NOFX-The-Longest-EP" class="search_result_title" title="The Longest EP" data-followable="true">The Longest EP</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r4361820"
+    data-object-id="4361820"
+    data-object-type="release"
+            data-master-id="524521"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - 30th Anniversary Box Set"        href="/release/4361820-NOFX-30th-Anniversary-Box-Set"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/ut-wiUUlcdkSVchv3OqmVdzZqLZK5Nh7xONgjnnMtiQ/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNjE4/MjAtMTM2NDQ3OTQz/MS03MjI4LmpwZWc.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - 30th Anniversary Box Set" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/4361820-NOFX-30th-Anniversary-Box-Set" class="search_result_title" title="30th Anniversary Box Set" data-followable="true">30th Anniversary Box Set</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r4310356"
+    data-object-id="4310356"
+    data-object-type="release"
+            data-master-id="524521"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - 30th Anniversary Box Set"        href="/release/4310356-NOFX-30th-Anniversary-Box-Set"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_landscape
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/vVbhrYQVSaJGRCxiSx-MTJ9sT4XJaEFztTxnSqwxyqU/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzMTAz/NTYtMTUxODQ4NDQ0/Mi02NzIwLmpwZWc.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - 30th Anniversary Box Set" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/4310356-NOFX-30th-Anniversary-Box-Set" class="search_result_title" title="30th Anniversary Box Set" data-followable="true">30th Anniversary Box Set</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                                                                                    
+                                
+                                                <div
+        class="card card_large float_fix
+        
+        shortcut_navigable"
+                                                            data-id="r3182114"
+    data-object-id="3182114"
+    data-object-type="release"
+            data-master-id="294789"
+                                            
+    >
+                                                                            
+        
+                <a aria-label="NOFX - The Longest EP"        href="/release/3182114-NOFX-The-Longest-EP"        class="thumbnail_link
+            thumbnail_size_large
+            thumbnail_orientation_portrait
+            thumbnail-lazyload
+        "
+    >
+        <span class="thumbnail_border"></span>
+        <span class="thumbnail_center">
+                                <img data-src="https://i.discogs.com/XbGnlRQbLTbZ0jkKoPqkYnHucjPB0DDSnXOrJAJX3L8/rs:fill/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxODIx/MTQtMTMxOTQyMzkw/NC5qcGVn.jpeg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        alt="NOFX - The Longest EP" />
+
+                    </span>
+    </a>
+    
+    <h4><a href="/release/3182114-NOFX-The-Longest-EP" class="search_result_title" title="The Longest EP" data-followable="true">The Longest EP</a></h4>
+                        <h5>                        
+        <span title="NOFX" >
+            <a href="/artist/253281-NOFX">NOFX</a></span></h5>
+        
+    <div class="card_actions skittles">
+                        <span tabindex="0" class="skittle skittle_collection needs_delegated_tooltip"
+        data-title="0 in Collection"
+        aria-label="0 in Collection"
+        role="note"
+        title="0 in Collection"
+        style="display: none;"            ><i class="icon icon-collection"></i><span aria-hidden="true" class="count">0</span>
+    </span>                <span tabindex="0" class="skittle skittle_wantlist needs_delegated_tooltip"
+        data-title="0 in Wantlist"
+        aria-label="0 in Wantlist"
+        role="note"
+        title="0 in Wantlist"
+        style="display: none;"            ><i class="icon icon-wantlist"></i><span aria-hidden="true" class="count">0</span>
+    </span>                            <a tabindex="0" class="skittle skittle_inventory needs_delegated_tooltip"
+        data-title="0 in Inventory"
+        aria-label="0 in Inventory"
+        role="note"
+        title="0 in Inventory"
+        style="display: none;"        href="/sell/release/3182114?seller=Anonymous"    ><i class="icon icon-store"></i><span aria-hidden="true" class="count">0</span>
+    </a>
+    </div>
+
+    
+    </div>
+
+                                    </div>
+    
+
+        
+    <div class="pagination bottom ">
+        <form
+            action="/search/"
+            method="get"
+            
+            data-section="general"
+        >
+                            <strong class="pagination_total">
+        1 &ndash; 23 of 23    </strong>
+
+                                    <div class="pagination_controls multiple_filters">
+                
+                                                            <label class="hide_mobile" for="limit_bottom">Show</label>
+    <select class="hide_mobile" name="limit" id="limit_bottom">
+        
+            <option value="25">25</option><option value="50" selected="selected">50</option><option value="100">100</option><option value="250">250</option>    
+    </select>
+
+                                <noscript><button type="submit">Refresh</button></noscript>
+            </div>
+                                                                                    <input type="hidden" name="q" value="nofx war on errorism vinyl" />
+                                    <input type="hidden" name="type" value="all" />
+                                    </form>
+    </div>
+        </div>
+    </div>
+                                                    
+            </div>                                                                    <div class="sticky_footer">
+                <button id="move" aria-label="Move ad to bottom"><i class="icon icon-close"></i></button>
+                <div class="ad_container ad_bottom" id='ad_bottom'></div>
+            </div>
+        
+                                        <div id="push_footer"></div>
+                    </div>                            
+<footer id="site_footer_wrap">    <nav id="site_footer" aria-label="Footer"><div   div class="banner_ad pub_300x250 pub_300x250m pub_728x90 text-ad textAd text_ad text_ads text-ads text-ad-links"></div>
+        <ul id="site_footer_list">
+            <li>
+                <h2>Discogs</h2>
+                <ul>
+                    <li>
+                        <a href="https://www.discogs.com/company">
+                            About Us</a>
+                    </li>
+                    <li>
+                        <a href="https://blog.discogs.com/en/">
+                            Blog</a>
+                    </li>
+                    <li>
+                        <a href="/app">
+                            App</a>
+                    </li>
+                    <li>
+                        <a href="https://www.discogs.com/company/careers">
+                            Careers</a>
+                    </li>
+                    <li>
+                        <a href="/developers">
+                            API</a>
+                    </li>
+                    <li>
+                        <a href="https://blog.discogs.com/en/tag/engineering-en/">
+                            Change Log</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <h2>Help Is Here</h2>
+                <ul>
+                    <li>
+                        <a href="https://support.discogs.com">
+                            Help &amp; Support</a>
+                    </li>
+                    <li>
+                        <a href="/forum/">
+                            Forum</a>
+                    </li>
+                    <li>
+                        <a class="show_keyboard_shortcuts" href="#show_keyboard_shortcuts">
+                            Keyboard Shortcuts                        </a>
+                    </li>
+                    <li>
+                        <a href="https://support.discogs.com/hc/articles/360004016474-Overview-of-Submission-Guidelines-for-Releases">Database Guidelines</a>
+                    </li>
+                    <li>
+                        <a href="/shipping">Discogs Shipping</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <h2>Join In</h2>
+                <ul>
+                    <li>
+                        <a href="/getstarted/">
+                            Get Started</a>
+                    </li>
+                                            <li>
+                            <a href="/users/create">
+                                Sign Up</a>
+                        </li>
+                                        <li>
+                        <a href="/record-stores/">
+                            Record Stores                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.discogs.com/digs">
+                            Discogs Digs
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/help/doc/contributing">
+                            Contribute</a>
+                    </li>
+                    <li>
+                        <a href="/release/add">
+                            Add Release</a>
+                    </li>
+                    <li>
+                        <a href="/stats/contributors">
+                            Contributor List</a>
+                    </li>
+                    <li>
+                        <a href="https://support.discogs.com/hc/articles/360001585814-How-Can-I-Help-Translate-Discogs-">
+                            Help Translate</a>
+                    </li>
+                    <li>
+                        <a href="/record-store-day">
+                            Record Store Day Releases                        </a>
+                    </li>
+                    <li>
+                        <a href="/cdn-cgi/l/email-protection#1e6d7f727b6d5e7a776d7d71796d307d7173">
+                            Advertise With Us</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <h2>Follow Us</h2>
+                <ul>
+                    <li>
+                        <a href="https://www.facebook.com/discogs">
+                            <i class="icon icon-facebook-square" role="img" aria-hidden="true"></i>Facebook
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/discogs">
+                            <i class="icon icon-twitter" role="img" aria-hidden="true"></i>Twitter
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://youtube.com/discogs">
+                            <i class="icon icon-youtube" role="img" aria-hidden="true"></i>YouTube
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.instagram.com/discogs/">
+                            <i class="icon icon-instagram" role="img" aria-hidden="true"></i>Instagram
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://www.mixcloud.com/discogs/">
+                            <i class="icon icon-mixcloud" role="img" aria-hidden="true"></i>Mixcloud
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://soundcloud.com/discogs">
+                            <i class="icon icon-soundcloud" role="img" aria-hidden="true"></i>Soundcloud
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.pinterest.com/officialdiscogs/">
+                            <i class="icon icon-pinterest" role="img" aria-hidden="true"></i>Pinterest
+                        </a>
+                    </li>
+                </ul>
+            </li>        </ul>    </nav> 
+        <div id="site_footer_legal">
+        <div class="wrap"><nav aria-label="Legal">
+                <img src="https://s.discogs.com/ba9dc00ea28dd509e0145bac1167931926479262/images/discogs-white.png?5" alt="" />
+                <span id="copyright">
+                    &copy; 2022 Discogs&reg;
+                </span>
+                <ul>
+                    <li>
+                        <button id="ot-sdk-btn" class="ot-sdk-show-settings"> Cookie Settings</button>
+                    </li>
+                    <li>
+                        <a id="cookie_link" href="/help/doc/cookie-policy">Cookie Policy</a>
+                    </li>
+                    <li>
+                        <a id="terms_link" href="/help/doc/terms-of-service">Terms of Service</a>
+                    </li>
+                    <li>
+                        <a id="privacy_link" href="/help/doc/privacy-policy">Privacy Policy</a>
+                    </li>
+                    <li>
+                        <a href="https://support.discogs.com/hc/articles/360039846494-California-Privacy-Notice">California Privacy Notice</a>
+                    </li>
+                    <li>
+                        <a href="https://support.discogs.com/hc/en-us/articles/360017786278-Accessibility-Statement" target="_blank">Accessibility Statement</a>
+                    </li>
+                </ul>
+            </nav>
+                        <span id="language_container">
+                <label id="i18n_link" for="i18n_select" href="#select-language" data-code="en" data-name="English">
+                    <span class="sr-only">Language</span>
+                    <i class="icon icon-globe" role="img" aria-hidden="true"></i>
+                    English
+                    <i class="icon icon-caret-down" role="img" aria-hidden="true"></i>
+                    <select id="i18n_select">        <option id="language_de_field" name="language_code" class="language" value="de" > Deutsch </option>
+    <option id="language_en_field" name="language_code" class="language" value="en" selected> English </option>
+    <option id="language_es_field" name="language_code" class="language" value="es" > Español </option>
+    <option id="language_fr_field" name="language_code" class="language" value="fr" > Français </option>
+    <option id="language_it_field" name="language_code" class="language" value="it" > Italiano </option>
+    <option id="language_ja_field" name="language_code" class="language" value="ja" > 日本語 </option>
+    <option id="language_ko_field" name="language_code" class="language" value="ko" > 한국어 </option>
+    <option id="language_pt_BR_field" name="language_code" class="language" value="pt_BR" > Português (Brasil) </option>
+    <option id="language_ru_field" name="language_code" class="language" value="ru" > Русский </option>
+</select>
+ 
+                </label>
+            </span><button id="footer_menu_link" aria-expanded="false" aria-label="Footer menu">
+                    <i class='icon icon-chevron-down' role="img" aria-hidden="true"></i>
+                    <i class='icon icon-chevron-up' role="img" aria-hidden="true"></i>
+               </button>
+        </div>    </div>
+</footer>
+<div id="act"></div>        
+        
+                <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript'>
+!function(){"use strict";function a(a){return"function"==typeof a||"object"==typeof a&&null!==a}function b(a){return"function"==typeof a}function c(a){return"object"==typeof a&&null!==a}function g(){}function n(){return function(){process.nextTick(s)}}function o(){var a=0,b=new l(s),c=document.createTextNode("");return b.observe(c,{characterData:!0}),function(){c.data=a=++a%2}}function p(){var a=new MessageChannel;return a.port1.onmessage=s,function(){a.port2.postMessage(0)}}function q(){return function(){setTimeout(s,1)}}function s(){for(var a=0;i>a;a+=2){var b=r[a],c=r[a+1];b(c),r[a]=void 0,r[a+1]=void 0}i=0}function u(){}function z(){return new TypeError("You cannot resolve a promise with itself")}function A(){return new TypeError("A promises callback cannot return that same promise.")}function B(a){try{return a.then}catch(b){return y.error=b,y}}function C(a,b,c,d){try{a.call(b,c,d)}catch(e){return e}}function D(a,b,c){j(function(a){var d=!1,e=C(c,b,function(c){d||(d=!0,b!==c?G(a,c):I(a,c))},function(b){d||(d=!0,J(a,b))},"Settle: "+(a._label||" unknown promise"));!d&&e&&(d=!0,J(a,e))},a)}function E(a,b){b._state===w?I(a,b._result):a._state===x?J(a,b._result):K(b,void 0,function(b){G(a,b)},function(b){J(a,b)})}function F(a,c){if(c.constructor===a.constructor)E(a,c);else{var d=B(c);d===y?J(a,y.error):void 0===d?I(a,c):b(d)?D(a,c,d):I(a,c)}}function G(b,c){b===c?J(b,z()):a(c)?F(b,c):I(b,c)}function H(a){a._onerror&&a._onerror(a._result),L(a)}function I(a,b){a._state===v&&(a._result=b,a._state=w,0===a._subscribers.length||j(L,a))}function J(a,b){a._state===v&&(a._state=x,a._result=b,j(H,a))}function K(a,b,c,d){var e=a._subscribers,f=e.length;a._onerror=null,e[f]=b,e[f+w]=c,e[f+x]=d,0===f&&a._state&&j(L,a)}function L(a){var b=a._subscribers,c=a._state;if(0!==b.length){for(var d,e,f=a._result,g=0;g<b.length;g+=3)d=b[g],e=b[g+c],d?P(c,d,e,f):e(f);a._subscribers.length=0}}function M(){this.error=null}function O(a,b){try{return a(b)}catch(c){return N.error=c,N}}function P(a,c,d,e){var g,h,i,j,f=b(d);if(f){if(g=O(d,e),g===N?(j=!0,h=g.error,g=null):i=!0,c===g)return J(c,A()),void 0}else g=e,i=!0;c._state!==v||(f&&i?G(c,g):j?J(c,h):a===w?I(c,g):a===x&&J(c,g))}function Q(a,b){try{b(function(b){G(a,b)},function(b){J(a,b)})}catch(c){J(a,c)}}function S(a,b,c,d){this._instanceConstructor=a,this.promise=new a(u,d),this._abortOnReject=c,this._validateInput(b)?(this._input=b,this.length=b.length,this._remaining=b.length,this._init(),0===this.length?I(this.promise,this._result):(this.length=this.length||0,this._enumerate(),0===this._remaining&&I(this.promise,this._result))):J(this.promise,this._validationError())}function Z(){throw new TypeError("You must pass a resolver function as the first argument to the promise constructor")}function $(){throw new TypeError("Failed to construct 'Promise': Please use the 'new' operator, this object constructor cannot be called as a function.")}function ab(a,c){this._id=Y++,this._label=c,this._state=void 0,this._result=void 0,this._subscribers=[],u!==a&&(b(a)||Z(),this instanceof ab||$(),Q(this,a))}var d;d=Array.isArray?Array.isArray:function(a){return"[object Array]"===Object.prototype.toString.call(a)};var e=d;Date.now||function(){return(new Date).getTime()},Object.create||function(a){if(arguments.length>1)throw new Error("Second argument not supported");if("object"!=typeof a)throw new TypeError("Argument must be an object");return g.prototype=a,new g};var t,i=0,j=function(a,b){r[i]=a,r[i+1]=b,i+=2,2===i&&t()},k="undefined"!=typeof window?window:{},l=k.MutationObserver||k.WebKitMutationObserver,m="undefined"!=typeof Uint8ClampedArray&&"undefined"!=typeof importScripts&&"undefined"!=typeof MessageChannel,r=new Array(1e3);t="undefined"!=typeof process&&"[object process]"==={}.toString.call(process)?n():l?o():m?p():q();var v=void 0,w=1,x=2,y=new M,N=new M;S.prototype._validateInput=function(a){return e(a)},S.prototype._validationError=function(){return new Error("Array Methods must be provided an Array")},S.prototype._init=function(){this._result=new Array(this.length)};var T=S;S.prototype._enumerate=function(){for(var a=this.length,b=this.promise,c=this._input,d=0;b._state===v&&a>d;d++)this._eachEntry(c[d],d)},S.prototype._eachEntry=function(a,b){var d=this._instanceConstructor;c(a)?a.constructor===d&&a._state!==v?(a._onerror=null,this._settledAt(a._state,b,a._result)):this._willSettleAt(d.resolve(a),b):(this._remaining--,this._result[b]=this._makeResult(w,b,a))},S.prototype._settledAt=function(a,b,c){var d=this.promise;d._state===v&&(this._remaining--,this._abortOnReject&&a===x?J(d,c):this._result[b]=this._makeResult(a,b,c)),0===this._remaining&&I(d,this._result)},S.prototype._makeResult=function(a,b,c){return c},S.prototype._willSettleAt=function(a,b){var c=this;K(a,void 0,function(a){c._settledAt(w,b,a)},function(a){c._settledAt(x,b,a)})};var U=function(a,b){return new T(this,a,!0,b).promise},V=function(a,b){function g(a){G(d,a)}function h(a){J(d,a)}var c=this,d=new c(u,b);if(!e(a))return J(d,new TypeError("You must pass an array to race.")),d;for(var f=a.length,i=0;d._state===v&&f>i;i++)K(c.resolve(a[i]),void 0,g,h);return d},W=function(a,b){var c=this;if(a&&"object"==typeof a&&a.constructor===c)return a;var d=new c(u,b);return G(d,a),d},X=function(a,b){var c=this,d=new c(u,b);return J(d,a),d},Y=0,_=ab;ab.all=U,ab.race=V,ab.resolve=W,ab.reject=X,ab.prototype={constructor:ab,then:function(a,b,c){var d=this,e=d._state;if(e===w&&!a||e===x&&!b)return this;d._onerror=null;var f=new this.constructor(u,c),g=d._result;if(e){var h=arguments[e-1];j(function(){P(e,f,h,g)})}else K(d,f,a,b);return f},"catch":function(a,b){return this.then(null,a,b)}};var bb=function(){var a;a="undefined"!=typeof global?global:"undefined"!=typeof window&&window.document?window:self;var c="Promise"in a&&"resolve"in a.Promise&&"reject"in a.Promise&&"all"in a.Promise&&"race"in a.Promise&&function(){var c;return new a.Promise(function(a){c=a}),b(c)}();c||(a.Promise=_)},cb={Promise:_,polyfill:bb};"function"==typeof define&&define.amd?define(function(){return cb}):"undefined"!=typeof module&&module.exports?module.exports=cb:"undefined"!=typeof this&&(this.ES6Promise=cb)}.call(this);
+
+ES6Promise.polyfill();
+</script>
+
+
+<!--[if lte IE 9]>    <script src="https://s.discogs.com/ba9dc00ea28dd509e0145bac1167931926479262/dst/javascripts/vendor.js"></script>
+    <script src="https://s.discogs.com/ba9dc00ea28dd509e0145bac1167931926479262/dst/javascripts/discogs.js"></script>
+    <script src="https://s.discogs.com/ba9dc00ea28dd509e0145bac1167931926479262/dst/javascripts/sections/search.js"></script>
+<script>ds.require('app')</script>
+<script>ds.require('googleTagServices');</script><![endif]-->
+<!--[if gt IE 9]><!-->
+<script>
+(function(scripts){
+
+    var i = -1, l = scripts.length - 1;
+    var startTime = new Date().getTime();
+    var _scripts  = [];
+    var loads     = [];
+    var j;
+
+    var head = document.head || document.getElementsByTagName('head')[0];
+
+    function log(){
+        window.console && console.log && console.log.apply(console, arguments);
+    }
+
+    function makeScript(src){
+        var element  = document.createElement('script');
+        var isVendor = !!src.match(/javascripts\/(vendor|react-bundle)/);
+        var isSync   = !!(src.match('javascripts/define.js') || src.match('discogs.js') || src.match('moment-lib.js'));
+        var isAsync  = !(isVendor || isSync);
+        var load     = new Promise(function(resolve){
+            element.onload = function(){ resolve(src); };
+            element.src = src;
+            element.setAttribute('defer', 'defer');
+            if (isAsync) {
+                element.setAttribute('async', 'async');
+            }
+        });
+        _scripts.push({ element: element, load: load, isAsync: isAsync });
+    }
+
+    for (j = 0; j <= l; j++) {
+        makeScript(scripts[j]);
+    }
+
+    for (j = 0; j <= l; j++) {
+        loads.push(_scripts[j].load);
+    }
+
+    Promise.all(loads).then(function(urls){
+                var app = ds.require('app');
+            });
+
+    function loadNext(){
+        i++;
+        var script = _scripts[i];
+        if (script) {
+            head.appendChild(script.element);
+            if (script.isAsync) {
+                loadNext();
+            } else {
+                script.load.then(loadNext);
+            }
+        }
+    }
+
+    loadNext();
+
+})(["https://s.discogs.com/ba9dc00ea28dd509e0145bac1167931926479262/dst/javascripts/vendor.js", "https://s.discogs.com/ba9dc00ea28dd509e0145bac1167931926479262/dst/javascripts/discogs.js", "https://s.discogs.com/ba9dc00ea28dd509e0145bac1167931926479262/dst/javascripts/sections/search.js"]);
+</script>
+<!--<![endif]-->
+<script>
+ds(function(require){
+    require("search");
+    require("pagination");
+});
+
+</script>
+
+
+                
+                
+                                    </body>
+</html>

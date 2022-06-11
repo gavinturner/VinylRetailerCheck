@@ -10,7 +10,7 @@ import (
 
 func main() {
 	fmt.Printf("Scrape test\n")
-	scraper := retailers.BeatDiscRecords{}
+	scraper := retailers.PoisonCity{}
 
 	// multi artist test
 	readFile, err := os.Open("./retailers/test/artists.txt")

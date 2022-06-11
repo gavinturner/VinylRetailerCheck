@@ -80,7 +80,7 @@ func (a *ResistRecords) ScrapeArtistReleases(artist string) (findings []SKU, err
 			}
 
 			// artist name can contain the searched for artist if it's a split etc.
-			if strings.Index(sku.Artist, strings.ToLower(artist)) < 0 {
+			if sku.Artist != strings.ToLower(artist) {
 				continue
 			}
 			findings = append(findings, sku)

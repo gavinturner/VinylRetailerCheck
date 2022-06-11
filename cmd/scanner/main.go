@@ -116,6 +116,8 @@ func main() {
 					log.Error(err, "Failed to upsert new price for '%s' ", release.Name)
 					continue
 				}
+			} else if !same && sku.Price == SOLD_OUT {
+				log.Debugf("%s@%s: Found new (sold out) release state: %s = %s (%v)", payload.ArtistName, payload.RetailerName, release.Name, sku.Price, sku.ID)
 			} else {
 				log.Debugf("%s@%s: releases [%v, %s] has not changed", payload.ArtistName, payload.RetailerName, releaseID, release.Name)
 			}
