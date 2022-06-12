@@ -24,7 +24,7 @@ func (a *DamagedRecords) GetArtistQueryURL(artist string) string {
 
 func (a *DamagedRecords) ScrapeArtistReleases(artist string) (findings []SKU, err error) {
 
-	// note if damaged has only one result then it goes directly to the product page..
+	// TODO: if damaged has only one result then it goes directly to the product page..
 
 	findings = []SKU{}
 	query := a.GetArtistQueryURL(artist)
@@ -48,7 +48,6 @@ func (a *DamagedRecords) ScrapeArtistReleases(artist string) (findings []SKU, er
 			image := toks[idx+2]
 			image = image[strings.Index(image, "src=\"")+5:]
 			image = image[0:strings.Index(image, "\"")]
-			image = "<img width=\"150px\" height=\"150px\" src=\"" + image + "\">"
 			url := toks[idx+5]
 			url = url[strings.Index(url, "href=")+6:]
 			url = url[0:strings.Index(url, "\"")]

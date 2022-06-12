@@ -111,7 +111,7 @@ func main() {
 
 func renderResultsRow(image string, artist string, url string, name string, price string, retailer string) (string, error) {
 	htmlOut := "<tr>\n"
-	htmlOut += fmt.Sprintf("<td>%s</td>\n", image)
+	htmlOut += fmt.Sprintf("<td><img width=\"150px\" height=\"150px\" src=\"%s\"/></td>\n", image)
 	htmlOut += fmt.Sprintf("<td>%s<br><a href=\"%s\">%s</a><br>%s<br>%s</td>\n", artist, url, name, retailer, price)
 	htmlOut += "</tr>\n"
 	return htmlOut, nil

@@ -39,6 +39,37 @@ func (v *VinylDB) GetCurrentSKUForRelease(tx *postgres.Tx, releaseID int64, reta
 	return &skus[0], nil
 }
 
+func (v *VinylDB) GetAllSKUs(tx *postgres.Tx) ([]SKU, error) {
+	querier := v.Q(tx)
+	skus := []SKU{}
+	err := querier.Select(&skus, querier.Rebind(`
+		SELECT id, retailer_id,  release_id, artist_id, item_url, image_url, price, created_at
+		FROM skus
+	`))
+	if err != nil {
+		return nil, errors.Wrapf(err, "failed to retrieve all skus")
+	}
+	if len(skus) == 0 {
+		return nil, nil
+	}
+	return skus, nil
+}
+
+func (v *VinylDB) UpdateSKU(tx *postgres.Tx, sku *SKU) error {
+	querier := v.Q(tx)
+	if sku == nil {
+		return errors.New("nil sku")
+	}
+	_, err := querier.Exec(querier.Rebind(`
+		UPDATE skus SET item_url=?, image_url=?, price=?
+		WHERE id=?
+	`), sku.ItemUrl, sku.ImageUrl, sku.Price, sku.ID)
+	if err != nil {
+		return errors.Wrapf(err, "failed to retrieve all skus")
+	}
+	return nil
+}
+
 func (v *VinylDB) UpsertSKU(tx *postgres.Tx, sku *SKU) (same bool, err error) {
 	if sku == nil {
 		return false, fmt.Errorf("supplied sku is nil")

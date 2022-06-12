@@ -255,8 +255,6 @@ func (a *PoisonCity) ScrapeArtistReleases(artist string) (findings []SKU, err er
 			if !strings.HasPrefix(strings.ToLower(sku.Name), strings.ToLower(artist)) {
 				continue
 			}
-
-			sku.Image = fmt.Sprintf("<img width=\"150px\" height=\"150px\" src=\"%s\">", sku.Image)
 			sku.Url = subUrl
 
 			if strings.Index(strings.ToLower(sku.Name), strings.ToLower(artist+" ")) == 0 {

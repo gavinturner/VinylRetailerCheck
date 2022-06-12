@@ -2,7 +2,6 @@ package retailers
 
 import (
 	"encoding/csv"
-	"fmt"
 	"github.com/gavinturner/vinylretailers/util/log"
 	"github.com/pkg/errors"
 	"io/ioutil"
@@ -28,6 +27,7 @@ func (a *BeatDiscRecords) GetArtistQueryURL(artist string) string {
 func (a *BeatDiscRecords) ScrapeArtistReleases(artist string) (findings []SKU, err error) {
 
 	findings = []SKU{}
+	findingsMap := map[string]SKU{}
 
 	// find the latest beatdisc data file
 	files, err := ioutil.ReadDir(DATA_DIR)
@@ -67,9 +67,9 @@ func (a *BeatDiscRecords) ScrapeArtistReleases(artist string) (findings []SKU, e
 			sku := SKU{
 				Url:    "unavailable online",
 				Artist: strings.ToLower(line[0]),
-				Name:   line[1] + " " + line[8] + "[" + line[11] + "]",
+				Name:   line[1] + " " + line[8] + " [" + line[11] + "]",
 				Price:  line[3],
-				Image:  fmt.Sprintf("<img width=\"150px\" height=\"150px\" src=\"%s\" />", EMPTY_IMAGE_URL),
+				Image:  EMPTY_IMAGE_URL,
 			}
 			if sku.Artist != strings.ToLower(artist) {
 				continue
@@ -82,10 +82,16 @@ func (a *BeatDiscRecords) ScrapeArtistReleases(artist string) (findings []SKU, e
 				return []SKU{}, errors.Wrapf(err, "failed to get image for release")
 			}
 			if image != "" {
-				sku.Image = fmt.Sprintf("<img width=\"150px\" height=\"150px\" src=\"%s\" />", image)
+				sku.Image = image
 			}
-			findings = append(findings, sku)
+			// make sure we handel dupe titles
+			findingsMap[sku.Name] = sku
 		}
+	}
+
+	// now export the unduped titles
+	for _, sku := range findingsMap {
+		findings = append(findings, sku)
 	}
 
 	return findings, nil

@@ -5,17 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e473d14-c29b-4290-a298-48b102eea47c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/db/migrations/20220711163300_add_new_artists.up.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/example/discogs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/example/poisoncity.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/find_covers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrations/20220712100100_add_new_retailers.up.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/scripts/convert_image_urls.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/example/music_farmers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/example/music_farmers_sub.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/example/offwhite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/example/offwhite_details.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/music_farmers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/offwhiterecords.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/scanner/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/scanner/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/reporter/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/reporter/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/skus.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/skus.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/artistfirst.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/artistfirst.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/retailers/beatdiscrecords.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/beatdiscrecords.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/damaged.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/damaged.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/retailers/poisoncity.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/poisoncity.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/retailers/repressedrecords.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/repressedrecords.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/retailers/resistrecords.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/resistrecords.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/retailer.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/retailer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/retailer_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/retailer_list.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/retailers/test/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/test/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/utopia.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/utopia.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,17 +75,17 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/db/migrations" />
+      <recent name="$PROJECT_DIR$/retailers/scrapers" />
       <recent name="$PROJECT_DIR$/retailers" />
       <recent name="$PROJECT_DIR$/cmd/reporter" />
       <recent name="$PROJECT_DIR$/db" />
-      <recent name="$PROJECT_DIR$/cmd/scheduler" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/retailers/test" />
       <recent name="$PROJECT_DIR$/retailers" />
+      <recent name="$PROJECT_DIR$/retailers/scrapers" />
+      <recent name="$PROJECT_DIR$/retailers/test" />
       <recent name="$PROJECT_DIR$/retailers/example" />
       <recent name="$PROJECT_DIR$/retailers/data" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="Go Build.scrape_test">
@@ -154,34 +165,69 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/retailers/damaged.go</url>
-          <line>50</line>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/retailers/resistrecords.go</url>
-          <line>46</line>
+          <line>45</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/retailers/utopia.go</url>
-          <line>124</line>
+          <line>123</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/retailers/utopia.go</url>
-          <line>149</line>
+          <line>148</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/retailers/utopia.go</url>
-          <line>145</line>
+          <line>144</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/retailers/utopia.go</url>
-          <line>140</line>
+          <line>139</line>
           <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/offwhiterecords.go</url>
+          <line>41</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/offwhiterecords.go</url>
+          <line>35</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/offwhiterecords.go</url>
+          <line>37</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/offwhiterecords.go</url>
+          <line>29</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/offwhiterecords.go</url>
+          <line>31</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/offwhiterecords.go</url>
+          <line>33</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/music_farmers.go</url>
+          <line>122</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/music_farmers.go</url>
+          <line>142</line>
+          <option name="timeStamp" value="78" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

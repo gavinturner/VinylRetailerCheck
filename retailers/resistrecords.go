@@ -56,7 +56,6 @@ func (a *ResistRecords) ScrapeArtistReleases(artist string) (findings []SKU, err
 			image = image[strings.Index(image, "src=\"")+5:]
 			image = "https:" + image[0:strings.Index(image, "\"")]
 			image = strings.Replace(image, "_120x", "_240x", 1)
-			image = "<img width=\"150px\" height=\"150px\" src=\"" + image + "\">"
 
 			price := toks[idx+4]
 			if strings.Index(price, "sold-out") >= 0 {

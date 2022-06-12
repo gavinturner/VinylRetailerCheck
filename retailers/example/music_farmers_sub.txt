@@ -1,0 +1,1549 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+
+  <!-- Basic page needs ================================================== -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta property="og:title" content="Music Farmers - The best new releases and classic reissues on vinyl" />
+  <meta name="description" content="Vinyl record specialists. The best new releases and classic reissues on vinyl – plus CDs, DVDs and more. Free shipping Australia-wide on all orders over $100. Supplying music lovers across greater Sydney and Australia for over 10 years. We ship worldwide." />
+  <meta property="og:site_name" content="Music Farmers" />
+
+  
+  <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/1417/6406/t/6/assets/favicon.png?v=135640955605085681481471579442" type="image/png" />
+  
+
+  <!-- Title and description ================================================== -->
+  <title>
+  Clowns - Nature/Nurture &ndash; Music Farmers
+  </title>
+
+  
+  <meta name="description" content="Fourth studio album from Melbourne based Punk band Clowns.">
+  
+
+  <!-- Social meta ================================================== -->
+  
+
+  <meta property="og:type" content="product">
+  <meta property="og:title" content="Nature/Nurture">
+  <meta property="og:url" content="https://musicfarmers.com/products/nature-nurture">
+  
+  <meta property="og:image" content="http://cdn.shopify.com/s/files/1/1417/6406/products/Clowns_Fat115_75dpiCover_grande.jpg?v=1553228441">
+  <meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/1417/6406/products/Clowns_Fat115_75dpiCover_grande.jpg?v=1553228441">
+  
+  <meta property="og:price:amount" content="45.00">
+  <meta property="og:price:currency" content="AUD">
+
+
+
+  <meta property="og:description" content="Fourth studio album from Melbourne based Punk band Clowns.">
+
+
+<meta property="og:site_name" content="Music Farmers">
+
+
+  <meta name="twitter:card" content="summary">
+
+
+
+  <meta name="twitter:title" content="Nature/Nurture">
+  <meta name="twitter:description" content="Fourth studio album from Melbourne based Punk band Clowns.
+">
+  <meta name="twitter:image" content="https://cdn.shopify.com/s/files/1/1417/6406/products/Clowns_Fat115_75dpiCover_large.jpg?v=1553228441">
+  <meta name="twitter:image:width" content="480">
+  <meta name="twitter:image:height" content="480">
+
+
+
+  <!-- Helpers ================================================== -->
+  <link rel="canonical" href="https://musicfarmers.com/products/nature-nurture">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#e42c00">
+
+  <!-- CSS ================================================== -->
+  <link href="//cdn.shopify.com/s/files/1/1417/6406/t/6/assets/timber.scss.css?v=3421806485335470511591143438" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/1417/6406/t/6/assets/theme.scss.css?v=30826337631162491271591143438" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/1417/6406/t/6/assets/custom-style.css?v=83740481044555538231480107638" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/1417/6406/t/6/assets/fonts.css?v=61080492627532921391471579448" rel="stylesheet" type="text/css" media="all" />
+
+
+
+  
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Asap:400" rel="stylesheet" type="text/css" media="all" />
+  
+
+
+
+  
+  <!-- ADD FONTS ================================================= -->
+  <script src="https://use.typekit.net/pph8ywr.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+  <!-- Header hook for plugins ================================================== -->
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="facebook-domain-verification" content="pezcl2zoblnp1xaq70qs1j5mdz9o7m">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/14176406/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="da6259fabff6fa65c10a9dc1a0e77d42">
+<meta id="in-context-paypal-metadata" data-shop-id="14176406" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="AUD">
+<link rel="alternate" type="application/json+oembed" href="https://musicfarmers.com/products/nature-nurture.oembed">
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":14176406,"countryCode":"AU","currencyCode":"AUD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/14176406","merchantName":"Music Farmers","requiredBillingContactFields":["postalAddress","email"],"requiredShippingContactFields":["postalAddress","email"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","jcb"],"total":{"type":"pending","label":"Music Farmers","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"da6259fabff6fa65c10a9dc1a0e77d42","betas":["rich-media-storefront-analytics"],"domain":"musicfarmers.com","predictiveSearch":true,"shopId":14176406,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js?v=2","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js?v=2","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "music-farmers.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"AUD","rate":"1.0"};
+Shopify.country = "AU";
+Shopify.theme = {"name":"Music Farmers Custom Minimal - icons stamp added","id":154849671,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script id="__st">var __st={"a":14176406,"offset":36000,"reqid":"540db6cb-ce79-4c7a-baff-07ef6fe8f557","pageurl":"musicfarmers.com\/products\/nature-nurture?_pos=5\u0026_sid=ed705a933\u0026_ss=r\u0026variant=21784470814803","u":"834f4c83ddc0","p":"product","rtyp":"product","rid":2559708004435};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-N6F6ZjvOAMPhcD0kfZWNQQgx6eXaxFfh6aqfN0geLrU=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-37a17a663bce00c3e1703d247d958d410831e9e5dac457e1e9aa9f37481e2eb5.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/shopify_pay/storefront-b61f50798075db890698930c4405673937fe89353f7fea7be88b5ce16a9c0af8.js?v=20210208"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 180px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+  
+
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/1417/6406/t/6/assets/respond.min.js?v=52248677837542619231471579445" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/1417/6406/t/6/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="//musicfarmers.com/search?q=372b91f2706b11f6ecb06ebac6087021" id="respond-redirect" rel="respond-redirect" />
+<script src="//musicfarmers.com/search?q=372b91f2706b11f6ecb06ebac6087021" type="text/javascript"></script>
+<![endif]-->
+
+
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/1417/6406/t/6/assets/modernizr.min.js?v=26620055551102246001471579445" type="text/javascript"></script>
+
+  
+  
+
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 14176406,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "product"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'AUD';
+var meta = {"product":{"id":2559708004435,"gid":"gid:\/\/shopify\/Product\/2559708004435","vendor":"Clowns","type":"LP","variants":[{"id":21784470814803,"price":4500,"name":"Nature\/Nurture","public_title":null,"sku":"0602577414121"}]},"page":{"pageType":"product","resourceType":"product","resourceId":2559708004435}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var hasLoggedConversion = function(token) {
+    if (token) {
+      return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+    }
+    return false;
+  }
+
+  var setCookieIfConversion = function(token) {
+    if (token) {
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config || {};
+    trekkie.config.initialDocumentCookie = document.cookie;
+    var first = document.getElementsByTagName('script')[0];
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      var scriptFallback = document.createElement('script');
+      scriptFallback.type = 'text/javascript';
+      scriptFallback.onerror = function(error) {
+              var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+    
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+    
+        } // XHR beacon   
+    
+        var xhr = new XMLHttpRequest();
+    
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+    
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 14176406,
+      theme_id: 154849671,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.9808f461ba330c75be6d9f9a258d7e208b18f128.min.js"});
+
+      };
+      scriptFallback.async = true;
+      scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.9808f461ba330c75be6d9f9a258d7e208b18f128.min.js';
+      first.parentNode.insertBefore(scriptFallback, first);
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/trekkie.storefront.9808f461ba330c75be6d9f9a258d7e208b18f128.min.js';
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":14176406,"isMerchantRequest":null,"themeId":154849671,"themeCityHash":"16695855071365930264","contentLanguage":"en","currency":"AUD"},"isServerSideCookieWritingEnabled":true},"Facebook Pixel":{"pixelIds":["1393688020725007"],"agent":"plshopify1.2"},"Session Attribution":{},"S2S":{"emitV4CheckoutEvent":true,"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"product","resourceType":"product","resourceId":2559708004435});
+
+    var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+    var token = match? match[1]: undefined;
+    if (!hasLoggedConversion(token)) {
+      setCookieIfConversion(token);
+      window.ShopifyAnalytics.lib.track("Viewed Product",{"currency":"AUD","variantId":21784470814803,"productId":2559708004435,"productGid":"gid:\/\/shopify\/Product\/2559708004435","name":"Nature\/Nurture","price":"45.00","sku":"0602577414121","brand":"Clowns","variant":null,"category":"LP","nonInteraction":true});
+      window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1",{"currency":"AUD","variantId":21784470814803,"productId":2559708004435,"productGid":"gid:\/\/shopify\/Product\/2559708004435","name":"Nature\/Nurture","price":"45.00","sku":"0602577414121","brand":"Clowns","variant":null,"category":"LP","nonInteraction":true,"referer":"https:\/\/musicfarmers.com\/products\/nature-nurture?_pos=5\u0026_sid=ed705a933\u0026_ss=r\u0026variant=21784470814803"});
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-fa61fd11817b231631d2fe43dc869d0b1d14a06332792d42f1a1d94bda5aa31e.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "";
+  window.BOOMR.themeVersion = "";
+  window.BOOMR.shopId = 14176406;
+  window.BOOMR.themeId = 154849671;
+  window.BOOMR.url =
+    "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+</head>
+
+<body id="clowns-nature-nurture" class="template-product" >
+
+  <div class="header-bar">
+  <div class="wrapper medium-down--hide">
+    <div class="post-large--display-table">
+
+      
+        <div class="header-bar__left post-large--display-table-cell">
+
+          
+
+          
+
+          
+            <div class="header-bar__module header-bar__search">
+              
+
+
+  <form action="/search" method="get" class="header-bar__search-form clearfix" role="search">
+    
+    <button type="submit" class="btn icon-fallback-text header-bar__search-submit">
+      <span class="icon-search" aria-hidden="true"></span>
+      <span class="fallback-text">Search</span>
+    </button>
+    <input type="search" name="q" value="" aria-label="Search" class="header-bar__search-input" placeholder="Search">
+  </form>
+
+
+            </div>
+          
+
+        </div>
+      
+
+      <div class="header-bar__right post-large--display-table-cell">
+
+        
+          <ul class="header-bar__module header-bar__module--list">
+            
+              <li>
+                <a href="/account/login" id="customer_login_link">Log in</a>
+              </li>
+              <li>or</li>
+              <li>
+                <a href="/account/register" id="customer_register_link">Create account</a>
+              </li>  
+            
+          </ul>
+        
+
+        <div class="header-bar__module">
+          <span class="header-bar__sep" aria-hidden="true"></span>
+          <a href="/cart" class="cart-page-link">
+            <span class="icon-cart header-bar__cart-icon" aria-hidden="true"></span>
+          </a>
+        </div>
+
+        <div class="header-bar__module">
+          <a href="/cart" class="cart-page-link">
+            Cart
+            <span class="cart-count header-bar__cart-count hidden-count">0</span>
+          </a>
+        </div>
+
+        
+          
+        
+
+      </div>
+    </div>
+  </div>
+  <div class="wrapper post-large--hide">
+    <button type="button" class="mobile-nav-trigger" id="MobileNavTrigger">
+      <span class="icon icon-hamburger" aria-hidden="true"></span>
+      Menu
+    </button>
+    <a href="/cart" class="cart-page-link mobile-cart-page-link">
+      <span class="icon-cart header-bar__cart-icon" aria-hidden="true"></span>
+      Cart <span class="cart-count hidden-count">0</span>
+    </a>
+  </div>
+  <ul id="MobileNav" class="mobile-nav post-large--hide">
+  
+  
+  
+  <li class="mobile-nav__link" aria-haspopup="true">
+    
+      <a href="/collections/latest-vinyl" class="mobile-nav__sublist-trigger">
+        VINYL
+        <span class="icon-fallback-text mobile-nav__sublist-expand">
+  <span class="icon icon-plus" aria-hidden="true"></span>
+  <span class="fallback-text">+</span>
+</span>
+<span class="icon-fallback-text mobile-nav__sublist-contract">
+  <span class="icon icon-minus" aria-hidden="true"></span>
+  <span class="fallback-text">-</span>
+</span>
+      </a>
+      <ul class="mobile-nav__sublist">  
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/latest-vinyl">NEW VINYL</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/pre-orders">PRE ORDERS</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/used-vinyl">USED VINYL</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/rsd-drops">RECORD STORE DAY RELEASES</a>
+          </li>
+        
+      </ul>
+    
+  </li>
+  
+  
+  <li class="mobile-nav__link" aria-haspopup="true">
+    
+      <a href="/products/gift-card" class="mobile-nav">
+        GIFT VOUCHERS
+      </a>
+    
+  </li>
+  
+  
+  <li class="mobile-nav__link" aria-haspopup="true">
+    
+      <a href="/collections/turntables-audio" class="mobile-nav">
+        TURNTABLES & AUDIO
+      </a>
+    
+  </li>
+  
+  
+  <li class="mobile-nav__link" aria-haspopup="true">
+    
+      <a href="/collections/shirts" class="mobile-nav">
+        MERCH
+      </a>
+    
+  </li>
+  
+  
+  <li class="mobile-nav__link" aria-haspopup="true">
+    
+      <a href="/pages/labels" class="mobile-nav__sublist-trigger">
+        LABELS
+        <span class="icon-fallback-text mobile-nav__sublist-expand">
+  <span class="icon icon-plus" aria-hidden="true"></span>
+  <span class="fallback-text">+</span>
+</span>
+<span class="icon-fallback-text mobile-nav__sublist-contract">
+  <span class="icon icon-minus" aria-hidden="true"></span>
+  <span class="fallback-text">-</span>
+</span>
+      </a>
+      <ul class="mobile-nav__sublist">  
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/farmer-the-owl-label-releases">FARMER & tHE OWL</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/label">MUSIC FARMERS</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/high-beam">HIGH BEAM</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/impedance-records">IMPEDANCE RECORDS</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/dead-records">DEAD RECORDS</a>
+          </li>
+        
+      </ul>
+    
+  </li>
+  
+  
+  <li class="mobile-nav__link" aria-haspopup="true">
+    
+      <a href="/blogs/news" class="mobile-nav__sublist-trigger">
+        THE FARM
+        <span class="icon-fallback-text mobile-nav__sublist-expand">
+  <span class="icon icon-plus" aria-hidden="true"></span>
+  <span class="fallback-text">+</span>
+</span>
+<span class="icon-fallback-text mobile-nav__sublist-contract">
+  <span class="icon icon-minus" aria-hidden="true"></span>
+  <span class="fallback-text">-</span>
+</span>
+      </a>
+      <ul class="mobile-nav__sublist">  
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/blogs/news">LATEST NEWS</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/blogs/features">FEATURES</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/blogs/playlists">PLAYLISTS</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/blogs/hits-from-the-gong">HITS FROM THE GONG</a>
+          </li>
+        
+      </ul>
+    
+  </li>
+  
+
+  
+    
+      <li class="mobile-nav__link">
+        <a href="/account/login" id="customer_login_link">Log in</a>
+      </li>
+      <li class="mobile-nav__link">
+        <a href="/account/register" id="customer_register_link">Create account</a>
+      </li>
+    
+  
+  
+  <li class="mobile-nav__link">
+    
+      <div class="header-bar__module header-bar__search">
+        
+
+
+  <form action="/search" method="get" class="header-bar__search-form clearfix" role="search">
+    
+    <button type="submit" class="btn icon-fallback-text header-bar__search-submit">
+      <span class="icon-search" aria-hidden="true"></span>
+      <span class="fallback-text">Search</span>
+    </button>
+    <input type="search" name="q" value="" aria-label="Search" class="header-bar__search-input" placeholder="Search">
+  </form>
+
+
+      </div>
+    
+  </li>
+  
+</ul>
+
+</div>
+
+
+  <header class="site-header" role="banner">
+    <div class="wrapper">
+
+      
+
+      <div class="grid--full post-large--display-table">
+        <div class="grid__item post-large--one-third post-large--display-table-cell">
+          
+            <div class="h1 site-header__logo post-large--left" itemscope itemtype="http://schema.org/Organization">
+          
+            
+              <a href="/" itemprop="url">
+                <img src="//cdn.shopify.com/s/files/1/1417/6406/t/6/assets/logo.png?v=5212402392172241361471579445" alt="Music Farmers" itemprop="logo">
+              </a>
+            
+          
+            </div>
+          
+          
+        </div>
+        <div class="grid__item post-large--two-thirds post-large--display-table-cell medium-down--hide">
+          
+<ul class="site-nav post-large--text-right" role="navigation" id="AccessibleNav">
+  
+    
+    
+    
+      <li class="site-nav--has-dropdown" aria-haspopup="true">
+        <a href="/collections/latest-vinyl" class="site-nav__link">
+          VINYL
+          <span class="icon-fallback-text">
+            <span class="icon icon-arrow-down" aria-hidden="true"></span>
+          </span>
+        </a>
+        <ul class="site-nav__dropdown">
+          
+            <li>
+              <a href="/collections/latest-vinyl" class="site-nav__link">NEW VINYL</a>
+            </li>
+          
+            <li>
+              <a href="/collections/pre-orders" class="site-nav__link">PRE ORDERS</a>
+            </li>
+          
+            <li>
+              <a href="/collections/used-vinyl" class="site-nav__link">USED VINYL</a>
+            </li>
+          
+            <li>
+              <a href="/collections/rsd-drops" class="site-nav__link">RECORD STORE DAY RELEASES</a>
+            </li>
+          
+        </ul>
+      </li>
+    
+  
+    
+    
+    
+      <li >
+        <a href="/products/gift-card" class="site-nav__link">GIFT VOUCHERS</a>
+      </li>
+    
+  
+    
+    
+    
+      <li >
+        <a href="/collections/turntables-audio" class="site-nav__link">TURNTABLES & AUDIO</a>
+      </li>
+    
+  
+    
+    
+    
+      <li >
+        <a href="/collections/shirts" class="site-nav__link">MERCH</a>
+      </li>
+    
+  
+    
+    
+    
+      <li class="site-nav--has-dropdown" aria-haspopup="true">
+        <a href="/pages/labels" class="site-nav__link">
+          LABELS
+          <span class="icon-fallback-text">
+            <span class="icon icon-arrow-down" aria-hidden="true"></span>
+          </span>
+        </a>
+        <ul class="site-nav__dropdown">
+          
+            <li>
+              <a href="/collections/farmer-the-owl-label-releases" class="site-nav__link">FARMER &amp; tHE OWL</a>
+            </li>
+          
+            <li>
+              <a href="/collections/label" class="site-nav__link">MUSIC FARMERS</a>
+            </li>
+          
+            <li>
+              <a href="/collections/high-beam" class="site-nav__link">HIGH BEAM</a>
+            </li>
+          
+            <li>
+              <a href="/collections/impedance-records" class="site-nav__link">IMPEDANCE RECORDS</a>
+            </li>
+          
+            <li>
+              <a href="/collections/dead-records" class="site-nav__link">DEAD RECORDS</a>
+            </li>
+          
+        </ul>
+      </li>
+    
+  
+    
+    
+    
+      <li class="site-nav--has-dropdown" aria-haspopup="true">
+        <a href="/blogs/news" class="site-nav__link">
+          THE FARM
+          <span class="icon-fallback-text">
+            <span class="icon icon-arrow-down" aria-hidden="true"></span>
+          </span>
+        </a>
+        <ul class="site-nav__dropdown">
+          
+            <li>
+              <a href="/blogs/news" class="site-nav__link">LATEST NEWS</a>
+            </li>
+          
+            <li>
+              <a href="/blogs/features" class="site-nav__link">FEATURES</a>
+            </li>
+          
+            <li>
+              <a href="/blogs/playlists" class="site-nav__link">PLAYLISTS</a>
+            </li>
+          
+            <li>
+              <a href="/blogs/hits-from-the-gong" class="site-nav__link">HITS FROM THE GONG</a>
+            </li>
+          
+        </ul>
+      </li>
+    
+  
+</ul>
+
+        </div>
+      </div>
+
+      
+	   <div id="mcf-tagline">
+          <h2>The best new releases and classic re-issues on vinyl</h2>
+       </div> 
+    </div>
+ 
+  </header>
+  
+  
+    <main class="wrapper main-content" role="main">
+    <div class="grid">
+        <div class="grid__item">
+          <div itemscope itemtype="http://schema.org/Product">
+ <div class="single-product__top"> 
+  <meta itemprop="url" content="https://musicfarmers.com/products/nature-nurture">
+  <meta itemprop="image" content="//cdn.shopify.com/s/files/1/1417/6406/products/Clowns_Fat115_75dpiCover_grande.jpg?v=1553228441">
+
+  <div class="section-header section-header--breadcrumb">
+    
+
+<nav class="breadcrumb" role="navigation" aria-label="breadcrumbs">
+  <a href="/" title="Back to the frontpage">Home</a>
+
+  
+
+    
+    <span aria-hidden="true" class="breadcrumb__sep">&rsaquo;</span>
+    <span>Nature/Nurture</span>
+
+  
+</nav>
+
+
+  </div>
+
+  <div class="product-single">
+    <div class="grid product-single__hero">
+      <div class="grid__item post-large--one-half">
+
+        
+
+          <div class="product-single__photos" id="ProductPhoto">
+            
+            <img src="//cdn.shopify.com/s/files/1/1417/6406/products/Clowns_Fat115_75dpiCover_1024x1024.jpg?v=1553228441" alt="Nature/Nurture" id="ProductPhotoImg" data-image-id="7721099034707" >
+          </div>
+
+          
+
+        
+
+        
+        <ul class="gallery" class="hidden">
+          
+          <li data-image-id="7721099034707" class="gallery__item" data-mfp-src="//cdn.shopify.com/s/files/1/1417/6406/products/Clowns_Fat115_75dpiCover_1024x1024.jpg?v=1553228441"></li>
+          
+        </ul>
+        
+
+      </div>
+      <div class="grid__item post-large--one-half">
+        <div class="rule"></div>
+        
+          <span class="h3" itemprop="brand">Clowns</span>
+        
+        <h1 itemprop="name">Nature/Nurture</h1>
+
+        <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+          
+
+          <meta itemprop="priceCurrency" content="AUD">
+          <link itemprop="availability" href="http://schema.org/OutOfStock">
+          
+          <div class="product-single__prices">
+            <span class="product-single__type">
+            
+               LP :
+            
+            </span>
+            
+              <span id="PriceA11y" class="visually-hidden">Regular price</span>
+            
+            <span id="ProductPrice" class="product-single__price" itemprop="price" content="45.0">
+              $45.00
+            </span>
+
+            
+          </div>
+          <div class="rule"></div>
+
+          <form action="/cart/add" method="post" enctype="multipart/form-data" id="AddToCartForm">
+            <select name="id" id="productSelect" class="product-single__variants">
+              
+                
+                  <option disabled="disabled">
+                    Default Title - Sold Out
+                  </option>
+                
+              
+            </select>
+
+            <div class="product-single__quantity is-hidden">
+              <label for="Quantity">Quantity</label>
+              <input type="number" id="Quantity" name="quantity" value="1" min="1" class="quantity-selector">
+            </div>
+
+            <button type="submit" name="add" id="AddToCart" class="btn">
+              <span id="AddToCartText">Add to Cart</span>
+            </button>
+          </form>    
+        </div>
+
+      </div>
+    </div>
+   </div>
+
+ </div>
+ <div class="single-product__bottom">
+  <div class="product-description rte" itemprop="description">
+            <p>Fourth studio album from Melbourne based Punk band Clowns.</p>
+<p><iframe src="https://open.spotify.com/embed/album/0fRg4WnrY1zcqCPrglnSzO" allowtransparency="true" allow="encrypted-media" width="300" height="380" frameborder="0"></iframe></p>
+          </div>
+
+          
+            <hr class="hr--clear hr--small">
+            <h2 class="h4">Share this Product</h2>
+            
+
+
+
+<div class="social-sharing normal" data-permalink="https://musicfarmers.com/products/nature-nurture">
+
+  
+    <a target="_blank" href="//www.facebook.com/sharer.php?u=https://musicfarmers.com/products/nature-nurture" class="share-facebook" title="Share on Facebook">
+      <span class="icon icon-facebook" aria-hidden="true"></span>
+      <span class="share-title" aria-hidden="true">Share</span>
+      <span class="visually-hidden">Share on Facebook</span>
+      
+        <span class="share-count" aria-hidden="true">0</span>
+      
+    </a>
+  
+
+  
+    <a target="_blank" href="//twitter.com/share?text=Nature/Nurture&amp;url=https://musicfarmers.com/products/nature-nurture" class="share-twitter" title="Tweet on Twitter">
+      <span class="icon icon-twitter" aria-hidden="true"></span>
+      <span class="share-title" aria-hidden="true">Tweet</span>
+      <span class="visually-hidden">Tweet on Twitter</span>
+    </a>
+  
+
+  
+
+    
+      <a target="_blank" href="//pinterest.com/pin/create/button/?url=https://musicfarmers.com/products/nature-nurture&amp;media=http://cdn.shopify.com/s/files/1/1417/6406/products/Clowns_Fat115_75dpiCover_1024x1024.jpg?v=1553228441&amp;description=Nature/Nurture" class="share-pinterest" title="Pin on Pinterest">
+        <span class="icon icon-pinterest" aria-hidden="true"></span>
+        <span class="share-title" aria-hidden="true">Pin it</span>
+        <span class="visually-hidden">Pin on Pinterest</span>
+        
+          <span class="share-count" aria-hidden="true">0</span>
+        
+      </a>
+    
+
+    
+      <a target="_blank" href="//fancy.com/fancyit?ItemURL=https://musicfarmers.com/products/nature-nurture&amp;Title=Nature/Nurture&amp;Category=Other&amp;ImageURL=//cdn.shopify.com/s/files/1/1417/6406/products/Clowns_Fat115_75dpiCover_1024x1024.jpg?v=1553228441" class="share-fancy" title="Add to Fancy">
+        <span class="icon icon-fancy" aria-hidden="true"></span>
+        <span class="share-title" aria-hidden="true">Fancy</span>
+        <span class="visually-hidden">Add to Fancy</span>
+      </a>
+    
+
+  
+
+  
+    <a target="_blank" href="//plus.google.com/share?url=https://musicfarmers.com/products/nature-nurture" class="share-google" title="+1 on Google Plus">
+      <!-- Cannot get Google+ share count with JS yet -->
+      <span class="icon icon-google_plus" aria-hidden="true"></span>
+      
+        <span class="share-count" aria-hidden="true">+1</span>
+        <span class="visually-hidden">+1 on Google Plus</span>
+      
+    </a>
+  
+
+</div>
+
+          
+ </div>
+
+  
+    
+
+
+
+
+
+  <hr class="hr--clear hr--small">
+  <div class="section-header section-header--medium">
+    <h2 class="h4" class="section-header__title">More from this collection</h2>
+  </div>
+  <div class="grid-uniform grid-link__container">
+    
+    
+    
+      
+        
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid__item post-large--one-quarter medium--one-quarter small--one-half">
+  <a href="/collections/latest-vinyl/products/landscape-tantrums" class="grid-link">
+    <span class="grid-link__image grid-link__image--product">
+      
+      
+      <span class="grid-link__image-centered">
+        <img src="//cdn.shopify.com/s/files/1/1417/6406/products/ab67616d0000b27338b1814e94019da8675b70c8_large.jpg?v=1654748098" alt="Landscape Tantrums">
+      </span>
+    </span>
+    
+      <p class="grid-link__title grid-link__vendor">The Mars Volta</p>
+    
+    <p class="grid-link__title">Landscape Tantrums</p>
+    <p class="grid-link__meta">
+      
+      
+      
+        
+          <span class="visually-hidden">Regular price</span>
+        
+        LP: $40.00
+      
+    </p>
+  </a>
+</div>
+
+        
+      
+    
+      
+        
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid__item post-large--one-quarter medium--one-quarter small--one-half">
+  <a href="/collections/latest-vinyl/products/sons-of-satan" class="grid-link">
+    <span class="grid-link__image grid-link__image--product">
+      
+      
+      <span class="grid-link__image-centered">
+        <img src="//cdn.shopify.com/s/files/1/1417/6406/products/ab67616d0000b2731916f79cba749707b023b7cb_large.jpg?v=1654747436" alt="Sons Of Satan">
+      </span>
+    </span>
+    
+      <p class="grid-link__title grid-link__vendor">Venom</p>
+    
+    <p class="grid-link__title">Sons Of Satan</p>
+    <p class="grid-link__meta">
+      
+      
+      
+        
+          <span class="visually-hidden">Regular price</span>
+        
+        2LP: $50.00
+      
+    </p>
+  </a>
+</div>
+
+        
+      
+    
+      
+        
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid__item post-large--one-quarter medium--one-quarter small--one-half">
+  <a href="/collections/latest-vinyl/products/no-wow-the-tchad-blake-mix-2022" class="grid-link">
+    <span class="grid-link__image grid-link__image--product">
+      
+      
+      <span class="grid-link__image-centered">
+        <img src="//cdn.shopify.com/s/files/1/1417/6406/products/ScreenShot2022-06-03at9.52.31am_large.png?v=1654214028" alt="No Wow - The Tchad Blake Mix 2022">
+      </span>
+    </span>
+    
+      <p class="grid-link__title grid-link__vendor">The Kills</p>
+    
+    <p class="grid-link__title">No Wow - The Tchad Blake Mix 2022</p>
+    <p class="grid-link__meta">
+      
+      
+      
+        
+          <span class="visually-hidden">Regular price</span>
+        
+        LP: $60.00
+      
+    </p>
+  </a>
+</div>
+
+        
+      
+    
+      
+        
+          
+          
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid__item post-large--one-quarter medium--one-quarter small--one-half">
+  <a href="/collections/latest-vinyl/products/live-at-glastonbury-2007" class="grid-link">
+    <span class="grid-link__image grid-link__image--product">
+      
+      
+      <span class="grid-link__image-centered">
+        <img src="//cdn.shopify.com/s/files/1/1417/6406/products/ScreenShot2022-06-03at9.50.36am_large.png?v=1654213910" alt="Live at Glastonbury 2007">
+      </span>
+    </span>
+    
+      <p class="grid-link__title grid-link__vendor">Amy Winehouse</p>
+    
+    <p class="grid-link__title">Live at Glastonbury 2007</p>
+    <p class="grid-link__meta">
+      
+      
+      
+        
+          <span class="visually-hidden">Regular price</span>
+        
+        2LP: $60.00
+      
+    </p>
+  </a>
+</div>
+
+        
+      
+    
+      
+        
+      
+    
+  </div>
+
+
+  
+</div>
+
+
+
+
+<script src="//cdn.shopify.com/shopifycloud/shopify/assets/themes_support/option_selection-fe6b72c2bbdd3369ac0bfefe8648e3c889efca213baefd4cfb0dd9363563831f.js" type="text/javascript"></script>
+<script>
+  var selectCallback = function(variant, selector) {
+    timber.productPage({
+      money_format: "${{amount}}",
+      variant: variant,
+      selector: selector,
+      translations: {
+        add_to_cart : "BUY",
+        sold_out : "SOLD<br/>OUT",
+        unavailable : "NOT FOR<br/>SALE"
+      }
+    });
+  };
+
+  jQuery(function($) {
+    new Shopify.OptionSelectors('productSelect', {
+      product: {"id":2559708004435,"title":"Nature\/Nurture","handle":"nature-nurture","description":"\u003cp\u003eFourth studio album from Melbourne based Punk band Clowns.\u003c\/p\u003e\n\u003cp\u003e\u003ciframe src=\"https:\/\/open.spotify.com\/embed\/album\/0fRg4WnrY1zcqCPrglnSzO\" allowtransparency=\"true\" allow=\"encrypted-media\" width=\"300\" height=\"380\" frameborder=\"0\"\u003e\u003c\/iframe\u003e\u003c\/p\u003e","published_at":"2019-03-22T15:19:30+11:00","created_at":"2019-03-22T15:20:35+11:00","vendor":"Clowns","type":"LP","tags":[],"price":4500,"price_min":4500,"price_max":4500,"available":false,"price_varies":false,"compare_at_price":null,"compare_at_price_min":0,"compare_at_price_max":0,"compare_at_price_varies":false,"variants":[{"id":21784470814803,"title":"Default Title","option1":"Default Title","option2":null,"option3":null,"sku":"0602577414121","requires_shipping":true,"taxable":true,"featured_image":null,"available":false,"name":"Nature\/Nurture","public_title":null,"options":["Default Title"],"price":4500,"weight":400,"compare_at_price":null,"inventory_quantity":0,"inventory_management":"shopify","inventory_policy":"deny","barcode":"","requires_selling_plan":false,"selling_plan_allocations":[]}],"images":["\/\/cdn.shopify.com\/s\/files\/1\/1417\/6406\/products\/Clowns_Fat115_75dpiCover.jpg?v=1553228441"],"featured_image":"\/\/cdn.shopify.com\/s\/files\/1\/1417\/6406\/products\/Clowns_Fat115_75dpiCover.jpg?v=1553228441","options":["Title"],"media":[{"alt":null,"id":1855158255699,"position":1,"preview_image":{"aspect_ratio":1.0,"height":500,"width":500,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1417\/6406\/products\/Clowns_Fat115_75dpiCover.jpg?v=1553228441"},"aspect_ratio":1.0,"height":500,"media_type":"image","src":"https:\/\/cdn.shopify.com\/s\/files\/1\/1417\/6406\/products\/Clowns_Fat115_75dpiCover.jpg?v=1553228441","width":500}],"requires_selling_plan":false,"selling_plan_groups":[],"content":"\u003cp\u003eFourth studio album from Melbourne based Punk band Clowns.\u003c\/p\u003e\n\u003cp\u003e\u003ciframe src=\"https:\/\/open.spotify.com\/embed\/album\/0fRg4WnrY1zcqCPrglnSzO\" allowtransparency=\"true\" allow=\"encrypted-media\" width=\"300\" height=\"380\" frameborder=\"0\"\u003e\u003c\/iframe\u003e\u003c\/p\u003e"},
+      onVariantSelected: selectCallback,
+      enableHistoryState: true
+    });
+
+    // Add label if only one product option and it isn't 'Title'. Could be 'Size'.
+    
+
+    // Hide selectors if we only have 1 variant and its title contains 'Default'.
+    
+      $('.selector-wrapper').hide();
+    
+  });
+</script>
+
+        </div>
+    </div>
+  </main>
+  
+  
+  
+          <!--- START PRE-FOOTER --->
+   <section> 
+     <div class="page_nav" id="prefooter">
+              <div class="page_nav_object item_1">
+              </div>
+                <div class="page_nav_object item_2">
+                </div>
+                <div class="page_nav_object item_3">
+                </div>
+                <div class="page_nav_object item_4">
+                </div>
+      </div>
+  </section>
+    
+    <!---END PRE FOOTER --->
+
+  <footer class="site-footer small--text-center" role="contentinfo">
+
+    <div class="wrapper">
+
+      <div class="grid-uniform">
+
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+
+        
+
+        
+          <div class="grid__item post-large--one-quarter medium--one-half">
+            
+            <h3 class="h4">Quick Links</h3>
+            
+            <ul class="site-footer__links">
+              
+                <li><a href="/pages/about-us">About us</a></li>
+              
+                <li><a href="/pages/djs">DJ's</a></li>
+              
+                <li><a href="/blogs/recordstoresoftheworld">Record Stores of the World</a></li>
+              
+            </ul>
+          </div>
+        
+
+        
+
+        
+          <div class="grid__item post-large--one-quarter medium--one-half">
+            <h3 class="h4">Follow Us</h3>
+              
+              <ul class="inline-list social-icons">
+  
+    <li>
+      <a class="icon-fallback-text" href="https://twitter.com/musicfarmers" title="Music Farmers on Twitter">
+        <span class="icon-twitter" aria-hidden="true"></span>
+        <span class="fallback-text">Twitter</span>
+      </a>
+    </li>
+  
+  
+    <li>
+      <a class="icon-fallback-text" href="https://www.facebook.com/musicfarmers" title="Music Farmers on Facebook">
+        <span class="icon-facebook" aria-hidden="true"></span>
+        <span class="fallback-text">Facebook</span>
+      </a>
+    </li>
+  
+  
+  
+  
+    <li>
+      <a class="icon-fallback-text" href="http://instagram.com/musicfarmers" title="Music Farmers on Instagram">
+        <span class="icon-instagram_round" aria-hidden="true"></span>
+        <span class="fallback-text">Instagram</span>
+      </a>
+    </li>
+  
+  
+  
+  
+  
+  
+  
+</ul>
+
+          </div>
+        
+
+        
+          <div class="grid__item post-large--one-quarter medium--one-half">
+            <h3 class="h4">Contact Us</h3>
+            <div class="rte"><address>
+                  Drop in to the shop: <strong>228 Keira St, Wollongong NSW</strong> <br>
+                  Email:<strong> mail@musicfarmers.com</strong> <br>
+                  Tel:<strong> <a style="color:#D1C67C;" href="tel:0242280459">(02) 4228 0459</a></strong> 
+                  </address></div>
+          </div>
+        
+
+        
+          <div class="grid__item post-large--one-quarter medium--one-half">
+            <h3 class="h4">Newsletter</h3>
+            <p>Sign up for the Music Farmers newsletter. Sent very irregularly.</p>
+            
+
+<form action="http://musicfarmers.us2.list-manage.com/subscribe/post?u=aa1c0461ec66daa1a03bfa4ac&amp;id=ca9fc226c5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" class="small--hide">
+  <input type="email" value="" placeholder="Your email" name="EMAIL" id="mail" aria-label="Your email" autocorrect="off" autocapitalize="off">
+  <input type="submit" class="btn" name="subscribe" id="subscribe" value="Subscribe">
+</form>
+<form action="http://musicfarmers.us2.list-manage.com/subscribe/post?u=aa1c0461ec66daa1a03bfa4ac&amp;id=ca9fc226c5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" class="post-large--hide large--hide medium--hide input-group">
+  <input type="email" value="" placeholder="Your email" name="EMAIL" id="mail" class="input-group-field" aria-label="Your email" autocorrect="off" autocapitalize="off">
+  <span class="input-group-btn">
+    <input type="submit" class="btn" name="subscribe" id="subscribe" value="Subscribe">
+  </span>
+</form>
+
+          </div>
+        
+      </div>
+
+      <hr class="hr--small hr--clear">
+
+      <div class="grid">
+        <div class="grid__item text-center">
+          <p class="site-footer__links">Copyright &copy; 2022, <a href="/" title="">Music Farmers</a>. <a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></p>
+        </div>
+      </div>
+
+      
+        
+        <div class="grid">
+          <div class="grid__item text-center">
+            
+            <ul class="inline-list payment-icons">
+              
+                
+                  <li>
+                    <span class="icon-fallback-text">
+                      <span class="icon icon-american_express" aria-hidden="true"></span>
+                      <span class="fallback-text">american express</span>
+                    </span>
+                  </li>
+                
+              
+                
+              
+                
+              
+                
+                  <li>
+                    <span class="icon-fallback-text">
+                      <span class="icon icon-jcb" aria-hidden="true"></span>
+                      <span class="fallback-text">jcb</span>
+                    </span>
+                  </li>
+                
+              
+                
+                  <li>
+                    <span class="icon-fallback-text">
+                      <span class="icon icon-master" aria-hidden="true"></span>
+                      <span class="fallback-text">master</span>
+                    </span>
+                  </li>
+                
+              
+                
+                  <li>
+                    <span class="icon-fallback-text">
+                      <span class="icon icon-paypal" aria-hidden="true"></span>
+                      <span class="fallback-text">paypal</span>
+                    </span>
+                  </li>
+                
+              
+                
+              
+                
+                  <li>
+                    <span class="icon-fallback-text">
+                      <span class="icon icon-visa" aria-hidden="true"></span>
+                      <span class="fallback-text">visa</span>
+                    </span>
+                  </li>
+                
+              
+            </ul>
+          </div>
+        </div>
+        
+      
+    </div>
+    <div class="stamp">
+      <img src="https://cdn.shopify.com/s/files/1/1417/6406/t/6/assets/stamp.png?15587859225994412256"/>
+    </div>
+
+  </footer>
+
+  
+
+  
+    <script src="//cdn.shopify.com/s/files/1/1417/6406/t/6/assets/jquery.flexslider.min.js?v=33237652356059489871471579444" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/1417/6406/t/6/assets/slider.js?v=37393588036315617981631233019" type="text/javascript"></script>
+  
+
+  <script src="//cdn.shopify.com/s/files/1/1417/6406/t/6/assets/fastclick.min.js?v=29723458539410922371471579442" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/1417/6406/t/6/assets/timber.js?v=132131337694198291551471579449" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/1417/6406/t/6/assets/theme.js?v=92240907644181103821471579448" type="text/javascript"></script>
+
+  
+    
+      <script src="//cdn.shopify.com/s/files/1/1417/6406/t/6/assets/magnific-popup.min.js?v=150056207394664341371471579445" type="text/javascript"></script>
+    
+  
+
+  
+    
+      <script src="//cdn.shopify.com/s/files/1/1417/6406/t/6/assets/social-buttons.js?v=103197090037676789791471579448" type="text/javascript"></script>
+    
+  
+
+ <!-- "snippets/smile-initializer.liquid" was not rendered, the associated app was uninstalled -->
+
+</body>
+</html>

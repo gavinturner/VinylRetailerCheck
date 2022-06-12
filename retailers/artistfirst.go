@@ -40,12 +40,12 @@ func (a *ArtistFirst) ScrapeArtistReleases(artist string) (findings []SKU, err e
 			sku := SKU{
 				Url:    strings.Replace(toks[idx+1], "<a href=\"", AF_URL_PREFIX, -1),
 				Artist: strings.ToLower(strings.TrimSpace(strings.TrimSuffix(toks[idx-1], "</p"))),
-				Image:  strings.TrimSpace(toks[idx-10]) + ">",
+				Image:  strings.TrimSpace(toks[idx-10]),
 				Name:   strings.TrimSpace(strings.TrimSuffix(toks[idx+2], "</a")),
 				Price:  toks[idx+5], // sold out
 			}
 
-			sku.Image = strings.Replace(sku.Image, "<img src=\"", fmt.Sprintf("<img width=\"150px\" height=\"150px\" src=\"https:"), -1)
+			sku.Image = strings.Replace(sku.Image, "<img src=\"", fmt.Sprintf("https:"), -1)
 			if strings.Index(strings.ToLower(sku.Price), SOLD_OUT) < 0 {
 				// ok we didnt find the sold out price
 				sku.Price = toks[idx+6] // price?
@@ -58,7 +58,7 @@ func (a *ArtistFirst) ScrapeArtistReleases(artist string) (findings []SKU, err e
 					sku.Image = strings.TrimSpace(toks[idx-8])
 				}
 				sku.Image += ">"
-				sku.Image = strings.Replace(sku.Image, "<img src=\"", fmt.Sprintf("<img width=\"150px\" height=\"150px\" src=\"https:"), -1)
+				sku.Image = strings.Replace(sku.Image, "<img src=\"", fmt.Sprintf("https:"), -1)
 				sku.Price = strings.TrimSuffix(sku.Price, "</span")
 			} else {
 				sku.Price = SOLD_OUT

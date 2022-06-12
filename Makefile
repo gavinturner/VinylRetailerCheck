@@ -65,7 +65,7 @@ scheduler:
 	# building the retailer scheduler image for docker and starting a container instance
 	@docker ps -aqf "name=vinylretailers-scheduler*" | xargs docker rm -f
 	@docker images "vinylretailers-scheduler" -q | xargs docker image rm
-	@docker build -t vinylretailers-scheduler -f cmd/scanner/Dockerfile.scheduler .
+	@docker build -t vinylretailers-scheduler -f cmd/scheduler/Dockerfile.scheduler .
 	@docker run --name vinylretailers-scheduler --network=vinylretailers -d vinylretailers-scheduler
 
 .PHONY: reporter
@@ -73,7 +73,7 @@ scheduler:
 	# building the retailer reporter image for docker and starting a container instance
 	@docker ps -aqf "name=vinylretailers-reporter*" | xargs docker rm -f
 	@docker images "vinylretailers-reporter" -q | xargs docker image rm
-	@docker build -t vinylretailers-reporter -f cmd/scanner/Dockerfile.reporter .
+	@docker build -t vinylretailers-reporter -f cmd/reporter/Dockerfile.reporter .
 	@docker run --name vinylretailers-reporter --network=vinylretailers -d vinylretailers-reporter
 
 .PHONY: migrate

@@ -134,7 +134,7 @@ func (a *Utopia) ScrapeArtistReleases(artist string) (findings []SKU, err error)
 			Artist: strings.ToLower(s.Vendor),
 			Name:   title,
 			Price:  fmt.Sprintf("$%.02f", float64(s.Price)/100.0),
-			Image:  "<img width=\"150px\" height=\"150px\" src=\"https:" + s.FeaturedImage + "\" />",
+			Image:  "https:" + s.FeaturedImage,
 		}
 
 		if !s.Available {

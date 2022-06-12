@@ -4,13 +4,14 @@ import (
 	"bufio"
 	"fmt"
 	"github.com/gavinturner/vinylretailers/retailers"
+	_ "github.com/lib/pq"
 	"os"
 	"strings"
 )
 
 func main() {
 	fmt.Printf("Scrape test\n")
-	scraper := retailers.PoisonCity{}
+	scraper := retailers.MusicFarmers{}
 
 	// multi artist test
 	readFile, err := os.Open("./retailers/test/artists.txt")
@@ -25,13 +26,19 @@ func main() {
 	}
 	readFile.Close()
 
+	artists = []string{"clowns"}
+
 	skus := []retailers.SKU{}
 	for _, artist := range artists {
 		if len(artist) == 0 {
 			continue
 		}
 		fmt.Printf("ARTIST: %s", artist)
-		s, _ := scraper.ScrapeArtistReleases(artist)
+		s, err := scraper.ScrapeArtistReleases(artist)
+		if err != nil {
+			fmt.Printf("ERROR: %s", err.Error())
+			os.Exit(1)
+		}
 		skus = append(skus, s...)
 		fmt.Printf(" (%v)\n", len(s))
 	}
