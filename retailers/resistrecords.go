@@ -67,6 +67,9 @@ func (a *ResistRecords) ScrapeArtistReleases(artist string) (findings []SKU, err
 					price = toks[idx+10]
 				}
 			}
+			if strings.Index(price, "from") >= 0 {
+				price = toks[idx+6]
+			}
 			if strings.Index(price, "</span") > 0 {
 				price = price[0:strings.Index(price, "</span")]
 			}

@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e473d14-c29b-4290-a298-48b102eea47c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/retailers/example/resist.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/scanner/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/scanner/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/db.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/db.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/scripts/convert_image_urls.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/scripts/convert_image_urls.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/skus.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/skus.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/vinylds.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/vinylds.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/vinylds_mock.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/vinylds_mock.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/artistfirst.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/artistfirst.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/music_farmers.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/music_farmers.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/resistrecords.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/resistrecords.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/retailers/test/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/test/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,11 +147,6 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/retailers/resistrecords.go</url>
-          <line>45</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/retailers/utopia.go</url>
           <line>123</line>
           <option name="timeStamp" value="51" />
@@ -216,6 +205,21 @@
           <url>file://$PROJECT_DIR$/retailers/music_farmers.go</url>
           <line>142</line>
           <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/resistrecords.go</url>
+          <line>70</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/resistrecords.go</url>
+          <line>64</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/resistrecords.go</url>
+          <line>66</line>
+          <option name="timeStamp" value="86" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

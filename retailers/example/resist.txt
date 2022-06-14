@@ -1,0 +1,4848 @@
+<!doctype html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <link rel="canonical" href="https://shop.resistrecords.com/search?q=architects">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#000000">
+
+  
+
+  <title>
+    Search: 50 results found for &quot;architects&quot; &ndash; Resist Records
+  </title>
+
+  
+    <meta name="description" content="Resist Records is a retail store, record label, touring company, management and booking agency specialising in hardcore and punk music.">
+  
+
+  <meta property="og:site_name" content="Resist Records">
+<meta property="og:url" content="https://shop.resistrecords.com/search?q=architects">
+<meta property="og:title" content="Search: 50 results found for &quot;architects&quot;">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Resist Records is a retail store, record label, touring company, management and booking agency specialising in hardcore and punk music.">
+
+<meta name="twitter:site" content="@resistrecords">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Search: 50 results found for &quot;architects&quot;">
+<meta name="twitter:description" content="Resist Records is a retail store, record label, touring company, management and booking agency specialising in hardcore and punk music.">
+
+
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><link rel="stylesheet" media="all" href="//cdn.shopify.com/s/global/search.css">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/6379487/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="b7c1cc1b76c42d44ba9b3b0199b50ae7">
+<meta id="in-context-paypal-metadata" data-shop-id="6379487" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="AUD">
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":6379487,"countryCode":"AU","currencyCode":"AUD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/6379487","merchantName":"Resist Records","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","jcb"],"total":{"type":"pending","label":"Resist Records","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"b7c1cc1b76c42d44ba9b3b0199b50ae7","betas":["rich-media-storefront-analytics"],"domain":"shop.resistrecords.com","predictiveSearch":true,"shopId":6379487,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js?v=2","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js?v=2","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "resistrecords.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"AUD","rate":"1.0"};
+Shopify.country = "AU";
+Shopify.theme = {"name":"District","id":80160325712,"theme_store_id":735,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["https:\/\/instafeed.nfcube.com\/cdn\/566b2aa36614ab492b12d55199325770.js?shop=resistrecords.myshopify.com","https:\/\/static-us.afterpay.com\/shopify\/afterpay-attract\/afterpay-attract-widget.js?shop=resistrecords.myshopify.com","\/\/app.backinstock.org\/bis\/widget\/3981_1652154470.js?v=6\u0026shop=resistrecords.myshopify.com","https:\/\/shopifyorderlimits.s3.amazonaws.com\/limits\/resistrecords.myshopify.com?v=90c\u0026r=20220608033432\u0026shop=resistrecords.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":6379487,"offset":36000,"reqid":"9316b086-6621-4b37-aacd-4beddf4ad997","pageurl":"shop.resistrecords.com\/search?q=architects","u":"511bd9d29ee2","p":"searchresults"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-N6F6ZjvOAMPhcD0kfZWNQQgx6eXaxFfh6aqfN0geLrU=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-37a17a663bce00c3e1703d247d958d410831e9e5dac457e1e9aa9f37481e2eb5.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/shopify_pay/storefront-b61f50798075db890698930c4405673937fe89353f7fea7be88b5ce16a9c0af8.js?v=20210208"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 120px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+  <link href="//cdn.shopify.com/s/files/1/0637/9487/t/5/assets/theme.scss.css?v=20723570314409042201654767795" rel="stylesheet" type="text/css" media="all" />
+
+  
+
+  <script>
+    window.StyleHatch = window.StyleHatch || {};
+    StyleHatch.Strings = {
+      instagramAddToken: "Add your Instagram access token.",
+      instagramInvalidToken: "The Instagram access token is invalid. Check to make sure you added the complete token.",
+      instagramRateLimitToken: "Your store is currently over Instagram\u0026#39;s rate limit. Contact Style Hatch support for details.",
+      addToCart: "Add to Cart",
+      preOrder: "Pre-Order",
+      soldOut: "Coming Soon",
+      addressError: "Error looking up that address",
+      addressNoResults: "No results for that address",
+      addressQueryLimit: "You have exceeded the Google API usage limit. Consider upgrading to a \u003ca href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\"\u003ePremium Plan\u003c\/a\u003e.",
+      authError: "There was a problem authenticating your Google Maps account.",
+      agreeNotice: "You must agree with the terms and conditions of sales to check out."
+    }
+    StyleHatch.currencyFormat = "${{amount}}";
+    StyleHatch.ajaxCartEnable = true;
+    StyleHatch.cartData = {"note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"AUD","items_subtotal_price":0,"cart_level_discount_applications":[]};
+    StyleHatch.routes = {
+      root_url: '/',
+      account_url: '/account',
+      account_login_url: '/account/login',
+      account_logout_url: '/account/logout',
+      account_recover_url: '/account/recover',
+      account_register_url: '/account/register',
+      account_addresses_url: '/account/addresses',
+      collections_url: '/collections',
+      all_products_collection_url: '/collections/all',
+      search_url: '/search',
+      cart_url: '/cart',
+      cart_add_url: '/cart/add',
+      cart_change_url: '/cart/change',
+      cart_clear_url: '/cart/clear'
+    };
+    // Post defer
+    window.addEventListener('DOMContentLoaded', function() {
+      (function( $ ) {
+      
+
+      
+      
+      })(jq223);
+    });
+    document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+  </script>
+  <script type="text/javascript">
+    window.lazySizesConfig = window.lazySizesConfig || {};
+    window.lazySizesConfig.loadMode = 1;
+  </script>
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="//cdn.shopify.com/s/files/1/0637/9487/t/5/assets/lazysizes.min.js?v=174097831579247140971575242843" async="async"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="//cdn.shopify.com/s/files/1/0637/9487/t/5/assets/lazysizes.min.js?v=174097831579247140971575242843"></script><![endif]-->
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="//cdn.shopify.com/s/files/1/0637/9487/t/5/assets/vendor.js?v=121196074338338660481575242846" defer="defer"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="//cdn.shopify.com/s/files/1/0637/9487/t/5/assets/vendor.js?v=121196074338338660481575242846"></script><![endif]-->
+  
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="//cdn.shopify.com/s/files/1/0637/9487/t/5/assets/theme.min.js?v=49180297403017503741575242845" defer="defer"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="//cdn.shopify.com/s/files/1/0637/9487/t/5/assets/theme.min.js?v=49180297403017503741575242845"></script><![endif]-->
+
+<div id="shopify-section-filter-menu-settings" class="shopify-section"><style type="text/css">
+/*  Filter Menu Color and Image Section CSS */</style>
+<link href="//cdn.shopify.com/s/files/1/0637/9487/t/5/assets/filter-menu.scss.css?v=167899102208505825981654767795" rel="stylesheet" type="text/css" media="all" />
+<script src="//cdn.shopify.com/s/files/1/0637/9487/t/5/assets/filter-menu.js?v=125519208554403998121610269323" type="text/javascript"></script>
+
+
+
+
+
+</div>
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 6379487,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "search"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'AUD';
+var meta = {"page":{"pageType":"searchresults"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var hasLoggedConversion = function(token) {
+    if (token) {
+      return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+    }
+    return false;
+  }
+
+  var setCookieIfConversion = function(token) {
+    if (token) {
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config || {};
+    trekkie.config.initialDocumentCookie = document.cookie;
+    var first = document.getElementsByTagName('script')[0];
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      var scriptFallback = document.createElement('script');
+      scriptFallback.type = 'text/javascript';
+      scriptFallback.onerror = function(error) {
+              var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+    
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+    
+        } // XHR beacon   
+    
+        var xhr = new XMLHttpRequest();
+    
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+    
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 6379487,
+      theme_id: 80160325712,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.6c66fea21eadc085ecedae6b3245f2e755f1f2df.min.js"});
+
+      };
+      scriptFallback.async = true;
+      scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.6c66fea21eadc085ecedae6b3245f2e755f1f2df.min.js';
+      first.parentNode.insertBefore(scriptFallback, first);
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/trekkie.storefront.6c66fea21eadc085ecedae6b3245f2e755f1f2df.min.js';
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":6379487,"isMerchantRequest":null,"themeId":80160325712,"themeCityHash":"8693520014044471033","contentLanguage":"en","currency":"AUD"},"isServerSideCookieWritingEnabled":true},"Google Analytics":{"trackingId":"UA-4117167-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["638181236335554"],"agent":"plshopify1.2"},"Session Attribution":{},"S2S":{"emitV4CheckoutEvent":true,"facebookCapiEnabled":false,"source":"trekkie-storefront-renderer"}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"searchresults"});
+
+    var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+    var token = match? match[1]: undefined;
+    if (!hasLoggedConversion(token)) {
+      setCookieIfConversion(token);
+      window.ShopifyAnalytics.lib.track("Performed Search",{"query":"architects"});
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-fa61fd11817b231631d2fe43dc869d0b1d14a06332792d42f1a1d94bda5aa31e.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "District";
+  window.BOOMR.themeVersion = "3.5.3";
+  window.BOOMR.shopId = 6379487;
+  window.BOOMR.themeId = 80160325712;
+  window.BOOMR.url =
+    "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+</head>
+
+<body id="search-50-results-found-for-quot-architects-quot" class="template-search" data-template-directory="" data-template="search" >
+
+  <div id="page">
+    <div id="shopify-section-promos" class="shopify-section promos"><div data-section-id="promos" data-section-type="promos-section" data-scroll-lock="false">
+  
+    
+    
+
+
+    
+    
+
+    
+    
+
+  
+    
+    
+
+    
+    
+
+    
+    
+      <div id="block-1584746366766" class="promo-popup promo-popup-1584746366766 style-overlay"
+        data-type="popup"
+        data-show-delay="0"
+        data-show-again-delay="7"
+        data-homepage-limit="true"
+        data-visitor-limit="true"
+        data-visitor="true"
+        data-show-for="both"
+        data-id="1584746366766"
+        >
+        
+        <div class="wrapper">
+          <div class="popup-close">
+            <span class="icon-text">
+              <span class="icon icon-close" aria-hidden="true"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-ui-close" viewBox="0 0 352 512"><path d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"/></svg></span>
+              <span class="text">Close</span>
+            </span>
+          </div>
+          <div class="popup-container">
+            <div class="popup-message">
+              <h4>FREE SHIPPING</h4>
+              <div class="rte"><p>AUSTRALIA WIDE ON ALL ORDERS OVER $100</p></div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+      <style>
+      .promo-popup-1584746366766 {
+        background-color: #ffffff;
+        color: #4f4f4f;
+      }
+      .promo-popup-1584746366766 h4 {
+        color: #4f4f4f;
+      }
+      .promo-popup-1584746366766 .popup-email {
+        border-top-color: rgba(79, 79, 79, 0.2);
+      }.promo-popup-1584746366766 .popup-image__wrapper:before {
+        padding-bottom: ;
+      }
+      .promo-popup-1584746366766 .popup-email input {
+        border-color: rgba(79, 79, 79, 0.5);
+      }
+      .promo-popup-1584746366766 .popup-email input.errors {
+        border-color: #000000;
+      }
+      .promo-popup-1584746366766 .popup-email input:focus {
+        border-color: #4f4f4f;
+      }
+      .promo-popup-1584746366766 .popup-email input::-webkit-input-placeholder,
+      .promo-popup-1584746366766 .popup-email input::-moz-placeholder,
+      .promo-popup-1584746366766 .popup-email input:-ms-input-placeholder,
+      .promo-popup-1584746366766 .popup-email input:-moz-placeholder {
+        color: rgba(79, 79, 79, 0.5);
+      }
+      .promo-popup-1584746366766 .popup-email button {
+        background-color: #000000;
+        color: #ffffff;
+      }
+      .promo-popup-1584746366766 .popup-email div.errors {
+        color: #000000;
+      }
+      </style>
+    
+
+  
+</div>
+
+
+</div>
+    <header class="util">
+  <div class="wrapper">
+
+    <div class="search-wrapper">
+      <!-- /snippets/search-bar.liquid -->
+
+
+<form action="/search" method="get" class="input-group search-bar" role="search">
+  <div class="icon-wrapper">
+    <span class="icon-fallback-text">
+      <span class="icon icon-search" aria-hidden="true"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-ui-search" viewBox="0 0 512 512"><path d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg></span>
+      <span class="fallback-text">Search</span>
+    </span>
+  </div>
+  <div class="input-wrapper">
+    <input type="search" name="q" value="architects" placeholder="Search our store" class="input-group-field" aria-label="Search our store">
+  </div>
+  <div class="button-wrapper">
+    <span class="input-group-btn">
+      <button type="button" class="btn icon-fallback-text">
+        <span class="icon icon-close" aria-hidden="true"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-ui-close" viewBox="0 0 352 512"><path d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"/></svg></span>
+        <span class="fallback-text">Close menu</span>
+      </button>
+    </span>
+  </div>
+</form>
+    </div>
+
+    <div class="left-wrapper">
+      <ul class="text-links">
+        <li class="mobile-menu">
+          <a href="#menu" class="toggle-menu menu-link">
+            <span class="icon-text">
+              <span class="icon icon-menu" aria-hidden="true"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-ui-menu" viewBox="0 0 448 512"><path d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"/></svg></span>
+              <span class="text" data-close-text="Close menu">Menu</span>
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="#" class="search">
+            <span class="icon-text">
+              <span class="icon icon-search" aria-hidden="true"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-ui-search" viewBox="0 0 512 512"><path d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg></span>
+              <span class="text">Search</span>
+            </span>
+          </a>
+        </li>
+      </ul>
+      
+      
+    </div>
+
+    <div class="right-wrapper">
+      
+      
+        <!-- /snippets/accounts-nav.liquid -->
+<ul class="text-links">
+  
+    <li>
+      <a href="/account/login" id="customer_login_link">Log in</a>
+    </li>
+    <li>
+      <a href="/account/register" id="customer_register_link">Create account</a>
+    </li>
+  
+</ul>
+      
+      
+      <a href="/cart" id="CartButton">
+        <span class="icon-fallback-text"><span class="icon icon-cart" aria-hidden="true"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-ui-cart" viewBox="0 0 576 512"><path d="M528.12 301.319l47.273-208C578.806 78.301 567.391 64 551.99 64H159.208l-9.166-44.81C147.758 8.021 137.93 0 126.529 0H24C10.745 0 0 10.745 0 24v16c0 13.255 10.745 24 24 24h69.883l70.248 343.435C147.325 417.1 136 435.222 136 456c0 30.928 25.072 56 56 56s56-25.072 56-56c0-15.674-6.447-29.835-16.824-40h209.647C430.447 426.165 424 440.326 424 456c0 30.928 25.072 56 56 56s56-25.072 56-56c0-22.172-12.888-41.332-31.579-50.405l5.517-24.276c3.413-15.018-8.002-29.319-23.403-29.319H218.117l-6.545-32h293.145c11.206 0 20.92-7.754 23.403-18.681z"/></svg></span>
+        </span>
+        <span id="CartCount">0</span>
+        Cart
+        <span id="CartCost" class="money"></span>
+
+      </a>
+      
+        <!-- /snippets/cart-preview.liquid -->
+<div class="cart-preview">
+  <div class="cart-preview-title">
+    Added to Cart
+  </div>
+  <div class="product-container">
+    <div class="box product">
+      <figure>
+        <a href="#" class="product-image"></a>
+        <figcaption>
+          <a href="#" class="product-title"></a>
+          <ul class="product-variant options"></ul>
+          <span class="product-price price money"></span>
+        </figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="cart-preview-total">
+    
+    <div class="count plural">You have <span class="item-count"></span> items in your cart</div>
+    <div class="count singular">You have <span class="item-count">1</span> item in your cart</div>
+    <ul class="cart-preview--discounts"></ul>
+    <div class="label">Total</div>
+    <div class="total-price total"><span class="money"></span></div>
+  </div>
+  <div class="cart-preview-buttons">
+    <a href="/cart" class="button solid">Check Out</a>
+    <a href="#continue" class="button outline continue-shopping">Continue Shopping</a>
+  </div>
+</div>
+      
+    </div>
+  </div>
+</header>
+
+    <div id="shopify-section-header" class="shopify-section header"><div data-section-id="header" data-section-type="header-section">
+  <div class="site-header-wrapper">
+    <header class="site-header  " data-scroll-lock="none" role="banner">
+
+      <div class="wrapper">
+        <div class="logo-nav-contain layout-vertical">
+          
+          <div class="logo-contain">
+            
+              <div class="site-logo has-image" itemscope itemtype="http://schema.org/Organization">
+            
+              
+                <a href="/" itemprop="url" class="logo-image">
+                  
+                  <img id="" class="lazyload"
+                    src="//cdn.shopify.com/s/files/1/0637/9487/files/resist_logo_140x.png?v=1575601719"
+                    data-src="//cdn.shopify.com/s/files/1/0637/9487/files/resist_logo_{width}x.png?v=1575601719"
+                    data-widths="[140,280,420,794]"
+                    data-aspectratio="1.562992125984252"
+                    data-sizes="auto"
+                    alt="Resist Records">
+                </a>
+              
+            
+              </div>
+            
+          </div>
+
+          <nav class="nav-bar" role="navigation">
+            <ul class="site-nav" role="menubar">
+  
+  
+    <li class="" role="presentation">
+      <a href="/"  role="menuitem">HOME</a>
+      
+    </li>
+  
+    <li class="" role="presentation">
+      <a href="/collections/all"  role="menuitem">ALL</a>
+      
+    </li>
+  
+    <li class="" role="presentation">
+      <a href="/collections/accessories"  role="menuitem">ACCESSORIES</a>
+      
+    </li>
+  
+    <li class="" role="presentation">
+      <a href="/collections/books-zines"  role="menuitem">BOOKS/ZINES</a>
+      
+    </li>
+  
+    <li class="has-dropdown " role="presentation">
+      <a href="/collections/merch" aria-haspopup="true" aria-expanded="false" role="menuitem">MERCH</a>
+      
+        <ul class="dropdown " aria-hidden="true" role="menu">
+          
+          
+            <li class="" role="presentation">
+              <a href="/collections/t-shirt" role="menuitem"  tabindex="-1">Shirts</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/long-sleeve" role="menuitem"  tabindex="-1">Long Sleeves</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/hooded-sweatshirt" role="menuitem"  tabindex="-1">Hoodies</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/crew-necks" role="menuitem"  tabindex="-1">Crew Necks</a>
+              
+            </li>
+          
+        </ul>
+      
+    </li>
+  
+    <li class="has-dropdown " role="presentation">
+      <a href="/collections/box-sets" aria-haspopup="true" aria-expanded="false" role="menuitem">MUSIC</a>
+      
+        <ul class="dropdown " aria-hidden="true" role="menu">
+          
+          
+            <li class="" role="presentation">
+              <a href="/collections/box-sets" role="menuitem"  tabindex="-1">BOX SET</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/cassettes" role="menuitem"  tabindex="-1">CASSETTES</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/cd" role="menuitem"  tabindex="-1">CD</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/dvd" role="menuitem"  tabindex="-1">DVD</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/pre-orders" role="menuitem"  tabindex="-1">PRE ORDERS</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/vinyl" role="menuitem"  tabindex="-1">VINYL</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/damaged-jackets" role="menuitem"  tabindex="-1">DAMAGED JACKETS</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/coming-soon" role="menuitem"  tabindex="-1">COMING SOON</a>
+              
+            </li>
+          
+        </ul>
+      
+    </li>
+  
+    <li class="" role="presentation">
+      <a href="/collections/gift-cards"  role="menuitem">GIFT CARDS</a>
+      
+    </li>
+  
+    <li class="has-dropdown " role="presentation">
+      <a href="/collections/resist-records" aria-haspopup="true" aria-expanded="false" role="menuitem">EXCLUSIVE STORES</a>
+      
+        <ul class="dropdown " aria-hidden="true" role="menu">
+          
+          
+            <li class="" role="presentation">
+              <a href="/collections/resist-records" role="menuitem"  tabindex="-1">Resist Records</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/common-bond" role="menuitem"  tabindex="-1">Common Bond</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/balance-and-composure" role="menuitem"  tabindex="-1">Balance And Composure</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/citizen" role="menuitem"  tabindex="-1">Citizen</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/la-dispute" role="menuitem"  tabindex="-1">La Dispute</a>
+              
+            </li>
+          
+        </ul>
+      
+    </li>
+  
+    <li class="" role="presentation">
+      <a href="/collections/sale"  role="menuitem">SALE</a>
+      
+    </li>
+  
+</ul>
+
+          </nav>
+        </div>
+
+      </div>
+    </header>
+  </div>
+</div>
+
+<nav id="menu" class="panel" role="navigation">
+  <div class="search">
+    <!-- /snippets/search-bar.liquid -->
+
+
+<form action="/search" method="get" class="input-group search-bar" role="search">
+  <div class="icon-wrapper">
+    <span class="icon-fallback-text">
+      <span class="icon icon-search" aria-hidden="true"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-ui-search" viewBox="0 0 512 512"><path d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg></span>
+      <span class="fallback-text">Search</span>
+    </span>
+  </div>
+  <div class="input-wrapper">
+    <input type="search" name="q" value="architects" placeholder="Search our store" class="input-group-field" aria-label="Search our store">
+  </div>
+  <div class="button-wrapper">
+    <span class="input-group-btn">
+      <button type="button" class="btn icon-fallback-text">
+        <span class="icon icon-close" aria-hidden="true"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-ui-close" viewBox="0 0 352 512"><path d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"/></svg></span>
+        <span class="fallback-text">Close menu</span>
+      </button>
+    </span>
+  </div>
+</form>
+  </div>
+
+  <ul class="site-nav" role="menubar">
+  
+  
+    <li class="" role="presentation">
+      <a href="/"  role="menuitem">HOME</a>
+      
+    </li>
+  
+    <li class="" role="presentation">
+      <a href="/collections/all"  role="menuitem">ALL</a>
+      
+    </li>
+  
+    <li class="" role="presentation">
+      <a href="/collections/accessories"  role="menuitem">ACCESSORIES</a>
+      
+    </li>
+  
+    <li class="" role="presentation">
+      <a href="/collections/books-zines"  role="menuitem">BOOKS/ZINES</a>
+      
+    </li>
+  
+    <li class="has-dropdown " role="presentation">
+      <a href="/collections/merch" aria-haspopup="true" aria-expanded="false" role="menuitem">MERCH</a>
+      
+        <ul class="dropdown " aria-hidden="true" role="menu">
+          
+          
+            <li class="" role="presentation">
+              <a href="/collections/t-shirt" role="menuitem"  tabindex="-1">Shirts</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/long-sleeve" role="menuitem"  tabindex="-1">Long Sleeves</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/hooded-sweatshirt" role="menuitem"  tabindex="-1">Hoodies</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/crew-necks" role="menuitem"  tabindex="-1">Crew Necks</a>
+              
+            </li>
+          
+        </ul>
+      
+    </li>
+  
+    <li class="has-dropdown " role="presentation">
+      <a href="/collections/box-sets" aria-haspopup="true" aria-expanded="false" role="menuitem">MUSIC</a>
+      
+        <ul class="dropdown " aria-hidden="true" role="menu">
+          
+          
+            <li class="" role="presentation">
+              <a href="/collections/box-sets" role="menuitem"  tabindex="-1">BOX SET</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/cassettes" role="menuitem"  tabindex="-1">CASSETTES</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/cd" role="menuitem"  tabindex="-1">CD</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/dvd" role="menuitem"  tabindex="-1">DVD</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/pre-orders" role="menuitem"  tabindex="-1">PRE ORDERS</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/vinyl" role="menuitem"  tabindex="-1">VINYL</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/damaged-jackets" role="menuitem"  tabindex="-1">DAMAGED JACKETS</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/coming-soon" role="menuitem"  tabindex="-1">COMING SOON</a>
+              
+            </li>
+          
+        </ul>
+      
+    </li>
+  
+    <li class="" role="presentation">
+      <a href="/collections/gift-cards"  role="menuitem">GIFT CARDS</a>
+      
+    </li>
+  
+    <li class="has-dropdown " role="presentation">
+      <a href="/collections/resist-records" aria-haspopup="true" aria-expanded="false" role="menuitem">EXCLUSIVE STORES</a>
+      
+        <ul class="dropdown " aria-hidden="true" role="menu">
+          
+          
+            <li class="" role="presentation">
+              <a href="/collections/resist-records" role="menuitem"  tabindex="-1">Resist Records</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/common-bond" role="menuitem"  tabindex="-1">Common Bond</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/balance-and-composure" role="menuitem"  tabindex="-1">Balance And Composure</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/citizen" role="menuitem"  tabindex="-1">Citizen</a>
+              
+            </li>
+          
+            <li class="" role="presentation">
+              <a href="/collections/la-dispute" role="menuitem"  tabindex="-1">La Dispute</a>
+              
+            </li>
+          
+        </ul>
+      
+    </li>
+  
+    <li class="" role="presentation">
+      <a href="/collections/sale"  role="menuitem">SALE</a>
+      
+    </li>
+  
+</ul>
+
+
+  <div class="account">
+    
+      <!-- /snippets/accounts-nav.liquid -->
+<ul class="text-links">
+  
+    <li>
+      <a href="/account/login" id="customer_login_link">Log in</a>
+    </li>
+    <li>
+      <a href="/account/register" id="customer_register_link">Create account</a>
+    </li>
+  
+</ul>
+    
+  </div>
+</nav>
+
+<style>
+  
+  header.util .wrapper {
+    padding: 0;
+    max-width: 100%;
+  }
+  header.util .wrapper .left-wrapper,
+  header.util .wrapper .right-wrapper {
+    margin: 6px 20px;
+  }
+  
+  .site-logo.has-image {
+    max-width: 140px;
+  }
+  header.site-header .layout-horizontal .logo-contain {
+    flex-basis: 140px;
+  }header.site-header h1.site-logo.has-image a:before,
+    header.site-header .site-logo.has-image.h1 a:before,
+    header.site-header div.has-image.site-logo a:before {
+      padding-bottom: 63.97984886649873%;
+    }</style>
+
+
+</div>
+
+    <main class="main-content main-content--breadcrumb-desktop" role="main">
+      
+
+<div id="shopify-section-search-template" class="shopify-section"><section class="collection search-results" data-section-id="search-template" data-section-type="search-template">
+  
+
+  
+
+
+  
+  
+  <div class="wrapper">
+
+    <header class="content-util">
+    <!-- /snippets/breadcrumb.liquid -->
+
+
+<nav class="breadcrumb" role="navigation" aria-label="breadcrumbs">
+  <a href="/" title="Back to the frontpage">Home</a>
+
+  
+
+    <span aria-hidden="true">&rsaquo;</span>
+    <span>Search: Search: 50 results found for &quot;architects&quot;</span>
+
+  
+</nav>
+
+
+    <ul class="social-icons"><li>
+        <a href="https://twitter.com/resistrecords" title="Twitter - Resist Records">
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-social-twitter" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+        </a>
+      </li><li>
+        <a href="https://www.facebook.com/Resistrecords/" title="Facebook - Resist Records">
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-social-facebook" viewBox="0 0 448 512"><path d="M448 56.7v398.5c0 13.7-11.1 24.7-24.7 24.7H309.1V306.5h58.2l8.7-67.6h-67v-43.2c0-19.6 5.4-32.9 33.5-32.9h35.8v-60.5c-6.2-.8-27.4-2.7-52.2-2.7-51.6 0-87 31.5-87 89.4v49.9h-58.4v67.6h58.4V480H24.7C11.1 480 0 468.9 0 455.3V56.7C0 43.1 11.1 32 24.7 32h398.5c13.7 0 24.8 11.1 24.8 24.7z"/></svg>
+        </a>
+      </li><li>
+        <a href="https://www.instagram.com/resistrecords/" title="Instagram - Resist Records">
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-social-instagram" viewBox="0 0 448 512"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></svg>
+        </a>
+      </li></ul>
+    </header>
+
+    <div class="collection-container">
+      <div class="search-wrapper">
+        <!-- /snippets/search-bar.liquid -->
+
+
+<form action="/search" method="get" class="input-group search-bar" role="search">
+  <div class="icon-wrapper">
+    <span class="icon-fallback-text">
+      <span class="icon icon-search" aria-hidden="true"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-ui-search" viewBox="0 0 512 512"><path d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg></span>
+      <span class="fallback-text">Search</span>
+    </span>
+  </div>
+  <div class="input-wrapper">
+    <input type="search" name="q" value="architects" placeholder="Search our store" class="input-group-field" aria-label="Search our store">
+  </div>
+  <div class="button-wrapper">
+    <span class="input-group-btn">
+      <button type="button" class="btn icon-fallback-text">
+        <span class="icon icon-close" aria-hidden="true"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-ui-close" viewBox="0 0 352 512"><path d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"/></svg></span>
+        <span class="fallback-text">Close menu</span>
+      </button>
+    </span>
+  </div>
+</form>
+      </div>
+
+      <header class="collection-header">
+        <div class="container">
+          
+            
+          	
+            
+              <h1>Your search for "architects" revealed the following:</h1>
+            
+          
+        </div>
+      </header>
+
+
+      
+        <div class="products products-list search-list">
+          
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architects-uk-daybreakercd?_pos=1&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/cm8888_{width}x.jpeg?v=1409461139"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects (UK) &quot;Daybreaker&quot;CD">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/cm8888_120x.jpeg?v=1409461139" alt="Architects (UK) &quot;Daybreaker&quot;CD">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architects-uk-daybreakercd?_pos=1&_sid=b0c67639d&_ss=r" class="title">Architects "Daybreaker" CD</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $34.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Since the release of 2011's "The Here And Now," Architects UK has been hard at work touring with Parkway Drive, Bring Me The Horizon and Rise Against, then returning to the studio to record "Daybreaker," a multifaceted modern metal masterpiece.</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architectsruinlp?_pos=2&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/d1a92a31ee0d895f426d9cccbc56da3490c6a624_{width}x.jpeg?v=1442282252"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects &quot;Ruin&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/d1a92a31ee0d895f426d9cccbc56da3490c6a624_120x.jpeg?v=1442282252" alt="Architects &quot;Ruin&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architectsruinlp?_pos=2&_sid=b0c67639d&_ss=r" class="title">Architects "Ruin" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $56.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Since their formation in late 2004, Brighton, England quintet ARCHITECTS have been on a continual ascendancy from the depths of the UK’s metal and hardcore underground to leaders of the scene. Today, they are signed to world famous punk institution...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architects-ruin-cd?_pos=3&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/architects_20ruin_{width}x.jpeg?v=1409452485"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects &quot;Ruin&quot; CD">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/architects_20ruin_120x.jpeg?v=1409452485" alt="Architects &quot;Ruin&quot; CD">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architects-ruin-cd?_pos=3&_sid=b0c67639d&_ss=r" class="title">Architects "Ruin" CD</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $28.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Drawn together by a love of heavy metal, noise and hardcore, Architects have already made a considerable name for themselves on the UK underground. Racking up shows alongside the likes of Nile, God Forbid, Napalm Death, Bring Me The Horizon,...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architects-hollow-crown-cd?_pos=4&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/architects_20hollow_{width}x.jpeg?v=1409453978"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects &quot;Hollow Crown&quot; CD">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/architects_20hollow_120x.jpeg?v=1409453978" alt="Architects &quot;Hollow Crown&quot; CD">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architects-hollow-crown-cd?_pos=4&_sid=b0c67639d&_ss=r" class="title">Architects "Hollow Crown" CD</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $28.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Having already conquered their home continent, Architects UK now aim for the rest of the planet with "Hollow Crown." This time around, the quintet show off their technical proficiency that has provided them with the strength to land tours next...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architectsholyhellcd?_pos=5&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/c972378b3d9781d5aa97b8f9d29894e3b8bcb339_{width}x.jpg?v=1541658776"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects &quot;Holy Hell&quot; CD">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/c972378b3d9781d5aa97b8f9d29894e3b8bcb339_120x.jpg?v=1541658776" alt="Architects &quot;Holy Hell&quot; CD">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architectsholyhellcd?_pos=5&_sid=b0c67639d&_ss=r" class="title">Architects "Holy Hell" CD</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $24.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Their eighth studio album, Holy Hell is the return to the studio for a band that have come through the grieving process with more drive and determination than ever before. Drummer Dan Searle- Desbiens takes on the helm as lyricist...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architectsholyhelllp?_pos=6&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/c972378b3d9781d5aa97b8f9d29894e3b8bcb339_685fd202-9a95-421a-939a-41d7e6cd6740_{width}x.jpg?v=1541659007"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects &quot;Holy Hell&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/c972378b3d9781d5aa97b8f9d29894e3b8bcb339_685fd202-9a95-421a-939a-41d7e6cd6740_120x.jpg?v=1541659007" alt="Architects &quot;Holy Hell&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architectsholyhelllp?_pos=6&_sid=b0c67639d&_ss=r" class="title">Architects "Holy Hell" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            <span class="from">From</span>
+            $38.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p></p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architects-reaper-t-shirt?_pos=7&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:92.3076923076923%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/architects_reaper_{width}x.jpg?v=1411707633"
+            data-widths="[120,240,325]"
+            data-aspectratio="1.0833333333333333"
+            data-sizes="auto"
+            alt="Architects &quot;Reaper&quot; T Shirt">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/architects_reaper_120x.jpg?v=1411707633" alt="Architects &quot;Reaper&quot; T Shirt">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architects-reaper-t-shirt?_pos=7&_sid=b0c67639d&_ss=r" class="title">Architects "Reaper" T Shirt</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $35.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p></p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architectsnolighttshirt?_pos=8&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:92.3076923076923%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/062cfdee9bc283aa0b279df300b23b08a6c8f234_{width}x.jpg?v=1517551553"
+            data-widths="[120,240,325]"
+            data-aspectratio="1.0833333333333333"
+            data-sizes="auto"
+            alt="Architects &quot;No Light&quot; T Shirt">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/062cfdee9bc283aa0b279df300b23b08a6c8f234_120x.jpg?v=1517551553" alt="Architects &quot;No Light&quot; T Shirt">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architectsnolighttshirt?_pos=8&_sid=b0c67639d&_ss=r" class="title">Architects "No Light" T Shirt</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $35.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p></p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architects-lost-forever-t-shirt?_pos=9&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:92.25000000000001%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/architects-lost-forever_{width}x.jpeg?v=1409468076"
+            data-widths="[120,240,394,400]"
+            data-aspectratio="1.084010840108401"
+            data-sizes="auto"
+            alt="Architects &quot;Lost Forever&quot; T Shirt">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/architects-lost-forever_120x.jpeg?v=1409468076" alt="Architects &quot;Lost Forever&quot; T Shirt">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architects-lost-forever-t-shirt?_pos=9&_sid=b0c67639d&_ss=r" class="title">Architects "Lost Forever" T Shirt</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $35.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p></p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architects-broken-cross-t-shirt?_pos=10&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:92.1985815602837%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/architects-broken-cross_{width}x.jpeg?v=1409465349"
+            data-widths="[120,240,394,564]"
+            data-aspectratio="1.0846153846153845"
+            data-sizes="auto"
+            alt="Architects &quot;Broken Cross&quot; T Shirt">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/architects-broken-cross_120x.jpeg?v=1409465349" alt="Architects &quot;Broken Cross&quot; T Shirt">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architects-broken-cross-t-shirt?_pos=10&_sid=b0c67639d&_ss=r" class="title">Architects "Broken Cross" T Shirt</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $35.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p></p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architectsforeveraflametshirt?_pos=11&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:92.3076923076923%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/6252a8cd4169baf798e13d4c969d199b36f0173b_{width}x.jpg?v=1569481232"
+            data-widths="[120,240,325]"
+            data-aspectratio="1.0833333333333333"
+            data-sizes="auto"
+            alt="Architects &quot;Forever A Flame&quot; T Shirt">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/6252a8cd4169baf798e13d4c969d199b36f0173b_120x.jpg?v=1569481232" alt="Architects &quot;Forever A Flame&quot; T Shirt">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architectsforeveraflametshirt?_pos=11&_sid=b0c67639d&_ss=r" class="title">Architects "Forever A Flame" T Shirt</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $35.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p></p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/longestwararchitectsoftheendlp?_pos=12&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/bdc6f135836b33819aa414dd0636ab5f613f9f29_{width}x.jpg?v=1497502940"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Longest War &quot;Architects Of The End&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/bdc6f135836b33819aa414dd0636ab5f613f9f29_120x.jpg?v=1497502940" alt="Longest War &quot;Architects Of The End&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/longestwararchitectsoftheendlp?_pos=12&_sid=b0c67639d&_ss=r" class="title">Longest War "Architects Of The End" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $30.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Scene vets Longest War (members of Chokehold, Despair, Union, 78 Days, Prayer For A Fallen Angel, Face The Panic) pound out 11 tracks of heavy, '90s-styled hardcore played by people who were actually there, all with Chris Logan's (Chokehold) signature...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architectsrottentothecoretshirt?_pos=13&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:92.3076923076923%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/6eee03ddef2abd42dfa406712c7eb881cd146329_{width}x.jpg?v=1488947605"
+            data-widths="[120,240,325]"
+            data-aspectratio="1.0833333333333333"
+            data-sizes="auto"
+            alt="Architects &quot;Rotten To The Core&quot; T Shirt">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/6eee03ddef2abd42dfa406712c7eb881cd146329_120x.jpg?v=1488947605" alt="Architects &quot;Rotten To The Core&quot; T Shirt">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architectsrottentothecoretshirt?_pos=13&_sid=b0c67639d&_ss=r" class="title">Architects "Rotten To The Core" T Shirt</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $35.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p></p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architects-uk-the-here-and-now-cd?_pos=14&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/architects_20here_20and_20now_{width}x.jpeg?v=1409458372"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects UK &quot;The Here And Now&quot; CD">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/architects_20here_20and_20now_120x.jpeg?v=1409458372" alt="Architects UK &quot;The Here And Now&quot; CD">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architects-uk-the-here-and-now-cd?_pos=14&_sid=b0c67639d&_ss=r" class="title">Architects UK "The Here And Now" CD</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $24.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Hot on the heels of their 2009 Century Media debut "Hollow Crown," Brighton, UK's Archutects UK deliver another healthy dose of innovative and powerful metalcore that draws comparison to Suicide Silence and Despised Icon as well as Bring Me The...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architectsforthosethatwishtoexistlp?_pos=15&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/66ffb92379cddee738c02f3661d59001df46e434_a605a775-fed4-4f05-9768-0d7a4cc8599e_{width}x.jpg?v=1614839555"
+            data-widths="[120,240,394,500]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects &quot;For Those That Wish To Exist&quot; 2xLP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/66ffb92379cddee738c02f3661d59001df46e434_a605a775-fed4-4f05-9768-0d7a4cc8599e_120x.jpg?v=1614839555" alt="Architects &quot;For Those That Wish To Exist&quot; 2xLP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architectsforthosethatwishtoexistlp?_pos=15&_sid=b0c67639d&_ss=r" class="title">Architects "For Those That Wish To Exist" 2xLP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            <span class="from">From</span>
+            $44.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>2021 release. Architects are back with their ninth studio album For Those That Wish To Exist. The band have confirmed their ascent to the very upper echelons of British heavy music. Few bands, of this modern era or any other,...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architectsforthosethatwishtoexistcd?_pos=16&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/66ffb92379cddee738c02f3661d59001df46e434_{width}x.jpg?v=1614824298"
+            data-widths="[120,240,394,500]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects &quot;For Those That Wish To Exist&quot; CD">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/66ffb92379cddee738c02f3661d59001df46e434_120x.jpg?v=1614824298" alt="Architects &quot;For Those That Wish To Exist&quot; CD">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architectsforthosethatwishtoexistcd?_pos=16&_sid=b0c67639d&_ss=r" class="title">Architects "For Those That Wish To Exist" CD</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $22.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>2021 release. Architects are back with their ninth studio album For Those That Wish To Exist. The band have confirmed their ascent to the very upper echelons of British heavy music. Few bands, of this modern era or any other,...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architects-lost-forever-lost-together-lp?_pos=17&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/epi7318_d0797eb6-9d97-4048-99d4-08f5410071be_{width}x.jpeg?v=1409465194"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects &quot;Lost Forever, Lost Together&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/epi7318_d0797eb6-9d97-4048-99d4-08f5410071be_120x.jpeg?v=1409465194" alt="Architects &quot;Lost Forever, Lost Together&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architects-lost-forever-lost-together-lp?_pos=17&_sid=b0c67639d&_ss=r" class="title">Architects "Lost Forever, Lost Together" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            <span class="from">From</span>
+            $38.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>The sixth studio album from Brighton, England-based metalcore outfit Architects UK, "Lost Forever // Lost Together," is the most eclectic and ambitious yet tightly controlled album so far in the band's ten-year career. Making their Epitaph Records debut, Architects (they...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architects-lost-forever-lost-together-cd?_pos=18&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/epi7318_{width}x.jpeg?v=1409465191"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects &quot;Lost Forever, Lost Together&quot; CD">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/epi7318_120x.jpeg?v=1409465191" alt="Architects &quot;Lost Forever, Lost Together&quot; CD">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architects-lost-forever-lost-together-cd?_pos=18&_sid=b0c67639d&_ss=r" class="title">Architects "Lost Forever, Lost Together" CD</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $26.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>The sixth studio album from Brighton, England-based metalcore outfit Architects UK, "Lost Forever // Lost Together," is the most eclectic and ambitious yet tightly controlled album so far in the band's ten-year career. Making their Epitaph Records debut, Architects (they...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architectsallourgodstshirt?_pos=19&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:92.3076923076923%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/8d59d120c130c22abaebe6c068c2fea203c181df_{width}x.jpg?v=1475184670"
+            data-widths="[120,240,325]"
+            data-aspectratio="1.0833333333333333"
+            data-sizes="auto"
+            alt="Architects &quot;All Our Gods&quot; T Shirt">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/8d59d120c130c22abaebe6c068c2fea203c181df_120x.jpg?v=1475184670" alt="Architects &quot;All Our Gods&quot; T Shirt">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architectsallourgodstshirt?_pos=19&_sid=b0c67639d&_ss=r" class="title">Architects "All Our Gods" T Shirt</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $35.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p></p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architectslostforeverlosttogetherdeluxecddvd?_pos=20&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/d7146e53de0cc57044de078576b0cc4751136a66_{width}x.jpeg?v=1427418291"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects &quot;Lost Forever // Lost Together&quot; CD">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/d7146e53de0cc57044de078576b0cc4751136a66_120x.jpeg?v=1427418291" alt="Architects &quot;Lost Forever // Lost Together&quot; CD">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architectslostforeverlosttogetherdeluxecddvd?_pos=20&_sid=b0c67639d&_ss=r" class="title">Architects "Lost Forever // Lost Together" CD</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $24.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p></p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/cursediiiarchitectsoftroubledsleeplp?_pos=21&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/81774502da1a25fd179f9f6f2ef290cd346917eb_{width}x.jpg?v=1469775098"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Cursed &quot;III: Architects Of Troubled Sleep&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/81774502da1a25fd179f9f6f2ef290cd346917eb_120x.jpg?v=1469775098" alt="Cursed &quot;III: Architects Of Troubled Sleep&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/cursediiiarchitectsoftroubledsleeplp?_pos=21&_sid=b0c67639d&_ss=r" class="title">Cursed "III: Architects Of Troubled Sleep" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $32.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>The highly anticipated vinyl repress of "III: Architects Of Troubled Sleep," the final album from Cursed. This definitive version of "III" was manufactured using brand new pressing plates, making the release sound better than ever. It's presented in a gatefold...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architects-for-those-that-wish-to-exist-at-abbey-road-2xlp?_pos=22&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/architects-abbey_{width}x.jpg?v=1650108326"
+            data-widths="[120,240,394,500]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects &quot;For Those That Wish To Exist At Abbey Road&quot; 2xLP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/architects-abbey_120x.jpg?v=1650108326" alt="Architects &quot;For Those That Wish To Exist At Abbey Road&quot; 2xLP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architects-for-those-that-wish-to-exist-at-abbey-road-2xlp?_pos=22&_sid=b0c67639d&_ss=r" class="title">Architects "For Those That Wish To Exist At Abbey Road" 2xLP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            <span class="from">From</span>
+            $48.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Architects new album captures a historic live stream performance event at the iconic Abbey Road studios: spiritual home to legends like The Beatles and Pink Floyd. Dubbed "For Those That Wish To Exist at Abbey Road", the album features a...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architects-for-those-that-wish-to-exist-at-abbey-road-cd?_pos=23&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/architectsforthosethatwishtoexistabbeyroad_{width}x.jpg?v=1649041131"
+            data-widths="[120,240,394,500]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects &quot;For Those That Wish To Exist At Abbey Road&quot; CD">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/architectsforthosethatwishtoexistabbeyroad_120x.jpg?v=1649041131" alt="Architects &quot;For Those That Wish To Exist At Abbey Road&quot; CD">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architects-for-those-that-wish-to-exist-at-abbey-road-cd?_pos=23&_sid=b0c67639d&_ss=r" class="title">Architects "For Those That Wish To Exist At Abbey Road" CD</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $24.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Architects new album captures a historic live stream performance event at the iconic Abbey Road studios: spiritual home to legends like The Beatles and Pink Floyd. Dubbed "For Those That Wish To Exist at Abbey Road", the album features a...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architectsallourgodshaveabandoneduscd?_pos=24&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/699962ac72b4feb0a2d00bf05f3afe883b14e279_73469ce5-c57b-498c-9b3a-079f22215560_{width}x.jpeg?v=1464242844"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects &quot;All Our Gods Have Abandoned Us&quot; CD">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/699962ac72b4feb0a2d00bf05f3afe883b14e279_73469ce5-c57b-498c-9b3a-079f22215560_120x.jpeg?v=1464242844" alt="Architects &quot;All Our Gods Have Abandoned Us&quot; CD">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architectsallourgodshaveabandoneduscd?_pos=24&_sid=b0c67639d&_ss=r" class="title">Architects "All Our Gods Have Abandoned Us" CD</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $26.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Architects are a band who've never shied away from challenging the world around them. Long lauded as some of modern metal's most progressive-thinking minds, for the past decade, the quintet have pushed boundaries, redefined genres, and never feared having to...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/radarstatestrayslp?_pos=25&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/074471c886207e73455b08fb91acc0955f608ac4_{width}x.jpg?v=1548042456"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Radar State &quot;Strays&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/074471c886207e73455b08fb91acc0955f608ac4_120x.jpg?v=1548042456" alt="Radar State &quot;Strays&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/radarstatestrayslp?_pos=25&_sid=b0c67639d&_ss=r" class="title">Radar State "Strays" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $34.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Featuring Matt Pryor/Jim Suptic of The Get Up Kids, Josh Berwanger of The Anniversary, and Adam Phillips of The Architects. Kansas City rock foursome Radar State may be newly-minted, but the members of the band are familiar names to independent...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/antagonistadhauntmeasiroamcd?_pos=26&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/4f1694cef32bf7041690410681e347dfcbf4213b_{width}x.jpeg?v=1427418317"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Antagonist AD &quot;Haunt Me As I Roam&quot; CD">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/4f1694cef32bf7041690410681e347dfcbf4213b_120x.jpeg?v=1427418317" alt="Antagonist AD &quot;Haunt Me As I Roam&quot; CD">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/antagonistadhauntmeasiroamcd?_pos=26&_sid=b0c67639d&_ss=r" class="title">Antagonist AD "Haunt Me As I Roam" CD</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $24.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>They have enlisted the services of Architect’s Sam Carter, The Amity Affliction’s Ahren Stringer, Deez Nuts’ JJ Peters and Comeback Kid’s Andrew Neufeld who all contribute vocals to the album. Former guitarist for The Amity Affliction Troy Brady, The Ghost...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/deeznutsboutitcd?_pos=27&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/cf3f7604fdea7abdc9e152d7b8b1530b9e7133cb_{width}x.jpeg?v=1447792560"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Deez Nuts &quot;Bout It&quot; CD">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/cf3f7604fdea7abdc9e152d7b8b1530b9e7133cb_120x.jpeg?v=1447792560" alt="Deez Nuts &quot;Bout It&quot; CD">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/deeznutsboutitcd?_pos=27&_sid=b0c67639d&_ss=r" class="title">Deez Nuts "Bout It" CD</a>
+          
+        </div>
+        <span class="price">
+          
+          <span class="sale">On Sale</span>
+          
+          
+
+          
+            
+              <span class="original-price">$24.00</span>
+              $16.00
+            
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Deez Nuts third album, "Bout It". "Bout It" is the controversial hardcore band's best effort by far, with their now full time line up being joined by guest spots from members of Architects, Hatebreed, Madball, Suicide Silence, Skarhead, On Broken...</p>
+      </div>
+      
+        
+        <span class="label sale">On Sale</span>
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/kingdomofgiantspassengerlp?_pos=28&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/f48ad21e584d0da3d7836e0f46376128e1d10cac_{width}x.jpg?v=1613711164"
+            data-widths="[120,240,394,500]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Kingdom Of Giants &quot;Passenger&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/f48ad21e584d0da3d7836e0f46376128e1d10cac_120x.jpg?v=1613711164" alt="Kingdom Of Giants &quot;Passenger&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/kingdomofgiantspassengerlp?_pos=28&_sid=b0c67639d&_ss=r" class="title">Kingdom Of Giants "Passenger" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $42.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Kingdom of Giants is poised to soar beyond "best kept secret" status and into the modern metal and post-hardcore stratosphere, with a continuously evolving sound that pushes both the band and their audience forward. While firmly rooted in classic metalcore...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/theaggrolitesreggaenowcd?_pos=29&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/84cbf899a993dac33838dd433661f635070cd9df_{width}x.jpg?v=1558661573"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="The Aggrolites &quot;Reggae Now!&quot; CD">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/84cbf899a993dac33838dd433661f635070cd9df_120x.jpg?v=1558661573" alt="The Aggrolites &quot;Reggae Now!&quot; CD">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/theaggrolitesreggaenowcd?_pos=29&_sid=b0c67639d&_ss=r" class="title">The Aggrolites "Reggae Now!" CD</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $26.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Reggae Now!" is The Aggrolites' sixth full-length, and first with Pirates Press Records. Written and recorded throughout 2018, the album finds these architects of "dirty reggae" reestablishing their signature sound, re-recording those three songs from 2015 as well as adding...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/pridelands-light-bends-cd?_pos=30&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/Pridelands-Light-Bends-500x500_{width}x.jpg?v=1637659490"
+            data-widths="[120,240,394,500]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Pridelands &quot;Light Bends&quot; CD">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/Pridelands-Light-Bends-500x500_120x.jpg?v=1637659490" alt="Pridelands &quot;Light Bends&quot; CD">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/pridelands-light-bends-cd?_pos=30&_sid=b0c67639d&_ss=r" class="title">Pridelands "Light Bends" CD</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $20.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>The arrangements throughout Pridelands’ debut album "Light Bends" are supple, lurching, unpredictable and exhilarating. Prepare to be blown away by sudden shifts in tone as serene moments are invaded, unexpectedly, by brutality and chaos. An undercurrent of unease simmers menacingly...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/fuck-you-pay-me-s-t-lp?_pos=31&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/221841_{width}x.jpeg?v=1409467474"
+            data-widths="[120,200]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Fuck You Pay Me &quot;S/t&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/221841_120x.jpeg?v=1409467474" alt="Fuck You Pay Me &quot;S/t&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/fuck-you-pay-me-s-t-lp?_pos=31&_sid=b0c67639d&_ss=r" class="title">Fuck You Pay Me "Self Titled" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $32.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Cleveland, OH has been synonymous with wild, unapologetic punk-tinged hardcore since that city's mid-'90s DIY rebirth that spawned legends like the H-100S, Inmates, Darvocets and 9 Shocks Terror. One of the architects of that unhinged, no-bullshit scene, Tony Erba, returns...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/polaristhedeathofmecd?_pos=32&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/79a28e09f29922df93721ab01c3495f34e1d8de4_{width}x.jpg?v=1573728908"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Polaris &quot;The Death Of Me&quot; CD">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/79a28e09f29922df93721ab01c3495f34e1d8de4_120x.jpg?v=1573728908" alt="Polaris &quot;The Death Of Me&quot; CD">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/polaristhedeathofmecd?_pos=32&_sid=b0c67639d&_ss=r" class="title">Polaris "The Death Of Me" CD</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $20.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>When it came time to make their new album, The Death Of Me, Polaris knew they had a tall order on their hands. Its predecessor, 2017 debut The Mortal Coil, was an ARIA-nominated, Top 10 hit in Australia, introducing the...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/run-with-the-hunted-i-self-titled-i-lp?_pos=33&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/run_20with_20the_20hunted_608491bd-26c2-49bc-9eec-3688a77019ca_{width}x.jpeg?v=1409458028"
+            data-widths="[120,200]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Run With The Hunted &quot;&lt;i&gt;Self Titled&lt;/i&gt;&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/run_20with_20the_20hunted_608491bd-26c2-49bc-9eec-3688a77019ca_120x.jpeg?v=1409458028" alt="Run With The Hunted &quot;&lt;i&gt;Self Titled&lt;/i&gt;&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/run-with-the-hunted-i-self-titled-i-lp?_pos=33&_sid=b0c67639d&_ss=r" class="title">Run With The Hunted "Self Titled" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $26.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>On their debut, self-titled LP, Run With The Hunted has architected songs founded around the heaviness and technicality of bands like Indecision and Turmoil intermixed with the strong, noisy flourishes akin to Botch or Catharsis. The end result as shown...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/run-with-the-hunted-i-self-titled-i-cd?_pos=34&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/run_20with_20the_20hunted_{width}x.jpeg?v=1409457995"
+            data-widths="[120,200]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Run With The Hunted &quot;&lt;i&gt;Self Titled&lt;/i&gt;&quot; CD">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/run_20with_20the_20hunted_120x.jpeg?v=1409457995" alt="Run With The Hunted &quot;&lt;i&gt;Self Titled&lt;/i&gt;&quot; CD">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/run-with-the-hunted-i-self-titled-i-cd?_pos=34&_sid=b0c67639d&_ss=r" class="title">Run With The Hunted "Self Titled" CD</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $26.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>On their debut, self-titled LP, Run With The Hunted has architected songs founded around the heaviness and technicality of bands like Indecision and Turmoil intermixed with the strong, noisy flourishes akin to Botch or Catharsis. The end result as shown...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/pridelands-light-bends-lp?_pos=35&_sid=b0c67639d&_ss=r" class="view-alt product-image lazyload" data-bgset="//cdn.shopify.com/s/files/1/0637/9487/products/Light-Bends-Resist-variant_180x.jpg?v=1639992657 180w 180h,//cdn.shopify.com/s/files/1/0637/9487/products/Light-Bends-Resist-variant_295x.jpg?v=1639992657 295w 295h,//cdn.shopify.com/s/files/1/0637/9487/products/Light-Bends-Resist-variant_394x.jpg?v=1639992657 394w 394h,//cdn.shopify.com/s/files/1/0637/9487/products/Light-Bends-Resist-variant.jpg?v=1639992657 500w 500h"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/Pridelands-Light-Bends-500x500_5345d32a-761a-4207-8fd5-efa7ac4b5a15_{width}x.jpg?v=1637659574"
+            data-widths="[120,240,394,500]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Pridelands &quot;Light Bends&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/Pridelands-Light-Bends-500x500_5345d32a-761a-4207-8fd5-efa7ac4b5a15_120x.jpg?v=1637659574" alt="Pridelands &quot;Light Bends&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/pridelands-light-bends-lp?_pos=35&_sid=b0c67639d&_ss=r" class="title">Pridelands "Light Bends" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $40.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>The arrangements throughout Pridelands’ debut album "Light Bends" are supple, lurching, unpredictable and exhilarating. Prepare to be blown away by sudden shifts in tone as serene moments are invaded, unexpectedly, by brutality and chaos. An undercurrent of unease simmers menacingly...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/mastodon-hushed-and-grim-2xlp?_pos=36&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/Mastadon_{width}x.jpg?v=1636076988"
+            data-widths="[120,240,394,500]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Mastodon &quot;Hushed And Grim&quot; 2xLP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/Mastadon_120x.jpg?v=1636076988" alt="Mastodon &quot;Hushed And Grim&quot; 2xLP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/mastodon-hushed-and-grim-2xlp?_pos=36&_sid=b0c67639d&_ss=r" class="title">Mastodon "Hushed And Grim" 2xLP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            <span class="from">From</span>
+            $64.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Over the past year, Mastodon recorded Hushed And Grim in their hometown, collaborating with producer David Bottrill [Tool, Rush, Muse, Peter Gabriel] behind the board. As their most ambitious body of work to date, it consists of 15 tracks, surveying...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/tapanddiebombsoverheadlp?_pos=37&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/ab5a4524e228bf07726a7945c6021a99acacc11e_{width}x.jpg?v=1553561278"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Tap And Die &quot;Bombs Overhead&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/ab5a4524e228bf07726a7945c6021a99acacc11e_120x.jpg?v=1553561278" alt="Tap And Die &quot;Bombs Overhead&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/tapanddiebombsoverheadlp?_pos=37&_sid=b0c67639d&_ss=r" class="title">Tap And Die "Bombs Overhead" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $34.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>A band built out of the legacy of their varied past bands (Oscar Paz - Statement, Impel, Sunshine, Kill Holiday, Status Audio, Adult Crash/Steven Andrew Miller - Julia, Gehenna, The Locust, Unbroken, Kill Holiday, Mean Season, Landslide, Statue/Matt Anderson -...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/polaristhedeathofmelp?_pos=38&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/79a28e09f29922df93721ab01c3495f34e1d8de4_ec2577bd-014a-4573-908b-4dde0cf75c5d_{width}x.jpg?v=1573728970"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Polaris &quot;The Death Of Me&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/79a28e09f29922df93721ab01c3495f34e1d8de4_ec2577bd-014a-4573-908b-4dde0cf75c5d_120x.jpg?v=1573728970" alt="Polaris &quot;The Death Of Me&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/polaristhedeathofmelp?_pos=38&_sid=b0c67639d&_ss=r" class="title">Polaris "The Death Of Me" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            <span class="from">From</span>
+            $36.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>When it came time to make their new album, The Death Of Me, Polaris knew they had a tall order on their hands. Its predecessor, 2017 debut The Mortal Coil, was an ARIA-nominated, Top 10 hit in Australia, introducing the...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/racquetclubselftitledcd?_pos=39&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/13fa14a3053ac1b85977a702c26d31a564d152c3_{width}x.jpg?v=1507508625"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Racquet Club &quot;Self Titled&quot; CD">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/13fa14a3053ac1b85977a702c26d31a564d152c3_120x.jpg?v=1507508625" alt="Racquet Club &quot;Self Titled&quot; CD">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/racquetclubselftitledcd?_pos=39&_sid=b0c67639d&_ss=r" class="title">Racquet Club "Self Titled" CD</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $26.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Racquet Club are a new band, but they're far from new. The band features singer/frontman Blair Shehan (The Jealous Sound, Knapsack), as well as guitar player Sergie Loobkoff (Samiam). Both are seasoned veterans with years of experience, who have resurfaced...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/makethemsufferworldsapartlp?_pos=40&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/bcb680b8a5dcd81b06f59682a7bd00e8a045a4d6_{width}x.jpg?v=1504153711"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Make Them Suffer &quot;World&#39;s Apart&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/bcb680b8a5dcd81b06f59682a7bd00e8a045a4d6_120x.jpg?v=1504153711" alt="Make Them Suffer &quot;World&#39;s Apart&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/makethemsufferworldsapartlp?_pos=40&_sid=b0c67639d&_ss=r" class="title">Make Them Suffer "World's Apart" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $42.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Make Them Suffer have had the pedal to the metal since the release of their last album, 'Old Souls,' in 2015. The band has toured relentlessly both at home and abroad with artists including Parkway Drive, Architects, In Hearts Wake,...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/pvris-use-me-deluxe-ep-lp?_pos=41&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/5e399e1772fdd72bfec7134d9fa57d455f0d678b_9e5fe65b-f968-4451-b41b-841bc23dd1a7_{width}x.jpg?v=1626439865"
+            data-widths="[120,240,394,500]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="PVRIS &quot;Use Me (Deluxe EP)&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/5e399e1772fdd72bfec7134d9fa57d455f0d678b_9e5fe65b-f968-4451-b41b-841bc23dd1a7_120x.jpg?v=1626439865" alt="PVRIS &quot;Use Me (Deluxe EP)&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/pvris-use-me-deluxe-ep-lp?_pos=41&_sid=b0c67639d&_ss=r" class="title">PVRIS "Use Me (Deluxe EP)" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $54.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>PVRIS marked a new era with the release of Use Me in 2020, as frontwoman, multi-instrumentalist, songwriter, and producer Lynn Gunn confidently stepped forward as PVRIS’ leader and sole architect. That newfound sense of freedom defined the record, on which...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/burytomorrowcanniballp?_pos=42&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/4b493e1790817f17f742829d9c71a6ea961dc5eb_{width}x.jpg?v=1594090924"
+            data-widths="[120,240,394,500]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Bury Tomorrow &quot;Cannibal&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/4b493e1790817f17f742829d9c71a6ea961dc5eb_120x.jpg?v=1594090924" alt="Bury Tomorrow &quot;Cannibal&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/burytomorrowcanniballp?_pos=42&_sid=b0c67639d&_ss=r" class="title">Bury Tomorrow "Cannibal" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $52.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Vinyl LP pressing. 2020 release from the British metalcore band. Bury Tomorrow's 2018 album Black Flame catapulted them into metal's upper echelons, taking them on a tour which culminated with a huge show at London's iconic Roundhouse. But with follow...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/boygeniusselftitledlp?_pos=43&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/8c0a2d511ddf3d8716d777e8d1e55a695d158ff6_{width}x.jpg?v=1544678810"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Boygenius &quot;Self Titled&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/8c0a2d511ddf3d8716d777e8d1e55a695d158ff6_120x.jpg?v=1544678810" alt="Boygenius &quot;Self Titled&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/boygeniusselftitledlp?_pos=43&_sid=b0c67639d&_ss=r" class="title">Boygenius "Self Titled" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $44.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Julien Baker, Phoebe Bridgers, and Lucy Dacus formed Boygenius after booking a tour together, but the trio had subconsciously been in the works for longer than that. Through a series of tours and performances and chance encounters that led to...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/spiritbox-eternal-blue-lp?_pos=44&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/spiritbox_{width}x.jpg?v=1631856251"
+            data-widths="[120,240,394,500]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Spiritbox &quot;Eternal Blue&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/spiritbox_120x.jpg?v=1631856251" alt="Spiritbox &quot;Eternal Blue&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/spiritbox-eternal-blue-lp?_pos=44&_sid=b0c67639d&_ss=r" class="title">Spiritbox "Eternal Blue" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+
+          
+            
+            $48.00
+          
+
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Eternal Blue - Spiritbox - After being named among Exclaim!'s New Faves last year, Spiritbox have detailed their debut album. The Victoria, BC-based metal outfit will share Eternal Blue from Rise Records. The 12-track Eternal Blue includes previously shared singles...</p>
+      </div>
+      
+        
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architectshollowcrownlp?_pos=45&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/499104ea05f08376881dd0c1b787c602cea12678_{width}x.jpeg?v=1442282288"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects &quot;Hollow Crown&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/499104ea05f08376881dd0c1b787c602cea12678_120x.jpeg?v=1442282288" alt="Architects &quot;Hollow Crown&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architectshollowcrownlp?_pos=45&_sid=b0c67639d&_ss=r" class="title">Architects "Hollow Crown" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+          <span class="sold-out">Coming Soon</span>
+          <span class="original-price">
+          
+
+          
+            
+            $54.00
+          
+
+          
+          </span>
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>2019 re-press by Backbite Records. Hollow Crown is the third album by British metalcore band, Architects. It was recorded at Outhouse Studios, Reading. On their YouTube channel, there are several videos documenting the band's recording sessions. The album was leaked...</p>
+      </div>
+      
+      <span class="label sold-out">Coming Soon</span>
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architectsthehereandnowlp?_pos=46&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/6cd558ccb3bd4be641ea499b6922064b203ee32f_{width}x.jpeg?v=1442282272"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects &quot;The Here And Now&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/6cd558ccb3bd4be641ea499b6922064b203ee32f_120x.jpeg?v=1442282272" alt="Architects &quot;The Here And Now&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architectsthehereandnowlp?_pos=46&_sid=b0c67639d&_ss=r" class="title">Architects "The Here And Now" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+          <span class="sold-out">Coming Soon</span>
+          <span class="original-price">
+          
+
+          
+            
+            $48.00
+          
+
+          
+          </span>
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>“The Here And Now” (2011) was Brighton, England quintet ARCHITECTS’ fourth album and expanded their unique trademark mix of anthemic hardcore, complex metal riffing and inimitable groove with more melodic elements to increasing commercial success and media acclaim. ARCHITECTS were...</p>
+      </div>
+      
+      <span class="label sold-out">Coming Soon</span>
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/longestwararchitectsoftheendcd?_pos=47&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/b3dc9450a963e9531c7c0056d04ce529167b7489_{width}x.jpg?v=1501044631"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Longest War &quot;Architects Of The End&quot; CD">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/b3dc9450a963e9531c7c0056d04ce529167b7489_120x.jpg?v=1501044631" alt="Longest War &quot;Architects Of The End&quot; CD">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/longestwararchitectsoftheendcd?_pos=47&_sid=b0c67639d&_ss=r" class="title">Longest War "Architects Of The End" CD</a>
+          
+        </div>
+        <span class="price">
+          
+          
+          <span class="sold-out">Coming Soon</span>
+          <span class="original-price">
+          
+
+          
+            
+            $20.00
+          
+
+          
+          </span>
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Scene vets Longest War (members of Chokehold, Despair, Union, 78 Days, Prayer For A Fallen Angel, Face The Panic) pound out 11 tracks of heavy, '90s-styled hardcore played by people who were actually there, all with Chris Logan's (Chokehold) signature...</p>
+      </div>
+      
+      <span class="label sold-out">Coming Soon</span>
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architectsallourgodshaveabandoneduslp?_pos=48&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/architectsallourgodshaveabandonedus_{width}x.jpg?v=1646804827"
+            data-widths="[120,240,394,500]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects &quot;All Our Gods Have Abandoned Us&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/architectsallourgodshaveabandonedus_120x.jpg?v=1646804827" alt="Architects &quot;All Our Gods Have Abandoned Us&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architectsallourgodshaveabandoneduslp?_pos=48&_sid=b0c67639d&_ss=r" class="title">Architects "All Our Gods Have Abandoned Us" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+          <span class="sold-out">Coming Soon</span>
+          <span class="original-price">
+          
+
+          
+            
+            $44.00
+          
+
+          
+          </span>
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>Architects are a band who've never shied away from challenging the world around them. Long lauded as some of modern metal's most progressive-thinking minds, for the past decade, the quintet have pushed boundaries, redefined genres, and never feared having to...</p>
+      </div>
+      
+      <span class="label sold-out">Coming Soon</span>
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/architectsallourgodshaveabandoneduspurplelp?_pos=49&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/9ff292fa4545977a190da16dcd4784d7d8dd1356_{width}x.jpg?v=1587348347"
+            data-widths="[120,240,394,500]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Architects &quot;All Our Gods Have Abandoned Us&quot; Purple LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/9ff292fa4545977a190da16dcd4784d7d8dd1356_120x.jpg?v=1587348347" alt="Architects &quot;All Our Gods Have Abandoned Us&quot; Purple LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/architectsallourgodshaveabandoneduspurplelp?_pos=49&_sid=b0c67639d&_ss=r" class="title">Architects "All Our Gods Have Abandoned Us" Purple LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+          <span class="sold-out">Coming Soon</span>
+          <span class="original-price">
+          
+
+          
+            
+            $38.00
+          
+
+          
+          </span>
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>180 Gram Purple Vinyl.Architects are a band who've never shied away from challenging the world around them. Long lauded as some of modern metal's most progressive-thinking minds, for the past decade, the quintet have pushed boundaries, redefined genres, and never...</p>
+      </div>
+      
+      <span class="label sold-out">Coming Soon</span>
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+
+            
+              
+                
+
+
+
+
+
+
+
+<div class="box product">
+  
+  <figure>
+    <div class="product-thumbnail">
+      <a href="/products/antagonistadhauntmeasiroamlp?_pos=50&_sid=b0c67639d&_ss=r" class="product-image"><div class="card__image-wrapper" style="padding-top:100.0%">
+          
+          
+          <img class="card__image lazyload fade-in"
+            data-src="//cdn.shopify.com/s/files/1/0637/9487/products/09450b13917d0986f891d24c91c2e2071345d545_{width}x.jpeg?v=1438653508"
+            data-widths="[120,240,250]"
+            data-aspectratio="1.0"
+            data-sizes="auto"
+            alt="Antagonist AD &quot;Haunt Me As I Roam&quot; LP">
+          <noscript>
+            <img class="card__image" src="//cdn.shopify.com/s/files/1/0637/9487/products/09450b13917d0986f891d24c91c2e2071345d545_120x.jpeg?v=1438653508" alt="Antagonist AD &quot;Haunt Me As I Roam&quot; LP">
+          </noscript>
+        </div>
+      </a>
+    </div>
+    <figcaption>
+      <header>
+        <div class="product-title">
+          <a href="/products/antagonistadhauntmeasiroamlp?_pos=50&_sid=b0c67639d&_ss=r" class="title">Antagonist AD "Haunt Me As I Roam" LP</a>
+          
+        </div>
+        <span class="price">
+          
+          
+          <span class="sold-out">Coming Soon</span>
+          <span class="original-price">
+          
+
+          
+            
+            $30.00
+          
+
+          
+          </span>
+          
+        </span>
+      </header>
+      <div class="description rte">
+        
+        <p>They have enlisted the services of Architect’s Sam Carter, The Amity Affliction’s Ahren Stringer, Deez Nuts’ JJ Peters and Comeback Kid’s Andrew Neufeld who all contribute vocals to the album. Former guitarist for The Amity Affliction Troy Brady, The Ghost...</p>
+      </div>
+      
+      <span class="label sold-out">Coming Soon</span>
+      
+    </figcaption>
+  </figure>
+
+</div>
+
+              
+
+            
+
+          
+        </div>
+
+        
+          <footer class="collection-footer">
+            <!-- /snippets/pagination.liquid -->
+
+
+<ul class="pagination">
+  
+
+  
+    
+      
+        <li class="active"><a href="" title="">1</a></li>
+      
+    
+  
+    
+      <li><a href="/search?page=2&amp;q=architects" title="">2</a></li>
+    
+  
+
+  
+    <li><a href="/search?page=2&q=architects" title="layout.pagination.next_html">&rarr;</a></li>
+  
+</ul>
+          </footer>
+        
+      
+
+      
+
+
+
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+</div>
+
+    </main>
+
+    <div id="shopify-section-footer" class="shopify-section footer"><div data-section-id="footer" data-section-type="footer-section">
+  <footer class="site-footer">
+    <div class="wrapper">
+      <div class="grid">
+
+          <div class="box box-1 box-first  layout-4 newsletter" >
+            <div class="offer-message">
+              
+                <h4>Newsletter</h4>
+              
+              
+                <div class="rte"><p>Subscribe to our e-newsletter and be the first to receive the latest news and offers.</p></div>
+              
+            </div>
+            <div class="offer-email">
+              <!-- /snippets/newsletter-subscribe.liquid -->
+
+<form method="post" action="/contact#newsletter-footer" id="newsletter-footer" accept-charset="UTF-8" class="contact-form"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" />
+  
+
+  
+    <input type="hidden" name="contact[tags]" value="prospect, newsletter, email subscribe, footer">
+    <div class="input-row">
+      <div class="input-wrapper">
+        <input type="email" name="contact[email]" id="email" placeholder="email@example.com" class="input-group-field" required>
+      </div>
+      <div class="button-wrapper">
+        <button type="submit" id="subscribe" class="btn">Go</button>
+      </div>
+    </div>
+  
+</form>
+
+            </div>
+          </div>
+        
+
+
+          <div class="box box-2   layout-4 menu" role="navigation"aria-labelledby="nav-customer-care">
+            
+              <h4 id="nav-customer-care">Customer care</h4>
+            
+            
+              <p>Get answers to your questions</p>
+            
+            <ul >
+              
+                <li class="">
+                  <a href="/pages/about" >About</a>
+                  
+                </li>
+              
+                <li class="">
+                  <a href="/pages/contact" >Contact</a>
+                  
+                </li>
+              
+                <li class="">
+                  <a href="/pages/faqs" >FAQs</a>
+                  
+                </li>
+              
+                <li class="">
+                  <a href="/pages/returns" >Returns</a>
+                  
+                </li>
+              
+                <li class="">
+                  <a href="/pages/shipping" >Shipping</a>
+                  
+                </li>
+              
+            </ul>
+          </div>
+        
+
+
+
+          <div class="box box-3   layout-4 menu" role="navigation"aria-labelledby="nav-featured-collections">
+            
+              <h4 id="nav-featured-collections">Featured collections</h4>
+            
+            
+              <p>Browse our popular products</p>
+            
+            <ul >
+              
+                <li class="">
+                  <a href="/collections/vinyl" >Vinyl</a>
+                  
+                </li>
+              
+                <li class="">
+                  <a href="/collections/merch" >Merch</a>
+                  
+                </li>
+              
+            </ul>
+          </div>
+        
+
+
+
+
+
+          <div class="box box-4  box-last layout-4 social" >
+            
+              <h4>Get in touch</h4>
+            
+            
+              <p>
+                
+                  <span class="phone">02 9557 8771</span>
+                
+                &bull;
+                
+                  
+                    <a class="contact" href="/pages/contact-us">Contact Us</a>
+                  
+                
+              </p>
+            
+            
+              <div class="richtext rte content">
+                <p>38 Chapel St<br/>Marrickville NSW 2204</p>
+              </div>
+            
+            
+              <ul class="social-icons"><li>
+        <a href="https://twitter.com/resistrecords" title="Twitter - Resist Records">
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-social-twitter" viewBox="0 0 512 512"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+        </a>
+      </li><li>
+        <a href="https://www.facebook.com/Resistrecords/" title="Facebook - Resist Records">
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-social-facebook" viewBox="0 0 448 512"><path d="M448 56.7v398.5c0 13.7-11.1 24.7-24.7 24.7H309.1V306.5h58.2l8.7-67.6h-67v-43.2c0-19.6 5.4-32.9 33.5-32.9h35.8v-60.5c-6.2-.8-27.4-2.7-52.2-2.7-51.6 0-87 31.5-87 89.4v49.9h-58.4v67.6h58.4V480H24.7C11.1 480 0 468.9 0 455.3V56.7C0 43.1 11.1 32 24.7 32h398.5c13.7 0 24.8 11.1 24.8 24.7z"/></svg>
+        </a>
+      </li><li>
+        <a href="https://www.instagram.com/resistrecords/" title="Instagram - Resist Records">
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-social-instagram" viewBox="0 0 448 512"><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></svg>
+        </a>
+      </li></ul>
+            
+
+          </div>
+        
+</div>
+
+      
+        <div class="box payment-types">
+          
+          
+            <p>Accepted Payments</p>
+              <ul>
+              
+<li>
+                  <svg class="payment-icon payment-icon--american_express" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-american_express"><title id="pi-american_express">American Express</title><g fill="none"><path fill="#000" d="M35,0 L3,0 C1.3,0 0,1.3 0,3 L0,21 C0,22.7 1.4,24 3,24 L35,24 C36.7,24 38,22.7 38,21 L38,3 C38,1.3 36.6,0 35,0 Z" opacity=".07"/><path fill="#006FCF" d="M35,1 C36.1,1 37,1.9 37,3 L37,21 C37,22.1 36.1,23 35,23 L3,23 C1.9,23 1,22.1 1,21 L1,3 C1,1.9 1.9,1 3,1 L35,1"/><path fill="#FFF" d="M8.971,10.268 L9.745,12.144 L8.203,12.144 L8.971,10.268 Z M25.046,10.346 L22.069,10.346 L22.069,11.173 L24.998,11.173 L24.998,12.412 L22.075,12.412 L22.075,13.334 L25.052,13.334 L25.052,14.073 L27.129,11.828 L25.052,9.488 L25.046,10.346 L25.046,10.346 Z M10.983,8.006 L14.978,8.006 L15.865,9.941 L16.687,8 L27.057,8 L28.135,9.19 L29.25,8 L34.013,8 L30.494,11.852 L33.977,15.68 L29.143,15.68 L28.065,14.49 L26.94,15.68 L10.03,15.68 L9.536,14.49 L8.406,14.49 L7.911,15.68 L4,15.68 L7.286,8 L10.716,8 L10.983,8.006 Z M19.646,9.084 L17.407,9.084 L15.907,12.62 L14.282,9.084 L12.06,9.084 L12.06,13.894 L10,9.084 L8.007,9.084 L5.625,14.596 L7.18,14.596 L7.674,13.406 L10.27,13.406 L10.764,14.596 L13.484,14.596 L13.484,10.661 L15.235,14.602 L16.425,14.602 L18.165,10.673 L18.165,14.603 L19.623,14.603 L19.647,9.083 L19.646,9.084 Z M28.986,11.852 L31.517,9.084 L29.695,9.084 L28.094,10.81 L26.546,9.084 L20.652,9.084 L20.652,14.602 L26.462,14.602 L28.076,12.864 L29.624,14.602 L31.499,14.602 L28.987,11.852 L28.986,11.852 Z"/></g></svg>
+
+                </li>
+              
+<li>
+                  <svg class="payment-icon payment-icon--apple_pay" version="1.1" xmlns="http://www.w3.org/2000/svg" role="img" x="0" y="0" width="38" height="24" viewBox="0 0 165.521 105.965" xml:space="preserve" aria-labelledby="pi-apple_pay"><title id="pi-apple_pay">Apple Pay</title><path fill="#000" d="M150.698 0H14.823c-.566 0-1.133 0-1.698.003-.477.004-.953.009-1.43.022-1.039.028-2.087.09-3.113.274a10.51 10.51 0 0 0-2.958.975 9.932 9.932 0 0 0-4.35 4.35 10.463 10.463 0 0 0-.975 2.96C.113 9.611.052 10.658.024 11.696a70.22 70.22 0 0 0-.022 1.43C0 13.69 0 14.256 0 14.823v76.318c0 .567 0 1.132.002 1.699.003.476.009.953.022 1.43.028 1.036.09 2.084.275 3.11a10.46 10.46 0 0 0 .974 2.96 9.897 9.897 0 0 0 1.83 2.52 9.874 9.874 0 0 0 2.52 1.83c.947.483 1.917.79 2.96.977 1.025.183 2.073.245 3.112.273.477.011.953.017 1.43.02.565.004 1.132.004 1.698.004h135.875c.565 0 1.132 0 1.697-.004.476-.002.952-.009 1.431-.02 1.037-.028 2.085-.09 3.113-.273a10.478 10.478 0 0 0 2.958-.977 9.955 9.955 0 0 0 4.35-4.35c.483-.947.789-1.917.974-2.96.186-1.026.246-2.074.274-3.11.013-.477.02-.954.022-1.43.004-.567.004-1.132.004-1.699V14.824c0-.567 0-1.133-.004-1.699a63.067 63.067 0 0 0-.022-1.429c-.028-1.038-.088-2.085-.274-3.112a10.4 10.4 0 0 0-.974-2.96 9.94 9.94 0 0 0-4.35-4.35A10.52 10.52 0 0 0 156.939.3c-1.028-.185-2.076-.246-3.113-.274a71.417 71.417 0 0 0-1.431-.022C151.83 0 151.263 0 150.698 0z" /><path fill="#FFF" d="M150.698 3.532l1.672.003c.452.003.905.008 1.36.02.793.022 1.719.065 2.583.22.75.135 1.38.34 1.984.648a6.392 6.392 0 0 1 2.804 2.807c.306.6.51 1.226.645 1.983.154.854.197 1.783.218 2.58.013.45.019.9.02 1.36.005.557.005 1.113.005 1.671v76.318c0 .558 0 1.114-.004 1.682-.002.45-.008.9-.02 1.35-.022.796-.065 1.725-.221 2.589a6.855 6.855 0 0 1-.645 1.975 6.397 6.397 0 0 1-2.808 2.807c-.6.306-1.228.511-1.971.645-.881.157-1.847.2-2.574.22-.457.01-.912.017-1.379.019-.555.004-1.113.004-1.669.004H14.801c-.55 0-1.1 0-1.66-.004a74.993 74.993 0 0 1-1.35-.018c-.744-.02-1.71-.064-2.584-.22a6.938 6.938 0 0 1-1.986-.65 6.337 6.337 0 0 1-1.622-1.18 6.355 6.355 0 0 1-1.178-1.623 6.935 6.935 0 0 1-.646-1.985c-.156-.863-.2-1.788-.22-2.578a66.088 66.088 0 0 1-.02-1.355l-.003-1.327V14.474l.002-1.325a66.7 66.7 0 0 1 .02-1.357c.022-.792.065-1.717.222-2.587a6.924 6.924 0 0 1 .646-1.981c.304-.598.7-1.144 1.18-1.623a6.386 6.386 0 0 1 1.624-1.18 6.96 6.96 0 0 1 1.98-.646c.865-.155 1.792-.198 2.586-.22.452-.012.905-.017 1.354-.02l1.677-.003h135.875" /><g><g><path fill="#000" d="M43.508 35.77c1.404-1.755 2.356-4.112 2.105-6.52-2.054.102-4.56 1.355-6.012 3.112-1.303 1.504-2.456 3.959-2.156 6.266 2.306.2 4.61-1.152 6.063-2.858" /><path fill="#000" d="M45.587 39.079c-3.35-.2-6.196 1.9-7.795 1.9-1.6 0-4.049-1.8-6.698-1.751-3.447.05-6.645 2-8.395 5.1-3.598 6.2-.95 15.4 2.55 20.45 1.699 2.5 3.747 5.25 6.445 5.151 2.55-.1 3.549-1.65 6.647-1.65 3.097 0 3.997 1.65 6.696 1.6 2.798-.05 4.548-2.5 6.247-5 1.95-2.85 2.747-5.6 2.797-5.75-.05-.05-5.396-2.101-5.446-8.251-.05-5.15 4.198-7.6 4.398-7.751-2.399-3.548-6.147-3.948-7.447-4.048" /></g><g><path fill="#000" d="M78.973 32.11c7.278 0 12.347 5.017 12.347 12.321 0 7.33-5.173 12.373-12.529 12.373h-8.058V69.62h-5.822V32.11h14.062zm-8.24 19.807h6.68c5.07 0 7.954-2.729 7.954-7.46 0-4.73-2.885-7.434-7.928-7.434h-6.706v14.894z" /><path fill="#000" d="M92.764 61.847c0-4.809 3.665-7.564 10.423-7.98l7.252-.442v-2.08c0-3.04-2.001-4.704-5.562-4.704-2.938 0-5.07 1.507-5.51 3.82h-5.252c.157-4.86 4.731-8.395 10.918-8.395 6.654 0 10.995 3.483 10.995 8.89v18.663h-5.38v-4.497h-.13c-1.534 2.937-4.914 4.782-8.579 4.782-5.406 0-9.175-3.222-9.175-8.057zm17.675-2.417v-2.106l-6.472.416c-3.64.234-5.536 1.585-5.536 3.95 0 2.288 1.975 3.77 5.068 3.77 3.95 0 6.94-2.522 6.94-6.03z" /><path fill="#000" d="M120.975 79.652v-4.496c.364.051 1.247.103 1.715.103 2.573 0 4.029-1.09 4.913-3.899l.52-1.663-9.852-27.293h6.082l6.863 22.146h.13l6.862-22.146h5.927l-10.216 28.67c-2.34 6.577-5.017 8.735-10.683 8.735-.442 0-1.872-.052-2.261-.157z" /></g></g></svg>
+
+                </li>
+              
+<li>
+                  <svg class="payment-icon payment-icon--jcb" width="38" height="24" role="img" aria-labelledby="pi-jcb" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg"><title id="pi-jcb">JCB</title><g fill="none" fill-rule="evenodd"><g fill-rule="nonzero"><path d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000" opacity=".07"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" fill="#FFF"/></g><path d="M11.5 5H15v11.5a2.5 2.5 0 0 1-2.5 2.5H9V7.5A2.5 2.5 0 0 1 11.5 5z" fill="#006EBC"/><path d="M18.5 5H22v11.5a2.5 2.5 0 0 1-2.5 2.5H16V7.5A2.5 2.5 0 0 1 18.5 5z" fill="#F00036"/><path d="M25.5 5H29v11.5a2.5 2.5 0 0 1-2.5 2.5H23V7.5A2.5 2.5 0 0 1 25.5 5z" fill="#2AB419"/><path d="M10.755 14.5c-1.06 0-2.122-.304-2.656-.987l.78-.676c.068 1.133 3.545 1.24 3.545-.19V9.5h1.802v3.147c0 .728-.574 1.322-1.573 1.632-.466.144-1.365.221-1.898.221zm8.116 0c-.674 0-1.388-.107-1.965-.366-.948-.425-1.312-1.206-1.3-2.199.012-1.014.436-1.782 1.468-2.165 1.319-.49 3.343-.261 3.926.27v.972c-.572-.521-1.958-.898-2.919-.46-.494.226-.737.917-.744 1.448-.006.56.245 1.252.744 1.497.953.467 2.39.04 2.919-.441v1.01c-.358.255-1.253.434-2.129.434zm8.679-2.587c.37-.235.582-.567.582-1.005 0-.438-.116-.687-.348-.939-.206-.207-.58-.469-1.238-.469H23v5h3.546c.696 0 1.097-.23 1.315-.415.283-.25.426-.53.426-.96 0-.431-.155-.908-.737-1.212zm-1.906-.281h-1.428v-1.444h1.495c.956 0 .944 1.444-.067 1.444zm.288 2.157h-1.716v-1.513h1.716c.986 0 1.083 1.513 0 1.513z" fill="#FFF" fill-rule="nonzero"/></g></svg>
+                </li>
+              
+<li>
+                  <svg class="payment-icon payment-icon--master" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-master"><title id="pi-master">Mastercard</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><circle fill="#EB001B" cx="15" cy="12" r="7"/><circle fill="#F79E1B" cx="23" cy="12" r="7"/><path fill="#FF5F00" d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z"/></svg>
+                </li>
+              
+<li>
+                  <svg class="payment-icon payment-icon--paypal" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" width="38" height="24" role="img" aria-labelledby="pi-paypal"><title id="pi-paypal">PayPal</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path fill="#003087" d="M23.9 8.3c.2-1 0-1.7-.6-2.3-.6-.7-1.7-1-3.1-1h-4.1c-.3 0-.5.2-.6.5L14 15.6c0 .2.1.4.3.4H17l.4-3.4 1.8-2.2 4.7-2.1z"/><path fill="#3086C8" d="M23.9 8.3l-.2.2c-.5 2.8-2.2 3.8-4.6 3.8H18c-.3 0-.5.2-.6.5l-.6 3.9-.2 1c0 .2.1.4.3.4H19c.3 0 .5-.2.5-.4v-.1l.4-2.4v-.1c0-.2.3-.4.5-.4h.3c2.1 0 3.7-.8 4.1-3.2.2-1 .1-1.8-.4-2.4-.1-.5-.3-.7-.5-.8z"/><path fill="#012169" d="M23.3 8.1c-.1-.1-.2-.1-.3-.1-.1 0-.2 0-.3-.1-.3-.1-.7-.1-1.1-.1h-3c-.1 0-.2 0-.2.1-.2.1-.3.2-.3.4l-.7 4.4v.1c0-.3.3-.5.6-.5h1.3c2.5 0 4.1-1 4.6-3.8v-.2c-.1-.1-.3-.2-.5-.2h-.1z"/></svg>
+                </li>
+              
+<li>
+                  <svg class="payment-icon payment-icon--shopify_pay" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 38 24" width="38" height="24" aria-labelledby="pi-shopify_pay"><title id="pi-shopify_pay">Shop Pay</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" fill="#000"/><path d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32z" fill="#5A31F4"/><path d="M21.382 9.713c0 1.668-1.177 2.858-2.821 2.858h-1.549a.133.133 0 00-.12.08.127.127 0 00-.01.049v2.192a.129.129 0 01-.13.129h-1.084a.13.13 0 01-.13-.13V6.986a.127.127 0 01.08-.12.129.129 0 01.05-.01h2.9c1.637 0 2.814 1.19 2.814 2.858v-.001zm-1.352 0c0-.958-.658-1.658-1.55-1.658h-1.468a.13.13 0 00-.13.13v3.05a.127.127 0 00.038.092.129.129 0 00.092.038h1.468c.892.005 1.55-.695 1.55-1.652zm1.674 3.791a1.527 1.527 0 01.647-1.317c.423-.316 1.084-.48 2.055-.514l1.033-.036v-.303c0-.607-.41-.863-1.068-.863-.658 0-1.075.231-1.17.61a.127.127 0 01-.125.09h-1.022a.13.13 0 01-.126-.092.125.125 0 01-.004-.055c.152-.898.904-1.58 2.494-1.58 1.692 0 2.303.783 2.303 2.276v3.172a.13.13 0 01-.132.129h-1.03a.13.13 0 01-.13-.13v-.236a.096.096 0 00-.061-.091.1.1 0 00-.107.022c-.31.334-.808.575-1.607.575-1.175 0-1.95-.607-1.95-1.657zm3.735-.687v-.246l-1.339.07c-.705.036-1.115.326-1.115.816 0 .444.376.69 1.034.69.893 0 1.42-.48 1.42-1.33zm2.316 4.6v-.919a.13.13 0 01.049-.1.132.132 0 01.108-.027c.158.029.318.044.479.044a1.229 1.229 0 001.245-.876l.067-.211a.133.133 0 000-.088l-2.145-5.471a.13.13 0 01.06-.165.13.13 0 01.062-.015h1.04a.132.132 0 01.123.085l1.456 3.859a.131.131 0 00.125.088.133.133 0 00.125-.088l1.265-3.848a.13.13 0 01.126-.09h1.076a.134.134 0 01.132.116.134.134 0 01-.008.063l-2.295 6.076c-.528 1.413-1.433 1.773-2.43 1.773a1.959 1.959 0 01-.561-.066.132.132 0 01-.1-.14h.001zM8.57 6.4a5.363 5.363 0 00-3.683 1.427.231.231 0 00-.029.31l.618.839a.236.236 0 00.362.028 3.823 3.823 0 012.738-1.11c2.12 0 3.227 1.584 3.227 3.15 0 1.7-1.163 2.898-2.835 2.921-1.292 0-2.266-.85-2.266-1.974a1.908 1.908 0 01.713-1.48.231.231 0 00.033-.324l-.65-.815a.236.236 0 00-.339-.034 3.43 3.43 0 00-.942 1.183 3.39 3.39 0 00-.337 1.47c0 1.935 1.655 3.452 3.775 3.464h.03c2.517-.032 4.337-1.884 4.337-4.415 0-2.247-1.667-4.64-4.752-4.64z" fill="#fff"/></svg>
+                </li>
+              
+<li>
+                  <svg class="payment-icon payment-icon--visa" viewBox="0 0 38 24" xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24" aria-labelledby="pi-visa"><title id="pi-visa">Visa</title><path opacity=".07" d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z"/><path fill="#fff" d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32"/><path d="M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z" fill="#142688"/></svg>
+                </li>
+              
+              </ul>
+          
+        </div>
+      
+
+      
+
+      <p class="copyright">&copy; 2022, <a href="/" title="">Resist Records</a><br>
+        <a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></p>
+    </div>
+  </footer>
+</div>
+
+
+</div>
+  </div>
+  
+  <!-- District v3.5.3 -->
+
+
+
+
+
+
+
+
+<script data-cfasync="false" data-no-instant>window.jQuery ||
+  document.write("<script src='https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js'>\x3C/script>")
+</script>
+
+
+<script type="text/javascript">
+  
+  window.saso = {
+    shop_slug: "resistrecords",
+    money_format: "${{amount}}",
+    customer: null,
+    cart: null,
+  }
+  window.saso_extras = {}
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+  	window.saso.cart = {"note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0.0,"item_count":0,"items":[],"requires_shipping":false,"currency":"AUD","items_subtotal_price":0,"cart_level_discount_applications":[]}
+    delete window.saso.cart.note
+    window.saso.cart_collections = {}
+    
+	if (typeof window.saso.cart.items == "object") {
+    	for (var i=0; i<window.saso.cart.items.length; i++) {
+        	["sku", "grams", "vendor", "url", "image", "handle", "requires_shipping", "product_type", "product_description"].map(function(a) {
+          		delete window.saso.cart.items[i][a]
+        	})
+    	}
+    }
+  
+
+  window.saso.page_type = ""
+  if (typeof window.location == "object" && typeof window.location.pathname == "string") {
+    if (window.location.pathname.indexOf('/checkouts/') > -1) {
+      window.saso.page_type = "checkout"
+    }
+  }
+</script>
+
+
+
+
+
+        <script data-cfasync="false">
+          jQuery(function(){
+            jQuery(document).on('click', "input[name='checkout']:not(.saso-ignore), input[value='Checkout']:not(.saso-ignore), button[name='checkout']:not(.saso-ignore), [href$='checkout']:not(.saso-ignore), button[value='Checkout']:not(.saso-ignore), input[name='goto_pp'], button[name='goto_pp'], input[name='goto_gc'], button[name='goto_gc']", function(e){
+              e.preventDefault();
+
+              if (typeof sasoCheckout != "function") {
+              	window.location = "/checkout";
+              }
+
+              jQuery.ajax({
+                          cache: false,
+                          contentType: "application/json; charset=utf-8",
+                          dataType: "json",
+                          type: "GET",
+                          url: '/cart.js',
+                          success: function(res) {
+                            window.saso.cart = res
+                            sasoCheckout()
+                          }
+                        })
+
+            });
+          });
+        </script>
+
+
+
+</body>
+</html>
+<!-- Begin Shopify-Afterpay JavaScript Snippet (v1.0.1) -->
+<script type="text/javascript">
+  // Liquid variables:
+  var afterpay_product = null;
+  var afterpay_product_variant = null;
+  var afterpay_cart_total_price = 0;
+</script>
+<!-- End Shopify-Afterpay JavaScript Snippet (v1.0.1) -->
