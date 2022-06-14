@@ -66,3 +66,14 @@ func (v *VinylDB) WaitForDbUp(timeoutSecs int64) error {
 	log.Debugf("Database looks ok..\n")
 	return nil
 }
+
+func (v *VinylDB) StartTransaction() (*postgres.Tx, error) {
+	return v.db.Beginx()
+}
+
+func (v *VinylDB) CloseTransaction(tx *postgres.Tx, err error) error {
+	if err != nil {
+		return tx.Rollback()
+	}
+	return tx.Commit()
+}

@@ -152,7 +152,7 @@ func (a *MusicFarmers) ScrapeArtistReleases(artist string) (findings []SKU, err 
 
 			sku.Name = data.Title
 			sku.Artist = strings.ToLower(data.Vendor)
-			sku.Price = fmt.Sprintf("$0.2f", float32(data.Price)/100.0)
+			sku.Price = fmt.Sprintf("$%0.2f", float32(data.Price)/100.0)
 			if !data.Available {
 				sku.Price = SOLD_OUT
 			}

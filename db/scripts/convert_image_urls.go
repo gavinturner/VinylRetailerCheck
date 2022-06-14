@@ -16,7 +16,7 @@ func convertImageStrings() error {
 	defer psqlDB.Close()
 	vinylDS := db.NewDB(psqlDB)
 
-	skusA, err := vinylDS.GetAllSKUs(nil)
+	skusA, err := vinylDS.GetAllSKUs(nil, nil, nil)
 	if err != nil {
 		return err
 	}

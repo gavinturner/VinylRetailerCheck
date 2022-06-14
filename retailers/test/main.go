@@ -11,7 +11,7 @@ import (
 
 func main() {
 	fmt.Printf("Scrape test\n")
-	scraper := retailers.MusicFarmers{}
+	scraper := retailers.ArtistFirst{}
 
 	// multi artist test
 	readFile, err := os.Open("./retailers/test/artists.txt")

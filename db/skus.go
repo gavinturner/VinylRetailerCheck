@@ -39,13 +39,29 @@ func (v *VinylDB) GetCurrentSKUForRelease(tx *postgres.Tx, releaseID int64, reta
 	return &skus[0], nil
 }
 
-func (v *VinylDB) GetAllSKUs(tx *postgres.Tx) ([]SKU, error) {
+func (v *VinylDB) GetAllSKUs(tx *postgres.Tx, artistId *int64, retailerId *int64) ([]SKU, error) {
 	querier := v.Q(tx)
 	skus := []SKU{}
-	err := querier.Select(&skus, querier.Rebind(`
+	args := []interface{}{}
+	query := `
 		SELECT id, retailer_id,  release_id, artist_id, item_url, image_url, price, created_at
 		FROM skus
-	`))
+	`
+	if artistId != nil || retailerId != nil {
+		query += " WHERE "
+		if artistId != nil {
+			query += " artist_id = ? "
+			args = append(args, artistId)
+		}
+		if retailerId != nil {
+			if artistId != nil {
+				query += " AND "
+			}
+			query += " retailer_id = ? "
+			args = append(args, retailerId)
+		}
+	}
+	err := querier.Select(&skus, querier.Rebind(query), args...)
 	if err != nil {
 		return nil, errors.Wrapf(err, "failed to retrieve all skus")
 	}

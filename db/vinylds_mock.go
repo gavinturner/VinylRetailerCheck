@@ -4,6 +4,7 @@
 package db
 
 import (
+	"github.com/gavinturner/vinylretailers/retailers"
 	"github.com/gavinturner/vinylretailers/util/postgres"
 	"sync"
 )
@@ -18,17 +19,62 @@ var _ VinylDS = &VinylDSMock{}
 //
 // 		// make and configure a mocked VinylDS
 // 		mockedVinylDS := &VinylDSMock{
+// 			AddNewBatchFunc: func(tx *postgres.Tx, numRequiredSearches int, userArtists map[int64][]WatchedArtist) (int64, error) {
+// 				panic("mock out the AddNewBatch method")
+// 			},
+// 			AddSKUToReportsForBatchFunc: func(tx *postgres.Tx, batchId int64, sku *SKU) error {
+// 				panic("mock out the AddSKUToReportsForBatch method")
+// 			},
+// 			CloseTransactionFunc: func(tx *postgres.Tx, err error) error {
+// 				panic("mock out the CloseTransaction method")
+// 			},
+// 			DeleteBatchFunc: func(tx *postgres.Tx, batchId int64) error {
+// 				panic("mock out the DeleteBatch method")
+// 			},
+// 			DeleteReportFunc: func(tx *postgres.Tx, reportId int64) error {
+// 				panic("mock out the DeleteReport method")
+// 			},
+// 			DeleteReportsForBatchFunc: func(tx *postgres.Tx, batchId int64) error {
+// 				panic("mock out the DeleteReportsForBatch method")
+// 			},
 // 			GetAllArtistsFunc: func(tx *postgres.Tx) ([]Artist, error) {
 // 				panic("mock out the GetAllArtists method")
+// 			},
+// 			GetAllCompletedUnsetReportsFunc: func(tx *postgres.Tx) ([]BatchedReport, error) {
+// 				panic("mock out the GetAllCompletedUnsetReports method")
 // 			},
 // 			GetAllRetailersFunc: func(tx *postgres.Tx) ([]Retailer, error) {
 // 				panic("mock out the GetAllRetailers method")
 // 			},
+// 			GetAllSKUsFunc: func(tx *postgres.Tx, artistId *int64, retailerId *int64) ([]SKU, error) {
+// 				panic("mock out the GetAllSKUs method")
+// 			},
 // 			GetCurrentSKUForReleaseFunc: func(tx *postgres.Tx, releaseID int64, retailerID int64) (*SKU, error) {
 // 				panic("mock out the GetCurrentSKUForRelease method")
 // 			},
+// 			GetSkusForReportFunc: func(tx *postgres.Tx, reportId int64) ([]retailers.SKU, error) {
+// 				panic("mock out the GetSkusForReport method")
+// 			},
+// 			GetWatchedArtistsFunc: func(tx *postgres.Tx) (map[int64][]WatchedArtist, error) {
+// 				panic("mock out the GetWatchedArtists method")
+// 			},
+// 			IncrementBatchSearchCompletedCountFunc: func(tx *postgres.Tx, batchId int64) error {
+// 				panic("mock out the IncrementBatchSearchCompletedCount method")
+// 			},
+// 			MarkBatchReportedFunc: func(tx *postgres.Tx, batchId int64) error {
+// 				panic("mock out the MarkBatchReported method")
+// 			},
+// 			MarkReportSentFunc: func(tx *postgres.Tx, reportId int64) error {
+// 				panic("mock out the MarkReportSent method")
+// 			},
 // 			QFunc: func(tx *postgres.Tx) postgres.Querier {
 // 				panic("mock out the Q method")
+// 			},
+// 			StartTransactionFunc: func() (*postgres.Tx, error) {
+// 				panic("mock out the StartTransaction method")
+// 			},
+// 			UpdateSKUFunc: func(tx *postgres.Tx, sku *SKU) error {
+// 				panic("mock out the UpdateSKU method")
 // 			},
 // 			UpsertReleaseFunc: func(tx *postgres.Tx, artistId int64, title string) (int64, error) {
 // 				panic("mock out the UpsertRelease method")
@@ -39,6 +85,9 @@ var _ VinylDS = &VinylDSMock{}
 // 			VerifySchemaFunc: func() error {
 // 				panic("mock out the VerifySchema method")
 // 			},
+// 			WaitForDbUpFunc: func(timeoutSecs int64) error {
+// 				panic("mock out the WaitForDbUp method")
+// 			},
 // 		}
 //
 // 		// use mockedVinylDS in code that requires VinylDS
@@ -46,17 +95,62 @@ var _ VinylDS = &VinylDSMock{}
 //
 // 	}
 type VinylDSMock struct {
+	// AddNewBatchFunc mocks the AddNewBatch method.
+	AddNewBatchFunc func(tx *postgres.Tx, numRequiredSearches int, userArtists map[int64][]WatchedArtist) (int64, error)
+
+	// AddSKUToReportsForBatchFunc mocks the AddSKUToReportsForBatch method.
+	AddSKUToReportsForBatchFunc func(tx *postgres.Tx, batchId int64, sku *SKU) error
+
+	// CloseTransactionFunc mocks the CloseTransaction method.
+	CloseTransactionFunc func(tx *postgres.Tx, err error) error
+
+	// DeleteBatchFunc mocks the DeleteBatch method.
+	DeleteBatchFunc func(tx *postgres.Tx, batchId int64) error
+
+	// DeleteReportFunc mocks the DeleteReport method.
+	DeleteReportFunc func(tx *postgres.Tx, reportId int64) error
+
+	// DeleteReportsForBatchFunc mocks the DeleteReportsForBatch method.
+	DeleteReportsForBatchFunc func(tx *postgres.Tx, batchId int64) error
+
 	// GetAllArtistsFunc mocks the GetAllArtists method.
 	GetAllArtistsFunc func(tx *postgres.Tx) ([]Artist, error)
+
+	// GetAllCompletedUnsetReportsFunc mocks the GetAllCompletedUnsetReports method.
+	GetAllCompletedUnsetReportsFunc func(tx *postgres.Tx) ([]BatchedReport, error)
 
 	// GetAllRetailersFunc mocks the GetAllRetailers method.
 	GetAllRetailersFunc func(tx *postgres.Tx) ([]Retailer, error)
 
+	// GetAllSKUsFunc mocks the GetAllSKUs method.
+	GetAllSKUsFunc func(tx *postgres.Tx, artistId *int64, retailerId *int64) ([]SKU, error)
+
 	// GetCurrentSKUForReleaseFunc mocks the GetCurrentSKUForRelease method.
 	GetCurrentSKUForReleaseFunc func(tx *postgres.Tx, releaseID int64, retailerID int64) (*SKU, error)
 
+	// GetSkusForReportFunc mocks the GetSkusForReport method.
+	GetSkusForReportFunc func(tx *postgres.Tx, reportId int64) ([]retailers.SKU, error)
+
+	// GetWatchedArtistsFunc mocks the GetWatchedArtists method.
+	GetWatchedArtistsFunc func(tx *postgres.Tx) (map[int64][]WatchedArtist, error)
+
+	// IncrementBatchSearchCompletedCountFunc mocks the IncrementBatchSearchCompletedCount method.
+	IncrementBatchSearchCompletedCountFunc func(tx *postgres.Tx, batchId int64) error
+
+	// MarkBatchReportedFunc mocks the MarkBatchReported method.
+	MarkBatchReportedFunc func(tx *postgres.Tx, batchId int64) error
+
+	// MarkReportSentFunc mocks the MarkReportSent method.
+	MarkReportSentFunc func(tx *postgres.Tx, reportId int64) error
+
 	// QFunc mocks the Q method.
 	QFunc func(tx *postgres.Tx) postgres.Querier
+
+	// StartTransactionFunc mocks the StartTransaction method.
+	StartTransactionFunc func() (*postgres.Tx, error)
+
+	// UpdateSKUFunc mocks the UpdateSKU method.
+	UpdateSKUFunc func(tx *postgres.Tx, sku *SKU) error
 
 	// UpsertReleaseFunc mocks the UpsertRelease method.
 	UpsertReleaseFunc func(tx *postgres.Tx, artistId int64, title string) (int64, error)
@@ -67,10 +161,64 @@ type VinylDSMock struct {
 	// VerifySchemaFunc mocks the VerifySchema method.
 	VerifySchemaFunc func() error
 
+	// WaitForDbUpFunc mocks the WaitForDbUp method.
+	WaitForDbUpFunc func(timeoutSecs int64) error
+
 	// calls tracks calls to the methods.
 	calls struct {
+		// AddNewBatch holds details about calls to the AddNewBatch method.
+		AddNewBatch []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+			// NumRequiredSearches is the numRequiredSearches argument value.
+			NumRequiredSearches int
+			// UserArtists is the userArtists argument value.
+			UserArtists map[int64][]WatchedArtist
+		}
+		// AddSKUToReportsForBatch holds details about calls to the AddSKUToReportsForBatch method.
+		AddSKUToReportsForBatch []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+			// BatchId is the batchId argument value.
+			BatchId int64
+			// Sku is the sku argument value.
+			Sku *SKU
+		}
+		// CloseTransaction holds details about calls to the CloseTransaction method.
+		CloseTransaction []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+			// Err is the err argument value.
+			Err error
+		}
+		// DeleteBatch holds details about calls to the DeleteBatch method.
+		DeleteBatch []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+			// BatchId is the batchId argument value.
+			BatchId int64
+		}
+		// DeleteReport holds details about calls to the DeleteReport method.
+		DeleteReport []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+			// ReportId is the reportId argument value.
+			ReportId int64
+		}
+		// DeleteReportsForBatch holds details about calls to the DeleteReportsForBatch method.
+		DeleteReportsForBatch []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+			// BatchId is the batchId argument value.
+			BatchId int64
+		}
 		// GetAllArtists holds details about calls to the GetAllArtists method.
 		GetAllArtists []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+		}
+		// GetAllCompletedUnsetReports holds details about calls to the GetAllCompletedUnsetReports method.
+		GetAllCompletedUnsetReports []struct {
 			// Tx is the tx argument value.
 			Tx *postgres.Tx
 		}
@@ -78,6 +226,15 @@ type VinylDSMock struct {
 		GetAllRetailers []struct {
 			// Tx is the tx argument value.
 			Tx *postgres.Tx
+		}
+		// GetAllSKUs holds details about calls to the GetAllSKUs method.
+		GetAllSKUs []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+			// ArtistId is the artistId argument value.
+			ArtistId *int64
+			// RetailerId is the retailerId argument value.
+			RetailerId *int64
 		}
 		// GetCurrentSKUForRelease holds details about calls to the GetCurrentSKUForRelease method.
 		GetCurrentSKUForRelease []struct {
@@ -88,10 +245,53 @@ type VinylDSMock struct {
 			// RetailerID is the retailerID argument value.
 			RetailerID int64
 		}
+		// GetSkusForReport holds details about calls to the GetSkusForReport method.
+		GetSkusForReport []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+			// ReportId is the reportId argument value.
+			ReportId int64
+		}
+		// GetWatchedArtists holds details about calls to the GetWatchedArtists method.
+		GetWatchedArtists []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+		}
+		// IncrementBatchSearchCompletedCount holds details about calls to the IncrementBatchSearchCompletedCount method.
+		IncrementBatchSearchCompletedCount []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+			// BatchId is the batchId argument value.
+			BatchId int64
+		}
+		// MarkBatchReported holds details about calls to the MarkBatchReported method.
+		MarkBatchReported []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+			// BatchId is the batchId argument value.
+			BatchId int64
+		}
+		// MarkReportSent holds details about calls to the MarkReportSent method.
+		MarkReportSent []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+			// ReportId is the reportId argument value.
+			ReportId int64
+		}
 		// Q holds details about calls to the Q method.
 		Q []struct {
 			// Tx is the tx argument value.
 			Tx *postgres.Tx
+		}
+		// StartTransaction holds details about calls to the StartTransaction method.
+		StartTransaction []struct {
+		}
+		// UpdateSKU holds details about calls to the UpdateSKU method.
+		UpdateSKU []struct {
+			// Tx is the tx argument value.
+			Tx *postgres.Tx
+			// Sku is the sku argument value.
+			Sku *SKU
 		}
 		// UpsertRelease holds details about calls to the UpsertRelease method.
 		UpsertRelease []struct {
@@ -112,14 +312,253 @@ type VinylDSMock struct {
 		// VerifySchema holds details about calls to the VerifySchema method.
 		VerifySchema []struct {
 		}
+		// WaitForDbUp holds details about calls to the WaitForDbUp method.
+		WaitForDbUp []struct {
+			// TimeoutSecs is the timeoutSecs argument value.
+			TimeoutSecs int64
+		}
 	}
-	lockGetAllArtists           sync.RWMutex
-	lockGetAllRetailers         sync.RWMutex
-	lockGetCurrentSKUForRelease sync.RWMutex
-	lockQ                       sync.RWMutex
-	lockUpsertRelease           sync.RWMutex
-	lockUpsertSKU               sync.RWMutex
-	lockVerifySchema            sync.RWMutex
+	lockAddNewBatch                        sync.RWMutex
+	lockAddSKUToReportsForBatch            sync.RWMutex
+	lockCloseTransaction                   sync.RWMutex
+	lockDeleteBatch                        sync.RWMutex
+	lockDeleteReport                       sync.RWMutex
+	lockDeleteReportsForBatch              sync.RWMutex
+	lockGetAllArtists                      sync.RWMutex
+	lockGetAllCompletedUnsetReports        sync.RWMutex
+	lockGetAllRetailers                    sync.RWMutex
+	lockGetAllSKUs                         sync.RWMutex
+	lockGetCurrentSKUForRelease            sync.RWMutex
+	lockGetSkusForReport                   sync.RWMutex
+	lockGetWatchedArtists                  sync.RWMutex
+	lockIncrementBatchSearchCompletedCount sync.RWMutex
+	lockMarkBatchReported                  sync.RWMutex
+	lockMarkReportSent                     sync.RWMutex
+	lockQ                                  sync.RWMutex
+	lockStartTransaction                   sync.RWMutex
+	lockUpdateSKU                          sync.RWMutex
+	lockUpsertRelease                      sync.RWMutex
+	lockUpsertSKU                          sync.RWMutex
+	lockVerifySchema                       sync.RWMutex
+	lockWaitForDbUp                        sync.RWMutex
+}
+
+// AddNewBatch calls AddNewBatchFunc.
+func (mock *VinylDSMock) AddNewBatch(tx *postgres.Tx, numRequiredSearches int, userArtists map[int64][]WatchedArtist) (int64, error) {
+	if mock.AddNewBatchFunc == nil {
+		panic("VinylDSMock.AddNewBatchFunc: method is nil but VinylDS.AddNewBatch was just called")
+	}
+	callInfo := struct {
+		Tx                  *postgres.Tx
+		NumRequiredSearches int
+		UserArtists         map[int64][]WatchedArtist
+	}{
+		Tx:                  tx,
+		NumRequiredSearches: numRequiredSearches,
+		UserArtists:         userArtists,
+	}
+	mock.lockAddNewBatch.Lock()
+	mock.calls.AddNewBatch = append(mock.calls.AddNewBatch, callInfo)
+	mock.lockAddNewBatch.Unlock()
+	return mock.AddNewBatchFunc(tx, numRequiredSearches, userArtists)
+}
+
+// AddNewBatchCalls gets all the calls that were made to AddNewBatch.
+// Check the length with:
+//     len(mockedVinylDS.AddNewBatchCalls())
+func (mock *VinylDSMock) AddNewBatchCalls() []struct {
+	Tx                  *postgres.Tx
+	NumRequiredSearches int
+	UserArtists         map[int64][]WatchedArtist
+} {
+	var calls []struct {
+		Tx                  *postgres.Tx
+		NumRequiredSearches int
+		UserArtists         map[int64][]WatchedArtist
+	}
+	mock.lockAddNewBatch.RLock()
+	calls = mock.calls.AddNewBatch
+	mock.lockAddNewBatch.RUnlock()
+	return calls
+}
+
+// AddSKUToReportsForBatch calls AddSKUToReportsForBatchFunc.
+func (mock *VinylDSMock) AddSKUToReportsForBatch(tx *postgres.Tx, batchId int64, sku *SKU) error {
+	if mock.AddSKUToReportsForBatchFunc == nil {
+		panic("VinylDSMock.AddSKUToReportsForBatchFunc: method is nil but VinylDS.AddSKUToReportsForBatch was just called")
+	}
+	callInfo := struct {
+		Tx      *postgres.Tx
+		BatchId int64
+		Sku     *SKU
+	}{
+		Tx:      tx,
+		BatchId: batchId,
+		Sku:     sku,
+	}
+	mock.lockAddSKUToReportsForBatch.Lock()
+	mock.calls.AddSKUToReportsForBatch = append(mock.calls.AddSKUToReportsForBatch, callInfo)
+	mock.lockAddSKUToReportsForBatch.Unlock()
+	return mock.AddSKUToReportsForBatchFunc(tx, batchId, sku)
+}
+
+// AddSKUToReportsForBatchCalls gets all the calls that were made to AddSKUToReportsForBatch.
+// Check the length with:
+//     len(mockedVinylDS.AddSKUToReportsForBatchCalls())
+func (mock *VinylDSMock) AddSKUToReportsForBatchCalls() []struct {
+	Tx      *postgres.Tx
+	BatchId int64
+	Sku     *SKU
+} {
+	var calls []struct {
+		Tx      *postgres.Tx
+		BatchId int64
+		Sku     *SKU
+	}
+	mock.lockAddSKUToReportsForBatch.RLock()
+	calls = mock.calls.AddSKUToReportsForBatch
+	mock.lockAddSKUToReportsForBatch.RUnlock()
+	return calls
+}
+
+// CloseTransaction calls CloseTransactionFunc.
+func (mock *VinylDSMock) CloseTransaction(tx *postgres.Tx, err error) error {
+	if mock.CloseTransactionFunc == nil {
+		panic("VinylDSMock.CloseTransactionFunc: method is nil but VinylDS.CloseTransaction was just called")
+	}
+	callInfo := struct {
+		Tx  *postgres.Tx
+		Err error
+	}{
+		Tx:  tx,
+		Err: err,
+	}
+	mock.lockCloseTransaction.Lock()
+	mock.calls.CloseTransaction = append(mock.calls.CloseTransaction, callInfo)
+	mock.lockCloseTransaction.Unlock()
+	return mock.CloseTransactionFunc(tx, err)
+}
+
+// CloseTransactionCalls gets all the calls that were made to CloseTransaction.
+// Check the length with:
+//     len(mockedVinylDS.CloseTransactionCalls())
+func (mock *VinylDSMock) CloseTransactionCalls() []struct {
+	Tx  *postgres.Tx
+	Err error
+} {
+	var calls []struct {
+		Tx  *postgres.Tx
+		Err error
+	}
+	mock.lockCloseTransaction.RLock()
+	calls = mock.calls.CloseTransaction
+	mock.lockCloseTransaction.RUnlock()
+	return calls
+}
+
+// DeleteBatch calls DeleteBatchFunc.
+func (mock *VinylDSMock) DeleteBatch(tx *postgres.Tx, batchId int64) error {
+	if mock.DeleteBatchFunc == nil {
+		panic("VinylDSMock.DeleteBatchFunc: method is nil but VinylDS.DeleteBatch was just called")
+	}
+	callInfo := struct {
+		Tx      *postgres.Tx
+		BatchId int64
+	}{
+		Tx:      tx,
+		BatchId: batchId,
+	}
+	mock.lockDeleteBatch.Lock()
+	mock.calls.DeleteBatch = append(mock.calls.DeleteBatch, callInfo)
+	mock.lockDeleteBatch.Unlock()
+	return mock.DeleteBatchFunc(tx, batchId)
+}
+
+// DeleteBatchCalls gets all the calls that were made to DeleteBatch.
+// Check the length with:
+//     len(mockedVinylDS.DeleteBatchCalls())
+func (mock *VinylDSMock) DeleteBatchCalls() []struct {
+	Tx      *postgres.Tx
+	BatchId int64
+} {
+	var calls []struct {
+		Tx      *postgres.Tx
+		BatchId int64
+	}
+	mock.lockDeleteBatch.RLock()
+	calls = mock.calls.DeleteBatch
+	mock.lockDeleteBatch.RUnlock()
+	return calls
+}
+
+// DeleteReport calls DeleteReportFunc.
+func (mock *VinylDSMock) DeleteReport(tx *postgres.Tx, reportId int64) error {
+	if mock.DeleteReportFunc == nil {
+		panic("VinylDSMock.DeleteReportFunc: method is nil but VinylDS.DeleteReport was just called")
+	}
+	callInfo := struct {
+		Tx       *postgres.Tx
+		ReportId int64
+	}{
+		Tx:       tx,
+		ReportId: reportId,
+	}
+	mock.lockDeleteReport.Lock()
+	mock.calls.DeleteReport = append(mock.calls.DeleteReport, callInfo)
+	mock.lockDeleteReport.Unlock()
+	return mock.DeleteReportFunc(tx, reportId)
+}
+
+// DeleteReportCalls gets all the calls that were made to DeleteReport.
+// Check the length with:
+//     len(mockedVinylDS.DeleteReportCalls())
+func (mock *VinylDSMock) DeleteReportCalls() []struct {
+	Tx       *postgres.Tx
+	ReportId int64
+} {
+	var calls []struct {
+		Tx       *postgres.Tx
+		ReportId int64
+	}
+	mock.lockDeleteReport.RLock()
+	calls = mock.calls.DeleteReport
+	mock.lockDeleteReport.RUnlock()
+	return calls
+}
+
+// DeleteReportsForBatch calls DeleteReportsForBatchFunc.
+func (mock *VinylDSMock) DeleteReportsForBatch(tx *postgres.Tx, batchId int64) error {
+	if mock.DeleteReportsForBatchFunc == nil {
+		panic("VinylDSMock.DeleteReportsForBatchFunc: method is nil but VinylDS.DeleteReportsForBatch was just called")
+	}
+	callInfo := struct {
+		Tx      *postgres.Tx
+		BatchId int64
+	}{
+		Tx:      tx,
+		BatchId: batchId,
+	}
+	mock.lockDeleteReportsForBatch.Lock()
+	mock.calls.DeleteReportsForBatch = append(mock.calls.DeleteReportsForBatch, callInfo)
+	mock.lockDeleteReportsForBatch.Unlock()
+	return mock.DeleteReportsForBatchFunc(tx, batchId)
+}
+
+// DeleteReportsForBatchCalls gets all the calls that were made to DeleteReportsForBatch.
+// Check the length with:
+//     len(mockedVinylDS.DeleteReportsForBatchCalls())
+func (mock *VinylDSMock) DeleteReportsForBatchCalls() []struct {
+	Tx      *postgres.Tx
+	BatchId int64
+} {
+	var calls []struct {
+		Tx      *postgres.Tx
+		BatchId int64
+	}
+	mock.lockDeleteReportsForBatch.RLock()
+	calls = mock.calls.DeleteReportsForBatch
+	mock.lockDeleteReportsForBatch.RUnlock()
+	return calls
 }
 
 // GetAllArtists calls GetAllArtistsFunc.
@@ -153,6 +592,37 @@ func (mock *VinylDSMock) GetAllArtistsCalls() []struct {
 	return calls
 }
 
+// GetAllCompletedUnsetReports calls GetAllCompletedUnsetReportsFunc.
+func (mock *VinylDSMock) GetAllCompletedUnsetReports(tx *postgres.Tx) ([]BatchedReport, error) {
+	if mock.GetAllCompletedUnsetReportsFunc == nil {
+		panic("VinylDSMock.GetAllCompletedUnsetReportsFunc: method is nil but VinylDS.GetAllCompletedUnsetReports was just called")
+	}
+	callInfo := struct {
+		Tx *postgres.Tx
+	}{
+		Tx: tx,
+	}
+	mock.lockGetAllCompletedUnsetReports.Lock()
+	mock.calls.GetAllCompletedUnsetReports = append(mock.calls.GetAllCompletedUnsetReports, callInfo)
+	mock.lockGetAllCompletedUnsetReports.Unlock()
+	return mock.GetAllCompletedUnsetReportsFunc(tx)
+}
+
+// GetAllCompletedUnsetReportsCalls gets all the calls that were made to GetAllCompletedUnsetReports.
+// Check the length with:
+//     len(mockedVinylDS.GetAllCompletedUnsetReportsCalls())
+func (mock *VinylDSMock) GetAllCompletedUnsetReportsCalls() []struct {
+	Tx *postgres.Tx
+} {
+	var calls []struct {
+		Tx *postgres.Tx
+	}
+	mock.lockGetAllCompletedUnsetReports.RLock()
+	calls = mock.calls.GetAllCompletedUnsetReports
+	mock.lockGetAllCompletedUnsetReports.RUnlock()
+	return calls
+}
+
 // GetAllRetailers calls GetAllRetailersFunc.
 func (mock *VinylDSMock) GetAllRetailers(tx *postgres.Tx) ([]Retailer, error) {
 	if mock.GetAllRetailersFunc == nil {
@@ -181,6 +651,45 @@ func (mock *VinylDSMock) GetAllRetailersCalls() []struct {
 	mock.lockGetAllRetailers.RLock()
 	calls = mock.calls.GetAllRetailers
 	mock.lockGetAllRetailers.RUnlock()
+	return calls
+}
+
+// GetAllSKUs calls GetAllSKUsFunc.
+func (mock *VinylDSMock) GetAllSKUs(tx *postgres.Tx, artistId *int64, retailerId *int64) ([]SKU, error) {
+	if mock.GetAllSKUsFunc == nil {
+		panic("VinylDSMock.GetAllSKUsFunc: method is nil but VinylDS.GetAllSKUs was just called")
+	}
+	callInfo := struct {
+		Tx         *postgres.Tx
+		ArtistId   *int64
+		RetailerId *int64
+	}{
+		Tx:         tx,
+		ArtistId:   artistId,
+		RetailerId: retailerId,
+	}
+	mock.lockGetAllSKUs.Lock()
+	mock.calls.GetAllSKUs = append(mock.calls.GetAllSKUs, callInfo)
+	mock.lockGetAllSKUs.Unlock()
+	return mock.GetAllSKUsFunc(tx, artistId, retailerId)
+}
+
+// GetAllSKUsCalls gets all the calls that were made to GetAllSKUs.
+// Check the length with:
+//     len(mockedVinylDS.GetAllSKUsCalls())
+func (mock *VinylDSMock) GetAllSKUsCalls() []struct {
+	Tx         *postgres.Tx
+	ArtistId   *int64
+	RetailerId *int64
+} {
+	var calls []struct {
+		Tx         *postgres.Tx
+		ArtistId   *int64
+		RetailerId *int64
+	}
+	mock.lockGetAllSKUs.RLock()
+	calls = mock.calls.GetAllSKUs
+	mock.lockGetAllSKUs.RUnlock()
 	return calls
 }
 
@@ -223,6 +732,177 @@ func (mock *VinylDSMock) GetCurrentSKUForReleaseCalls() []struct {
 	return calls
 }
 
+// GetSkusForReport calls GetSkusForReportFunc.
+func (mock *VinylDSMock) GetSkusForReport(tx *postgres.Tx, reportId int64) ([]retailers.SKU, error) {
+	if mock.GetSkusForReportFunc == nil {
+		panic("VinylDSMock.GetSkusForReportFunc: method is nil but VinylDS.GetSkusForReport was just called")
+	}
+	callInfo := struct {
+		Tx       *postgres.Tx
+		ReportId int64
+	}{
+		Tx:       tx,
+		ReportId: reportId,
+	}
+	mock.lockGetSkusForReport.Lock()
+	mock.calls.GetSkusForReport = append(mock.calls.GetSkusForReport, callInfo)
+	mock.lockGetSkusForReport.Unlock()
+	return mock.GetSkusForReportFunc(tx, reportId)
+}
+
+// GetSkusForReportCalls gets all the calls that were made to GetSkusForReport.
+// Check the length with:
+//     len(mockedVinylDS.GetSkusForReportCalls())
+func (mock *VinylDSMock) GetSkusForReportCalls() []struct {
+	Tx       *postgres.Tx
+	ReportId int64
+} {
+	var calls []struct {
+		Tx       *postgres.Tx
+		ReportId int64
+	}
+	mock.lockGetSkusForReport.RLock()
+	calls = mock.calls.GetSkusForReport
+	mock.lockGetSkusForReport.RUnlock()
+	return calls
+}
+
+// GetWatchedArtists calls GetWatchedArtistsFunc.
+func (mock *VinylDSMock) GetWatchedArtists(tx *postgres.Tx) (map[int64][]WatchedArtist, error) {
+	if mock.GetWatchedArtistsFunc == nil {
+		panic("VinylDSMock.GetWatchedArtistsFunc: method is nil but VinylDS.GetWatchedArtists was just called")
+	}
+	callInfo := struct {
+		Tx *postgres.Tx
+	}{
+		Tx: tx,
+	}
+	mock.lockGetWatchedArtists.Lock()
+	mock.calls.GetWatchedArtists = append(mock.calls.GetWatchedArtists, callInfo)
+	mock.lockGetWatchedArtists.Unlock()
+	return mock.GetWatchedArtistsFunc(tx)
+}
+
+// GetWatchedArtistsCalls gets all the calls that were made to GetWatchedArtists.
+// Check the length with:
+//     len(mockedVinylDS.GetWatchedArtistsCalls())
+func (mock *VinylDSMock) GetWatchedArtistsCalls() []struct {
+	Tx *postgres.Tx
+} {
+	var calls []struct {
+		Tx *postgres.Tx
+	}
+	mock.lockGetWatchedArtists.RLock()
+	calls = mock.calls.GetWatchedArtists
+	mock.lockGetWatchedArtists.RUnlock()
+	return calls
+}
+
+// IncrementBatchSearchCompletedCount calls IncrementBatchSearchCompletedCountFunc.
+func (mock *VinylDSMock) IncrementBatchSearchCompletedCount(tx *postgres.Tx, batchId int64) error {
+	if mock.IncrementBatchSearchCompletedCountFunc == nil {
+		panic("VinylDSMock.IncrementBatchSearchCompletedCountFunc: method is nil but VinylDS.IncrementBatchSearchCompletedCount was just called")
+	}
+	callInfo := struct {
+		Tx      *postgres.Tx
+		BatchId int64
+	}{
+		Tx:      tx,
+		BatchId: batchId,
+	}
+	mock.lockIncrementBatchSearchCompletedCount.Lock()
+	mock.calls.IncrementBatchSearchCompletedCount = append(mock.calls.IncrementBatchSearchCompletedCount, callInfo)
+	mock.lockIncrementBatchSearchCompletedCount.Unlock()
+	return mock.IncrementBatchSearchCompletedCountFunc(tx, batchId)
+}
+
+// IncrementBatchSearchCompletedCountCalls gets all the calls that were made to IncrementBatchSearchCompletedCount.
+// Check the length with:
+//     len(mockedVinylDS.IncrementBatchSearchCompletedCountCalls())
+func (mock *VinylDSMock) IncrementBatchSearchCompletedCountCalls() []struct {
+	Tx      *postgres.Tx
+	BatchId int64
+} {
+	var calls []struct {
+		Tx      *postgres.Tx
+		BatchId int64
+	}
+	mock.lockIncrementBatchSearchCompletedCount.RLock()
+	calls = mock.calls.IncrementBatchSearchCompletedCount
+	mock.lockIncrementBatchSearchCompletedCount.RUnlock()
+	return calls
+}
+
+// MarkBatchReported calls MarkBatchReportedFunc.
+func (mock *VinylDSMock) MarkBatchReported(tx *postgres.Tx, batchId int64) error {
+	if mock.MarkBatchReportedFunc == nil {
+		panic("VinylDSMock.MarkBatchReportedFunc: method is nil but VinylDS.MarkBatchReported was just called")
+	}
+	callInfo := struct {
+		Tx      *postgres.Tx
+		BatchId int64
+	}{
+		Tx:      tx,
+		BatchId: batchId,
+	}
+	mock.lockMarkBatchReported.Lock()
+	mock.calls.MarkBatchReported = append(mock.calls.MarkBatchReported, callInfo)
+	mock.lockMarkBatchReported.Unlock()
+	return mock.MarkBatchReportedFunc(tx, batchId)
+}
+
+// MarkBatchReportedCalls gets all the calls that were made to MarkBatchReported.
+// Check the length with:
+//     len(mockedVinylDS.MarkBatchReportedCalls())
+func (mock *VinylDSMock) MarkBatchReportedCalls() []struct {
+	Tx      *postgres.Tx
+	BatchId int64
+} {
+	var calls []struct {
+		Tx      *postgres.Tx
+		BatchId int64
+	}
+	mock.lockMarkBatchReported.RLock()
+	calls = mock.calls.MarkBatchReported
+	mock.lockMarkBatchReported.RUnlock()
+	return calls
+}
+
+// MarkReportSent calls MarkReportSentFunc.
+func (mock *VinylDSMock) MarkReportSent(tx *postgres.Tx, reportId int64) error {
+	if mock.MarkReportSentFunc == nil {
+		panic("VinylDSMock.MarkReportSentFunc: method is nil but VinylDS.MarkReportSent was just called")
+	}
+	callInfo := struct {
+		Tx       *postgres.Tx
+		ReportId int64
+	}{
+		Tx:       tx,
+		ReportId: reportId,
+	}
+	mock.lockMarkReportSent.Lock()
+	mock.calls.MarkReportSent = append(mock.calls.MarkReportSent, callInfo)
+	mock.lockMarkReportSent.Unlock()
+	return mock.MarkReportSentFunc(tx, reportId)
+}
+
+// MarkReportSentCalls gets all the calls that were made to MarkReportSent.
+// Check the length with:
+//     len(mockedVinylDS.MarkReportSentCalls())
+func (mock *VinylDSMock) MarkReportSentCalls() []struct {
+	Tx       *postgres.Tx
+	ReportId int64
+} {
+	var calls []struct {
+		Tx       *postgres.Tx
+		ReportId int64
+	}
+	mock.lockMarkReportSent.RLock()
+	calls = mock.calls.MarkReportSent
+	mock.lockMarkReportSent.RUnlock()
+	return calls
+}
+
 // Q calls QFunc.
 func (mock *VinylDSMock) Q(tx *postgres.Tx) postgres.Querier {
 	if mock.QFunc == nil {
@@ -251,6 +931,67 @@ func (mock *VinylDSMock) QCalls() []struct {
 	mock.lockQ.RLock()
 	calls = mock.calls.Q
 	mock.lockQ.RUnlock()
+	return calls
+}
+
+// StartTransaction calls StartTransactionFunc.
+func (mock *VinylDSMock) StartTransaction() (*postgres.Tx, error) {
+	if mock.StartTransactionFunc == nil {
+		panic("VinylDSMock.StartTransactionFunc: method is nil but VinylDS.StartTransaction was just called")
+	}
+	callInfo := struct {
+	}{}
+	mock.lockStartTransaction.Lock()
+	mock.calls.StartTransaction = append(mock.calls.StartTransaction, callInfo)
+	mock.lockStartTransaction.Unlock()
+	return mock.StartTransactionFunc()
+}
+
+// StartTransactionCalls gets all the calls that were made to StartTransaction.
+// Check the length with:
+//     len(mockedVinylDS.StartTransactionCalls())
+func (mock *VinylDSMock) StartTransactionCalls() []struct {
+} {
+	var calls []struct {
+	}
+	mock.lockStartTransaction.RLock()
+	calls = mock.calls.StartTransaction
+	mock.lockStartTransaction.RUnlock()
+	return calls
+}
+
+// UpdateSKU calls UpdateSKUFunc.
+func (mock *VinylDSMock) UpdateSKU(tx *postgres.Tx, sku *SKU) error {
+	if mock.UpdateSKUFunc == nil {
+		panic("VinylDSMock.UpdateSKUFunc: method is nil but VinylDS.UpdateSKU was just called")
+	}
+	callInfo := struct {
+		Tx  *postgres.Tx
+		Sku *SKU
+	}{
+		Tx:  tx,
+		Sku: sku,
+	}
+	mock.lockUpdateSKU.Lock()
+	mock.calls.UpdateSKU = append(mock.calls.UpdateSKU, callInfo)
+	mock.lockUpdateSKU.Unlock()
+	return mock.UpdateSKUFunc(tx, sku)
+}
+
+// UpdateSKUCalls gets all the calls that were made to UpdateSKU.
+// Check the length with:
+//     len(mockedVinylDS.UpdateSKUCalls())
+func (mock *VinylDSMock) UpdateSKUCalls() []struct {
+	Tx  *postgres.Tx
+	Sku *SKU
+} {
+	var calls []struct {
+		Tx  *postgres.Tx
+		Sku *SKU
+	}
+	mock.lockUpdateSKU.RLock()
+	calls = mock.calls.UpdateSKU
+	mock.lockUpdateSKU.RUnlock()
 	return calls
 }
 
@@ -351,5 +1092,36 @@ func (mock *VinylDSMock) VerifySchemaCalls() []struct {
 	mock.lockVerifySchema.RLock()
 	calls = mock.calls.VerifySchema
 	mock.lockVerifySchema.RUnlock()
+	return calls
+}
+
+// WaitForDbUp calls WaitForDbUpFunc.
+func (mock *VinylDSMock) WaitForDbUp(timeoutSecs int64) error {
+	if mock.WaitForDbUpFunc == nil {
+		panic("VinylDSMock.WaitForDbUpFunc: method is nil but VinylDS.WaitForDbUp was just called")
+	}
+	callInfo := struct {
+		TimeoutSecs int64
+	}{
+		TimeoutSecs: timeoutSecs,
+	}
+	mock.lockWaitForDbUp.Lock()
+	mock.calls.WaitForDbUp = append(mock.calls.WaitForDbUp, callInfo)
+	mock.lockWaitForDbUp.Unlock()
+	return mock.WaitForDbUpFunc(timeoutSecs)
+}
+
+// WaitForDbUpCalls gets all the calls that were made to WaitForDbUp.
+// Check the length with:
+//     len(mockedVinylDS.WaitForDbUpCalls())
+func (mock *VinylDSMock) WaitForDbUpCalls() []struct {
+	TimeoutSecs int64
+} {
+	var calls []struct {
+		TimeoutSecs int64
+	}
+	mock.lockWaitForDbUp.RLock()
+	calls = mock.calls.WaitForDbUp
+	mock.lockWaitForDbUp.RUnlock()
 	return calls
 }

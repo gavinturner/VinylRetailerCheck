@@ -57,12 +57,12 @@ func (a *ArtistFirst) ScrapeArtistReleases(artist string) (findings []SKU, err e
 				} else {
 					sku.Image = strings.TrimSpace(toks[idx-8])
 				}
-				sku.Image += ">"
 				sku.Image = strings.Replace(sku.Image, "<img src=\"", fmt.Sprintf("https:"), -1)
 				sku.Price = strings.TrimSuffix(sku.Price, "</span")
 			} else {
 				sku.Price = SOLD_OUT
 			}
+			sku.Image = sku.Image[0:strings.Index(sku.Image, "\"")]
 			sku.Price = strings.TrimSpace(sku.Price)
 
 			if sku.Artist != artist {

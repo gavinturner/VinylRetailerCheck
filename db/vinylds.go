@@ -3,16 +3,54 @@
 package db
 
 import (
+	"github.com/gavinturner/vinylretailers/retailers"
 	"github.com/gavinturner/vinylretailers/util/postgres"
 )
 
 // VinylDS ...
 type VinylDS interface {
+	//
+	// AddNewBatch
+	// Create a new batch instance, representing one full set of scans to be completed over the set of users
+	// currently watching a set of artists. This batch instance will have a set of empty reports connected to
+	// it, one per watching user, and each such report will cover the set of artists currently being watched
+	// by the user for whom the report pertains. The batch also stores the required number of searches to be
+	// performed (artist x retailer) so that we can keep track of whether a batch has been completed or not.
+	//
+	AddNewBatch(tx *postgres.Tx, numRequiredSearches int, userArtists map[int64][]WatchedArtist) (batchId int64, err error)
+	//
+	// AddSKUToReportsForBatch
+	// Given a particular SKU sound for an artist + retailer, this method looks at all the reports attached to the
+	// current batch, determines if the SKU artist is covered by the report, and if so attaches the SKU to the final
+	// report. We assume that it has already been determined whether the SKU represents a valid result for the report
+	// (for example the price has changed).
+	//
+	AddSKUToReportsForBatch(tx *postgres.Tx, batchId int64, sku *SKU) error
+	CloseTransaction(tx *postgres.Tx, err error) error
+	DeleteBatch(tx *postgres.Tx, batchId int64) error
+	DeleteReport(tx *postgres.Tx, reportId int64) error
+	DeleteReportsForBatch(tx *postgres.Tx, batchId int64) error
 	GetAllArtists(tx *postgres.Tx) ([]Artist, error)
+	GetAllCompletedUnsetReports(tx *postgres.Tx) ([]BatchedReport, error)
 	GetAllRetailers(tx *postgres.Tx) ([]Retailer, error)
+	GetAllSKUs(tx *postgres.Tx, artistId *int64, retailerId *int64) ([]SKU, error)
 	GetCurrentSKUForRelease(tx *postgres.Tx, releaseID int64, retailerID int64) (*SKU, error)
+	GetSkusForReport(tx *postgres.Tx, reportId int64) ([]retailers.SKU, error)
+	GetWatchedArtists(tx *postgres.Tx) (map[int64][]WatchedArtist, error)
+	//
+	// IncrementBatchSearchCompletedCount
+	// When scanning is complete for a specific artist + retailer, this method allows the scanner to increment
+	// the number of scans completed that is stored against the batch. We use UPDATE here as an atomic operation
+	// on the batches table and as such this method will be thread-safe in terms of getting all increments.
+	//
+	IncrementBatchSearchCompletedCount(tx *postgres.Tx, batchId int64) error
+	MarkBatchReported(tx *postgres.Tx, batchId int64) error
+	MarkReportSent(tx *postgres.Tx, reportId int64) error
 	Q(tx *postgres.Tx) postgres.Querier
+	StartTransaction() (*postgres.Tx, error)
+	UpdateSKU(tx *postgres.Tx, sku *SKU) error
 	UpsertRelease(tx *postgres.Tx, artistId int64, title string) (id int64, err error)
 	UpsertSKU(tx *postgres.Tx, sku *SKU) (same bool, err error)
 	VerifySchema() error
+	WaitForDbUp(timeoutSecs int64) error
 }

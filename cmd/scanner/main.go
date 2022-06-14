@@ -7,6 +7,7 @@ import (
 	"github.com/gavinturner/vinylretailers/util/log"
 	"github.com/gavinturner/vinylretailers/util/redis"
 	_ "github.com/lib/pq"
+	"github.com/pkg/errors"
 	"strings"
 	"time"
 )
@@ -74,61 +75,114 @@ func main() {
 			log.Error(err, "Failed to block on request dequeue?")
 			break
 		}
-		// get the scraper implementation for the nominated retailer
-		retailerScraper, err := retailers.VinylRetailerFactory(retailers.RetailerID(payload.RetailerID))
-		if err != nil {
-			log.Error(err, "Could not determine scraper for retailer (%v) %s", payload.RetailerID, payload.RetailerName)
-		}
-		// scrape for available releases
-		releases, err := retailerScraper.ScrapeArtistReleases(strings.TrimSpace(strings.ToLower(payload.ArtistName)))
+		err = scrapeArtistForRetailer(&vinylDS, &payload)
 		if err != nil {
 			log.Error(err, "Failed to scrape '%s' for '%s'", payload.RetailerName, payload.ArtistName)
 		}
-		for _, release := range releases {
-			// upsert the release to create if we haven't seen it before. otherwise get release id
-			releaseID, err := vinylDS.UpsertRelease(nil, payload.ArtistID, release.Name)
-			if err != nil {
-				log.Error(err, "Failed to create new release '%s' for artist '%s'", release.Name, payload.ArtistName)
-				continue
-			}
-			sku := db.SKU{
-				ReleaseID:  releaseID,
-				RetailerID: payload.RetailerID,
-				ArtistID:   payload.ArtistID,
-				ItemUrl:    release.Url,
-				ImageUrl:   release.Image,
-				Price:      release.Price,
-			}
-			// upsert a new SKU for the release. A new SKU record will be created if the price/availabilioty
-			// of the release has changed (as compared to the most recent existing SKU for the release)
-			same, err := vinylDS.UpsertSKU(nil, &sku)
-			if err != nil {
-				log.Error(err, "Failed to upsert new price for '%s' ", release.Name)
-				continue
-			}
-
-			// if the sku is available and the price has changed, then it's a candidate for adding to one
-			// or more user reports for the current batch
-			if !same && sku.Price != SOLD_OUT {
-				log.Debugf("%s@%s: Found new release state: %s = %s (%v)", payload.ArtistName, payload.RetailerName, release.Name, sku.Price, sku.ID)
-				err = vinylDS.AddSKUToReportsForBatch(nil, payload.BatchID, &sku)
-				if err != nil {
-					log.Error(err, "Failed to upsert new price for '%s' ", release.Name)
-					continue
-				}
-			} else if !same && sku.Price == SOLD_OUT {
-				log.Debugf("%s@%s: Found new (sold out) release state: %s = %s (%v)", payload.ArtistName, payload.RetailerName, release.Name, sku.Price, sku.ID)
-			} else {
-				log.Debugf("%s@%s: releases [%v, %s] has not changed", payload.ArtistName, payload.RetailerName, releaseID, release.Name)
-			}
-		}
-
-		// now that we've finished processing the artist + retailer, we can increment the number of required
-		// searches for the current batch (so we know when the batch is done)
-		err = vinylDS.IncrementBatchSearchCompletedCount(nil, payload.BatchID)
-		if err != nil {
-			log.Error(err, "Failed to increment search count for batch %v ", payload.BatchID)
-		}
 	}
 	log.Debugf("Retail Scanner terminating..")
+}
+
+func scrapeArtistForRetailer(vinylDS db.VinylDS, payload *redis.ScanRequest) error {
+
+	// get the scraper implementation for the nominated retailer
+	retailerScraper, err := retailers.VinylRetailerFactory(retailers.RetailerID(payload.RetailerID))
+	if err != nil {
+		return errors.Wrapf(err, "could not determine scraper for retailer (%v) %s", payload.RetailerID, payload.RetailerName)
+	}
+	// scrape for available releases
+	releases, err := retailerScraper.ScrapeArtistReleases(strings.TrimSpace(strings.ToLower(payload.ArtistName)))
+	if err != nil {
+		return errors.Wrapf(err, "Failed to scrape '%s' for '%s'", payload.RetailerName, payload.ArtistName)
+	}
+
+	//
+	// Upsert all the SKUs that we scraped.
+	//
+
+	persistedSkus := []db.SKU{}
+	tx, err := vinylDS.StartTransaction()
+	if err != nil {
+		return errors.Wrapf(err, "Failed to start transaction")
+	}
+	defer vinylDS.CloseTransaction(tx, err)
+
+	for _, release := range releases {
+		// upsert the release to create if we haven't seen it before. otherwise get release id
+		var releaseID int64
+		releaseID, err = vinylDS.UpsertRelease(tx, payload.ArtistID, release.Name)
+		if err != nil {
+			return errors.Wrapf(err, "Failed to create new release '%s' for artist '%s'", release.Name, payload.ArtistName)
+		}
+		sku := db.SKU{
+			ReleaseID:  releaseID,
+			RetailerID: payload.RetailerID,
+			ArtistID:   payload.ArtistID,
+			ItemUrl:    release.Url,
+			ImageUrl:   release.Image,
+			Price:      release.Price,
+		}
+		// upsert a new SKU for the release. A new SKU record will be created if the price/availabilioty
+		// of the release has changed (as compared to the most recent existing SKU for the release)
+		var same bool
+		same, err = vinylDS.UpsertSKU(tx, &sku)
+		if err != nil {
+			return errors.Wrapf(err, "Failed to upsert new price for '%s' ", release.Name)
+		}
+
+		// if the sku is available and the price has changed, then it's a candidate for adding to one
+		// or more user reports for the current batch
+		if !same && sku.Price != SOLD_OUT {
+			log.Debugf("%s@%s: Found new release state: %s = %s (%v)", payload.ArtistName, payload.RetailerName, release.Name, sku.Price, sku.ID)
+			err = vinylDS.AddSKUToReportsForBatch(tx, payload.BatchID, &sku)
+			if err != nil {
+				return errors.Wrapf(err, "Failed to upsert new price for '%s' ", release.Name)
+			}
+		} else if !same && sku.Price == SOLD_OUT {
+			log.Debugf("%s@%s: Found new (sold out) release state: %s = %s (%v)", payload.ArtistName, payload.RetailerName, release.Name, sku.Price, sku.ID)
+		} else {
+			log.Debugf("%s@%s: releases [%v, %s] has not changed", payload.ArtistName, payload.RetailerName, releaseID, release.Name)
+		}
+		persistedSkus = append(persistedSkus, sku)
+	}
+
+	//
+	// any skus that were not found for the retailer / artist are now not available - they should be marked as
+	// SOLD OUT.
+	//
+
+	var existingSKUs []db.SKU
+	existingSKUs, err = vinylDS.GetAllSKUs(tx, &payload.ArtistID, &payload.RetailerID)
+	if err != nil {
+		return errors.Wrapf(err, "Failed to get existing skus for retailer %s and artist %s", payload.RetailerName, payload.ArtistName)
+	}
+	persistedSkusIdx := map[int64]struct{}{}
+	for _, s := range persistedSkus {
+		persistedSkusIdx[s.ID] = struct{}{}
+	}
+	missingSKUs := []db.SKU{}
+	for _, s := range existingSKUs {
+		if _, ok := persistedSkusIdx[s.ID]; !ok {
+			missingSKUs = append(missingSKUs, s)
+		}
+	}
+	for _, s := range missingSKUs {
+		s.Price = SOLD_OUT
+		err = vinylDS.UpdateSKU(tx, &s)
+		if err != nil {
+			return errors.Wrapf(err, "Failed to set missing SKU %v to SOLD OUT", s.ID)
+		}
+		log.Debugf("%s@%s: releases [%v, %s] not found - setting to SOLD OUT", payload.ArtistName, payload.RetailerName, s.ReleaseID, s.Name)
+	}
+
+	//
+	// now that we've finished processing the artist + retailer, we can increment the number of required
+	// searches for the current batch (so we know when the batch is done)
+	//
+
+	err = vinylDS.IncrementBatchSearchCompletedCount(tx, payload.BatchID)
+	if err != nil {
+		return errors.Wrapf(err, "Failed to increment search count for batch %v ", payload.BatchID)
+	}
+	return nil
 }
