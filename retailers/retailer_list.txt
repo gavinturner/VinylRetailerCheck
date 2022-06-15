@@ -8,9 +8,6 @@ https://www.strangeworldrecords.com.au/search?q=clowns+vinyl
 Clarity Records
 https://clarityrecords.net/search.php?search_query=clowns&section=product
 
-Music Farmers
-https://musicfarmers.com/search?q=clowns
-
 Prehistoric Sounds
 https://www.prehistoricsounds.com.au/store/search%3Fkeyword%3Dsupersuckers
 
@@ -38,14 +35,12 @@ https://grevillerecords.com.au/search?q=frenzal+vinyl&options%5Bprefix%5D=last
 Round and Round Records
 https://roundandroundrecords.com/search?q=ghost
 
-Beatdisc Records
-https://beatdisc.com.au/stock
-(In stock list)
-can be emailed in xls and converted to csv.
-
 
 TNB Records
 https://tnbrecords.net/pages/search-results-page?q=cult+vinyl
 
 Rudderless Records
 https://www.rudderlessrecords.com.au/s/search?q=clowns
+
+Stash Records
+https://www.stashrecords.com.au

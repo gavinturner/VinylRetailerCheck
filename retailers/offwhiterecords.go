@@ -22,16 +22,16 @@ func (a *OffWhiteRecords) GetArtistQueryURL(artist string) string {
 	return query
 }
 
-func (a *OffWhiteRecords) ScrapeArtistReleases(artist string) (findings []SKU, err error) {
+func (a *OffWhiteRecords) ScrapeArtistReleases(artist string) ([]SKU, error) {
 
-	findings = []SKU{}
+	findings := []SKU{}
 	query := a.GetArtistQueryURL(artist)
 	client := &http.Client{}
-	req, _ := http.NewRequest("GET", query, nil)
-	resp, err := client.Do(req)
+	resp, err := client.Get(query)
 	if err != nil {
 		return nil, errors.Wrapf(err, "failed to retrieve search query %s", query)
 	}
+
 	body, err := ioutil.ReadAll(resp.Body)
 	if err != nil {
 		return nil, errors.Wrapf(err, "failed to extract body of search results %s", query)

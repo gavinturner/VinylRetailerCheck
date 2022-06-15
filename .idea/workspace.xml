@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e473d14-c29b-4290-a298-48b102eea47c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/retailers/example/resist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrations/20220715100100_add_new_retailers.up.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/dutch_vinyl.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/example/dutch_vinyl.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/example/dutch_vinyl_details.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/resistrecords.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/resistrecords.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/reporter/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/reporter/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/reports.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/reports.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/offwhiterecords.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/offwhiterecords.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/retailer.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/retailer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/retailer_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/retailer_list.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/retailers/test/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/test/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +64,8 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/db/migrations" />
-      <recent name="$PROJECT_DIR$/retailers/scrapers" />
       <recent name="$PROJECT_DIR$/retailers" />
+      <recent name="$PROJECT_DIR$/retailers/scrapers" />
       <recent name="$PROJECT_DIR$/cmd/reporter" />
       <recent name="$PROJECT_DIR$/db" />
     </key>
@@ -173,27 +180,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/retailers/offwhiterecords.go</url>
-          <line>35</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/retailers/offwhiterecords.go</url>
-          <line>37</line>
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/retailers/offwhiterecords.go</url>
-          <line>29</line>
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/retailers/offwhiterecords.go</url>
-          <line>31</line>
+          <line>30</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/retailers/offwhiterecords.go</url>
-          <line>33</line>
+          <line>32</line>
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
@@ -220,6 +212,11 @@
           <url>file://$PROJECT_DIR$/retailers/resistrecords.go</url>
           <line>66</line>
           <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/dutch_vinyl.go</url>
+          <line>152</line>
+          <option name="timeStamp" value="91" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

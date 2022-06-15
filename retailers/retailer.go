@@ -20,15 +20,17 @@ const (
 	Utopia_Retailer                      = 6
 	BeatdiscRecords_Retailer             = 7
 	MusicFarmers_Retailer                = 8
+	DutchVinyl_Retailer                  = 9
 )
 
 type SKU struct {
-	Name     string `db:"name" json:"name"`
-	Artist   string `db:"artist" json:"artist"`
-	Url      string `db:"item_url" json:"itemUrl"`
-	Image    string `db:"image_url" json:"imageUrl"`
-	Price    string `db:"price" json:"price"`
-	Retailer string `db:"retailer" json:"retailer"`
+	Name        string `db:"name" json:"name"`
+	Artist      string `db:"artist" json:"artist"`
+	Url         string `db:"item_url" json:"itemUrl"`
+	Image       string `db:"image_url" json:"imageUrl"`
+	Price       string `db:"price" json:"price"`
+	Retailer    string `db:"retailer" json:"retailer"`
+	RetailerUrl string `db:"retailer_url" json:"retailerUrl"`
 }
 
 type VinylRetailer interface {
@@ -54,6 +56,8 @@ func VinylRetailerFactory(retailerId RetailerID) (VinylRetailer, error) {
 		return &BeatDiscRecords{}, nil
 	case MusicFarmers_Retailer:
 		return &MusicFarmers{}, nil
+	case DutchVinyl_Retailer:
+		return &DutchVinyl{}, nil
 	}
 
 	return nil, fmt.Errorf("there is no retailer with id %v", retailerId)

@@ -257,11 +257,12 @@ func (v *VinylDB) GetSkusForReport(tx *postgres.Tx, reportId int64) ([]retailers
 	err := querier.Select(&skus, querier.Rebind(`
 		SELECT
 			rt.name as retailer,
+			rt.url as retailer_url,
 			a.name as artist,
 			r.title as name,
     		s.item_url,
     		s.image_url,
-    		s.price
+    		s.price,
 		FROM 
 			report_skus rs 
 			JOIN skus s ON rs.sku_id = s.id

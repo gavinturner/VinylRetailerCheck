@@ -11,7 +11,7 @@ import (
 
 func main() {
 	fmt.Printf("Scrape test\n")
-	scraper := retailers.ResistRecords{}
+	scraper := retailers.DutchVinyl{}
 
 	// multi artist test
 	readFile, err := os.Open("./retailers/test/artists.txt")
@@ -26,7 +26,7 @@ func main() {
 	}
 	readFile.Close()
 
-	artists = []string{"clowns"}
+	//artists = []string{"pixies"}
 
 	skus := []retailers.SKU{}
 	for _, artist := range artists {
