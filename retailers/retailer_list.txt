@@ -1,12 +1,7 @@
 
 Off White Records
 https://offwhiterecords.com/store/search_results.cfm?search_term=pennywise&search_sub=SEARCH
-
-Strangeworld Records
-https://www.strangeworldrecords.com.au/search?q=clowns+vinyl
-
-Clarity Records
-https://clarityrecords.net/search.php?search_query=clowns&section=product
+gah! wont accept request..
 
 Prehistoric Sounds
 https://www.prehistoricsounds.com.au/store/search%3Fkeyword%3Dsupersuckers
@@ -23,12 +18,6 @@ https://www.cottonmouth-records.com/s/search?q=smiths
 Heartland Records
 https://www.heartlandrecords.com.au/?s=smiths&post_type=product
 
-Oh Jean! Records
-https://www.ohjeanrecords.com/apps/omega-search/?type=product&options%5Bprefix%5D=last&q=clowns
-
-Dutch Vinyl
-https://www.dutchvinyl.com.au/a/search?type=product&q=pixies+vinyl
-
 Greville Records
 https://grevillerecords.com.au/search?q=frenzal+vinyl&options%5Bprefix%5D=last
 
@@ -44,3 +33,4 @@ https://www.rudderlessrecords.com.au/s/search?q=clowns
 
 Stash Records
 https://www.stashrecords.com.au
+

@@ -1,0 +1,2510 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+<meta name="facebook-domain-verification" content="azxpmb3oms290zi56llha8xwriblf0" />
+  <!-- Basic page needs ================================================== -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  
+  <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/1273/6111/t/7/assets/favicon.png?v=119306225852128423371609061233" type="image/png" />
+  
+
+  <!-- Title and description ================================================== -->
+  <title>
+  Search: 10 results found for &quot;ramones vinyl&quot; &ndash; Strangeworld Records
+  </title>
+
+  
+  <meta name="description" content="Australian &amp; overseas vinyl - rock, punk, psych, garage, indie, metal, soul, funk, country, hip hop, more - focusing on the obscure &amp; esoteric. Open every day from 11am.">
+  
+
+  <!-- Social meta ================================================== -->
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Search: 10 results found for &quot;ramones vinyl&quot;">
+  <meta property="og:url" content="https://www.strangeworldrecords.com.au/search?q=ramones+vinyl">
+  
+  <meta property="og:image" content="http://cdn.shopify.com/s/files/1/1273/6111/t/7/assets/logo.png?v=93445327140737840761609061234">
+  <meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/1273/6111/t/7/assets/logo.png?v=93445327140737840761609061234">
+  
+
+
+
+  <meta property="og:description" content="Australian &amp; overseas vinyl - rock, punk, psych, garage, indie, metal, soul, funk, country, hip hop, more - focusing on the obscure &amp; esoteric. Open every day from 11am.">
+
+
+<meta property="og:site_name" content="Strangeworld Records">
+
+
+  <meta name="twitter:card" content="summary">
+
+
+
+
+
+  <!-- Helpers ================================================== -->
+  <link rel="canonical" href="https://www.strangeworldrecords.com.au/search?q=ramones+vinyl">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f45b4f">
+
+  <!-- CSS ================================================== -->
+  <link href="//cdn.shopify.com/s/files/1/1273/6111/t/7/assets/timber.scss.css?v=31813509083662739631609075340" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/1273/6111/t/7/assets/theme.scss.css?v=102740321203037494051609061246" rel="stylesheet" type="text/css" media="all" />
+
+  
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Asap:400" rel="stylesheet" type="text/css" media="all" />
+  
+
+
+
+
+  <!-- Header hook for plugins ================================================== -->
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><link rel="stylesheet" media="all" href="//cdn.shopify.com/s/global/search.css">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/12736111/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="ae114fa36c15a994f614f75190058cd6">
+<meta id="in-context-paypal-metadata" data-shop-id="12736111" data-venmo-supported="false" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="AUD">
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":12736111,"countryCode":"AU","currencyCode":"AUD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/12736111","merchantName":"Strangeworld Records","requiredBillingContactFields":["postalAddress","email"],"requiredShippingContactFields":["postalAddress","email"],"shippingType":"shipping","supportedNetworks":["visa","masterCard"],"total":{"type":"pending","label":"Strangeworld Records","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"ae114fa36c15a994f614f75190058cd6","betas":["rich-media-storefront-analytics"],"domain":"www.strangeworldrecords.com.au","predictiveSearch":true,"shopId":12736111,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js?v=2","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js?v=2","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "strangeworld-records.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"AUD","rate":"1.0"};
+Shopify.country = "AU";
+Shopify.theme = {"name":"Minimal with WC - 2020-12-27","id":81652449322,"theme_store_id":null,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>window.ShopifyPay = window.ShopifyPay || {};
+window.ShopifyPay.apiHost = "shop.app\/pay";</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["\/\/cdn.codeblackbelt.com\/js\/modules\/also-bought\/main.min.js?shop=strangeworld-records.myshopify.com","https:\/\/static.mailerlite.com\/data\/a\/3424\/3424939\/universal_z1w4y3f4u4_load.js?shop=strangeworld-records.myshopify.com","\/\/app.backinstock.org\/bis\/widget\/5790_1652154500.js?v=6\u0026shop=strangeworld-records.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":12736111,"offset":36000,"reqid":"a0ac49e6-dbc0-455a-a99b-cb915b103712","pageurl":"www.strangeworldrecords.com.au\/search?q=ramones+vinyl","u":"c42231bd9bec","p":"searchresults"};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-N6F6ZjvOAMPhcD0kfZWNQQgx6eXaxFfh6aqfN0geLrU=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-37a17a663bce00c3e1703d247d958d410831e9e5dac457e1e9aa9f37481e2eb5.js" crossorigin="anonymous"></script>
+<script crossorigin="anonymous" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/shopify_pay/storefront-b61f50798075db890698930c4405673937fe89353f7fea7be88b5ce16a9c0af8.js?v=20210208"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 180px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+
+  
+
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/1273/6111/t/7/assets/respond.min.js?v=52248677837542619231609061232" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/1273/6111/t/7/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="//www.strangeworldrecords.com.au/search?q=b7073fbdddb3ccc4f99ff69f44a3bd91" id="respond-redirect" rel="respond-redirect" />
+<script src="//www.strangeworldrecords.com.au/search?q=b7073fbdddb3ccc4f99ff69f44a3bd91" type="text/javascript"></script>
+<![endif]-->
+
+
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/1273/6111/t/7/assets/modernizr.min.js?v=26620055551102246001609061236" type="text/javascript"></script>
+
+  
+  
+
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 12736111,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "search"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>window['GoogleAnalyticsObject'] = 'ga';
+window['ga'] = window['ga'] || function() {
+  (window['ga'].q = window['ga'].q || []).push(arguments);
+};
+window['ga'].l = 1 * new Date();</script>
+<script>var _gaUTrackerOptions = {'allowLinker': true};ga('create', 'UA-79859379-1', 'auto', _gaUTrackerOptions);ga('send', 'pageview');
+      (function(){
+        ga('require', 'linker');
+        function addListener(element, type, callback) {
+          if (element.addEventListener) {
+            element.addEventListener(type, callback);
+          }
+          else if (element.attachEvent) {
+            element.attachEvent('on' + type, callback);
+          }
+        }
+        function decorate(event) {
+          event = event || window.event;
+          var target = event.target || event.srcElement;
+          if (target && (target.action || target.href)) {
+            ga(function (tracker) {
+              var linkerParam = tracker.get('linkerParam');
+              document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+            });
+          }
+        }
+        addListener(window, 'load', function(){
+          for (var i=0; i<document.forms.length; i++) {
+            if(document.forms[i].action && document.forms[i].action.indexOf('/cart') >= 0) {
+              addListener(document.forms[i], 'submit', decorate);
+            }
+          }
+          for (var i=0; i<document.links.length; i++) {
+            if(document.links[i].href && document.links[i].href.indexOf('/checkout') >= 0) {
+              addListener(document.links[i], 'click', decorate);
+            }
+          }
+        })
+      }());
+    </script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'AUD';
+var meta = {"page":{"pageType":"searchresults"}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  
+};
+</script>
+<script class="analytics">(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var hasLoggedConversion = function(token) {
+    if (token) {
+      return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+    }
+    return false;
+  }
+
+  var setCookieIfConversion = function(token) {
+    if (token) {
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config || {};
+    trekkie.config.initialDocumentCookie = document.cookie;
+    var first = document.getElementsByTagName('script')[0];
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      var scriptFallback = document.createElement('script');
+      scriptFallback.type = 'text/javascript';
+      scriptFallback.onerror = function(error) {
+              var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+    
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+    
+        } // XHR beacon   
+    
+        var xhr = new XMLHttpRequest();
+    
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+    
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 12736111,
+      theme_id: 81652449322,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.1d937de3ab351f3a21d472769f20c0ea72d77fae.min.js"});
+
+      };
+      scriptFallback.async = true;
+      scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.1d937de3ab351f3a21d472769f20c0ea72d77fae.min.js';
+      first.parentNode.insertBefore(scriptFallback, first);
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/trekkie.storefront.1d937de3ab351f3a21d472769f20c0ea72d77fae.min.js';
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":12736111,"isMerchantRequest":null,"themeId":81652449322,"themeCityHash":"5540906631498170441","contentLanguage":"en","currency":"AUD"},"isServerSideCookieWritingEnabled":true},"Facebook Pixel":{"pixelIds":["238574536585097"],"agent":"plshopify1.2"},"Session Attribution":{},"S2S":{"emitV4CheckoutEvent":true,"facebookCapiEnabled":false,"facebookAppPixelId":"238574536585097","source":"trekkie-storefront-renderer"}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"searchresults"});
+
+    var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+    var token = match? match[1]: undefined;
+    if (!hasLoggedConversion(token)) {
+      setCookieIfConversion(token);
+      window.ShopifyAnalytics.lib.track("Performed Search",{"query":"ramones vinyl"});
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-fa61fd11817b231631d2fe43dc869d0b1d14a06332792d42f1a1d94bda5aa31e.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "";
+  window.BOOMR.themeVersion = "";
+  window.BOOMR.shopId = 12736111;
+  window.BOOMR.themeId = 81652449322;
+  window.BOOMR.url =
+    "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+<script async="async" src="https://www.google-analytics.com/analytics.js"></script>
+</head>
+
+<body id="search-10-results-found-for-quot-ramones-vinyl-quot" class="template-search" >
+<div id="shopify-section-announcement-bar" class="shopify-section">
+
+<style>
+  
+</style>
+
+</div>
+  <div class="header-bar">
+  <div class="wrapper medium-down--hide">
+    <div class="post-large--display-table">
+
+      
+        <div class="header-bar__left post-large--display-table-cell">
+
+          
+
+          
+
+          
+            <div class="header-bar__module header-bar__message">
+              FREE SHIPPING for $135+ orders <br>Orders pre-7pm usually ship next business day
+            </div>
+          
+
+        </div>
+      
+
+      <div class="header-bar__right post-large--display-table-cell">
+
+        
+          <ul class="header-bar__module header-bar__module--list">
+            
+              <li>
+                <a href="/account/login" id="customer_login_link">Log in</a>
+              </li>
+              <li>or</li>
+              <li>
+                <a href="/account/register" id="customer_register_link">Create account</a>
+              </li>  
+            
+          </ul>
+        
+
+        <div class="header-bar__module">
+          <span class="header-bar__sep" aria-hidden="true"></span>
+          
+	<a class="iWishView" href="/apps/iwish"><i class="flaticon1-like50"></i> Wishlist (<span class="iWishCount">0</span>)</a>
+
+
+        </div>
+        
+        <div class="header-bar__module">
+          <span class="header-bar__sep" aria-hidden="true"></span>
+          <a href="/cart" class="cart-page-link">
+            <span class="icon icon-cart header-bar__cart-icon" aria-hidden="true"></span>
+          </a>
+        </div>
+
+        <div class="header-bar__module">
+          <a href="/cart" class="cart-page-link">
+            Cart
+            <span class="cart-count header-bar__cart-count hidden-count">0</span>
+          </a>
+        </div>
+
+        
+          
+            <div class="header-bar__module header-bar__search">
+              
+
+
+  <form action="/search" method="get" class="header-bar__search-form clearfix" role="search">
+    
+    <button type="submit" class="btn icon-fallback-text header-bar__search-submit">
+      <span class="icon icon-search" aria-hidden="true"></span>
+      <span class="fallback-text">Search</span>
+    </button>
+    <input type="search" name="q" value="ramones vinyl" aria-label="Search" class="header-bar__search-input" placeholder="Search">
+  </form>
+
+
+            </div>
+          
+        
+
+      </div>
+    </div>
+  </div>
+  <div class="wrapper post-large--hide">
+    <button type="button" class="mobile-nav-trigger" id="MobileNavTrigger">
+      <span class="icon icon-hamburger" aria-hidden="true"></span>
+      Menu
+    </button>
+    <a href="/cart" class="cart-page-link mobile-cart-page-link">
+      <span class="icon icon-cart header-bar__cart-icon" aria-hidden="true"></span>
+      Cart <span class="cart-count hidden-count">0</span>
+    </a>
+    
+	<a class="iWishMobileView mobile-cart-page-link" href="/apps/iwish"><i class="flaticon1-like50"></i> Wishlist (<span class="iWishCount">0</span>)</a>
+
+
+  </div>
+  <ul id="MobileNav" class="mobile-nav post-large--hide">
+  
+  
+  
+  <li class="mobile-nav__link" aria-haspopup="true">
+    
+      <a href="/" class="mobile-nav">
+        Home
+      </a>
+    
+  </li>
+  
+  
+  <li class="mobile-nav__link" aria-haspopup="true">
+    
+      <a href="/collections/preorder" class="mobile-nav">
+        Preorder
+      </a>
+    
+  </li>
+  
+  
+  <li class="mobile-nav__link" aria-haspopup="true">
+    
+      <a href="/collections" class="mobile-nav__sublist-trigger">
+        Catalogue
+        <span class="icon-fallback-text mobile-nav__sublist-expand">
+  <span class="icon icon-plus" aria-hidden="true"></span>
+  <span class="fallback-text">+</span>
+</span>
+<span class="icon-fallback-text mobile-nav__sublist-contract">
+  <span class="icon icon-minus" aria-hidden="true"></span>
+  <span class="fallback-text">-</span>
+</span>
+      </a>
+      <ul class="mobile-nav__sublist">  
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/all-vinyl">FULL CATALOGUE</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/lp">12" and LPs</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/10">10"</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/7">7"</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/products/gift-card">GIFT VOUCHERS</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/flash-sale">FLASH SALE</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/tapes-and-t-shirts">CD, TAPES, TOTES, TEES + SLIPMATS</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/sleeves-and-accessories">SLEEVES and ACCESSORIES</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/zines-mags-books">ZINES, MAGS and BOOKS</a>
+          </li>
+        
+      </ul>
+    
+  </li>
+  
+  
+  <li class="mobile-nav__link" aria-haspopup="true">
+    
+      <a href="/products/gift-card" class="mobile-nav">
+        Gift Voucher
+      </a>
+    
+  </li>
+  
+  
+  <li class="mobile-nav__link" aria-haspopup="true">
+    
+      <a href="/collections" class="mobile-nav__sublist-trigger">
+        Genre
+        <span class="icon-fallback-text mobile-nav__sublist-expand">
+  <span class="icon icon-plus" aria-hidden="true"></span>
+  <span class="fallback-text">+</span>
+</span>
+<span class="icon-fallback-text mobile-nav__sublist-contract">
+  <span class="icon icon-minus" aria-hidden="true"></span>
+  <span class="fallback-text">-</span>
+</span>
+      </a>
+      <ul class="mobile-nav__sublist">  
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/australian">Australian / New Zealand</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/punk-hardcore-noise">Punk / Hardcore / Noise</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/garage-psych-prog">Garage / Psych / Prog</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/post-punk-c86-outsider">Post-Punk / C86 / Outsider</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/minimal-cold-wave-no-wave">Minimal / Cold Wave / No Wave</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/proto-punk-hard-rock">Proto-Punk / Hard Rock</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/power-pop-glam">Power Pop / Glam</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/50-60s-blues-rockabilly">50-60s / Blues / Rockabilly</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/soul-funk-hip-hop-reggae">Soul / Funk / Hip Hop / Reggae</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/soundtrack-krautrock">Soundtracks / Krautrock</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/indie-alt-rock">Indie / Alternative / Rock</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/country-folk-jazz">Country / Folk / Jazz</a>
+          </li>
+        
+          <li class="mobile-nav__sublist-link">
+            <a href="/collections/metal-stoner-doom">Metal / Stoner / Doom</a>
+          </li>
+        
+      </ul>
+    
+  </li>
+  
+  
+  <li class="mobile-nav__link" aria-haspopup="true">
+    
+      <a href="/pages/about-us" class="mobile-nav">
+        About
+      </a>
+    
+  </li>
+  
+  
+  <li class="mobile-nav__link" aria-haspopup="true">
+    
+      <a href="/pages/f-a-q" class="mobile-nav">
+        FAQ
+      </a>
+    
+  </li>
+  
+  
+  <li class="mobile-nav__link" aria-haspopup="true">
+    
+      <a href="/collections/rsd-2021" class="mobile-nav">
+        RSD 2022
+      </a>
+    
+  </li>
+  
+
+  
+    
+      <li class="mobile-nav__link">
+        <a href="/account/login" id="customer_login_link">Log in</a>
+      </li>
+      <li class="mobile-nav__link">
+        <a href="/account/register" id="customer_register_link">Create account</a>
+      </li>
+    
+  
+  
+  <li class="mobile-nav__link">
+    
+      <div class="header-bar__module header-bar__search">
+        
+
+
+  <form action="/search" method="get" class="header-bar__search-form clearfix" role="search">
+    
+    <button type="submit" class="btn icon-fallback-text header-bar__search-submit">
+      <span class="icon icon-search" aria-hidden="true"></span>
+      <span class="fallback-text">Search</span>
+    </button>
+    <input type="search" name="q" value="ramones vinyl" aria-label="Search" class="header-bar__search-input" placeholder="Search">
+  </form>
+
+
+      </div>
+    
+  </li>
+  
+</ul>
+
+</div>
+
+
+  <header class="site-header" role="banner">
+    <div class="wrapper">
+
+      
+
+      <div class="grid--full post-large--display-table">
+        <div class="grid__item post-large--one-third post-large--display-table-cell">
+          
+            <div class="h1 site-header__logo post-large--left" itemscope itemtype="http://schema.org/Organization">
+          
+            
+              <a href="/" itemprop="url">
+                <img src="//cdn.shopify.com/s/files/1/1273/6111/t/7/assets/logo.png?v=93445327140737840761609061234" alt="Strangeworld Records" itemprop="logo">
+              </a>
+            
+          
+            </div>
+          
+          
+            <p class="header-message post-large--hide">
+              <small>FREE SHIPPING for $135+ orders <br>Orders pre-7pm usually ship next business day</small>
+            </p>
+          
+        </div>
+        <div class="grid__item post-large--two-thirds post-large--display-table-cell medium-down--hide">
+          
+<ul class="site-nav post-large--text-right" id="AccessibleNav">
+  
+    
+    
+    
+      <li >
+        <a href="/" class="site-nav__link">Home</a>
+      </li>
+    
+  
+    
+    
+    
+      <li >
+        <a href="/collections/preorder" class="site-nav__link">Preorder</a>
+      </li>
+    
+  
+    
+    
+    
+      <li class="site-nav--has-dropdown" aria-haspopup="true">
+        <a href="/collections" class="site-nav__link">
+          Catalogue
+          <span class="icon-fallback-text">
+            <span class="icon icon-arrow-down" aria-hidden="true"></span>
+          </span>
+        </a>
+        <ul class="site-nav__dropdown">
+          
+            <li>
+              <a href="/collections/all-vinyl" class="site-nav__link">FULL CATALOGUE</a>
+            </li>
+          
+            <li>
+              <a href="/collections/lp" class="site-nav__link">12&quot; and LPs</a>
+            </li>
+          
+            <li>
+              <a href="/collections/10" class="site-nav__link">10&quot;</a>
+            </li>
+          
+            <li>
+              <a href="/collections/7" class="site-nav__link">7&quot;</a>
+            </li>
+          
+            <li>
+              <a href="/products/gift-card" class="site-nav__link">GIFT VOUCHERS</a>
+            </li>
+          
+            <li>
+              <a href="/collections/flash-sale" class="site-nav__link">FLASH SALE</a>
+            </li>
+          
+            <li>
+              <a href="/collections/tapes-and-t-shirts" class="site-nav__link">CD, TAPES, TOTES, TEES + SLIPMATS</a>
+            </li>
+          
+            <li>
+              <a href="/collections/sleeves-and-accessories" class="site-nav__link">SLEEVES and ACCESSORIES</a>
+            </li>
+          
+            <li>
+              <a href="/collections/zines-mags-books" class="site-nav__link">ZINES, MAGS and BOOKS</a>
+            </li>
+          
+        </ul>
+      </li>
+    
+  
+    
+    
+    
+      <li >
+        <a href="/products/gift-card" class="site-nav__link">Gift Voucher</a>
+      </li>
+    
+  
+    
+    
+    
+      <li class="site-nav--has-dropdown" aria-haspopup="true">
+        <a href="/collections" class="site-nav__link">
+          Genre
+          <span class="icon-fallback-text">
+            <span class="icon icon-arrow-down" aria-hidden="true"></span>
+          </span>
+        </a>
+        <ul class="site-nav__dropdown">
+          
+            <li>
+              <a href="/collections/australian" class="site-nav__link">Australian / New Zealand</a>
+            </li>
+          
+            <li>
+              <a href="/collections/punk-hardcore-noise" class="site-nav__link">Punk / Hardcore / Noise</a>
+            </li>
+          
+            <li>
+              <a href="/collections/garage-psych-prog" class="site-nav__link">Garage / Psych / Prog</a>
+            </li>
+          
+            <li>
+              <a href="/collections/post-punk-c86-outsider" class="site-nav__link">Post-Punk / C86 / Outsider</a>
+            </li>
+          
+            <li>
+              <a href="/collections/minimal-cold-wave-no-wave" class="site-nav__link">Minimal / Cold Wave / No Wave</a>
+            </li>
+          
+            <li>
+              <a href="/collections/proto-punk-hard-rock" class="site-nav__link">Proto-Punk / Hard Rock</a>
+            </li>
+          
+            <li>
+              <a href="/collections/power-pop-glam" class="site-nav__link">Power Pop / Glam</a>
+            </li>
+          
+            <li>
+              <a href="/collections/50-60s-blues-rockabilly" class="site-nav__link">50-60s / Blues / Rockabilly</a>
+            </li>
+          
+            <li>
+              <a href="/collections/soul-funk-hip-hop-reggae" class="site-nav__link">Soul / Funk / Hip Hop / Reggae</a>
+            </li>
+          
+            <li>
+              <a href="/collections/soundtrack-krautrock" class="site-nav__link">Soundtracks / Krautrock</a>
+            </li>
+          
+            <li>
+              <a href="/collections/indie-alt-rock" class="site-nav__link">Indie / Alternative / Rock</a>
+            </li>
+          
+            <li>
+              <a href="/collections/country-folk-jazz" class="site-nav__link">Country / Folk / Jazz</a>
+            </li>
+          
+            <li>
+              <a href="/collections/metal-stoner-doom" class="site-nav__link">Metal / Stoner / Doom</a>
+            </li>
+          
+        </ul>
+      </li>
+    
+  
+    
+    
+    
+      <li >
+        <a href="/pages/about-us" class="site-nav__link">About</a>
+      </li>
+    
+  
+    
+    
+    
+      <li >
+        <a href="/pages/f-a-q" class="site-nav__link">FAQ</a>
+      </li>
+    
+  
+    
+    
+    
+      <li >
+        <a href="/collections/rsd-2021" class="site-nav__link">RSD 2022</a>
+      </li>
+    
+  
+</ul>
+
+        </div>
+      </div>
+
+      
+
+    </div>
+  </header>
+
+  <main class="wrapper main-content" role="main">
+    <div class="grid">
+        <div class="grid__item">
+          
+
+
+
+
+
+
+
+
+  
+
+    
+    
+
+      
+      
+
+        <div class="section-header section-header--large">
+          <h1 class="section-header__title h2">Your search for "ramones vinyl" revealed the following:</h1>
+        </div>
+        
+
+
+  <form action="/search" method="get" class="input-group search-bar" role="search">
+    
+    <input type="search" name="q" value="ramones vinyl" placeholder="Search" class="input-group-field" aria-label="Search" placeholder="Search">
+    <span class="input-group-btn">
+      <button type="submit" class="btn icon-fallback-text">
+        <span class="icon icon-search" aria-hidden="true"></span>
+        <span class="fallback-text">Search</span>
+      </button>
+    </span>
+  </form>
+
+
+
+        
+        
+
+          <hr>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+
+            
+            
+
+            
+
+            
+
+
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  .badge {
+    top: 30px;
+    left: 80%;
+    margin-top: 0;
+    margin-left: 0;
+    position: relative;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid">
+
+        
+<div class="grid__item one-fifth">
+  
+    
+    <a href="/products/ramones-leave-home-lp?_pos=1&_sid=968582978&_ss=r" title="RAMONES - Leave Home LP">
+      
+      
+      <img src="//cdn.shopify.com/s/files/1/1273/6111/products/Ramones_-_Leave_Home_cover_medium.jpg?v=1466070638" alt="RAMONES - Leave Home LP" />
+    </a>
+  
+  </div>
+
+  
+  <div class="grid__item four-fifths push--one-fifth">
+    <h3><a href="/products/ramones-leave-home-lp?_pos=1&amp;_sid=968582978&amp;_ss=r" title="">RAMONES - Leave Home LP</a></h3>
+    
+      
+        <span itemprop="price">
+          $43.95
+        </span>
+      
+      
+
+    
+    <p>180 gram Rhino vinyl.
+Highly recommended.</p>
+  </div>
+
+</div>
+
+              
+
+		  
+            <hr>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+
+            
+            
+
+            
+
+            
+
+
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  .badge {
+    top: 30px;
+    left: 80%;
+    margin-top: 0;
+    margin-left: 0;
+    position: relative;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid">
+
+        
+<div class="grid__item one-fifth">
+  
+    
+    <a href="/products/ramones-rocket-to-russia-lp?_pos=2&_sid=968582978&_ss=r" title="RAMONES - Rocket To Russia LP">
+      
+      
+      <img src="//cdn.shopify.com/s/files/1/1273/6111/products/ramones_-_rocket_medium.jpg?v=1559188637" alt="RAMONES - Rocket To Russia LP" />
+    </a>
+  
+  </div>
+
+  
+  <div class="grid__item four-fifths push--one-fifth">
+    <h3><a href="/products/ramones-rocket-to-russia-lp?_pos=2&amp;_sid=968582978&amp;_ss=r" title="">RAMONES - Rocket To Russia LP</a></h3>
+    
+      
+        <span itemprop="price">
+          $44.95
+        </span>
+      
+      
+
+    
+    <p>180 gram vinyl. Superior 2017 remastered audio. Highly recommended. Is this the best Ramones-album?? The first one was fun, but wasn't as...</p>
+  </div>
+
+</div>
+
+              
+
+		  
+            <hr>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+
+            
+            
+
+            
+
+            
+
+
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  .badge {
+    top: 30px;
+    left: 80%;
+    margin-top: 0;
+    margin-left: 0;
+    position: relative;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid">
+
+        
+<div class="grid__item one-fifth">
+  
+    
+    <a href="/products/johnny-ramone-the-final-sessions-lp?_pos=3&_sid=968582978&_ss=r" title="JOHNNY RAMONE - The Final Sessions LP">
+      
+      
+      <img src="//cdn.shopify.com/s/files/1/1273/6111/products/johnny_medium.png?v=1586501117" alt="JOHNNY RAMONE - The Final Sessions LP" />
+    </a>
+  
+  </div>
+
+  
+  <div class="grid__item four-fifths push--one-fifth">
+    <h3><a href="/products/johnny-ramone-the-final-sessions-lp?_pos=3&amp;_sid=968582978&amp;_ss=r" title="">JOHNNY RAMONE - The Final Sessions LP</a></h3>
+    
+      
+        <span itemprop="price">
+          $37.95
+        </span>
+      
+      
+
+    
+    <p>Limited edition 12'' Purple vinyl featuring the final recorded studio performances punk legend Johnny Ramone Cutting Loose With Lemmy Of...</p>
+  </div>
+
+</div>
+
+              
+
+		  
+            <hr>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+
+            
+            
+
+            
+
+            
+
+
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  .badge {
+    top: 30px;
+    left: 80%;
+    margin-top: 0;
+    margin-left: 0;
+    position: relative;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid">
+
+        
+<div class="grid__item one-fifth">
+  
+    
+    <a href="/products/wives-so-removed-lp?_pos=4&_sid=968582978&_ss=r" title="WIVES - So Removed LP (colour vinyl)">
+      
+      
+      <img src="//cdn.shopify.com/s/files/1/1273/6111/products/wives_-_so_removed_medium.jpg?v=1577603439" alt="WIVES - So Removed LP (colour vinyl)" />
+    </a>
+  
+  </div>
+
+  
+  <div class="grid__item four-fifths push--one-fifth">
+    <h3><a href="/products/wives-so-removed-lp?_pos=4&amp;_sid=968582978&amp;_ss=r" title="">WIVES - So Removed LP (colour vinyl)</a></h3>
+    
+      
+        <span itemprop="price">
+          $39.95
+        </span>
+      
+      
+
+    
+    <p>Limited edition purple colour vinyl. Highly recommended. WIVES are another one of them there post-punk bands from New York City. However,...</p>
+  </div>
+
+</div>
+
+              
+
+		  
+            <hr>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+
+            
+            
+
+            
+
+            
+
+
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  .badge {
+    top: 30px;
+    left: 80%;
+    margin-top: 0;
+    margin-left: 0;
+    position: relative;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid">
+
+        
+<div class="grid__item one-fifth">
+  
+    
+    <a href="/products/flamin-groovies-shake-some-action-lp?_pos=5&_sid=968582978&_ss=r" title="FLAMIN&#39; GROOVIES - Shake Some Action LP (colour vinyl)">
+      
+      
+      <img src="//cdn.shopify.com/s/files/1/1273/6111/products/flamingroovies-shakesomeaction_medium.jpg?v=1655290873" alt="FLAMIN&#39; GROOVIES - Shake Some Action LP (colour vinyl)" />
+    </a>
+  
+  </div>
+
+  
+  <div class="grid__item four-fifths push--one-fifth">
+    <h3><a href="/products/flamin-groovies-shake-some-action-lp?_pos=5&amp;_sid=968582978&amp;_ss=r" title="">FLAMIN' GROOVIES - Shake Some Action LP (colour vinyl)</a></h3>
+    
+      
+        <span itemprop="price">
+          $54.95
+        </span>
+      
+      
+
+    
+    <p>Mastered by Kevin Gray from the original 1976 master tapes. Includes inner sleeve with tape box scans. Pressed at RTI...</p>
+  </div>
+
+</div>
+
+              
+
+		  
+            <hr>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+
+            
+            
+
+            
+
+            
+
+
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  .badge {
+    top: 30px;
+    left: 80%;
+    margin-top: 0;
+    margin-left: 0;
+    position: relative;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid">
+
+        
+<div class="grid__item one-fifth">
+  
+    
+    <a href="/products/king-khan-unlimited-opiate-them-asses-lp?_pos=6&_sid=968582978&_ss=r" title="KING KHAN UNLIMITED - Opiate Them Asses LP (colour vinyl)">
+      
+      
+      <img src="//cdn.shopify.com/s/files/1/1273/6111/products/kingkhanunlimited-opiate_medium.jpg?v=1639302857" alt="KING KHAN UNLIMITED - Opiate Them Asses LP (colour vinyl)" />
+    </a>
+  
+  </div>
+
+  
+  <div class="grid__item four-fifths push--one-fifth">
+    <h3><a href="/products/king-khan-unlimited-opiate-them-asses-lp?_pos=6&amp;_sid=968582978&amp;_ss=r" title="">KING KHAN UNLIMITED - Opiate Them Asses LP (colour vinyl)</a></h3>
+    
+      
+        <span itemprop="price">
+          $41.95
+        </span>
+      
+      
+
+    
+    <p>Limited edition splatter colour vinyl. Featuring his majesty’s dream line up of Bordeaux’s finest rock‘n’roll lifers, The Magnetix and Fredovitch...</p>
+  </div>
+
+</div>
+
+              
+
+		  
+            <hr>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  .badge {
+    top: 30px;
+    left: 80%;
+    margin-top: 0;
+    margin-left: 0;
+    position: relative;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid">
+
+        
+<div class="grid__item one-fifth">
+  
+  </div>
+
+  
+  <div class="grid__item four-fifths push--one-fifth">
+    <h3><a href="/blogs/news-1/strangeworld-2016-summary?_pos=7&amp;_sid=968582978&amp;_ss=r" title="">Strangeworld 2016 summary</a></h3>
+      
+
+    
+    <p>Strangeworld's first year of existence saw us enjoy bringing many releases not otherwise available in Melbourne and we'll continue to...</p>
+  </div>
+
+</div>
+
+	      
+            <hr>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+
+            
+            
+
+            
+
+            
+
+
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  .badge {
+    top: 30px;
+    left: 80%;
+    margin-top: 0;
+    margin-left: 0;
+    position: relative;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid">
+
+        
+<div class="grid__item one-fifth">
+  
+    
+    <a href="/products/solarflares-the-can-satisfy-you-lp?_pos=8&_sid=968582978&_ss=r" title="SOLARFLARES - Can Satisfy You LP">
+      
+      
+      <img src="//cdn.shopify.com/s/files/1/1273/6111/products/solarflarescansatisfy_medium.jpg?v=1558668305" alt="SOLARFLARES - Can Satisfy You LP" />
+    </a>
+  
+  </div>
+
+  
+  <div class="grid__item four-fifths push--one-fifth">
+    <h3><a href="/products/solarflares-the-can-satisfy-you-lp?_pos=8&amp;_sid=968582978&amp;_ss=r" title="">SOLARFLARES - Can Satisfy You LP</a></h3>
+    
+      
+        <span itemprop="price">
+          $31.95
+        </span>
+      
+      
+
+    
+    <p>Clear vinyl. Former Prisoners / Prime Movers cohorts The Solarflares distilled the myriad pleasures of hard-edged, soulful 60s beat-psych, powerhouse guitar/organ...</p>
+  </div>
+
+</div>
+
+              
+
+		  
+            <hr>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+
+            
+            
+
+            
+
+            
+
+
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  .badge {
+    top: 30px;
+    left: 80%;
+    margin-top: 0;
+    margin-left: 0;
+    position: relative;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid">
+
+        
+<div class="grid__item one-fifth">
+  
+    
+    <a href="/products/rasheed-ali-quintet-live-at-slugs-2lp?_pos=9&_sid=968582978&_ss=r" title="RASHEED ALI QUINTET - Live At Slugs 2LP">
+      
+      
+      <img src="//cdn.shopify.com/s/files/1/1273/6111/products/jazz_medium.jpg?v=1638412433" alt="RASHEED ALI QUINTET - Live At Slugs 2LP" />
+    </a>
+  
+  </div>
+
+  
+  <div class="grid__item four-fifths push--one-fifth">
+    <h3><a href="/products/rasheed-ali-quintet-live-at-slugs-2lp?_pos=9&amp;_sid=968582978&amp;_ss=r" title="">RASHEED ALI QUINTET - Live At Slugs 2LP</a></h3>
+    
+      
+        <span itemprop="price">
+          $84.95
+        </span>
+      
+      
+
+    
+    <p>2LP gatefold tip-on jacket, pressed on RTI Vinyl. "Preserved on two reels in Rashied Ali's tape archive, this document may...</p>
+  </div>
+
+</div>
+
+              
+
+		  
+            <hr>
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+
+            
+            
+
+            
+
+            
+
+
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  .badge {
+    top: 30px;
+    left: 80%;
+    margin-top: 0;
+    margin-left: 0;
+    position: relative;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="grid">
+
+        
+<div class="grid__item one-fifth">
+  
+    
+    <a href="/products/nashville-pussy-pleased-to-eat-you-lp?_pos=10&_sid=968582978&_ss=r" title="NASHVILLE PUSSY - Pleased To Eat You LP">
+      
+      
+      <img src="//cdn.shopify.com/s/files/1/1273/6111/products/nashville_pussy_-_pleased_medium.jpg?v=1553424739" alt="NASHVILLE PUSSY - Pleased To Eat You LP" />
+    </a>
+  
+  </div>
+
+  
+  <div class="grid__item four-fifths push--one-fifth">
+    <h3><a href="/products/nashville-pussy-pleased-to-eat-you-lp?_pos=10&amp;_sid=968582978&amp;_ss=r" title="">NASHVILLE PUSSY - Pleased To Eat You LP</a></h3>
+    
+      
+        <span itemprop="price">
+          $43.95
+        </span>
+      
+      
+
+    
+    <p>180 gram vinyl. Nashville Pussy preached its sleazy gospel over the past couple of decades alongside Motörhead in every rock...</p>
+  </div>
+
+</div>
+
+              
+
+		  
+            <hr>
+          
+
+        
+
+      
+
+      
+        <div class="text-center">
+          
+
+<ul class="pagination-custom">
+  
+    <li class="disabled"><span>&larr;</span></li>
+  
+
+  
+    
+      
+        <li class="active"><span>1</span></li>
+      
+    
+  
+    
+      <li>
+        <a href="/search?page=2&q=ramones+vinyl" title="">2</a>
+      </li>
+    
+  
+    
+      <li>
+        <a href="/search?page=3&q=ramones+vinyl" title="">3</a>
+      </li>
+    
+  
+
+  
+    <li><a href="/search?page=2&q=ramones+vinyl" title="Next &raquo;">&rarr;</a></li>
+  
+</ul>
+        </div>
+      
+
+    
+
+  
+
+
+
+        </div>
+    </div>
+  </main>
+
+  <footer class="site-footer small--text-center" role="contentinfo">
+
+    <div class="wrapper">
+
+      <div class="grid-uniform ">
+
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+
+        
+          <div class="grid__item post-large--one-fifth medium--one-half site-footer__links">
+            <h4><a href="/blogs/news">Latest News</a></h4>
+            
+            <p class="h5"><a href="/blogs/news/99991233-welcome-to-strangeworld-records-newly-launched-online-store" title="">Welcome to Strangeworld Records online store!</a></p>
+              
+            
+            <p>Our brick-and-mortar store - 519 Brunswick St. Fitzroy North - open 7 days. Order online, pick up on your way home or have safely shipped with 30+ years mailorder experience.</p>
+            
+          </div>
+        
+
+        
+          <div class="grid__item post-large--one-fifth medium--one-half">
+            
+            <h4>Quick Links</h4>
+            
+            <ul class="site-footer__links">
+              
+                <li><a href="/search">Search</a></li>
+              
+                <li><a href="/pages/about-us">About us</a></li>
+              
+                <li><a href="/pages/f-a-q">F.A.Q.</a></li>
+              
+                <li><a href="/pages/privacy">Privacy</a></li>
+              
+                <li><a href="/pages/refunds">Returns</a></li>
+              
+                <li><a href="/collections/quick-order">Quick Order</a></li>
+              
+            </ul>
+          </div>
+        
+
+        
+
+        
+          <div class="grid__item post-large--one-fifth medium--one-half">
+            <h4>Follow Us</h4>
+              
+              <ul class="inline-list social-icons">
+  
+  
+    <li>
+      <a class="icon-fallback-text" href="https://www.facebook.com/strangeworldrecords" title="Strangeworld Records on Facebook">
+        <span class="icon icon-facebook" aria-hidden="true"></span>
+        <span class="fallback-text">Facebook</span>
+      </a>
+    </li>
+  
+  
+  
+  
+    <li>
+      <a class="icon-fallback-text" href="https://instagram.com/strangeworld_records" title="Strangeworld Records on Instagram">
+        <span class="icon icon-instagram" aria-hidden="true"></span>
+        <span class="fallback-text">Instagram</span>
+      </a>
+    </li>
+  
+  
+  
+  
+  
+  
+</ul>
+
+          </div>
+        
+
+        
+          <div class="grid__item post-large--one-fifth medium--one-half">
+            <h4>Contact Us</h4>
+            <div class="rte">Strangeworld Records<br>
+519 Brunswick Street<br>
+Fitzroy North, VIC 3068<br>Australia<br>
+03 9416 1662<br><font size="-1">
+info@strangeworldrecords.com.au</font></div>
+          </div>
+        
+
+        
+          <div class="grid__item post-large--one-fifth medium--one-half">
+            <h4>Newsletter</h4>
+            <p>Find out the latest release info, special offers, preorders and when our next BBQ is happening!
+</p>
+            
+
+  <div class="form-vertical small--hide">
+    <form method="post" action="/contact#contact_form" id="contact_form" accept-charset="UTF-8" class="contact-form"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" />
+      
+      
+        <input type="hidden" name="contact[tags]" value="newsletter">
+        <input type="email" value="" placeholder="Your email" name="contact[email]" id="Email" class="input-group-field" aria-label="Your email" autocorrect="off" autocapitalize="off">
+        <input type="submit" class="btn" name="subscribe" id="subscribe" value="Subscribe">
+      
+    </form>
+  </div> 
+  <div class="form-vertical post-large--hide large--hide medium--hide">
+    <form method="post" action="/contact#contact_form" id="contact_form" accept-charset="UTF-8" class="contact-form"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" />
+      
+      
+        <input type="hidden" name="contact[tags]" value="newsletter">
+        <div class="input-group">
+          <input type="email" value="" placeholder="Your email" name="contact[email]" id="Email" class="input-group-field" aria-label="Your email" autocorrect="off" autocapitalize="off">
+          <span class="input-group-btn">
+            <button type="submit" class="btn" name="commit" id="subscribe">Subscribe</button>
+          </span>
+        </div>
+      
+    </form>
+  </div>  
+
+          </div>
+        
+      </div>
+
+      <hr class="hr--small hr--clear">
+
+      <div class="grid">
+        <div class="grid__item text-center">
+          <p class="site-footer__links">Copyright &copy; 2022, <a href="/" title="">Strangeworld Records</a>. <a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore"> </a></p>
+        </div>
+      </div>
+
+      
+        
+        <div class="grid">
+           <div class="grid__item text-center">
+             <ul class="inline-list payment-icons">
+               
+                 <li>
+                   <span class="icon-fallback-text">
+                     <span class="icon icon-apple_pay" aria-hidden="true"></span>
+                     <span class="fallback-text">apple pay</span>
+                   </span>
+                 </li>
+               
+                 <li>
+                   <span class="icon-fallback-text">
+                     <span class="icon icon-google_pay" aria-hidden="true"></span>
+                     <span class="fallback-text">google pay</span>
+                   </span>
+                 </li>
+               
+                 <li>
+                   <span class="icon-fallback-text">
+                     <span class="icon icon-master" aria-hidden="true"></span>
+                     <span class="fallback-text">master</span>
+                   </span>
+                 </li>
+               
+                 <li>
+                   <span class="icon-fallback-text">
+                     <span class="icon icon-paypal" aria-hidden="true"></span>
+                     <span class="fallback-text">paypal</span>
+                   </span>
+                 </li>
+               
+                 <li>
+                   <span class="icon-fallback-text">
+                     <span class="icon icon-shopify_pay" aria-hidden="true"></span>
+                     <span class="fallback-text">shopify pay</span>
+                   </span>
+                 </li>
+               
+                 <li>
+                   <span class="icon-fallback-text">
+                     <span class="icon icon-visa" aria-hidden="true"></span>
+                     <span class="fallback-text">visa</span>
+                   </span>
+                 </li>
+               
+             </ul>
+           </div>
+         </div>
+         
+       
+
+    </div>
+
+  </footer>
+
+  
+
+  
+
+  <script src="//cdn.shopify.com/s/files/1/1273/6111/t/7/assets/fastclick.min.js?v=29723458539410922371609061227" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/1273/6111/t/7/assets/timber.js?v=26526583228822475811609061246" type="text/javascript"></script>
+  <script src="//cdn.shopify.com/s/files/1/1273/6111/t/7/assets/theme.js?v=92240907644181103821609061246" type="text/javascript"></script>
+
+  <script src="//cdn.codeblackbelt.com/js/modules/also-bought/main.min.js?shop=strangeworld-records.myshopify.com" defer></script>
+
+  
+
+  
+
+  
+
+  
+<script type="text/javascript">
+var iwish_shop = "strangeworld-records.myshopify.com";
+var iwish_pro_template = false;
+var iwish_cid = "";
+//Add to Wishlist - Product Page Text
+var iwish_added_txt = '<i class="flaticon1-like50"></i> Added in Wishlist';
+var iwish_add_txt = '<i class="flaticon1-like50"></i> Add to Wishlist';
+//Add to Wishlist - Collection Page Text
+var iwish_added_txt_col = 'Added in Wishlist';
+var iwish_add_txt_col = 'Add to Wishlist';
+//Quick View - Classes
+//var iwish_qvButton = '.quick_view';
+//var iwish_qvWrapper = '.reveal-modal';
+</script>
+<script src="https://cdn.myshopapps.com/iwish/iwishlist.js"></script>
+<script type="text/javascript">
+jQuery( document ).ready(function() {
+	jQuery("a[href='/apps/iwish']").click(function(e) {
+		if(typeof(Storage) !== "undefined") {
+			e.preventDefault();
+			iWishPost('/apps/iwish',{iwishlist:JSON.stringify(iWishlistmain),cId:iwish_cid});
+		}
+	});
+	jQuery(".iWishAdd").click(function() {
+		var iWishvId = jQuery(this).parents(iwishWrapperClass).find(iWishVarSelector).val();
+		iwish_add(jQuery(this), iWishvId);
+		return false;
+	});
+	jQuery(".iWishAddColl").click(function() {
+		var iWishvId = jQuery(this).attr("data-variant");
+	       	iwish_addCollection(jQuery(this),iWishvId);
+	      	return false;
+	});
+	iwishCheckColl();
+});
+function iwishCheckColl(){
+	if(jQuery(".iwishcheck").length > 0) {
+	jQuery(".iwishcheck").each(function() {
+		var iWishvId = jQuery(this).attr("data-variant");
+		var iWishpId = jQuery(this).attr("data-product");
+		if(isInWishlist(iWishpId,iWishvId)){ jQuery(this).addClass("iwishAdded").html(iwish_added_txt_col); }
+		jQuery(this).removeClass("iwishcheck");
+	});
+	}
+}
+</script>
+
+
+  
+</body>
+</html>

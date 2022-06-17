@@ -112,7 +112,7 @@ func (a *DutchVinyl) ScrapeArtistReleases(artist string) (findings []SKU, err er
 			subUrl = DV_URL_PREFIX + subUrl
 
 			// now read THAT url...
-			query := fmt.Sprintf(subUrl)
+			query := subUrl
 			resp, err := http.Get(query)
 			if err != nil {
 				fmt.Printf("[FAILED: %s]..", err.Error())
