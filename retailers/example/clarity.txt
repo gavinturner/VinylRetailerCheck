@@ -8,7 +8,8 @@
         <link rel="dns-prefetch preconnect" href="https://cdn11.bigcommerce.com/s-u7hmqfjkq" crossorigin><link rel="dns-prefetch preconnect" href="https://fonts.googleapis.com" crossorigin><link rel="dns-prefetch preconnect" href="https://fonts.gstatic.com" crossorigin>
         <meta name="description" content="Clarity Records is an independent music store in the Adelaide CBD specialising in Vinyl Records and CDs "><link rel='canonical' href='https://clarityrecords.net/search.php' /><meta name='platform' content='bigcommerce.stencil' />
         
-        
+                <link rel="next" href="/search.php?page=2&amp;section=product&amp;search_query=nofx">
+
 
         <link href="https://cdn11.bigcommerce.com/s-u7hmqfjkq/product_images/favicon-48.png?t=1542280382" rel="shortcut icon">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -49,11 +50,11 @@
 
     xmlHttp.open('POST', 'https://awid9mr9fd.execute-api.us-east-1.amazonaws.com/prod/nobot');
     xmlHttp.setRequestHeader('Content-Type', 'application/json');
-    xmlHttp.send('{"store_id":"1000296304","timezone_offset":"10.5","timestamp":"2022-06-15T03:30:49.34700700Z","visit_id":"834ecade-05fd-4e58-8267-f63f141fe1e3","channel_id":1}');
+    xmlHttp.send('{"store_id":"1000296304","timezone_offset":"10.5","timestamp":"2022-06-20T02:15:07.65684300Z","visit_id":"df7f0b23-3f94-4da0-8a07-6ea4854973b6","channel_id":1}');
 })();
 </script>
 <script type="text/javascript">
-var BCData = {"csrf_token":"4f85ded9d97136ec6528de8efb1258ff791c855f6a26daa7a96729aaf43bac2f"};
+var BCData = {"csrf_token":"b32004fa4bea9c21e7cc7ebeeb55a6b191b0a3f396e2761d2e2f89cf64a9e3e9"};
 </script>
 
         
@@ -382,7 +383,7 @@ var BCData = {"csrf_token":"4f85ded9d97136ec6528de8efb1258ff791c855f6a26daa7a967
             <meta itemprop="position" content="0" />
         </li>
         <li class="breadcrumb is-active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-                <a href="https://clarityrecords.net/search.php?search_query=clowns&amp;section=product" class="breadcrumb-label" itemprop="item"><span itemprop="name">Search</span></a>
+                <a href="https://clarityrecords.net/search.php?search_query=nofx&amp;section=product" class="breadcrumb-label" itemprop="item"><span itemprop="name">Search</span></a>
             <meta itemprop="position" content="1" />
         </li>
 </ul>
@@ -390,19 +391,19 @@ var BCData = {"csrf_token":"4f85ded9d97136ec6528de8efb1258ff791c855f6a26daa7a967
 <section class="nav">
         <div id="search-results-heading">
             <h1 class="page-heading">
-    7 results for &#x27;clowns&#x27;
+    25 results for &#x27;nofx&#x27;
 </h1>
         </div>
     <nav class="navBar navBar--sub">
         <ul class="navBar-section account-navigation">
             <li class="navBar-item">
-                <a id="search-results-product-count" class="navBar-action" href="https://clarityrecords.net/search.php?section=product&amp;search_query=clowns" data-product-results-toggle>
-                    Products (6)
+                <a id="search-results-product-count" class="navBar-action" href="https://clarityrecords.net/search.php?section=product&amp;search_query=nofx" data-product-results-toggle>
+                    Products (25)
                 </a>
             </li>
             <li class="navBar-item">
-                <a class="navBar-action" href="https://clarityrecords.net/search.php?section=content&amp;search_query=clowns" data-content-results-toggle>
-                    News &amp; Information (1)
+                <a class="navBar-action" href="https://clarityrecords.net/search.php?section=content&amp;search_query=nofx" data-content-results-toggle>
+                    News &amp; Information (0)
                 </a>
             </li>
                 <li class="navBar-item navBar-item--separate">
@@ -430,7 +431,7 @@ var BCData = {"csrf_token":"4f85ded9d97136ec6528de8efb1258ff791c855f6a26daa7a967
                             Search Keyword
                             <small>Required</small>
                         </label>
-                        <input type="text" class="form-input" name="search_query_adv" data-error-message="Search field cannot be empty." id="search_query_adv" value="clowns">
+                        <input type="text" class="form-input" name="search_query_adv" data-error-message="Search field cannot be empty." id="search_query_adv" value="nofx">
                     </div>
 
                     <div class="form-field">
@@ -513,40 +514,14 @@ var BCData = {"csrf_token":"4f85ded9d97136ec6528de8efb1258ff791c855f6a26daa7a967
             <div class="panel panel--large">
                 <div class="panel-body">
                         <div class="search-suggestion">
-                            Did you mean: <strong>close</strong>
-                            <a href="/search.php?search_query=close" class="search-refine">Refine Search</a>
+                            Did you mean: <strong>noir</strong>
+                            <a href="/search.php?search_query=noir" class="search-refine">Refine Search</a>
                         </div>
 
 
 
 
                 </div>
-            </div>
-
-            <div id="search-results-content" class="u-hiddenVisually">
-                <form class="actionBar" method="get" data-sort-by>
-    <fieldset class="form-fieldset actionBar-section">
-        <div class="form-field">
-            <label class="form-label" for="sort">Sort By:</label>
-            <select class="form-select form-select--small" name="sort" id="sort">
-                <option value="relevance" selected>Relevance</option>
-                <option value="alphaasc" >A to Z</option>
-                <option value="alphadesc" >Z to A</option>
-            </select>
-        </div>
-    </fieldset>
-</form>
-                <ul>
-                        <strong><a href="https://clarityrecords.net/news/a-day-of-clarity-2019-8b2b7b/">A DAY OF CLARITY 2019</a></strong>(Post)
-                        <p>A DAY OF CLARITY 2019 full line up.
-	Saturday August 10, 2019. 40+ artists, across 11 stages in 7 venues over the East End, Adelaide CBD.&nbsp;
-	2019 also marks the 5th anniversary for "A Day Of ...</p>
-                </ul>
-                <div class="pagination">
-    <ul class="pagination-list">
-
-    </ul>
-</div>
             </div>
 
 
@@ -573,117 +548,23 @@ var BCData = {"csrf_token":"4f85ded9d97136ec6528de8efb1258ff791c855f6a26daa7a967
 <form action="/compare" method='POST'  data-list-name="Search Results"  data-product-compare>
             <ul class="productGrid">
     <li class="product">
-            <article class="card "  data-event-type="list" data-entity-id="1072" data-position="1" data-name="CLOWNS - Lucid Again LP" data-product-category="Vinyl, Vinyl/Punk / Hardcore, Vinyl/Australian" data-product-brand="" data-product-price="34.95"  >
+            <article class="card "  data-event-type="list" data-entity-id="3851" data-position="1" data-name="NOFX - Single Album LP" data-product-category="Vinyl, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="39.95"  >
     <figure class="card-figure">
-            <a href="https://clarityrecords.net/vinyl/clowns-lucid-again-lp/"  data-event-type="product-click" >
+            <a href="https://clarityrecords.net/vinyl/nofx-single-album-lp/"  data-event-type="product-click" >
                 <div class="card-img-container">
-                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/1072/4559/pcr135_1400x1400__83326.1551237522.386.513__32805.1631892027.jpg?c=2" alt="CLOWNS - Lucid Again LP" title="CLOWNS - Lucid Again LP">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/3851/6679/5291651__81484.1632242070.jpg?c=2" alt="NOFX - Single Album LP" title="NOFX - Single Album LP">
                 </div>
             </a>
         <figcaption class="card-figcaption">
             <div class="card-figcaption-body">
-                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="1072">Quick view</a>
-                            <a href="https://clarityrecords.net/cart.php?action=add&amp;product_id=1072" data-event-type="product-click" class="button button--small card-figcaption-button">Add to Cart</a>
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="3851">Quick view</a>
+                            <a href="https://clarityrecords.net/cart.php?action=add&amp;product_id=3851" data-event-type="product-click" class="button button--small card-figcaption-button">Add to Cart</a>
             </div>
         </figcaption>
     </figure>
     <div class="card-body">
         <h4 class="card-title">
-                <a href="https://clarityrecords.net/vinyl/clowns-lucid-again-lp/"  data-event-type="product-click" >CLOWNS - Lucid Again LP</a>
-        </h4>
-
-        <div class="card-text" data-test-info-type="price">
-                
-        <div class="price-section price-section--withTax rrp-price--withTax" style="display: none;">
-            MSRP:
-            <span data-product-rrp-with-tax class="price price--rrp">
-                
-            </span>
-        </div>
-        <div class="price-section price-section--withTax non-sale-price--withTax" style="display: none;">
-            Was:
-            <span data-product-non-sale-price-with-tax class="price price--non-sale">
-                
-            </span>
-        </div>
-        <div class="price-section price-section--withTax" >
-            <span class="price-label" >
-                
-            </span>
-            <span class="price-now-label" style="display: none;">
-                Now:
-            </span>
-            <span data-product-price-with-tax class="price price--withTax">$34.95</span>
-        </div>
-        </div>
-            </div>
-</article>
-    </li>
-    <li class="product">
-            <article class="card "  data-event-type="list" data-entity-id="1336" data-position="2" data-name="CLOWNS - I&#x27;m Not Right LP" data-product-category="Vinyl, Vinyl/Australian, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="34.95"  >
-    <figure class="card-figure">
-            <a href="https://clarityrecords.net/vinyl/clowns-im-not-right-lp/"  data-event-type="product-click" >
-                <div class="card-img-container">
-                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/1336/10395/a1896903610_10__27900.1643002543.jpg?c=2" alt="CLOWNS - I&#x27;m Not Right LP" title="CLOWNS - I&#x27;m Not Right LP">
-                </div>
-            </a>
-        <figcaption class="card-figcaption">
-            <div class="card-figcaption-body">
-                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="1336">Quick view</a>
-                            <a href="https://clarityrecords.net/cart.php?action=add&amp;product_id=1336" data-event-type="product-click" class="button button--small card-figcaption-button">Add to Cart</a>
-            </div>
-        </figcaption>
-    </figure>
-    <div class="card-body">
-        <h4 class="card-title">
-                <a href="https://clarityrecords.net/vinyl/clowns-im-not-right-lp/"  data-event-type="product-click" >CLOWNS - I&#x27;m Not Right LP</a>
-        </h4>
-
-        <div class="card-text" data-test-info-type="price">
-                
-        <div class="price-section price-section--withTax rrp-price--withTax" style="display: none;">
-            MSRP:
-            <span data-product-rrp-with-tax class="price price--rrp">
-                
-            </span>
-        </div>
-        <div class="price-section price-section--withTax non-sale-price--withTax" style="display: none;">
-            Was:
-            <span data-product-non-sale-price-with-tax class="price price--non-sale">
-                
-            </span>
-        </div>
-        <div class="price-section price-section--withTax" >
-            <span class="price-label" >
-                
-            </span>
-            <span class="price-now-label" style="display: none;">
-                Now:
-            </span>
-            <span data-product-price-with-tax class="price price--withTax">$34.95</span>
-        </div>
-        </div>
-            </div>
-</article>
-    </li>
-    <li class="product">
-            <article class="card "  data-event-type="list" data-entity-id="1690" data-position="3" data-name="CLOWNS - Nature/Nurture LP" data-product-category="Vinyl, Vinyl/Australian, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="39.95"  >
-    <figure class="card-figure">
-            <a href="https://clarityrecords.net/vinyl/clowns-nature-nurture-lp-clear-red-splatter-vinyl/"  data-event-type="product-click" >
-                <div class="card-img-container">
-                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/1690/4969/a3139792815_10__88134.1554694751.386.513__37162.1631893022.jpg?c=2" alt="CLOWNS - Nature/Nurture LP" title="CLOWNS - Nature/Nurture LP">
-                </div>
-            </a>
-        <figcaption class="card-figcaption">
-            <div class="card-figcaption-body">
-                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="1690">Quick view</a>
-                            <a href="https://clarityrecords.net/vinyl/clowns-nature-nurture-lp-clear-red-splatter-vinyl/" data-event-type="product-click" class="button button--small card-figcaption-button" data-product-id="1690">Sold out</a>
-            </div>
-        </figcaption>
-    </figure>
-    <div class="card-body">
-        <h4 class="card-title">
-                <a href="https://clarityrecords.net/vinyl/clowns-nature-nurture-lp-clear-red-splatter-vinyl/"  data-event-type="product-click" >CLOWNS - Nature/Nurture LP</a>
+                <a href="https://clarityrecords.net/vinyl/nofx-single-album-lp/"  data-event-type="product-click" >NOFX - Single Album LP</a>
         </h4>
 
         <div class="card-text" data-test-info-type="price">
@@ -714,23 +595,23 @@ var BCData = {"csrf_token":"4f85ded9d97136ec6528de8efb1258ff791c855f6a26daa7a967
 </article>
     </li>
     <li class="product">
-            <article class="card "  data-event-type="list" data-entity-id="1335" data-position="4" data-name="CLOWNS - Bad Blood LP" data-product-category="Vinyl, Vinyl/Punk / Hardcore, Vinyl/Australian" data-product-brand="" data-product-price="29.95"  >
+            <article class="card "  data-event-type="list" data-entity-id="9150" data-position="2" data-name="NOFX - S&amp;M Airlines LP" data-product-category="Vinyl, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="49.95"  >
     <figure class="card-figure">
-            <a href="https://clarityrecords.net/vinyl/clowns-bad-blood-lp/"  data-event-type="product-click" >
+            <a href="https://clarityrecords.net/vinyl/nofx-s-m-airlines-lp/"  data-event-type="product-click" >
                 <div class="card-img-container">
-                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/1335/4716/a3311739313_16__42236.1551845853.386.513__94432.1631892453.jpg?c=2" alt="CLOWNS - Bad Blood LP" title="CLOWNS - Bad Blood LP">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/9150/12041/nofx-sm-airlines-1989-24015__50552.1654671440.jpg?c=2" alt="NOFX - S&amp;M Airlines LP" title="NOFX - S&amp;M Airlines LP">
                 </div>
             </a>
         <figcaption class="card-figcaption">
             <div class="card-figcaption-body">
-                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="1335">Quick view</a>
-                            <a href="https://clarityrecords.net/vinyl/clowns-bad-blood-lp/" data-event-type="product-click" class="button button--small card-figcaption-button" data-product-id="1335">Sold out</a>
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="9150">Quick view</a>
+                            <a href="https://clarityrecords.net/cart.php?action=add&amp;product_id=9150" data-event-type="product-click" class="button button--small card-figcaption-button">Add to Cart</a>
             </div>
         </figcaption>
     </figure>
     <div class="card-body">
         <h4 class="card-title">
-                <a href="https://clarityrecords.net/vinyl/clowns-bad-blood-lp/"  data-event-type="product-click" >CLOWNS - Bad Blood LP</a>
+                <a href="https://clarityrecords.net/vinyl/nofx-s-m-airlines-lp/"  data-event-type="product-click" >NOFX - S&amp;M Airlines LP</a>
         </h4>
 
         <div class="card-text" data-test-info-type="price">
@@ -754,30 +635,312 @@ var BCData = {"csrf_token":"4f85ded9d97136ec6528de8efb1258ff791c855f6a26daa7a967
             <span class="price-now-label" style="display: none;">
                 Now:
             </span>
-            <span data-product-price-with-tax class="price price--withTax">$29.95</span>
+            <span data-product-price-with-tax class="price price--withTax">$49.95</span>
         </div>
         </div>
             </div>
 </article>
     </li>
     <li class="product">
-            <article class="card "  data-event-type="list" data-entity-id="8270" data-position="5" data-name="HEADLESS CHICKEN - Stunt Clown LP" data-product-category="Vinyl, Vinyl/Indie" data-product-brand="" data-product-price="44.95"  >
+            <article class="card "  data-event-type="list" data-entity-id="4491" data-position="3" data-name="NOFX - Never Trust A Hippy 10&quot;" data-product-category="Vinyl, Vinyl/10&quot;, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="34.95"  >
     <figure class="card-figure">
-            <a href="https://clarityrecords.net/vinyl/headless-chicken-stunt-clown-lp/"  data-event-type="product-click" >
+            <a href="https://clarityrecords.net/vinyl/nofx-never-trust-a-hippy-10/"  data-event-type="product-click" >
                 <div class="card-img-container">
-                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/8270/11139/ab67616d0000b27324010c11195436283aa7f952__86121.1646289378.jpg?c=2" alt="HEADLESS CHICKEN - Stunt Clown LP" title="HEADLESS CHICKEN - Stunt Clown LP">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/4491/7322/R-647796-1246301394-jpeg__74585.1632458728.jpg?c=2" alt="NOFX - Never Trust A Hippy 10&quot;" title="NOFX - Never Trust A Hippy 10&quot;">
                 </div>
             </a>
         <figcaption class="card-figcaption">
             <div class="card-figcaption-body">
-                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="8270">Quick view</a>
-                            <a href="https://clarityrecords.net/cart.php?action=add&amp;product_id=8270" data-event-type="product-click" class="button button--small card-figcaption-button">Add to Cart</a>
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="4491">Quick view</a>
+                            <a href="https://clarityrecords.net/vinyl/nofx-never-trust-a-hippy-10/" data-event-type="product-click" class="button button--small card-figcaption-button" data-product-id="4491">Sold out</a>
             </div>
         </figcaption>
     </figure>
     <div class="card-body">
         <h4 class="card-title">
-                <a href="https://clarityrecords.net/vinyl/headless-chicken-stunt-clown-lp/"  data-event-type="product-click" >HEADLESS CHICKEN - Stunt Clown LP</a>
+                <a href="https://clarityrecords.net/vinyl/nofx-never-trust-a-hippy-10/"  data-event-type="product-click" >NOFX - Never Trust A Hippy 10&quot;</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        <div class="price-section price-section--withTax rrp-price--withTax" style="display: none;">
+            MSRP:
+            <span data-product-rrp-with-tax class="price price--rrp">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax non-sale-price--withTax" style="display: none;">
+            Was:
+            <span data-product-non-sale-price-with-tax class="price price--non-sale">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax" >
+            <span class="price-label" >
+                
+            </span>
+            <span class="price-now-label" style="display: none;">
+                Now:
+            </span>
+            <span data-product-price-with-tax class="price price--withTax">$34.95</span>
+        </div>
+        </div>
+            </div>
+</article>
+    </li>
+    <li class="product">
+            <article class="card "  data-event-type="list" data-entity-id="4518" data-position="4" data-name="NOFX - Surfer 7&quot;" data-product-category="Vinyl, Vinyl/7&quot;, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="14.95"  >
+    <figure class="card-figure">
+            <a href="https://clarityrecords.net/vinyl/nofx-surfer-7/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/4518/7349/81uxzH4yryL-_SL1500___63099.1632464945.jpg?c=2" alt="NOFX - Surfer 7&quot;" title="NOFX - Surfer 7&quot;">
+                </div>
+            </a>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="4518">Quick view</a>
+                            <a href="https://clarityrecords.net/vinyl/nofx-surfer-7/" data-event-type="product-click" class="button button--small card-figcaption-button" data-product-id="4518">Sold out</a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://clarityrecords.net/vinyl/nofx-surfer-7/"  data-event-type="product-click" >NOFX - Surfer 7&quot;</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        <div class="price-section price-section--withTax rrp-price--withTax" style="display: none;">
+            MSRP:
+            <span data-product-rrp-with-tax class="price price--rrp">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax non-sale-price--withTax" style="display: none;">
+            Was:
+            <span data-product-non-sale-price-with-tax class="price price--non-sale">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax" >
+            <span class="price-label" >
+                
+            </span>
+            <span class="price-now-label" style="display: none;">
+                Now:
+            </span>
+            <span data-product-price-with-tax class="price price--withTax">$14.95</span>
+        </div>
+        </div>
+            </div>
+</article>
+    </li>
+    <li class="product">
+            <article class="card "  data-event-type="list" data-entity-id="7812" data-position="5" data-name="NOFX - Maximum Rocknroll LP" data-product-category="Vinyl, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="39.95"  >
+    <figure class="card-figure">
+            <a href="https://clarityrecords.net/vinyl/nofx-maximum-rocknroll-lp/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/7812/10670/R-3466617-1476414064-9636__69652.1644375434.jpg?c=2" alt="NOFX - Maximum Rocknroll LP" title="NOFX - Maximum Rocknroll LP">
+                </div>
+            </a>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="7812">Quick view</a>
+                            <a href="https://clarityrecords.net/cart.php?action=add&amp;product_id=7812" data-event-type="product-click" class="button button--small card-figcaption-button">Add to Cart</a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://clarityrecords.net/vinyl/nofx-maximum-rocknroll-lp/"  data-event-type="product-click" >NOFX - Maximum Rocknroll LP</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        <div class="price-section price-section--withTax rrp-price--withTax" style="display: none;">
+            MSRP:
+            <span data-product-rrp-with-tax class="price price--rrp">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax non-sale-price--withTax" style="display: none;">
+            Was:
+            <span data-product-non-sale-price-with-tax class="price price--non-sale">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax" >
+            <span class="price-label" >
+                
+            </span>
+            <span class="price-now-label" style="display: none;">
+                Now:
+            </span>
+            <span data-product-price-with-tax class="price price--withTax">$39.95</span>
+        </div>
+        </div>
+            </div>
+</article>
+    </li>
+    <li class="product">
+            <article class="card "  data-event-type="list" data-entity-id="9165" data-position="6" data-name="NOFX - The Decline 12&quot;" data-product-category="Vinyl, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="39.95"  >
+    <figure class="card-figure">
+            <a href="https://clarityrecords.net/vinyl/nofx-the-decline-12/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/9165/12056/ab67616d0000b2732b290a30ba2e35db4f53d681__01728.1654676272.jpg?c=2" alt="NOFX - The Decline 12&quot;" title="NOFX - The Decline 12&quot;">
+                </div>
+            </a>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="9165">Quick view</a>
+                            <a href="https://clarityrecords.net/cart.php?action=add&amp;product_id=9165" data-event-type="product-click" class="button button--small card-figcaption-button">Add to Cart</a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://clarityrecords.net/vinyl/nofx-the-decline-12/"  data-event-type="product-click" >NOFX - The Decline 12&quot;</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        <div class="price-section price-section--withTax rrp-price--withTax" style="display: none;">
+            MSRP:
+            <span data-product-rrp-with-tax class="price price--rrp">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax non-sale-price--withTax" style="display: none;">
+            Was:
+            <span data-product-non-sale-price-with-tax class="price price--non-sale">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax" >
+            <span class="price-label" >
+                
+            </span>
+            <span class="price-now-label" style="display: none;">
+                Now:
+            </span>
+            <span data-product-price-with-tax class="price price--withTax">$39.95</span>
+        </div>
+        </div>
+            </div>
+</article>
+    </li>
+    <li class="product">
+            <article class="card "  data-event-type="list" data-entity-id="5879" data-position="7" data-name="NOFX - Liza And Louise 7&quot;" data-product-category="Vinyl, Vinyl/7&quot;, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="14.95"  >
+    <figure class="card-figure">
+            <a href="https://clarityrecords.net/vinyl/nofx-liza-and-louise-7/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/5879/8718/Liza_Louise_1000_2000x__37363.1632913120.jpg?c=2" alt="NOFX - Liza And Louise 7&quot;" title="NOFX - Liza And Louise 7&quot;">
+                </div>
+            </a>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="5879">Quick view</a>
+                            <a href="https://clarityrecords.net/vinyl/nofx-liza-and-louise-7/" data-event-type="product-click" class="button button--small card-figcaption-button" data-product-id="5879">Sold out</a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://clarityrecords.net/vinyl/nofx-liza-and-louise-7/"  data-event-type="product-click" >NOFX - Liza And Louise 7&quot;</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        <div class="price-section price-section--withTax rrp-price--withTax" style="display: none;">
+            MSRP:
+            <span data-product-rrp-with-tax class="price price--rrp">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax non-sale-price--withTax" style="display: none;">
+            Was:
+            <span data-product-non-sale-price-with-tax class="price price--non-sale">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax" >
+            <span class="price-label" >
+                
+            </span>
+            <span class="price-now-label" style="display: none;">
+                Now:
+            </span>
+            <span data-product-price-with-tax class="price price--withTax">$14.95</span>
+        </div>
+        </div>
+            </div>
+</article>
+    </li>
+    <li class="product">
+            <article class="card "  data-event-type="list" data-entity-id="5880" data-position="8" data-name="NOFX - Fuck The Kids 7&quot;" data-product-category="Vinyl, Vinyl/7&quot;, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="14.95"  >
+    <figure class="card-figure">
+            <a href="https://clarityrecords.net/vinyl/nofx-fuck-the-kids-7/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/5880/8719/R-2829845-1302951398-jpeg__33775.1632913295.jpg?c=2" alt="NOFX - Fuck The Kids 7&quot;" title="NOFX - Fuck The Kids 7&quot;">
+                </div>
+            </a>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="5880">Quick view</a>
+                            <a href="https://clarityrecords.net/vinyl/nofx-fuck-the-kids-7/" data-event-type="product-click" class="button button--small card-figcaption-button" data-product-id="5880">Sold out</a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://clarityrecords.net/vinyl/nofx-fuck-the-kids-7/"  data-event-type="product-click" >NOFX - Fuck The Kids 7&quot;</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        <div class="price-section price-section--withTax rrp-price--withTax" style="display: none;">
+            MSRP:
+            <span data-product-rrp-with-tax class="price price--rrp">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax non-sale-price--withTax" style="display: none;">
+            Was:
+            <span data-product-non-sale-price-with-tax class="price price--non-sale">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax" >
+            <span class="price-label" >
+                
+            </span>
+            <span class="price-now-label" style="display: none;">
+                Now:
+            </span>
+            <span data-product-price-with-tax class="price price--withTax">$14.95</span>
+        </div>
+        </div>
+            </div>
+</article>
+    </li>
+    <li class="product">
+            <article class="card "  data-event-type="list" data-entity-id="3859" data-position="9" data-name="NOFX - Liberal Animation LP" data-product-category="Vinyl, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="44.95"  >
+    <figure class="card-figure">
+            <a href="https://clarityrecords.net/vinyl/nofx-liberal-animation-lp/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/3859/6687/R-7727951-1574738993-7778-jpeg__94204.1632261683.jpg?c=2" alt="NOFX - Liberal Animation LP" title="NOFX - Liberal Animation LP">
+                </div>
+            </a>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="3859">Quick view</a>
+                            <a href="https://clarityrecords.net/cart.php?action=add&amp;product_id=3859" data-event-type="product-click" class="button button--small card-figcaption-button">Add to Cart</a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://clarityrecords.net/vinyl/nofx-liberal-animation-lp/"  data-event-type="product-click" >NOFX - Liberal Animation LP</a>
         </h4>
 
         <div class="card-text" data-test-info-type="price">
@@ -808,23 +971,23 @@ var BCData = {"csrf_token":"4f85ded9d97136ec6528de8efb1258ff791c855f6a26daa7a967
 </article>
     </li>
     <li class="product">
-            <article class="card "  data-event-type="list" data-entity-id="7479" data-position="6" data-name="LAUGHING CLOWNS - Golden Days / When Giants Walked The Earth LP" data-product-category="Vinyl, Vinyl/Australian, Vinyl/Rock" data-product-brand="" data-product-price="44.95"  >
+            <article class="card "  data-event-type="list" data-entity-id="2878" data-position="10" data-name="NOFX - Ribbed LP" data-product-category="Vinyl, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="44.95"  >
     <figure class="card-figure">
-            <a href="https://clarityrecords.net/vinyl/laughing-clowns-golden-days-when-giants-walked-the-earth-lp/"  data-event-type="product-click" >
+            <a href="https://clarityrecords.net/vinyl/nofx-ribbed-lp/"  data-event-type="product-click" >
                 <div class="card-img-container">
-                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/7479/10332/meta_eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ--__84112.1642834314.jpg?c=2" alt="LAUGHING CLOWNS - Golden Days / When Giants Walked The Earth LP" title="LAUGHING CLOWNS - Golden Days / When Giants Walked The Earth LP">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/2878/5752/ribbed__82187.1607907419.386.513__97452.1631894794.jpg?c=2" alt="NOFX - Ribbed LP" title="NOFX - Ribbed LP">
                 </div>
             </a>
         <figcaption class="card-figcaption">
             <div class="card-figcaption-body">
-                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="7479">Quick view</a>
-                            <a href="https://clarityrecords.net/cart.php?action=add&amp;product_id=7479" data-event-type="product-click" class="button button--small card-figcaption-button">Add to Cart</a>
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="2878">Quick view</a>
+                            <a href="https://clarityrecords.net/vinyl/nofx-ribbed-lp/" data-event-type="product-click" class="button button--small card-figcaption-button" data-product-id="2878">Sold out</a>
             </div>
         </figcaption>
     </figure>
     <div class="card-body">
         <h4 class="card-title">
-                <a href="https://clarityrecords.net/vinyl/laughing-clowns-golden-days-when-giants-walked-the-earth-lp/"  data-event-type="product-click" >LAUGHING CLOWNS - Golden Days / When Giants Walked The Earth LP</a>
+                <a href="https://clarityrecords.net/vinyl/nofx-ribbed-lp/"  data-event-type="product-click" >NOFX - Ribbed LP</a>
         </h4>
 
         <div class="card-text" data-test-info-type="price">
@@ -849,6 +1012,476 @@ var BCData = {"csrf_token":"4f85ded9d97136ec6528de8efb1258ff791c855f6a26daa7a967
                 Now:
             </span>
             <span data-product-price-with-tax class="price price--withTax">$44.95</span>
+        </div>
+        </div>
+            </div>
+</article>
+    </li>
+    <li class="product">
+            <article class="card "  data-event-type="list" data-entity-id="9171" data-position="11" data-name="NOFX - The War On Errorism LP" data-product-category="Vinyl, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="39.95"  >
+    <figure class="card-figure">
+            <a href="https://clarityrecords.net/vinyl/nofx-the-war-on-errorism-lp/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/9171/12063/81y1QGCo2IL-_SL1500___24302.1654748316.jpg?c=2" alt="NOFX - The War On Errorism LP" title="NOFX - The War On Errorism LP">
+                </div>
+            </a>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="9171">Quick view</a>
+                            <a href="https://clarityrecords.net/cart.php?action=add&amp;product_id=9171" data-event-type="product-click" class="button button--small card-figcaption-button">Add to Cart</a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://clarityrecords.net/vinyl/nofx-the-war-on-errorism-lp/"  data-event-type="product-click" >NOFX - The War On Errorism LP</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        <div class="price-section price-section--withTax rrp-price--withTax" style="display: none;">
+            MSRP:
+            <span data-product-rrp-with-tax class="price price--rrp">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax non-sale-price--withTax" style="display: none;">
+            Was:
+            <span data-product-non-sale-price-with-tax class="price price--non-sale">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax" >
+            <span class="price-label" >
+                
+            </span>
+            <span class="price-now-label" style="display: none;">
+                Now:
+            </span>
+            <span data-product-price-with-tax class="price price--withTax">$39.95</span>
+        </div>
+        </div>
+            </div>
+</article>
+    </li>
+    <li class="product">
+            <article class="card "  data-event-type="list" data-entity-id="3852" data-position="12" data-name="NOFX - Self Entitled LP" data-product-category="Vinyl, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="39.95"  >
+    <figure class="card-figure">
+            <a href="https://clarityrecords.net/vinyl/nofx-self-entitled-lp/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/3852/6680/Self_Entitled_2000x__36971.1632242164.jpg?c=2" alt="NOFX - Self Entitled LP" title="NOFX - Self Entitled LP">
+                </div>
+            </a>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="3852">Quick view</a>
+                            <a href="https://clarityrecords.net/cart.php?action=add&amp;product_id=3852" data-event-type="product-click" class="button button--small card-figcaption-button">Add to Cart</a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://clarityrecords.net/vinyl/nofx-self-entitled-lp/"  data-event-type="product-click" >NOFX - Self Entitled LP</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        <div class="price-section price-section--withTax rrp-price--withTax" style="display: none;">
+            MSRP:
+            <span data-product-rrp-with-tax class="price price--rrp">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax non-sale-price--withTax" style="display: none;">
+            Was:
+            <span data-product-non-sale-price-with-tax class="price price--non-sale">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax" >
+            <span class="price-label" >
+                
+            </span>
+            <span class="price-now-label" style="display: none;">
+                Now:
+            </span>
+            <span data-product-price-with-tax class="price price--withTax">$39.95</span>
+        </div>
+        </div>
+            </div>
+</article>
+    </li>
+    <li class="product">
+            <article class="card "  data-event-type="list" data-entity-id="3854" data-position="13" data-name="NOFX - The Longest Line 12&quot;" data-product-category="Vinyl, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="34.95"  >
+    <figure class="card-figure">
+            <a href="https://clarityrecords.net/vinyl/nofx-the-longest-line-12/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/3854/6682/R-7252159-1437216114-1012-jpeg__98029.1632242384.jpg?c=2" alt="NOFX - The Longest Line 12&quot;" title="NOFX - The Longest Line 12&quot;">
+                </div>
+            </a>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="3854">Quick view</a>
+                            <a href="https://clarityrecords.net/cart.php?action=add&amp;product_id=3854" data-event-type="product-click" class="button button--small card-figcaption-button">Add to Cart</a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://clarityrecords.net/vinyl/nofx-the-longest-line-12/"  data-event-type="product-click" >NOFX - The Longest Line 12&quot;</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        <div class="price-section price-section--withTax rrp-price--withTax" style="display: none;">
+            MSRP:
+            <span data-product-rrp-with-tax class="price price--rrp">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax non-sale-price--withTax" style="display: none;">
+            Was:
+            <span data-product-non-sale-price-with-tax class="price price--non-sale">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax" >
+            <span class="price-label" >
+                
+            </span>
+            <span class="price-now-label" style="display: none;">
+                Now:
+            </span>
+            <span data-product-price-with-tax class="price price--withTax">$34.95</span>
+        </div>
+        </div>
+            </div>
+</article>
+    </li>
+    <li class="product">
+            <article class="card "  data-event-type="list" data-entity-id="7769" data-position="14" data-name="NOFX - The P.M.R.C. Can Suck On This 7&quot;" data-product-category="Vinyl, Vinyl/7&quot;, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="14.95"  >
+    <figure class="card-figure">
+            <a href="https://clarityrecords.net/vinyl/nofx-the-p-m-r-c-can-suck-on-this-7/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/7769/10627/PMRC_1024x1024__58414.1644303514.jpg?c=2" alt="NOFX - The P.M.R.C. Can Suck On This 7&quot;" title="NOFX - The P.M.R.C. Can Suck On This 7&quot;">
+                </div>
+            </a>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="7769">Quick view</a>
+                            <a href="https://clarityrecords.net/vinyl/nofx-the-p-m-r-c-can-suck-on-this-7/" data-event-type="product-click" class="button button--small card-figcaption-button" data-product-id="7769">Sold out</a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://clarityrecords.net/vinyl/nofx-the-p-m-r-c-can-suck-on-this-7/"  data-event-type="product-click" >NOFX - The P.M.R.C. Can Suck On This 7&quot;</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        <div class="price-section price-section--withTax rrp-price--withTax" style="display: none;">
+            MSRP:
+            <span data-product-rrp-with-tax class="price price--rrp">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax non-sale-price--withTax" style="display: none;">
+            Was:
+            <span data-product-non-sale-price-with-tax class="price price--non-sale">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax" >
+            <span class="price-label" >
+                
+            </span>
+            <span class="price-now-label" style="display: none;">
+                Now:
+            </span>
+            <span data-product-price-with-tax class="price price--withTax">$14.95</span>
+        </div>
+        </div>
+            </div>
+</article>
+    </li>
+    <li class="product">
+            <article class="card "  data-event-type="list" data-entity-id="3855" data-position="15" data-name="NOFX - Ribbed: Live In A Dive LP" data-product-category="Vinyl, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="39.95"  >
+    <figure class="card-figure">
+            <a href="https://clarityrecords.net/vinyl/nofx-ribbed-live-in-a-dive-lp/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/3855/6683/61BaNvjJcSL-_SY580___19870.1632242500.jpg?c=2" alt="NOFX - Ribbed: Live In A Dive LP" title="NOFX - Ribbed: Live In A Dive LP">
+                </div>
+            </a>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="3855">Quick view</a>
+                            <a href="https://clarityrecords.net/cart.php?action=add&amp;product_id=3855" data-event-type="product-click" class="button button--small card-figcaption-button">Add to Cart</a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://clarityrecords.net/vinyl/nofx-ribbed-live-in-a-dive-lp/"  data-event-type="product-click" >NOFX - Ribbed: Live In A Dive LP</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        <div class="price-section price-section--withTax rrp-price--withTax" style="display: none;">
+            MSRP:
+            <span data-product-rrp-with-tax class="price price--rrp">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax non-sale-price--withTax" style="display: none;">
+            Was:
+            <span data-product-non-sale-price-with-tax class="price price--non-sale">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax" >
+            <span class="price-label" >
+                
+            </span>
+            <span class="price-now-label" style="display: none;">
+                Now:
+            </span>
+            <span data-product-price-with-tax class="price price--withTax">$39.95</span>
+        </div>
+        </div>
+            </div>
+</article>
+    </li>
+    <li class="product">
+            <article class="card "  data-event-type="list" data-entity-id="7815" data-position="16" data-name="NOFX - Wolves In Wolves&#x27; Clothing LP" data-product-category="Vinyl, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="39.95"  >
+    <figure class="card-figure">
+            <a href="https://clarityrecords.net/vinyl/nofx-wolves-in-wolves-clothing-lp/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/7815/10673/517kxWguvOL-_SY580___64470.1644376065.jpg?c=2" alt="NOFX - Wolves In Wolves&#x27; Clothing LP" title="NOFX - Wolves In Wolves&#x27; Clothing LP">
+                </div>
+            </a>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="7815">Quick view</a>
+                            <a href="https://clarityrecords.net/cart.php?action=add&amp;product_id=7815" data-event-type="product-click" class="button button--small card-figcaption-button">Add to Cart</a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://clarityrecords.net/vinyl/nofx-wolves-in-wolves-clothing-lp/"  data-event-type="product-click" >NOFX - Wolves In Wolves&#x27; Clothing LP</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        <div class="price-section price-section--withTax rrp-price--withTax" style="display: none;">
+            MSRP:
+            <span data-product-rrp-with-tax class="price price--rrp">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax non-sale-price--withTax" style="display: none;">
+            Was:
+            <span data-product-non-sale-price-with-tax class="price price--non-sale">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax" >
+            <span class="price-label" >
+                
+            </span>
+            <span class="price-now-label" style="display: none;">
+                Now:
+            </span>
+            <span data-product-price-with-tax class="price price--withTax">$39.95</span>
+        </div>
+        </div>
+            </div>
+</article>
+    </li>
+    <li class="product">
+            <article class="card "  data-event-type="list" data-entity-id="5091" data-position="17" data-name="NOFX - First Ditch Effort LP" data-product-category="Vinyl, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="39.95"  >
+    <figure class="card-figure">
+            <a href="https://clarityrecords.net/vinyl/nofx-first-ditch-effort-lp/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/5091/7924/FAT953_cover_1000_2000x__75621.1632657320.jpg?c=2" alt="NOFX - First Ditch Effort LP" title="NOFX - First Ditch Effort LP">
+                </div>
+            </a>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="5091">Quick view</a>
+                            <a href="https://clarityrecords.net/vinyl/nofx-first-ditch-effort-lp/" data-event-type="product-click" class="button button--small card-figcaption-button" data-product-id="5091">Sold out</a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://clarityrecords.net/vinyl/nofx-first-ditch-effort-lp/"  data-event-type="product-click" >NOFX - First Ditch Effort LP</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        <div class="price-section price-section--withTax rrp-price--withTax" style="display: none;">
+            MSRP:
+            <span data-product-rrp-with-tax class="price price--rrp">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax non-sale-price--withTax" style="display: none;">
+            Was:
+            <span data-product-non-sale-price-with-tax class="price price--non-sale">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax" >
+            <span class="price-label" >
+                
+            </span>
+            <span class="price-now-label" style="display: none;">
+                Now:
+            </span>
+            <span data-product-price-with-tax class="price price--withTax">$39.95</span>
+        </div>
+        </div>
+            </div>
+</article>
+    </li>
+    <li class="product">
+            <article class="card "  data-event-type="list" data-entity-id="1807" data-position="18" data-name="NOFX - The Hepatitis Bathtub And Other Stories BOOK" data-product-category="Books" data-product-brand="" data-product-price="39.95"  >
+    <figure class="card-figure">
+            <a href="https://clarityrecords.net/book/nofx-the-hepatitis-bathtub-and-other-stories-book/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/1807/5032/51vxue0r7ol._sx332_bo1204203200___48537.1558574496.386.513__28215.1631893152.jpg?c=2" alt="NOFX - The Hepatitis Bathtub And Other Stories BOOK" title="NOFX - The Hepatitis Bathtub And Other Stories BOOK">
+                </div>
+            </a>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="1807">Quick view</a>
+                            <a href="https://clarityrecords.net/cart.php?action=add&amp;product_id=1807" data-event-type="product-click" class="button button--small card-figcaption-button">Add to Cart</a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://clarityrecords.net/book/nofx-the-hepatitis-bathtub-and-other-stories-book/"  data-event-type="product-click" >NOFX - The Hepatitis Bathtub And Other Stories BOOK</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        <div class="price-section price-section--withTax rrp-price--withTax" style="display: none;">
+            MSRP:
+            <span data-product-rrp-with-tax class="price price--rrp">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax non-sale-price--withTax" style="display: none;">
+            Was:
+            <span data-product-non-sale-price-with-tax class="price price--non-sale">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax" >
+            <span class="price-label" >
+                
+            </span>
+            <span class="price-now-label" style="display: none;">
+                Now:
+            </span>
+            <span data-product-price-with-tax class="price price--withTax">$39.95</span>
+        </div>
+        </div>
+            </div>
+</article>
+    </li>
+    <li class="product">
+            <article class="card "  data-event-type="list" data-entity-id="2018" data-position="19" data-name="NOFX - So Long And Thanks For All The Shoes LP" data-product-category="Vinyl, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="39.95"  >
+    <figure class="card-figure">
+            <a href="https://clarityrecords.net/vinyl/nofx-so-long-and-thanks-for-all-the-shoes-lp/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/2018/5141/r-2683188-1350430102-2873.jpeg__55371.1567416271.386.513__85907.1631893396.jpg?c=2" alt="NOFX - So Long And Thanks For All The Shoes LP" title="NOFX - So Long And Thanks For All The Shoes LP">
+                </div>
+            </a>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="2018">Quick view</a>
+                            <a href="https://clarityrecords.net/vinyl/nofx-so-long-and-thanks-for-all-the-shoes-lp/" data-event-type="product-click" class="button button--small card-figcaption-button" data-product-id="2018">Sold out</a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://clarityrecords.net/vinyl/nofx-so-long-and-thanks-for-all-the-shoes-lp/"  data-event-type="product-click" >NOFX - So Long And Thanks For All The Shoes LP</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        <div class="price-section price-section--withTax rrp-price--withTax" style="display: none;">
+            MSRP:
+            <span data-product-rrp-with-tax class="price price--rrp">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax non-sale-price--withTax" style="display: none;">
+            Was:
+            <span data-product-non-sale-price-with-tax class="price price--non-sale">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax" >
+            <span class="price-label" >
+                
+            </span>
+            <span class="price-now-label" style="display: none;">
+                Now:
+            </span>
+            <span data-product-price-with-tax class="price price--withTax">$39.95</span>
+        </div>
+        </div>
+            </div>
+</article>
+    </li>
+    <li class="product">
+            <article class="card "  data-event-type="list" data-entity-id="2814" data-position="20" data-name="NOFX - The Decline: Live At Red Rocks LP" data-product-category="Vinyl, Vinyl/Punk / Hardcore" data-product-brand="" data-product-price="39.95"  >
+    <figure class="card-figure">
+            <a href="https://clarityrecords.net/vinyl/nofx-the-decline-live-at-red-rocks-lp/"  data-event-type="product-click" >
+                <div class="card-img-container">
+                    <img class="card-image lazyload" data-sizes="auto" src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/stencil/280d6770-3ef1-0137-920c-0242ac11001a/e/f9880570-2ae8-013a-b775-024cf6da356a/img/loading.svg" data-src="https://cdn11.bigcommerce.com/s-u7hmqfjkq/images/stencil/500x659/products/2814/5702/frontv0_2000x__09660.1603929409.386.513__77391.1631894682.jpg?c=2" alt="NOFX - The Decline: Live At Red Rocks LP" title="NOFX - The Decline: Live At Red Rocks LP">
+                </div>
+            </a>
+        <figcaption class="card-figcaption">
+            <div class="card-figcaption-body">
+                                <a href="#" class="button button--small card-figcaption-button quickview" data-event-type="product-click" data-product-id="2814">Quick view</a>
+                            <a href="https://clarityrecords.net/cart.php?action=add&amp;product_id=2814" data-event-type="product-click" class="button button--small card-figcaption-button">Add to Cart</a>
+            </div>
+        </figcaption>
+    </figure>
+    <div class="card-body">
+        <h4 class="card-title">
+                <a href="https://clarityrecords.net/vinyl/nofx-the-decline-live-at-red-rocks-lp/"  data-event-type="product-click" >NOFX - The Decline: Live At Red Rocks LP</a>
+        </h4>
+
+        <div class="card-text" data-test-info-type="price">
+                
+        <div class="price-section price-section--withTax rrp-price--withTax" style="display: none;">
+            MSRP:
+            <span data-product-rrp-with-tax class="price price--rrp">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax non-sale-price--withTax" style="display: none;">
+            Was:
+            <span data-product-non-sale-price-with-tax class="price price--non-sale">
+                
+            </span>
+        </div>
+        <div class="price-section price-section--withTax" >
+            <span class="price-label" >
+                
+            </span>
+            <span class="price-now-label" style="display: none;">
+                Now:
+            </span>
+            <span data-product-price-with-tax class="price price--withTax">$39.95</span>
         </div>
         </div>
             </div>
@@ -859,7 +1492,23 @@ var BCData = {"csrf_token":"4f85ded9d97136ec6528de8efb1258ff791c855f6a26daa7a967
 
 <div class="pagination">
     <ul class="pagination-list">
+                <li class="pagination-item pagination-item--current">
+                    <a class="pagination-link" href="/search.php?page=1&amp;section=product&amp;search_query=nofx" data-faceted-search-facet>1</a>
+                </li>
+                <li class="pagination-item">
+                    <a class="pagination-link" href="/search.php?page=2&amp;section=product&amp;search_query=nofx" data-faceted-search-facet>2</a>
+                </li>
 
+            <li class="pagination-item pagination-item--next">
+                <a class="pagination-link" href="/search.php?page=2&amp;section=product&amp;search_query=nofx" data-faceted-search-facet>
+                    Next
+                    <i class="icon" aria-hidden="true">
+                        <svg>
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-chevron-right"></use>
+                        </svg>
+                    </i>
+                </a>
+            </li>
     </ul>
 </div>
         </div>

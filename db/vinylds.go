@@ -31,7 +31,7 @@ type VinylDS interface {
 	DeleteReport(tx *postgres.Tx, reportId int64) error
 	DeleteReportsForBatch(tx *postgres.Tx, batchId int64) error
 	GetAllArtists(tx *postgres.Tx) ([]Artist, error)
-	GetAllCompletedUnsetReports(tx *postgres.Tx) ([]BatchedReport, error)
+	GetAllCompletedUnsentReports(tx *postgres.Tx) ([]BatchedReport, error)
 	GetAllRetailers(tx *postgres.Tx) ([]Retailer, error)
 	GetAllSKUs(tx *postgres.Tx, artistId *int64, retailerId *int64) ([]SKU, error)
 	GetCurrentSKUForRelease(tx *postgres.Tx, releaseID int64, retailerID int64) (*SKU, error)

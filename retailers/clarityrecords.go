@@ -9,7 +9,7 @@ import (
 	"strings"
 )
 
-// https://damagedmusic.com.au/?s=clowns+vinyl&post_type=product
+// https://clarityrecords.net/search.php?search_query=clowns+vinyl&section=product
 
 const (
 	CR_URL_PREFIX = "https://clarityrecords.net"
@@ -56,8 +56,13 @@ func (a *ClarityRecords) ScrapeArtistReleases(artist string) (findings []SKU, er
 			image = image[strings.Index(image, "data-src=\"")+10:]
 			image = image[0:strings.Index(image, "\"")]
 
+			soldOut := toks[idx+12]
+			if strings.Index(soldOut, "Sold out") >= 0 {
+				price = SOLD_OUT
+			}
+
 			sku := SKU{
-				Url:    RR_URL_PREFIX + url,
+				Url:    url,
 				Artist: strings.ToLower(strings.TrimSpace(name)),
 				Name:   strings.TrimSpace(title),
 				Price:  strings.TrimSpace(price),

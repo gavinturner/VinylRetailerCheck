@@ -172,7 +172,7 @@ func (v *VinylDB) AddSKUToReportsForBatch(tx *postgres.Tx, batchId int64, sku *S
 	return nil
 }
 
-func (v *VinylDB) GetAllCompletedUnsetReports(tx *postgres.Tx) ([]BatchedReport, error) {
+func (v *VinylDB) GetAllCompletedUnsentReports(tx *postgres.Tx) ([]BatchedReport, error) {
 	querier := v.Q(tx)
 	batches := []BatchedReport{}
 	err := querier.Select(&batches, `
@@ -187,9 +187,8 @@ func (v *VinylDB) GetAllCompletedUnsetReports(tx *postgres.Tx) ([]BatchedReport,
 			JOIN reports r ON r.batch_id = b.id
 			JOIN users u ON r.user_id = u.id
 		WHERE 
-			b.reported_at IS NULL 
-			AND b.req_searches = b.completed_searches
-			AND r.completed_at IS NULL
+			b.reported_at IS NULL AND r.completed_at IS NULL
+			AND b.req_searches = b.completed_searches	
 	`)
 	if err != nil {
 		return nil, errors.Wrapf(err, "failed to get reports for batch artist")
@@ -248,6 +247,10 @@ func (v *VinylDB) DeleteReport(tx *postgres.Tx, reportId int64) error {
 	if affected == 0 {
 		return fmt.Errorf("report %v was not deleted? does it exist?")
 	}
+
+	// TODO: delete from report skus
+	// TODO: delete from report artists
+
 	return nil
 }
 
@@ -262,7 +265,7 @@ func (v *VinylDB) GetSkusForReport(tx *postgres.Tx, reportId int64) ([]retailers
 			r.title as name,
     		s.item_url,
     		s.image_url,
-    		s.price,
+    		s.price
 		FROM 
 			report_skus rs 
 			JOIN skus s ON rs.sku_id = s.id

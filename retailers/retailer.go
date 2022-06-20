@@ -24,6 +24,7 @@ const (
 	Retailer_ClarityRecords                 = 10
 	Retailer_OhJeanRecords                  = 11
 	Retailer_StrengeWorldRecords            = 12
+	Retailer_GrevilleRecords                = 13
 )
 
 type SKU struct {
@@ -67,6 +68,8 @@ func VinylRetailerFactory(retailerId RetailerID) (VinylRetailer, error) {
 		return &OhJeanRecords{}, nil
 	case Retailer_StrengeWorldRecords:
 		return &StrangeWorldRecords{}, nil
+	case Retailer_GrevilleRecords:
+		return &GrevilleRecords{}, nil
 	}
 
 	return nil, fmt.Errorf("there is no retailer with id %v", retailerId)

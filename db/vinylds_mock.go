@@ -40,8 +40,8 @@ var _ VinylDS = &VinylDSMock{}
 // 			GetAllArtistsFunc: func(tx *postgres.Tx) ([]Artist, error) {
 // 				panic("mock out the GetAllArtists method")
 // 			},
-// 			GetAllCompletedUnsetReportsFunc: func(tx *postgres.Tx) ([]BatchedReport, error) {
-// 				panic("mock out the GetAllCompletedUnsetReports method")
+// 			GetAllCompletedUnsentReportsFunc: func(tx *postgres.Tx) ([]BatchedReport, error) {
+// 				panic("mock out the GetAllCompletedUnsentReports method")
 // 			},
 // 			GetAllRetailersFunc: func(tx *postgres.Tx) ([]Retailer, error) {
 // 				panic("mock out the GetAllRetailers method")
@@ -116,8 +116,8 @@ type VinylDSMock struct {
 	// GetAllArtistsFunc mocks the GetAllArtists method.
 	GetAllArtistsFunc func(tx *postgres.Tx) ([]Artist, error)
 
-	// GetAllCompletedUnsetReportsFunc mocks the GetAllCompletedUnsetReports method.
-	GetAllCompletedUnsetReportsFunc func(tx *postgres.Tx) ([]BatchedReport, error)
+	// GetAllCompletedUnsentReportsFunc mocks the GetAllCompletedUnsentReports method.
+	GetAllCompletedUnsentReportsFunc func(tx *postgres.Tx) ([]BatchedReport, error)
 
 	// GetAllRetailersFunc mocks the GetAllRetailers method.
 	GetAllRetailersFunc func(tx *postgres.Tx) ([]Retailer, error)
@@ -217,8 +217,8 @@ type VinylDSMock struct {
 			// Tx is the tx argument value.
 			Tx *postgres.Tx
 		}
-		// GetAllCompletedUnsetReports holds details about calls to the GetAllCompletedUnsetReports method.
-		GetAllCompletedUnsetReports []struct {
+		// GetAllCompletedUnsentReports holds details about calls to the GetAllCompletedUnsentReports method.
+		GetAllCompletedUnsentReports []struct {
 			// Tx is the tx argument value.
 			Tx *postgres.Tx
 		}
@@ -325,7 +325,7 @@ type VinylDSMock struct {
 	lockDeleteReport                       sync.RWMutex
 	lockDeleteReportsForBatch              sync.RWMutex
 	lockGetAllArtists                      sync.RWMutex
-	lockGetAllCompletedUnsetReports        sync.RWMutex
+	lockGetAllCompletedUnsentReports       sync.RWMutex
 	lockGetAllRetailers                    sync.RWMutex
 	lockGetAllSKUs                         sync.RWMutex
 	lockGetCurrentSKUForRelease            sync.RWMutex
@@ -592,34 +592,34 @@ func (mock *VinylDSMock) GetAllArtistsCalls() []struct {
 	return calls
 }
 
-// GetAllCompletedUnsetReports calls GetAllCompletedUnsetReportsFunc.
-func (mock *VinylDSMock) GetAllCompletedUnsetReports(tx *postgres.Tx) ([]BatchedReport, error) {
-	if mock.GetAllCompletedUnsetReportsFunc == nil {
-		panic("VinylDSMock.GetAllCompletedUnsetReportsFunc: method is nil but VinylDS.GetAllCompletedUnsetReports was just called")
+// GetAllCompletedUnsentReports calls GetAllCompletedUnsentReportsFunc.
+func (mock *VinylDSMock) GetAllCompletedUnsentReports(tx *postgres.Tx) ([]BatchedReport, error) {
+	if mock.GetAllCompletedUnsentReportsFunc == nil {
+		panic("VinylDSMock.GetAllCompletedUnsentReportsFunc: method is nil but VinylDS.GetAllCompletedUnsentReports was just called")
 	}
 	callInfo := struct {
 		Tx *postgres.Tx
 	}{
 		Tx: tx,
 	}
-	mock.lockGetAllCompletedUnsetReports.Lock()
-	mock.calls.GetAllCompletedUnsetReports = append(mock.calls.GetAllCompletedUnsetReports, callInfo)
-	mock.lockGetAllCompletedUnsetReports.Unlock()
-	return mock.GetAllCompletedUnsetReportsFunc(tx)
+	mock.lockGetAllCompletedUnsentReports.Lock()
+	mock.calls.GetAllCompletedUnsentReports = append(mock.calls.GetAllCompletedUnsentReports, callInfo)
+	mock.lockGetAllCompletedUnsentReports.Unlock()
+	return mock.GetAllCompletedUnsentReportsFunc(tx)
 }
 
-// GetAllCompletedUnsetReportsCalls gets all the calls that were made to GetAllCompletedUnsetReports.
+// GetAllCompletedUnsentReportsCalls gets all the calls that were made to GetAllCompletedUnsentReports.
 // Check the length with:
-//     len(mockedVinylDS.GetAllCompletedUnsetReportsCalls())
-func (mock *VinylDSMock) GetAllCompletedUnsetReportsCalls() []struct {
+//     len(mockedVinylDS.GetAllCompletedUnsentReportsCalls())
+func (mock *VinylDSMock) GetAllCompletedUnsentReportsCalls() []struct {
 	Tx *postgres.Tx
 } {
 	var calls []struct {
 		Tx *postgres.Tx
 	}
-	mock.lockGetAllCompletedUnsetReports.RLock()
-	calls = mock.calls.GetAllCompletedUnsetReports
-	mock.lockGetAllCompletedUnsetReports.RUnlock()
+	mock.lockGetAllCompletedUnsentReports.RLock()
+	calls = mock.calls.GetAllCompletedUnsentReports
+	mock.lockGetAllCompletedUnsentReports.RUnlock()
 	return calls
 }
 

@@ -50,7 +50,7 @@ func (a *OhJeanRecords) ScrapeArtistReleases(artist string) (findings []SKU, err
 	if err != nil {
 		return nil, errors.Wrapf(err, "failed to extract body of search results %s", query)
 	}
-	
+
 	toks := strings.Split(string(body), ">")
 	for idx, t := range toks {
 		if strings.Index(t, "<a class=\"os-e os-name\"") >= 0 {
@@ -77,12 +77,18 @@ func (a *OhJeanRecords) ScrapeArtistReleases(artist string) (findings []SKU, err
 
 			} else {
 				title = title[0:strings.Index(title, "</a")]
-				image = toks[idx-4]
+				// image is different depending on something shit...
+				if strings.Index(toks[idx-1], "Sale") == 0 {
+					image = toks[idx-6]
+				} else {
+					image = toks[idx-4]
+				}
+
 				price = toks[idx+3]
 			}
 			image = image[strings.Index(image, "src=\"")+5:]
 			image = "https:" + image[0:strings.Index(image, "\"")]
-			price = strings.TrimSpace(price[0:strings.Index(price, "</div")])
+			price = strings.TrimSpace(price[0:strings.Index(price, "<")])
 			if strings.Index(price, "sold-out") >= 0 {
 				price = SOLD_OUT
 			}

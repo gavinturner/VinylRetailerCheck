@@ -50,8 +50,8 @@ func main() {
 
 	for {
 
-		// grab the list of known retailers
-		reports, err := vinylDS.GetAllCompletedUnsetReports(nil)
+		// grab the list of reports that have completes scanning but have not been sent out
+		reports, err := vinylDS.GetAllCompletedUnsentReports(nil)
 		if err != nil {
 			log.Error(err, "Failed to get completed unsent reports")
 		}
@@ -72,10 +72,17 @@ func main() {
 			for batchID, reports := range batchedReports {
 				sendFailed := false
 				for _, report := range reports {
+					log.Debugf("Processing report with ID: %v", report.ReportID)
 
 					// get the details for the report (skus). if there are no skus attached then the report
-					// has no results and can be deleted.
+					// has no valid results and can be deleted.
 					skus, err := vinylDS.GetSkusForReport(nil, report.ReportID)
+					if err != nil {
+						log.Error(err, "failed to get skus for report %v", report.ReportID)
+						sendFailed = true
+						continue
+					}
+					log.Debugf("Report with ID: %v has %v skus attached", report.ReportID, len(skus))
 
 					if len(skus) > 0 {
 						// send the report to the weatching user as an email listing the skus
@@ -91,10 +98,9 @@ func main() {
 							log.Error(err, "Failed to set report as sent")
 						}
 					} else {
-						log.Debugf("Report for batch %v, user %v has no SKUs found (deleting report).", batchID, report.UserEmail)
-						err = vinylDS.DeleteReport(nil, report.ReportID)
+						log.Debugf("Report %v for batch %v, user %v has no SKUs found (should delete the report).", report.ReportID, batchID, report.UserEmail)
+						//err = vinylDS.DeleteReport(nil, report.ReportID)
 					}
-
 				}
 				// mark the whole batch as reported (we are done with it)
 				if !sendFailed {

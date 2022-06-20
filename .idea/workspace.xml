@@ -5,23 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e473d14-c29b-4290-a298-48b102eea47c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/db/migrations/20220715141200_add_new_retailers.up.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrations/20220715163300_add_new_retailers.up.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrations/20220717114700_add_new_retailers.up.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/clarityrecords.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/example/clarity.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/example/clarity_detail.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/example/ohjean.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/example/ohjean_details.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/example/strangeworld.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/ohjean_records.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retailers/strangeworld_records.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrations/20220718153200_add_new_retailers.up.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/data/20220619_beatdisc_lp_stocklist.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/example/greville.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/example/greville_detail.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/strangeworld.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/scheduler/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/scheduler/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/dutch_vinyl.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/dutch_vinyl.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/reporter/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/reporter/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/reports.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/reports.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/vinylds.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/vinylds.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/vinylds_mock.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/vinylds_mock.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/clarityrecords.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/clarityrecords.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/example/clarity.txt" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/example/clarity.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/example/ohjean.txt" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/example/ohjean.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/ohjean_records.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/ohjean.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/retailers/retailer.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/retailer.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/retailer_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/retailer_list.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/test/artists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/test/artists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/strangeworld_records.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/greville.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/retailers/test/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/test/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -226,24 +225,19 @@
           <option name="timeStamp" value="91" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/retailers/clarityrecords.go</url>
-          <line>67</line>
-          <option name="timeStamp" value="92" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/retailers/clarityrecords.go</url>
-          <line>54</line>
-          <option name="timeStamp" value="96" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/retailers/ohjean_records.go</url>
-          <line>137</line>
-          <option name="timeStamp" value="129" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/retailers/strangeworld_records.go</url>
+          <url>file://$PROJECT_DIR$/retailers/strangeworld.go</url>
           <line>46</line>
           <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/greville.go</url>
+          <line>163</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/ohjean.go</url>
+          <line>88</line>
+          <option name="timeStamp" value="154" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
