@@ -85,7 +85,7 @@ func main() {
 					log.Debugf("Report with ID: %v has %v skus attached", report.ReportID, len(skus))
 
 					if len(skus) > 0 {
-						// send the report to the weatching user as an email listing the skus
+						// send the report to the watching user as an email listing the skus
 						err = buildAndSendEmail(skus, report.UserEmail, report.UserName)
 						if err != nil {
 							log.Error(err, "Failed to send results email to %v", report.UserEmail)
@@ -99,7 +99,10 @@ func main() {
 						}
 					} else {
 						log.Debugf("Report %v for batch %v, user %v has no SKUs found (should delete the report).", report.ReportID, batchID, report.UserEmail)
-						//err = vinylDS.DeleteReport(nil, report.ReportID)
+						err = vinylDS.DeleteReport(nil, report.ReportID)
+						if err != nil {
+							log.Error(err, "Failed to delete report %v  for user %s", report.ReportID, report.UserEmail)
+						}
 					}
 				}
 				// mark the whole batch as reported (we are done with it)
@@ -136,15 +139,39 @@ func renderResultsRow(image string, artist string, titleUrl string, title string
 
 func buildAndSendEmail(skus []retailers.SKU, userEmail string, userName string) error {
 	subject := "New vinyl releases found by new engine"
-	message := "<table>\n"
+	message := ""
+
+	artistSkus := map[string][]retailers.SKU{}
+	retailerSkus := map[string][]retailers.SKU{}
+
 	for _, sku := range skus {
 		log.Debugf("Processing SKU %v for report to %v", sku.Name, userEmail)
-		row, err := renderResultsRow(sku.Image, sku.Artist, sku.Url, sku.Name, sku.Price, sku.Retailer, sku.RetailerUrl)
-		if err != nil {
-			return errors.Wrapf(err, "Failed to construct report email message")
+		if _, ok := artistSkus[sku.Artist]; !ok {
+			artistSkus[sku.Artist] = []retailers.SKU{}
 		}
-		message += row
+		if _, ok := retailerSkus[sku.Retailer]; !ok {
+			retailerSkus[sku.Retailer] = []retailers.SKU{}
+		}
+		s := artistSkus[sku.Artist]
+		s = append(s, sku)
+		artistSkus[sku.Artist] = s
+		s = retailerSkus[sku.Retailer]
+		s = append(s, sku)
+		retailerSkus[sku.Retailer] = s
 	}
-	message += "</table>"
+
+	for artist, skus := range artistSkus {
+		message += "<h4>" + artist + "</h4>\n"
+		message += "<table>\n"
+		for _, sku := range skus {
+			log.Debugf("Processing SKU %v for artist %v, report to %v", sku.Name, artist, userEmail)
+			row, err := renderResultsRow(sku.Image, sku.Artist, sku.Url, sku.Name, sku.Price, sku.Retailer, sku.RetailerUrl)
+			if err != nil {
+				return errors.Wrapf(err, "Failed to construct report email message")
+			}
+			message += row
+		}
+		message += "</table>"
+	}
 	return email.SendEmail(userEmail, subject, message)
 }

@@ -1,6 +1,7 @@
 package db
 
 import (
+	"database/sql"
 	"fmt"
 	"github.com/gavinturner/vinylretailers/retailers"
 	"github.com/gavinturner/vinylretailers/util/postgres"
@@ -233,24 +234,41 @@ func (v *VinylDB) MarkReportSent(tx *postgres.Tx, reportId int64) error {
 }
 
 func (v *VinylDB) DeleteReport(tx *postgres.Tx, reportId int64) error {
-	querier := v.Q(tx)
-	rows, err := querier.Exec(querier.Rebind(`
+	var err error
+	if tx == nil {
+		tx, err = v.db.Beginx()
+		defer v.CloseTransaction(tx, err)
+	}
+	querier := tx
+	var rows sql.Result
+	var affected int64
+	rows, err = querier.Exec(querier.Rebind(`
+		DELETE FROM report_artists WHERE report_id = ?
+	`), reportId)
+	if err != nil {
+		return errors.Wrapf(err, "failed to delete artists for report %v", reportId)
+	}
+
+	rows, err = querier.Exec(querier.Rebind(`
+		DELETE FROM report_skus WHERE report_id = ?
+	`), reportId)
+	if err != nil {
+		return errors.Wrapf(err, "failed to delete skus for report %v", reportId)
+	}
+
+	rows, err = querier.Exec(querier.Rebind(`
 		DELETE FROM reports WHERE id = ?
 	`), reportId)
 	if err != nil {
 		return errors.Wrapf(err, "failed to delete report %v", reportId)
 	}
-	affected, err := rows.RowsAffected()
+	affected, err = rows.RowsAffected()
 	if err != nil {
 		return errors.Wrapf(err, "failed to get rows affected")
 	}
 	if affected == 0 {
 		return fmt.Errorf("report %v was not deleted? does it exist?")
 	}
-
-	// TODO: delete from report skus
-	// TODO: delete from report artists
-
 	return nil
 }
 
