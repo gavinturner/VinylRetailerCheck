@@ -71,10 +71,10 @@ func main() {
 		}
 
 		// index a single scannable list of artists
-		artists := map[int64]string{}
+		artists := map[int64]db.WatchedArtist{}
 		for _, watches := range watchedArtists {
 			for _, watch := range watches {
-				artists[watch.ArtistID] = watch.ArtistName
+				artists[watch.ArtistID] = watch
 			}
 		}
 
@@ -96,13 +96,14 @@ func main() {
 				// enqueue all our scan requests for the batch
 				log.Debugf("Scheduling batch %v...", batchID)
 				for _, retailer := range retailers {
-					for artistID, artistName := range artists {
+					for artistID, watchedArtist := range artists {
 						payload := redis.ScanRequest{
-							BatchID:      batchID,
-							ArtistID:     artistID,
-							RetailerID:   retailer.ID,
-							ArtistName:   artistName,
-							RetailerName: retailer.Name,
+							BatchID:        batchID,
+							ArtistID:       artistID,
+							RetailerID:     retailer.ID,
+							ArtistName:     watchedArtist.ArtistName,
+							ArtistVariants: watchedArtist.ArtistVariants,
+							RetailerName:   retailer.Name,
 						}
 						err = scanningQueue.Enqueue(payload)
 						if err != nil {

@@ -132,7 +132,7 @@ func (v *VinylDB) IncrementBatchSearchCompletedCount(tx *postgres.Tx, batchId in
 		return errors.Wrapf(err, "failed to get rows affected")
 	}
 	if affected == 0 {
-		return fmt.Errorf("batch %v was not incremented. does it exist?")
+		return fmt.Errorf("batch %v was not incremented. does it exist?", batchId)
 	}
 	return nil
 }
@@ -210,7 +210,7 @@ func (v *VinylDB) MarkBatchReported(tx *postgres.Tx, batchId int64) error {
 		return errors.Wrapf(err, "failed to get rows affected")
 	}
 	if affected == 0 {
-		return fmt.Errorf("batch %v was not set as reported does it exist?")
+		return fmt.Errorf("batch %v was not set as reported does it exist?", batchId)
 	}
 	return nil
 }
@@ -228,7 +228,7 @@ func (v *VinylDB) MarkReportSent(tx *postgres.Tx, reportId int64) error {
 		return errors.Wrapf(err, "failed to get rows affected")
 	}
 	if affected == 0 {
-		return fmt.Errorf("report %v was not set as sent. does it exist?")
+		return fmt.Errorf("report %v was not set as sent. does it exist?", reportId)
 	}
 	return nil
 }
@@ -267,7 +267,7 @@ func (v *VinylDB) DeleteReport(tx *postgres.Tx, reportId int64) error {
 		return errors.Wrapf(err, "failed to get rows affected")
 	}
 	if affected == 0 {
-		return fmt.Errorf("report %v was not deleted? does it exist?")
+		return fmt.Errorf("report %v was not deleted? does it exist?", reportId)
 	}
 	return nil
 }

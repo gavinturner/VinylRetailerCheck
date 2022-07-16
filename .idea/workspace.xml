@@ -5,11 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e473d14-c29b-4290-a298-48b102eea47c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/db/migrations/20220730075300_add_variants_to_artist.down.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrations/20220730075300_add_variants_to_artist.up.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/retailers/example/artistfirst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beatdisc.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmd/reporter/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/reporter/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/scanner/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/scanner/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/scheduler/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/scheduler/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/artists.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/artists.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/reports.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/reports.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/data/20220609_beatdisc_lp_stocklist.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/retailers/data/20220619_beatdisc_lp_stocklist.csv" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/data/20220623_beatdisc_lp_stocklist.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/artistfirst.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/artistfirst.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/data/20220623_beatdisc_lp_stocklist.csv" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/data/20220714_beatdisc_lp_stocklist.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retailers/test/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/retailers/test/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/redis/redis_wrapper.go" beforeDir="false" afterPath="$PROJECT_DIR$/util/redis/redis_wrapper.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/redis/scan_request.go" beforeDir="false" afterPath="$PROJECT_DIR$/util/redis/scan_request.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +156,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/cmd/scanner/main.go</url>
-          <line>35</line>
+          <line>38</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
@@ -226,6 +238,16 @@
           <url>file://$PROJECT_DIR$/retailers/ohjean.go</url>
           <line>88</line>
           <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/artistfirst.go</url>
+          <line>77</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/retailers/artistfirst.go</url>
+          <line>50</line>
+          <option name="timeStamp" value="165" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

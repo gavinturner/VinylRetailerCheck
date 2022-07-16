@@ -36,7 +36,7 @@ func ConnectToQueue(redisServer string, redisPassword string, queueName string, 
 	}
 	exists, err = r.client.SIsMember(MASTER_QUEUE_KEY, queueName).Result()
 	if err != nil {
-		return nil, errors.Wrapf(err, "failed to identify queue '%s' on %v", redisServer)
+		return nil, errors.Wrapf(err, "failed to identify queue '%s' on %v", queueName, redisServer)
 	}
 	if !exists && !create {
 		return nil, fmt.Errorf("queue '%s' not found on %v", queueName, redisServer)
@@ -46,7 +46,7 @@ func ConnectToQueue(redisServer string, redisPassword string, queueName string, 
 	}
 	err = r.instantiate()
 	if err != nil {
-		return nil, errors.Wrapf(err, "failed to create named queue '%s' on %v", redisServer)
+		return nil, errors.Wrapf(err, "failed to create named queue '%s' on %v", queueName, redisServer)
 	}
 	return r, nil
 }

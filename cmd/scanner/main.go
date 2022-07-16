@@ -7,6 +7,9 @@ import (
 	"github.com/gavinturner/vinylretailers/util/log"
 	"github.com/gavinturner/vinylretailers/util/redis"
 	_ "github.com/lib/pq"
+	"golang.org/x/sync/errgroup"
+	"sync"
+
 	"github.com/pkg/errors"
 	"strings"
 	"time"
@@ -77,7 +80,7 @@ func main() {
 		}
 		err = scrapeArtistForRetailer(&vinylDS, &payload)
 		if err != nil {
-			log.Error(err, "Failed to scrape '%s' for '%s'", payload.RetailerName, payload.ArtistName)
+			log.Panic(err, "Failed to scrape '%s' for '%s'", payload.RetailerName, payload.ArtistName)
 		}
 	}
 	log.Debugf("Retail Scanner terminating..")
@@ -90,11 +93,47 @@ func scrapeArtistForRetailer(vinylDS db.VinylDS, payload *redis.ScanRequest) err
 	if err != nil {
 		return errors.Wrapf(err, "could not determine scraper for retailer (%v) %s", payload.RetailerID, payload.RetailerName)
 	}
-	// scrape for available releases
-	releases, err := retailerScraper.ScrapeArtistReleases(strings.TrimSpace(strings.ToLower(payload.ArtistName)))
-	if err != nil {
-		return errors.Wrapf(err, "Failed to scrape '%s' for '%s'", payload.RetailerName, payload.ArtistName)
+
+	errGrp := errgroup.Group{}
+	mutex := sync.Mutex{}
+	var releases []retailers.SKU
+	variants := make([][]retailers.SKU, len(payload.ArtistVariants))
+
+	//
+	// scrape artist name and all variants..
+	//
+
+	errGrp.Go(func() error {
+		// scrape for available releases
+		var err error
+		releases, err = retailerScraper.ScrapeArtistReleases(strings.TrimSpace(strings.ToLower(payload.ArtistName)))
+		if err != nil {
+			return errors.Wrapf(err, "Failed to scrape '%s'", payload.ArtistName)
+		}
+		return nil
+	})
+
+	for idx, variant := range payload.ArtistVariants {
+		errGrp.Go(func() error {
+			idx := idx
+			variantReleases, err := retailerScraper.ScrapeArtistReleases(strings.TrimSpace(strings.ToLower(variant)))
+			if err != nil {
+				return errors.Wrapf(err, "Failed to scrape variant '%s'", variant)
+			}
+			mutex.Lock()
+			variants[idx] = variantReleases
+			mutex.Unlock()
+			return nil
+		})
 	}
+
+	if err := errGrp.Wait(); err != nil {
+		if err != nil {
+			return errors.Wrapf(err, "Failed to scrape '%s' for '%s'", payload.RetailerName, payload.ArtistName)
+		}
+	}
+
+	// TODO: handle merging the results into the releases list (when we find dupes using variants)
 
 	//
 	// Upsert all the SKUs that we scraped.
@@ -122,7 +161,7 @@ func scrapeArtistForRetailer(vinylDS db.VinylDS, payload *redis.ScanRequest) err
 			ImageUrl:   release.Image,
 			Price:      release.Price,
 		}
-		// upsert a new SKU for the release. A new SKU record will be created if the price/availabilioty
+		// upsert a new SKU for the release. A new SKU record will be created if the price/availability
 		// of the release has changed (as compared to the most recent existing SKU for the release)
 		var same bool
 		same, err = vinylDS.UpsertSKU(tx, &sku)
@@ -145,35 +184,36 @@ func scrapeArtistForRetailer(vinylDS db.VinylDS, payload *redis.ScanRequest) err
 		}
 		persistedSkus = append(persistedSkus, sku)
 	}
+	/*
+		//
+		// any skus that were not found for the retailer / artist are now not available - they should be marked as
+		// SOLD OUT.
+		//
 
-	//
-	// any skus that were not found for the retailer / artist are now not available - they should be marked as
-	// SOLD OUT.
-	//
-
-	var existingSKUs []db.SKU
-	existingSKUs, err = vinylDS.GetAllSKUs(tx, &payload.ArtistID, &payload.RetailerID)
-	if err != nil {
-		return errors.Wrapf(err, "Failed to get existing skus for retailer %s and artist %s", payload.RetailerName, payload.ArtistName)
-	}
-	persistedSkusIdx := map[int64]struct{}{}
-	for _, s := range persistedSkus {
-		persistedSkusIdx[s.ID] = struct{}{}
-	}
-	missingSKUs := []db.SKU{}
-	for _, s := range existingSKUs {
-		if _, ok := persistedSkusIdx[s.ID]; !ok {
-			missingSKUs = append(missingSKUs, s)
-		}
-	}
-	for _, s := range missingSKUs {
-		s.Price = SOLD_OUT
-		err = vinylDS.UpdateSKU(tx, &s)
+		var existingSKUs []db.SKU
+		existingSKUs, err = vinylDS.GetAllSKUs(tx, &payload.ArtistID, &payload.RetailerID)
 		if err != nil {
-			return errors.Wrapf(err, "Failed to set missing SKU %v to SOLD OUT", s.ID)
+			return errors.Wrapf(err, "Failed to get existing skus for retailer %s and artist %s", payload.RetailerName, payload.ArtistName)
 		}
-		log.Debugf("%s@%s: releases [%v, %s] not found - setting to SOLD OUT", payload.ArtistName, payload.RetailerName, s.ReleaseID, s.Name)
-	}
+		persistedSkusIdx := map[int64]struct{}{}
+		for _, s := range persistedSkus {
+			persistedSkusIdx[s.ID] = struct{}{}
+		}
+		missingSKUs := []db.SKU{}
+		for _, s := range existingSKUs {
+			if _, ok := persistedSkusIdx[s.ID]; !ok {
+				missingSKUs = append(missingSKUs, s)
+			}
+		}
+		for _, s := range missingSKUs {
+			s.Price = SOLD_OUT
+			err = vinylDS.UpdateSKU(tx, &s)
+			if err != nil {
+				return errors.Wrapf(err, "Failed to set missing SKU %v to SOLD OUT", s.ID)
+			}
+			log.Debugf("%s@%s: releases [%v:%v] not found - setting to SOLD OUT", payload.ArtistName, payload.RetailerName, s.ID, s.ReleaseID)
+		}
+	*/
 
 	//
 	// now that we've finished processing the artist + retailer, we can increment the number of required

@@ -98,7 +98,7 @@ func main() {
 							log.Error(err, "Failed to set report as sent")
 						}
 					} else {
-						log.Debugf("Report %v for batch %v, user %v has no SKUs found (should delete the report).", report.ReportID, batchID, report.UserEmail)
+						log.Debugf("Report %v for batch %v, user %v has no SKUs found. Deleting the report..", report.ReportID, batchID, report.UserEmail)
 						err = vinylDS.DeleteReport(nil, report.ReportID)
 						if err != nil {
 							log.Error(err, "Failed to delete report %v  for user %s", report.ReportID, report.UserEmail)

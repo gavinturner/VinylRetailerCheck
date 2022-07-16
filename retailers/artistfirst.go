@@ -44,7 +44,11 @@ func (a *ArtistFirst) ScrapeArtistReleases(artist string) (findings []SKU, err e
 				Name:   strings.TrimSpace(strings.TrimSuffix(toks[idx+2], "</a")),
 				Price:  toks[idx+5], // sold out
 			}
+			if sku.Artist == "" {
+				sku.Artist = strings.ToLower(strings.TrimSpace(strings.TrimSuffix(toks[idx-2], "</a")))
+			}
 
+			sku.Artist = strings.TrimSpace(strings.Replace(sku.Artist, "pre-order", "", -1))
 			sku.Image = strings.Replace(sku.Image, "<img src=\"", fmt.Sprintf("https:"), -1)
 			if strings.Index(strings.ToLower(sku.Price), SOLD_OUT) < 0 {
 				// ok we didnt find the sold out price
