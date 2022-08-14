@@ -102,3 +102,8 @@ https://docs.docker.com/engine/reference/commandline/run
 * use username/password "vinylretailers"
 * use the hostname "vinylretailers-postgres"
 * the port is the default 5432
+
+
+
+
+docker compose up -d --scale scanner=5
